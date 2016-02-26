@@ -28,4 +28,13 @@ public class Entity {
     public void setScore(Double score) {
         this.score = score;
     }
+
+    @Override
+    public String toString() {
+        return "Entity{" +
+                "code='" + code + '\'' +
+                ", word='" + word + '\'' +
+                ", score=" + score +
+                '}';
+    }
 }

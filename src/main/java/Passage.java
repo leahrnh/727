@@ -12,4 +12,11 @@ public class Passage {
     public String getPassage() {
         return passage;
     }
+
+    @Override
+    public String toString() {
+        return "Passage{" +
+                "passage='" + passage + '\'' +
+                '}';
+    }
 }

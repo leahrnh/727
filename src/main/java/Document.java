@@ -1,7 +1,4 @@
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
@@ -26,11 +23,11 @@ public class Document {
     /**
      * Constructor that reads components directly from the file
      */
-    public Document(String filename) {
+    public Document(String filepath) {
         String line = null;
         List<String> lines = new ArrayList();
         try {
-            FileReader fileReader = new FileReader(filename);
+            FileReader fileReader = new FileReader(filepath);
             BufferedReader bufferedReader = new BufferedReader(fileReader);
             while((line = bufferedReader.readLine()) != null) {
                 lines.add(line);
@@ -38,10 +35,10 @@ public class Document {
             bufferedReader.close();
         }
         catch(FileNotFoundException ex) {
-            System.out.println("Unable to open file '" + filename + "'");
+            System.out.println("Unable to open file '" + filepath + "'");
         }
         catch(IOException ex) {
-            System.out.println("Error reading file '" + filename + "'");
+            System.out.println("Error reading file '" + filepath + "'");
         }
 
         this.passage = new Passage(lines.get(2));

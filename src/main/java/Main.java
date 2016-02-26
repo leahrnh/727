@@ -7,7 +7,6 @@ public class Main {
 
     public static void main(String[] args) {
         //convert input documents to data structures
-        //TODO I haven't tested this, and it probably needs work (make sure the files are actually being read)
         String inputdir = args[0];
         List<Document> docs = getData(inputdir);
 
@@ -41,10 +40,10 @@ public class Main {
         System.out.println("Reading files from " + inputdir);
         File[] listOfFiles = folder.listFiles();
         for (File file : listOfFiles) {
-            if (file.isFile()) {
-                String filestring = inputdir + "/" + file;
-                Document d = new Document(filestring);
-                System.out.println("Creating document: " + filestring);
+            String filename = file.toString();
+            if (file.isFile() && !file.getName().equals(".DS_Store")) {
+                System.out.println("Filename: " + file.getName());
+                Document d = new Document(file.getAbsolutePath());
                 docs.add(d);
             }
         }
