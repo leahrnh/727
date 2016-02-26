@@ -1,9 +1,9 @@
 import java.io.*;
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
+/**
+ * Structured object to hold a .question file
+ */
 public class Document {
     private Passage passage;
     private Question question;
@@ -43,7 +43,7 @@ public class Document {
 
         this.passage = new Passage(lines.get(2));
         this.question = new Question(lines.get(4));
-        this.answer = new Entity(lines.get(6) + ":blank"); //TODO this is kind of a hack because the answer code doesn't come with a word
+        this.answer = new Entity(lines.get(6) + ":UNKNOWN"); //this is kind of a hack because the answer code doesn't come with a word
         Set<Entity> es = new HashSet();
         for (int i=8;i<lines.size();i++) {
             es.add(new Entity(lines.get(i)));
@@ -65,5 +65,12 @@ public class Document {
 
     public Set<Entity> getEntities() {
         return entities;
+    }
+
+    public List<Entity> rankEntities() {
+        List<Entity> ranked = new ArrayList();
+        ranked.addAll(entities);
+        Collections.sort(ranked);
+        return ranked;
     }
 }

@@ -1,7 +1,7 @@
 /**
- * Created by leah on 2/25/16.
+ * An anonymized entity from a passage
  */
-public class Entity {
+public class Entity implements Comparable<Entity>{
     private String code;
     private String word;
     private Double score;
@@ -36,5 +36,16 @@ public class Entity {
                 ", word='" + word + '\'' +
                 ", score=" + score +
                 '}';
+    }
+
+    public int compareTo(Entity e2) {
+        double comp = score - e2.getScore();
+        if (comp > 0) {
+            return 1;
+        } else if (comp==0) {
+            return 0;
+        } else {
+            return -1;
+        }
     }
 }

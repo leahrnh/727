@@ -62,8 +62,29 @@ public class Main {
      * Based on how scored entities compare to the correct answer, print out evaluation metrics
      */
     private static void evaluate(List<Document> docs) {
-        //TODO evaluation metrics
-        System.out.println("There is no evaluation yet.");
+        int numCorrect = 0;
+        double sumReciprocalRank = 0;
+        for (Document doc : docs) {
+            List<Entity> rankedEntities = doc.rankEntities();
+            Entity answer = doc.getAnswer();
+            //count number where top-ranked entity is correct
+            if (rankedEntities.get(0).getCode().equals(answer.getCode())) {
+                numCorrect++;
+            }
+            //calculate reciprocal rank for each entity
+            //for more info on mean reciprocal rank, see https://en.wikipedia.org/wiki/Mean_reciprocal_rank
+            for(int i=0;i<rankedEntities.size();i++) {
+                if (rankedEntities.get(i).getCode().equals(answer.getCode())) {
+                    sumReciprocalRank += 1.0 / i;
+                }
+            }
+        }
+        //take and report means
+        double percentCorrect = (double)numCorrect / docs.size();
+        double meanReciprocalRank = sumReciprocalRank / docs.size();
+
+        System.out.println("Percent correct: " + percentCorrect);
+        System.out.println("Mean reciprocal rank: " + meanReciprocalRank);
     }
 
 

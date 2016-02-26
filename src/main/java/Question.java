@@ -1,5 +1,5 @@
 /**
- * Created by leah on 2/25/16.
+ * The cloze sentence for a passage including a @placeholder entity
  */
 public class Question {
     private String question;
