@@ -2,20 +2,20 @@
  * The cloze sentence for a passage including a @placeholder entity
  */
 public class Question {
-    private String question;
+    private String text;
 
     public Question(String question) {
-        this.question = question;
+        this.text = question;
     }
 
-    public String getQuestion() {
-        return question;
+    public String getText() {
+        return text;
     }
 
     @Override
     public String toString() {
         return "Question{" +
-                "question='" + question + '\'' +
+                "text='" + text + '\'' +
                 '}';
     }
 }

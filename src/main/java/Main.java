@@ -12,7 +12,7 @@ public class Main {
 
         //create a list of all the scoring methods (represented by the abstract class Scorer), which will be applied to the data
         List<Scorer> scorers = new ArrayList();
-        scorers.add(new DummyScorer());
+        scorers.add(new WordcountScorer());
         //TODO create more complex/sophisticated scorers
 
         //iterate over the docs, finding a score for each entity
@@ -54,8 +54,13 @@ public class Main {
      * Given a list of scores, combine them into a single score
      */
     private static double combineScores(List<Double> scores) {
-        //TODO combine scores intelligently
-        return scores.get(0);
+        //scores are weighted evenly here
+        double sum = 0;
+        for (Double score : scores) {
+            sum += score;
+        }
+        return sum / scores.size();
+        //TODO train weights for scores?
     }
 
     /**
@@ -65,19 +70,30 @@ public class Main {
         int numCorrect = 0;
         double sumReciprocalRank = 0;
         for (Document doc : docs) {
+            boolean correct = false;
+            double reciprocalRank = 0.0;
             List<Entity> rankedEntities = doc.rankEntities();
             Entity answer = doc.getAnswer();
             //count number where top-ranked entity is correct
             if (rankedEntities.get(0).getCode().equals(answer.getCode())) {
                 numCorrect++;
+                correct = true;
             }
             //calculate reciprocal rank for each entity
             //for more info on mean reciprocal rank, see https://en.wikipedia.org/wiki/Mean_reciprocal_rank
             for(int i=0;i<rankedEntities.size();i++) {
                 if (rankedEntities.get(i).getCode().equals(answer.getCode())) {
-                    sumReciprocalRank += 1.0 / i;
+                    reciprocalRank = 1.0 / (i+1);
+                    sumReciprocalRank += reciprocalRank;
                 }
             }
+            System.out.println("\nFile: " + doc.getId());
+            System.out.println("Correct? " + correct);
+            System.out.println("Reciprocal rank: " + reciprocalRank);
+            for (Entity entity : rankedEntities) {
+                System.out.println(entity.getScore() + "\t" + entity.getCode() + "\t" + entity.getWord());
+            }
+
         }
         //take and report means
         double percentCorrect = (double)numCorrect / docs.size();

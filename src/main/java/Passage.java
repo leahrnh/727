@@ -1,22 +1,23 @@
 /**
- * Stores the passage component of the document
+ * Stores the text component of the document
  * TODO consider making this class more complex (ex. splitting passages into sentences, associating different entities with different sentences, etc)
  */
 public class Passage {
-    private String passage;
+    private String text;
 
     public Passage(String fullPassage) {
-        this.passage = fullPassage;
+        this.text = fullPassage;
     }
 
-    public String getPassage() {
-        return passage;
+    public String getText() {
+        return text;
     }
 
     @Override
     public String toString() {
         return "Passage{" +
-                "passage='" + passage + '\'' +
+                "text='" + text + '\'' +
                 '}';
     }
+
 }

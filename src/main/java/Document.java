@@ -9,11 +9,13 @@ public class Document {
     private Question question;
     private Entity answer;
     private Set<Entity> entities;
+    private String id;
 
     /**
      * Constructor taking pre-created components
      */
     public Document(Passage passage, Question question, Entity answer, Set<Entity> entities) {
+        this.id = "unknown";
         this.passage = passage;
         this.question = question;
         this.answer = answer;
@@ -24,6 +26,7 @@ public class Document {
      * Constructor that reads components directly from the file
      */
     public Document(String filepath) {
+        this.id = filepath;
         String line = null;
         List<String> lines = new ArrayList();
         try {
@@ -63,6 +66,10 @@ public class Document {
         return answer;
     }
 
+    public String getId() {
+        return id;
+    }
+
     public Set<Entity> getEntities() {
         return entities;
     }
@@ -71,6 +78,7 @@ public class Document {
         List<Entity> ranked = new ArrayList();
         ranked.addAll(entities);
         Collections.sort(ranked);
+        Collections.reverse(ranked);
         return ranked;
     }
 }
