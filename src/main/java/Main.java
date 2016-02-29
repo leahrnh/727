@@ -60,7 +60,7 @@ public class Main {
             sum += score;
         }
         return sum / scores.size();
-        // ankush das
+
         //TODO train weights for scores?
     }
 

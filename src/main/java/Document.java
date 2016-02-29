@@ -4,7 +4,8 @@ import java.util.*;
 /**
  * Structured object to hold a .question file
  */
-public class Document {
+public class
+Document {
     private Passage passage;
     private Question question;
     private Entity answer;
