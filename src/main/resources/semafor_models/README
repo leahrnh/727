@@ -1,0 +1,15 @@
+Repository for Semafor models, which are two large for Github to store.
+Should contain:
+
+- argmodel.dat
+- graph.gz
+- reqData.jobj
+- wsj.model
+- excludes.map
+- idmodel.dat
+- requires.map
+- framenet.frame.element.map
+- parser.conf
+- sparsegraph.gz
+
+These can be downloaded from http://www.ark.cs.cmu.edu/SEMAFOR/SEMAFOR-2.1-models.tgz
