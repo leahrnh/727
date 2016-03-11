@@ -1,3 +1,5 @@
+import org.apache.commons.io.FilenameUtils;
+
 import java.io.*;
 import java.util.*;
 
@@ -53,6 +55,30 @@ Document {
             es.add(new Entity(lines.get(i)));
         }
         this.entities = es;
+
+        //use this when you get new data to convert it to a parse-able format
+        //writeSentences(filepath, passage, question);
+    }
+
+    /**
+     * Create a new file, filename.sentences, that just contains lines made of individual sentences (1 sentence per line)
+     */
+    private void writeSentences(String filepath, Passage passage, Question question) {
+        File file = new File(filepath);
+        String newname = file.getParent() + "/" + FilenameUtils.removeExtension(file.getName()) + ".sentences";
+        File sentenceFile = new File(newname);
+        FileWriter fw = null;
+        try {
+            fw = new FileWriter(sentenceFile.getAbsoluteFile());
+            BufferedWriter bw = new BufferedWriter(fw);
+            for (String sentence : passage.getSentences()) {
+                bw.write(sentence);
+                bw.newLine();
+            }
+            bw.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
     public Passage getPassage() {
