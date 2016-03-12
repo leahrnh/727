@@ -7,4 +7,6 @@ do
     newname="${filename}.parse"
     echo "Processing $f"
     /Users/leah/Tulip/Code/turbo_parser/TurboParser-2.3.0/scripts/parse.sh $f > $newname
+    python ../addColumns.py $newname
+    mv tmp.txt $newname
 done
