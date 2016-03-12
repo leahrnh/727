@@ -24,6 +24,8 @@ public class Passage {
     public static List<Sentence> makeSentences(String fullPassage, String filepath, Semafor semafor) {
         List<Sentence> sentenceList = new ArrayList<Sentence>();
         String[] sentenceTexts =  fullPassage.split("\\.");
+
+        //comment section below OUT when creating .sentence files
         File questionFile = new File(filepath);
         String parseFileName = questionFile.getParent() + "/" + FilenameUtils.removeExtension(questionFile.getName()) + ".parse";
         File parseFile = new File(parseFileName);
@@ -47,19 +49,14 @@ public class Passage {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+        //comment section below IN if creating new .sentence files
+        /*for (String sentence : sentenceTexts) {
+            Sentence s = new Sentence(sentence);
+            sentenceList.add(s);
+        }*/
+
         return sentenceList;
-    }
-
-    public void semaforParse(Semafor semafor) throws URISyntaxException, IOException, ClassNotFoundException {
-        File testFile = new File("src/main/resources/test.txt");
-        Readable readablefile = new FileReader(testFile.getAbsolutePath());
-        final SentenceCodec.SentenceIterator sentenceIterator = ConllCodec.readInput(readablefile);
-        if (sentenceIterator.hasNext()) {
-            edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence s = sentenceIterator.next();
-            System.out.println(s.toAllLemmaTagsArray());
-            SemaforParseResult result = semafor.parseSentence(s);
-        }
-
     }
 
     public Passage(String fullPassage, String filepath, Semafor semafor) {

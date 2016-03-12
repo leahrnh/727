@@ -59,7 +59,7 @@ Document {
         }
         this.entities = es;
 
-        //use this when you get new data to convert it to a parse-able format
+        //comment line below IN when creating .sentence files
         //writeSentences(filepath, passage, question);
     }
 
