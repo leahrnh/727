@@ -11,10 +11,11 @@ public class WordcountScorer extends Scorer {
     public double getScore(Entity entity, Document doc) {
         double score=0.0;
         //String[] sentences = doc.getPassage().getText().split("\\.");
-        String[] sentences = doc.getPassage().getSentences();
+        List<Sentence> sentences = doc.getPassage().getSentences();
         String[] questionWords = doc.getQuestion().getText().split("\\s");
-        for (String sentence : sentences) {
-            List<String> sentenceWords = Arrays.asList(sentence.split("\\s"));
+        for (Sentence sentence : sentences) {
+            String sentText = sentence.getText();
+            List<String> sentenceWords = Arrays.asList(sentText.split("\\s"));
             //Only look at sentences that contain the target entity
             if (sentenceWords.contains(entity.getCode())) {
                 for (String word : questionWords) {

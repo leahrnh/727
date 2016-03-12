@@ -1,3 +1,4 @@
+import edu.cmu.cs.lti.ark.fn.Semafor;
 import org.apache.commons.io.FilenameUtils;
 
 import java.io.*;
@@ -13,6 +14,7 @@ Document {
     private Entity answer;
     private Set<Entity> entities;
     private String id;
+    private Semafor semafor; //for parsing purposes
 
     /**
      * Constructor taking pre-created components
@@ -28,8 +30,9 @@ Document {
     /**
      * Constructor that reads components directly from the file
      */
-    public Document(String filepath) {
+    public Document(String filepath, Semafor semafor) {
         this.id = filepath;
+        this.semafor = semafor;
         String line = null;
         List<String> lines = new ArrayList();
         try {
@@ -47,7 +50,7 @@ Document {
             System.out.println("Error reading file '" + filepath + "'");
         }
 
-        this.passage = new Passage(lines.get(2));
+        this.passage = new Passage(lines.get(2), filepath, semafor);
         this.question = new Question(lines.get(4));
         this.answer = new Entity(lines.get(6) + ":UNKNOWN"); //this is kind of a hack because the answer code doesn't come with a word
         Set<Entity> es = new HashSet();
@@ -62,6 +65,7 @@ Document {
 
     /**
      * Create a new file, filename.sentences, that just contains lines made of individual sentences (1 sentence per line)
+     * Used once per data set, to create input to turbo parser
      */
     private void writeSentences(String filepath, Passage passage, Question question) {
         File file = new File(filepath);
@@ -71,8 +75,9 @@ Document {
         try {
             fw = new FileWriter(sentenceFile.getAbsoluteFile());
             BufferedWriter bw = new BufferedWriter(fw);
-            for (String sentence : passage.getSentences()) {
-                bw.write(sentence);
+            for (Sentence sentence : passage.getSentences()) {
+                String s = sentence.getText();
+                bw.write(s);
                 bw.newLine();
             }
             bw.close();

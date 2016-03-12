@@ -1,11 +1,16 @@
+import edu.cmu.cs.lti.ark.fn.Semafor;
+import org.apache.commons.io.FilenameUtils;
+
 import java.io.File;
+import java.io.IOException;
+import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ClassNotFoundException, IOException, URISyntaxException {
         //convert input documents to data structures
         String inputdir = args[0];
         List<Document> docs = getData(inputdir);
@@ -34,16 +39,22 @@ public class Main {
     /**
      * Go through the given directory, and convert files into Documents
      */
-    private static List<Document> getData(String inputdir) {
+    private static List<Document> getData(String inputdir) throws URISyntaxException, IOException, ClassNotFoundException {
+        //set up Semafor
+        File modelsLocation = new File("src/main/resources/semafor_models");
+        String modelsDir = modelsLocation.getAbsolutePath();
+        Semafor semafor = Semafor.getSemaforInstance(modelsDir);
+
         List<Document> docs = new ArrayList();
         File folder = new File(inputdir);
         System.out.println("Reading files from " + inputdir);
         File[] listOfFiles = folder.listFiles();
         for (File file : listOfFiles) {
             String filename = file.toString();
-            if (file.isFile() && !file.getName().equals(".DS_Store")) {
+            String ext = FilenameUtils.getExtension(filename);
+            if (file.isFile() && ext.equals("question")) {
                 System.out.println("Filename: " + file.getName());
-                Document d = new Document(file.getAbsolutePath());
+                Document d = new Document(file.getAbsolutePath(), semafor);
                 docs.add(d);
             }
         }
