@@ -50,9 +50,10 @@ public class Document {
         this.entities = es;
 
         //comment line below IN when creating .sentence files
-        //writeSentences(filepath, passage, question);
+        writeSentences(filepath, passage, question);
 
-        parseSentences(semafor, filepath);
+        //comment line below OUT when creating .sentence files
+        //parseSentences(semafor, filepath);
 
     }
 
@@ -61,6 +62,8 @@ public class Document {
      * Used once per data set, to create input to turbo parser
      */
     private void writeSentences(String filepath, Passage passage, Question question) {
+        String[] sentenceTexts =  passage.getText().split("\\.");
+        List<Sentence> sentenceList = new ArrayList<Sentence>();
         File file = new File(filepath);
         String newname = file.getParent() + "/" + FilenameUtils.removeExtension(file.getName()) + ".sentences";
         File sentenceFile = new File(newname);
@@ -68,11 +71,13 @@ public class Document {
         try {
             fw = new FileWriter(sentenceFile.getAbsoluteFile());
             BufferedWriter bw = new BufferedWriter(fw);
-            for (Sentence sentence : passage.getSentences()) {
-                String s = sentence.getText();
-                bw.write(s);
+            for (String sentence : sentenceTexts) {
+                Sentence s = new Sentence(sentence);
+                sentenceList.add(s);
+                bw.write(sentence);
                 bw.newLine();
             }
+            passage.setSentences(sentenceList);
             bw.write(question.getText());
             bw.close();
         } catch (IOException e) {
@@ -89,8 +94,6 @@ public class Document {
     private void parseSentences(Semafor semafor, String filepath) {
         List<Sentence> sentenceList = new ArrayList<Sentence>();
         String[] sentenceTexts =  passage.getText().split("\\.");
-
-        //comment section below OUT when creating .sentence files
         File questionFile = new File(filepath);
         String parseFileName = questionFile.getParent() + "/" + FilenameUtils.removeExtension(questionFile.getName()) + ".parse";
         final SentenceCodec.SentenceIterator sentenceIterator;
@@ -127,13 +130,6 @@ public class Document {
         }
 
         passage.setSentences(sentenceList);
-
-        //comment section below IN if creating new .sentence files
-        /*for (String sentence : sentenceTexts) {
-            Sentence s = new Sentence(sentence);
-            sentenceList.add(s);
-        }*/
-
     }
 
     public Passage getPassage() {
