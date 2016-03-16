@@ -934,3 +934,22 @@
 
 1	'	_	''	''	_	0	P	_	_
 
+1	@	_	NN	NN	_	2	NMOD	_	_
+2	placeholder	_	NN	NN	_	4	NMOD	_	_
+3	,	_	,	,	_	4	P	_	_
+4	22	_	CD	CD	_	6	SUB	_	_
+5	,	_	,	,	_	4	P	_	_
+6	was	_	VBD	VBD	_	0	ROOT	_	_
+7	attacked	_	VBN	VBN	_	6	VC	_	_
+8	by	_	IN	IN	_	7	VMOD	_	_
+9	@	_	VBG	VBG	_	8	PMOD	_	_
+10	entity11	_	CD	CD	_	9	OBJ	_	_
+11	,	_	,	,	_	9	P	_	_
+12	26	_	CD	CD	_	9	OBJ	_	_
+13	,	_	,	,	_	7	P	_	_
+14	last	_	JJ	JJ	_	15	NMOD	_	_
+15	year	_	NN	NN	_	7	VMOD	_	_
+16	in	_	IN	IN	_	15	NMOD	_	_
+17	a	_	DT	DT	_	18	NMOD	_	_
+18	carpark	_	NN	NN	_	16	PMOD	_	_
+

@@ -1209,3 +1209,13 @@
 80	april	_	NNP	NNP	_	79	PMOD	_	_
 81	6	_	CD	CD	_	80	NMOD	_	_
 
+1	@	_	NNP	NNP	_	3	SUB	_	_
+2	entity5	_	CD	CD	_	1	NMOD	_	_
+3	restored	_	VBD	VBD	_	0	ROOT	_	_
+4	to	_	TO	TO	_	3	VMOD	_	_
+5	former	_	JJ	JJ	_	6	NMOD	_	_
+6	glory	_	NN	NN	_	4	PMOD	_	_
+7	at	_	IN	IN	_	6	NMOD	_	_
+8	@	_	NN	NN	_	9	NMOD	_	_
+9	placeholder	_	NN	NN	_	7	PMOD	_	_
+
