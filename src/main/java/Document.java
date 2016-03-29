@@ -50,10 +50,10 @@ public class Document {
         this.entities = es;
 
         //comment line below IN when creating .sentence files
-        writeSentences(filepath, passage, question);
+        //writeSentences(filepath, passage, question);
 
         //comment line below OUT when creating .sentence files
-        //parseSentences(semafor, filepath);
+        parseSentences(semafor, filepath);
 
     }
 
