@@ -3,5 +3,4 @@
 *~
 target/*
 src/main/resources/semafor_models/*
-.idea/*
-727.iml
+.idea/workspace.xml
