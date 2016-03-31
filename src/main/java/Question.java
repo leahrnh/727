@@ -7,14 +7,11 @@ public class Question {
 
     public Question(String question) {
         this.text = question;
+        this.sentence = new Sentence(question);
     }
 
     public String getText() {
         return text;
-    }
-
-    public void setSentence(Sentence sentence) {
-        this.sentence = sentence;
     }
 
     public Sentence getSentence() {

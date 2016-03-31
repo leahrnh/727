@@ -1,12 +1,5 @@
-import edu.cmu.cs.lti.ark.fn.Semafor;
-import edu.cmu.cs.lti.ark.fn.data.prep.formats.SentenceCodec;
-import edu.cmu.cs.lti.ark.fn.parsing.SemaforParseResult;
-import org.apache.commons.io.FilenameUtils;
-
 import java.io.*;
 import java.util.*;
-
-import static edu.cmu.cs.lti.ark.fn.data.prep.formats.SentenceCodec.ConllCodec;
 
 /**
  * Structured object to hold a .question file
@@ -21,7 +14,7 @@ public class Document {
     /**
      * Constructor that reads components directly from the file
      */
-    public Document(String filepath, Semafor semafor) {
+    public Document(String filepath) {
         this.id = filepath;
         String line;
         List<String> lines = new ArrayList<String>();
@@ -48,92 +41,6 @@ public class Document {
             es.add(new Entity(lines.get(i)));
         }
         this.entities = es;
-
-        //comment line below IN when creating .sentence files
-        //writeSentences(filepath, passage, question);
-
-        //comment line below OUT when creating .sentence files
-        parseSentences(semafor, filepath);
-
-    }
-
-    /**
-     * Create a new file, filename.sentences, that just contains lines made of individual sentences (1 sentence per line)
-     * Used once per data set, to create input to turbo parser
-     */
-    private void writeSentences(String filepath, Passage passage, Question question) {
-        File file = new File(filepath);
-        String newname = file.getParent() + "/" + FilenameUtils.removeExtension(file.getName()) + ".sentences";
-        File sentenceFile = new File(newname);
-        FileWriter fw;
-        try {
-            fw = new FileWriter(sentenceFile.getAbsoluteFile());
-            BufferedWriter bw = new BufferedWriter(fw);
-            for (Sentence sentence : passage.getSentences()) {
-                String s = sentence.getText();
-                bw.write(s);
-                bw.newLine();
-            }
-            bw.write(question.getText());
-            bw.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-
-    /**
-     * Use Semafor to read the turbo-parsed .parse file.
-     * Create Sentence objects associated with Passage and Question
-     * @param semafor Semafor object
-     * @param filepath absolute path to .question file
-     */
-    private void parseSentences(Semafor semafor, String filepath) {
-        List<Sentence> sentenceList = new ArrayList<Sentence>();
-        String[] sentenceTexts =  passage.getText().split("\\.");
-
-        //comment section below OUT when creating .sentence files
-        File questionFile = new File(filepath);
-        String parseFileName = questionFile.getParent() + "/" + FilenameUtils.removeExtension(questionFile.getName()) + ".parse";
-        final SentenceCodec.SentenceIterator sentenceIterator;
-        try {
-            sentenceIterator = ConllCodec.readInput(new FileReader(parseFileName));
-            for (String sentence : sentenceTexts) {
-                Sentence s = new Sentence(sentence);
-                if (sentenceIterator.hasNext()) {
-                    edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence turboSentence = sentenceIterator.next();
-                    s.setParsedSentence(turboSentence);
-                    SemaforParseResult result = semafor.parseSentence(turboSentence);
-                    s.setSemaforParse(result);
-                    sentenceList.add(s);
-                } else {
-                    System.err.println("Warning: iterator and sentenceList are different lengths");
-                }
-            }
-
-            //the final sentence is the question sentence
-            if (sentenceIterator.hasNext()) {
-                Sentence s = new Sentence(question.getText());
-                edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence turboSentence = sentenceIterator.next();
-                s.setParsedSentence(turboSentence);
-                SemaforParseResult result = semafor.parseSentence(turboSentence);
-                s.setSemaforParse(result);
-                question.setSentence(s);
-            } else {
-                System.err.println("No question parse for " + filepath);
-            }
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-        passage.setSentences(sentenceList);
-
-        //comment section below IN if creating new .sentence files
-        /*for (String sentence : sentenceTexts) {
-            Sentence s = new Sentence(sentence);
-            sentenceList.add(s);
-        }*/
 
     }
 
