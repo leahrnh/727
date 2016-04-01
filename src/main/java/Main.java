@@ -4,7 +4,6 @@ import java.io.*;
 import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Set;
 
 public class Main {
 
@@ -14,27 +13,7 @@ public class Main {
         String inputdir = args[0];
         List<Document> docs = getData(inputdir);
 
-        //create a list of all the scoring methods (represented by the abstract class Scorer), which will be applied to the data
-        List<Scorer> scorers = new ArrayList();
-        scorers.add(new WordcountScorer());
-        //scorers.add(new SemaforScorer());
-        //TODO create more complex/sophisticated scorers
-
-        //iterate over the docs, finding a score for each entity
-        int n = 1;
-        for (Document doc : docs) {
-            System.out.println("Scoring doc " + n + "/" + docs.size());
-            n++;
-            Set<Entity> entities = doc.getEntities();
-            for (Entity entity : entities) {
-                List<Double> scores = new ArrayList();
-                for (Scorer scorer: scorers) {
-                    scores.add(scorer.getScore(entity, doc));
-                }
-                //the score is stored as part of the entity object
-                entity.setScore(combineScores(scores));
-            }
-        }
+        ScoreCalculator.setScores(docs);
         //perform all the evaluation in this method
         evaluate(docs);
     }
@@ -59,19 +38,7 @@ public class Main {
         return docs;
     }
 
-    /**
-     * Given a list of scores, combine them into a single score
-     */
-    private static double combineScores(List<Double> scores) {
-        //scores are weighted evenly here
-        double sum = 0;
-        for (Double score : scores) {
-            sum += score;
-        }
-        return sum / scores.size();
 
-        //TODO train weights for scores?
-    }
 
     /**
      * Based on how scored entities compare to the correct answer, print out evaluation metrics
