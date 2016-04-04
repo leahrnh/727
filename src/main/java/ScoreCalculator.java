@@ -7,12 +7,17 @@ import java.util.Set;
  */
 public class ScoreCalculator {
     static ArrayList<Scorer> scorersList = new ArrayList<Scorer>();
+    private static List<Document> DocumentList;
 
+    public ScoreCalculator(List<Document> docs){
+        this.DocumentList = docs;
+    }
     //create a list of all the scoring methods (represented by the abstract class Scorer), which will be applied to the data
     //TODO create more complex/sophisticated scorers
     public static ArrayList<Scorer> makeList() {
-        scorersList.add(new WordcountScorer());
+        //scorersList.add(new WordcountScorer());
         //scorersList.add(new SemaforScorer());
+        scorersList.add(new SentenceToVector(DocumentList));
         return scorersList;
     }
 
@@ -30,13 +35,13 @@ public class ScoreCalculator {
         //TODO train weights for scores?
     }
 
-    public static void setScores(List<Document> docs) {
+    public static void setScores() {
         ArrayList<Scorer> scorers = ScoreCalculator.makeList();
         int n = 1;
 
         //iterate over the docs, finding a score for each entity
-        for (Document doc : docs) {
-            System.out.println("Scoring doc " + n + "/" + docs.size());
+        for (Document doc : DocumentList) {
+            System.out.println("Scoring doc " + n + "/" + DocumentList.size());
             n++;
             Set<Entity> entities = doc.getEntities();
             for (Entity entity : entities) {

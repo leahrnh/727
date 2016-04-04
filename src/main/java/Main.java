@@ -4,6 +4,7 @@ import java.io.*;
 import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Properties;
 
 public class Main {
 
@@ -13,7 +14,9 @@ public class Main {
         String inputdir = args[0];
         List<Document> docs = getData(inputdir);
 
-        ScoreCalculator.setScores(docs);
+
+        ScoreCalculator scoreCalculate = new ScoreCalculator(docs);
+        scoreCalculate.setScores();
         //perform all the evaluation in this method
         evaluate(docs);
     }
