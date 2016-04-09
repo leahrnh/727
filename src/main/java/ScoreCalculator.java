@@ -9,17 +9,16 @@ public class ScoreCalculator {
     static ArrayList<Scorer> scorersList = new ArrayList<Scorer>();
     private static List<Document> DocumentList;
 
+    //create a list of all the scoring methods (represented by the abstract class Scorer), which will be applied to the data
     public ScoreCalculator(List<Document> docs){
         this.DocumentList = docs;
-    }
-    //create a list of all the scoring methods (represented by the abstract class Scorer), which will be applied to the data
-    //TODO create more complex/sophisticated scorers
-    public static ArrayList<Scorer> makeList() {
         //scorersList.add(new WordcountScorer());
         //scorersList.add(new SemaforScorer());
         scorersList.add(new SentenceToVector(DocumentList));
-        return scorersList;
     }
+
+    //TODO create more complex/sophisticated scorers
+
 
     /**
      * Given a list of scores, combine them into a single score
@@ -36,7 +35,6 @@ public class ScoreCalculator {
     }
 
     public static void setScores() {
-        ArrayList<Scorer> scorers = ScoreCalculator.makeList();
         int n = 1;
 
         //iterate over the docs, finding a score for each entity
@@ -44,13 +42,14 @@ public class ScoreCalculator {
             System.out.println("Scoring doc " + n + "/" + DocumentList.size());
             n++;
             Set<Entity> entities = doc.getEntities();
-            for (Entity entity : entities) {
+            for (Scorer scorer : scorersList) {
+                scorer.initializeScorer(doc);
                 List<Double> scores = new ArrayList();
-                for (Scorer scorer : scorers) {
+                for (Entity entity : entities) {
                     scores.add(scorer.getScore(entity, doc));
+                    entity.setScore(combineScores(scores));
                 }
                 //the score is stored as part of the entity object
-                entity.setScore(combineScores(scores));
             }
         }
     }

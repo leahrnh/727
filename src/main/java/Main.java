@@ -14,7 +14,6 @@ public class Main {
         String inputdir = args[0];
         List<Document> docs = getData(inputdir);
 
-
         ScoreCalculator scoreCalculate = new ScoreCalculator(docs);
         scoreCalculate.setScores();
         //perform all the evaluation in this method

@@ -3,4 +3,5 @@
  */
 public abstract class Scorer {
     public abstract double getScore(Entity entity, Document doc);
+    public abstract void initializeScorer(Document document);
 }

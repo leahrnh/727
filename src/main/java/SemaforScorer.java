@@ -56,4 +56,6 @@ public class SemaforScorer extends Scorer {
         //Currently not returning a meaningful score. That would be nice, too.
         return 0;
     }
+
+    public void initializeScorer(Document document){return;}
 }

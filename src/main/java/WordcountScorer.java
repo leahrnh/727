@@ -32,4 +32,6 @@ public class WordcountScorer extends Scorer {
         }
         return score;
     }
+
+    public void initializeScorer(Document document) {return;}
 }
