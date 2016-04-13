@@ -22,9 +22,9 @@ public class ScoreCalculator {
     //create a list of all the scoring methods (represented by the abstract class Scorer), which will be applied to the data
     public ScoreCalculator(List<Document> docs){
         this.DocumentList = docs;
-        scorersList.add(new ScoreWeight<Scorer, Double>(new WordcountScorer(), 1.0));
+        //scorersList.add(new ScoreWeight<Scorer, Double>(new WordcountScorer(), 1.0));
         //scorersList.add(new SemaforScorer());
-        scorersList.add(new ScoreWeight<Scorer, Double>(new SentenceToVector(DocumentList), 0.8));
+        scorersList.add(new ScoreWeight<Scorer, Double>(new SentenceToVector(DocumentList), 0.3));
     }
 
     //TODO create more complex/sophisticated scorers
@@ -44,6 +44,7 @@ public class ScoreCalculator {
 
         //iterate over the docs, finding a score for each entity
         for (Document doc : DocumentList) {
+            // PRINT :Scoring the document
             System.out.println("Scoring doc " + n + "/" + DocumentList.size());
             n++;
             Set<Entity> entities = doc.getEntities();

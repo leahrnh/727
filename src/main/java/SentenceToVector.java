@@ -34,10 +34,12 @@ public class SentenceToVector extends Scorer{
         }
         String command = "python /Users/shrimai/skipVector/skip-thoughts/semantic_score.py";
         /*try {
+            // PRINT : Running the Python Module
             System.out.println("Running the python command");
             Process process = Runtime.getRuntime().exec(command);
             Scanner scanner = new Scanner(process.getInputStream());
             while (scanner.hasNext()) {
+                // PRINT : Printing python output
                 System.out.println(scanner.nextLine());
             }
             int exitvalue = process.waitFor();
@@ -56,7 +58,7 @@ public class SentenceToVector extends Scorer{
         for (int i = 0; i < all_score.size(); i++){
             if (all_score.get(i).sentence.contains(current_entity)) {
                 System.out.println();
-                return all_score.get(i).score;
+                return all_score.get(i).score/5.0;
             }
         }
         return 0;
@@ -75,13 +77,15 @@ public class SentenceToVector extends Scorer{
 
             BufferedReader bufferedReader = new BufferedReader(fileReader);
             while((line = bufferedReader.readLine()) != null) {
+                if (candidateSentences.get(iterate).getText().isEmpty() || candidateSentences.get(iterate).getText().equals(" ")){
+                    //System.out.println("Here empty string");
+                    continue;
+                }
                 all_score.add(new ScorePair<Double, String>(Double.parseDouble(line), candidateSentences.get(iterate).getText()));
                 iterate++;
             }
 
             Collections.sort(all_score, Collections.reverseOrder());
-            //System.out.println(all_scores.size() + " real");
-            // Always close files.
             bufferedReader.close();
         } catch (FileNotFoundException e) {
             e.printStackTrace();
@@ -94,15 +98,25 @@ public class SentenceToVector extends Scorer{
     private void writeSentences(String filepath, List<Sentence> candidate_sentences, String question) {
         File file = new File(filepath);
         String new_name = new File(file.getParent()).getParent() + "/skipVector/skip-thoughts/data/semanticData/" + FilenameUtils.removeExtension(file.getName()) + ".test";
-        //System.out.println(new_name);
         File sentenceFile = new File(new_name);
+
+        if(sentenceFile.exists() && !sentenceFile.isDirectory()) {
+            return;
+        }
         FileWriter fw = null;
         try {
+            System.out.println("Writing File " + new_name);
             fw = new FileWriter(sentenceFile.getAbsoluteFile());
             BufferedWriter bw = new BufferedWriter(fw);
             for (Sentence sentence : candidate_sentences) {
-                bw.write(sentence.getText() + "\t" + question);
-                bw.newLine();
+                if (sentence.getText().isEmpty() || sentence.getText().equals(" ")){
+                    //System.out.println("Here empty string");
+                    continue;
+                }
+                else {
+                    bw.write(sentence.getText() + "\t" + question);
+                    bw.newLine();
+                }
             }
             bw.close();
         } catch (IOException e) {

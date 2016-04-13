@@ -26,12 +26,14 @@ public class Main {
     private static List<Document> getData(String inputdir) throws URISyntaxException, IOException, ClassNotFoundException {
         List<Document> docs = new ArrayList();
         File folder = new File(inputdir);
+        // PRINT :Reading File Directory
         System.out.println("Reading files from " + inputdir);
         File[] listOfFiles = folder.listFiles();
         for (File file : listOfFiles) {
             String filename = file.toString();
             String ext = FilenameUtils.getExtension(filename);
             if (file.isFile() && ext.equals("question")) {
+                // PRINT :File names Read
                 System.out.println("Filename: " + file.getName());
                 Document d = new Document(file.getAbsolutePath());
                 docs.add(d);
