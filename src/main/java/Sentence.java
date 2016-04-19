@@ -59,7 +59,6 @@ public class Sentence {
         }
         targetText = targetText.replaceAll(" entity([0-9]+) ", " entity ");
 
-
         //Dependency parse
         String conllDependencyParse;
 
@@ -90,6 +89,7 @@ public class Sentence {
                 e.printStackTrace();
             }
         } else {
+            System.err.println(targetText);
             System.err.println("Warning: Sentence has no parse. \"" + text + "\"");
         }
 

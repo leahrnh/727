@@ -13,8 +13,10 @@ public class Passage {
         List<Sentence> sentenceList = new ArrayList<Sentence>();
         String[] sentenceTexts =  fullPassage.split("(\\.|\\?|!)");
         for (String sentence : sentenceTexts) {
-            Sentence s = new Sentence(sentence);
-            sentenceList.add(s);
+            if (!sentence.matches("\\s*")) {
+                Sentence s = new Sentence(sentence);
+                sentenceList.add(s);
+            }
         }
         this.sentences = sentenceList;
     }
