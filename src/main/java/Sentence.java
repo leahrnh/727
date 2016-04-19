@@ -10,19 +10,21 @@ import edu.stanford.nlp.trees.GrammaticalStructureFactory;
 import edu.stanford.nlp.trees.Tree;
 
 import java.io.*;
+import java.util.ArrayList;
 import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import static edu.cmu.cs.lti.ark.fn.data.prep.formats.SentenceCodec.ConllCodec;
 
 public class Sentence {
     private String text;
-    private List<String> entityNames;
+    private List<Integer> entityNumbers;
     private edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence dependencyParse;
     private SemaforParseResult semaforParse;
 
     public Sentence(String text) {
         this.text = text;
-        //TODO extract entity names from text
     }
 
     public String getText() {
@@ -47,6 +49,17 @@ public class Sentence {
     }
 
     private void parseSentence(LexicalizedParser lp, GrammaticalStructureFactory gsf, Semafor semafor) {
+        String targetText = text.replaceAll("@", "");
+        Pattern pattern = Pattern.compile("entity([0-9]+)");
+        Matcher m = pattern.matcher(targetText);
+        entityNumbers = new ArrayList<Integer>();
+        while (m.find()) {
+            Integer entityNumber = Integer.parseInt(m.group(1));
+            entityNumbers.add(entityNumber);
+        }
+        targetText = targetText.replaceAll(" entity([0-9]+) ", " entity ");
+
+
         //Dependency parse
         String conllDependencyParse;
 
@@ -59,7 +72,7 @@ public class Sentence {
         // Tell Java to use your special stream
         System.setOut(ps);
 
-        for (List<HasWord> sentence : new DocumentPreprocessor(new StringReader(text))) {
+        for (List<HasWord> sentence : new DocumentPreprocessor(new StringReader(targetText))) {
             Tree parse = lp.apply(sentence);
 
             GrammaticalStructure gs = gsf.newGrammaticalStructure(parse);
@@ -82,12 +95,12 @@ public class Sentence {
 
         //At this point we should have parsed all the text
         if (sentenceIterator.hasNext()) {
-            System.err.println("Warning: Sentence has multiple parsed sentences. \"" + text + "\"");
-            //TODO figure out the deal with one sentence not being broken up correctly
-            System.err.println("Part 2: ");
             edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence dp2 = sentenceIterator.next();
+            System.err.println("Warning: Sentence has multiple parsed sentences. \"" + text + "\"");
+            //If this error comes up, it probably means that the semafor tokenization is different from the tokenization in Passage.java
+            System.err.println("Part 2: ");
             for (Token token : dp2.getTokens()) {
-                System.out.print(" " + token.toString());
+                System.err.println(". " + token.toString());
             }
         }
 

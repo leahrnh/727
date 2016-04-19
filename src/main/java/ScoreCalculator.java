@@ -23,7 +23,7 @@ public class ScoreCalculator {
     public ScoreCalculator(List<Document> docs){
         this.DocumentList = docs;
         //scorersList.add(new ScoreWeight<Scorer, Double>(new WordcountScorer(), 1.0));
-        //scorersList.add(new SemaforScorer());
+        //scorersList.add(new ScoreWeight<Scorer, Double>(new SemaforScorer(), 1.0));
         scorersList.add(new ScoreWeight<Scorer, Double>(new SentenceToVector(DocumentList), 0.3));
     }
 
