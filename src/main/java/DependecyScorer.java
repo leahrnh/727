@@ -50,22 +50,89 @@ public class DependecyScorer extends Scorer {
             init();
         }
 
+        Integer entityCode = entity.getCodeNumber();
+
+
+        //extract placeholder head and relation
         Sentence questionSentence = doc.getQuestion().getSentence();
+        String question = doc.getQuestion().getText();
         edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence questionParse = questionSentence.getDependencyParse(lp, gsf, semafor);
-
-
-        for (Sentence sentence : doc.getPassage().getSentences()) {
-            edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence dependencyParse = sentence.getDependencyParse(lp, gsf, semafor);
-            List<Token> tokens = dependencyParse.getTokens();
-            for (Token token : tokens) {
-                String word = token.toString();
-                String pos = token.getCpostag();
-                Integer head = token.getHead();
+        List<Token> tokens = questionParse.getTokens();
+        Integer placeholderHead = 0;
+        String relationToHead = "";
+        findPlaceholder:
+        for (Token token : tokens) {
+            String word = token.getForm();
+            //System.out.println(token.getId() + "\t" + token.getForm()+ "\t" + token.getHead() + "\t" + token.getDeprel());
+            if (word.equals("placeholder")) {
+                placeholderHead = token.getHead();
+                relationToHead = token.getDeprel();
+                break findPlaceholder;
             }
         }
 
-        //Currently not returning a meaningful score. That would be nice, too.
-        return 0;
+        //what if the placeholder is the root?
+        if (placeholderHead==0) {
+            //Then we get no info from looking at what its head is, so return 0.5 indiscriminately
+            return 0.5;
+        }
+
+        //extract entity head and relation in different sentences
+        Token head = tokens.get(placeholderHead-1);
+        String headForm = head.getForm();
+        //if the head is "entity," that also gives us no useful information
+        if (headForm.equals("entity")) {
+            return 0.5;
+        }
+
+        // calculate score as (number of sentences in which entity has same head as placeholder) / (number of sentences including entity)
+        int sentencesWithEntity = 0;
+        int entityPlaceholderHeadMatches = 0;
+        //check each sentence for whether it contains the target entity
+        for (Sentence sentence : doc.getPassage().getSentences()) {
+            edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence dependencyParse = sentence.getDependencyParse(lp, gsf, semafor);
+            List<Integer> sentenceEntities = sentence.getEntityNumbers();
+
+            //if the sentence does contain the entity, find its head, and see if it matches the head of placeholder
+            if (sentenceEntities.contains(entityCode)) {
+                sentencesWithEntity++;
+
+                //identify entity in sentence matching target
+                int entityIndex = sentenceEntities.indexOf(entityCode);
+                tokens = dependencyParse.getTokens();
+                int numEntitiesSeen = 0;
+                Integer entityHead = 0;
+                String entityRelationToHead = "";
+
+                findTargetEntity:
+                for (Token token : tokens) {
+                    if (token.getForm().equals("entity")) {
+                        if (numEntitiesSeen == entityIndex) {
+                            //found our entity!
+                            entityHead = token.getHead();
+                            entityRelationToHead = token.getDeprel();
+                            break findTargetEntity;
+                        }
+                        else {
+                            numEntitiesSeen += 1;
+                        }
+                    }
+                }
+
+                //compare entity head to placeholder head, and give a point if they match
+                if (entityHead!=0) {
+                    Token entityHeadToken = tokens.get(entityHead - 1);
+                    String entityHeadForm = entityHeadToken.getForm();
+                    if (entityHeadForm.equals(headForm)) {
+                        entityPlaceholderHeadMatches++;
+                        //System.out.println("Found match between placeholder and entity with head " + entityHeadForm);
+                    }
+                }
+
+            }
+        }
+
+        return ((double) entityPlaceholderHeadMatches) / sentencesWithEntity;
     }
 
     public void initializeScorer(Document document){return;}

@@ -109,4 +109,8 @@ public class Sentence {
         System.setOut(old);
 
     }
+
+    public List<Integer> getEntityNumbers() {
+        return entityNumbers;
+    }
 }
