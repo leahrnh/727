@@ -1,3 +1,11 @@
+import edu.cmu.cs.lti.ark.fn.Semafor;
+import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
+import edu.stanford.nlp.trees.GrammaticalStructureFactory;
+import edu.stanford.nlp.trees.TreebankLanguagePack;
+
+import java.io.File;
+import java.io.IOException;
+import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
@@ -21,14 +29,19 @@ public class ScoreCalculator {
 
     //create a list of all the scoring methods (represented by the abstract class Scorer), which will be applied to the data
     public ScoreCalculator(List<Document> docs){
+
+        //initialize parsing models. This is done here so it can be used by different scorers without initializing multiple times.
+        //comment this section out if not using relevant scorers
+        LexicalizedParser lp = initializeLP(); //Stanford parser
+        GrammaticalStructureFactory gsf = initializeGSF(lp); //Stanford Grammatical Structure Factory
+        Semafor semafor = initializeSemafor(); //Semafor
+
         this.DocumentList = docs;
         //scorersList.add(new ScoreWeight<Scorer, Double>(new WordcountScorer(), 1.0));
-        //scorersList.add(new ScoreWeight<Scorer, Double>(new SemaforScorer(), 1.0));
-        scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyScorer(), 1.0));
+        //scorersList.add(new ScoreWeight<Scorer, Double>(new SemaforScorer(lp, gsf, semafor), 1.0));
+        scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyScorer(lp, gsf, semafor), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new SentenceToVector(DocumentList), 0.3));
     }
-
-    //TODO create more complex/sophisticated scorers
 
 
     /**
@@ -59,6 +72,37 @@ public class ScoreCalculator {
                 //the score is stored as part of the entity object
             }
         }
+    }
+
+    private Semafor initializeSemafor() {
+        File modelsLocation = new File("src/main/resources/semafor_models");
+        String modelsDir = modelsLocation.getAbsolutePath();
+        try {
+            Semafor semafor = Semafor.getSemaforInstance(modelsDir);
+            return semafor;
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        } catch (URISyntaxException e) {
+            e.printStackTrace();
+        }
+        return null;
+    }
+
+    private GrammaticalStructureFactory initializeGSF(LexicalizedParser lp) {
+        GrammaticalStructureFactory gsf = null;
+        TreebankLanguagePack tlp = lp.treebankLanguagePack(); // a PennTreebankLanguagePack for English
+        if (tlp.supportsGrammaticalStructures()) {
+            gsf = tlp.grammaticalStructureFactory();
+        }
+        return gsf;
+    }
+
+
+    private LexicalizedParser initializeLP() {
+        LexicalizedParser lp = LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz");
+        return lp;
     }
 }
 
