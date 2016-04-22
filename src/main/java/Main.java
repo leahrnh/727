@@ -62,9 +62,9 @@ public class Main {
             }
             //calculate reciprocal rank for each entity
             //for more info on mean reciprocal rank, see https://en.wikipedia.org/wiki/Mean_reciprocal_rank
-            for(int i=0;i<rankedEntities.size();i++) {
+            for (int i = 0; i < rankedEntities.size(); i++) {
                 if (rankedEntities.get(i).getCode().equals(answer.getCode())) {
-                    reciprocalRank = 1.0 / (i+1);
+                    reciprocalRank = 1.0 / (i + 1);
                     sumReciprocalRank += reciprocalRank;
                 }
             }
@@ -77,7 +77,7 @@ public class Main {
 
         }
         //take and report means
-        double percentCorrect = (double)numCorrect / docs.size();
+        double percentCorrect = (double) numCorrect / docs.size();
         double meanReciprocalRank = sumReciprocalRank / docs.size();
 
         System.out.println("Percent correct: " + percentCorrect);
