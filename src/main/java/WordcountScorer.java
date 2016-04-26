@@ -33,5 +33,7 @@ public class WordcountScorer extends Scorer {
         return score/100;
     }
 
-    public void initializeScorer(Document document) {return;}
+    public void initializeScorer(Document document) {
+
+    }
 }
