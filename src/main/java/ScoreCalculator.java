@@ -43,19 +43,18 @@ public class ScoreCalculator {
 
         //initialize parsing models. This is done here so it can be used by different scorers without initializing multiple times.
         //comment this section out if not using relevant scorers
-        LexicalizedParser lp = initializeLP(); //Stanford parser
-        GrammaticalStructureFactory gsf = initializeGSF(lp); //Stanford Grammatical Structure Factory
-        Semafor semafor = initializeSemafor(); //Semafor
+        //LexicalizedParser lp = initializeLP(); //Stanford parser
+        //GrammaticalStructureFactory gsf = initializeGSF(lp); //Stanford Grammatical Structure Factory
+        //Semafor semafor = initializeSemafor(); //Semafor
 
         //set up scorers
-        //scorersList.add(new ScoreWeight<Scorer, Double>(new WordcountScorer(), 1.0));
+        scorersList.add(new ScoreWeight<Scorer, Double>(new WordcountScorer(), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new SemaforScorer(lp, gsf, semafor), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new PowerloomScorer(), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyScorer(lp, gsf, semafor), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new SentenceToVector(DocumentList), 0.3));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new wordCountandVector(), 1.0));
-
-        scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyScorer(lp, gsf, semafor), 1.0));
+        //scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyScorer(lp, gsf, semafor), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new SentenceToVector(TrainDocumentList), 0.3));
     }
 
