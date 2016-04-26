@@ -139,6 +139,7 @@ public class ScoreCalculator {
 
         //Now that we have all our training examples, train a model
         model = new NaiveBayes();
+        //model = new Logistic();
         try {
             model.buildClassifier(trainingSet);
         } catch (Exception e) {
