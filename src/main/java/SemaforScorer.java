@@ -79,7 +79,7 @@ public class SemaforScorer extends Scorer {
         /*if (this.placeholderFrame.equals("")) {
             System.out.println("No role for placeholder");
         } else {
-            System.out.println("Placeholder hasrole " + this.placeholderRole + " in frame " + this.placeholderFrame);
+            System.out.println("Placeholder has role " + this.placeholderRole + " in frame " + this.placeholderFrame);
         }*/
     }
 }

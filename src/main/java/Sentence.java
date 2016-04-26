@@ -58,8 +58,6 @@ public class Sentence {
             parseText = parseText.replaceAll(entityCode, convertCode2Letters(entityCode));
         }
         parseText = parseText.replaceAll("@placeholder", "placeholder");
-        System.out.println(text);
-        System.out.println(parseText);
 
         //Dependency parse
         String conllDependencyParse;
@@ -116,7 +114,7 @@ public class Sentence {
         return entityNumbers;
     }
 
-    public String convertCode2Letters(String code) {
+    public static String convertCode2Letters(String code) {
         if (code.matches("@entity[0-9]+")) {
             code = code.replaceAll("@", "");
             code = code.replaceAll("0", "A");
@@ -136,7 +134,7 @@ public class Sentence {
         }
     }
 
-    public String convertCode2Numbers(String code) {
+    public static String convertCode2Numbers(String code) {
         if (code.matches("entity[A-J]+")) {
             code = code.replaceAll("A", "0");
             code = code.replaceAll("B", "1");

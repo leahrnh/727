@@ -31,7 +31,9 @@ public class DependecyScorer extends Scorer {
     }
 
     public double getScore(Entity entity, Document doc) {
-        Integer entityCode = entity.getCodeNumber();
+        Integer entityCodeNumber = entity.getCodeNumber();
+        String entityCode = entity.getCode();
+        String entityParseCode = Sentence.convertCode2Letters(entityCode);
 
         // calculate score as (number of sentences in which entity has same head as placeholder) / (number of sentences including entity)
         //check each sentence for whether it contains the target entity
@@ -40,25 +42,18 @@ public class DependecyScorer extends Scorer {
             List<Integer> sentenceEntities = sentence.getEntityNumbers();
 
             //if the sentence does contain the entity, find its head, and see if it matches the head of placeholder
-            if (sentenceEntities.contains(entityCode)) {
+            if (sentenceEntities.contains(entityCodeNumber)) {
 
                 //identify entity in sentence matching target
-                int entityIndex = sentenceEntities.indexOf(entityCode);
                 List<Token> tokens = dependencyParse.getTokens();
-                int numEntitiesSeen = 0;
                 Integer entityHead = 0;
 
                 findTargetEntity:
                 for (Token token : tokens) {
-                    if (token.getForm().equals("entity")) {
-                        if (numEntitiesSeen == entityIndex) {
-                            //found our entity!
-                            entityHead = token.getHead();
-                            break findTargetEntity;
-                        }
-                        else {
-                            numEntitiesSeen += 1;
-                        }
+                    if (token.getForm().equals(entityParseCode)) {
+                        //found our entity!
+                        entityHead = token.getHead();
+                        break findTargetEntity;
                     }
                 }
 
@@ -109,7 +104,7 @@ public class DependecyScorer extends Scorer {
         Token head = tokens.get(placeholderHead-1);
         String placeholderHeadForm = head.getForm();
         //if the head is "entity," that also gives us no useful information
-        if (placeholderHeadForm.equals("entity")) {
+        if (placeholderHeadForm.matches("entity[A-Z]+")) {
             this.placeholderHead = "";
             return;
         }
