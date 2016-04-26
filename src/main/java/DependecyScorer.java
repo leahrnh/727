@@ -4,6 +4,7 @@ import edu.cmu.cs.lti.ark.fn.parsing.SemaforParseResult;
 import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
 import edu.stanford.nlp.trees.GrammaticalStructureFactory;
 import edu.stanford.nlp.trees.TreebankLanguagePack;
+import org.deeplearning4j.models.word2vec.Word2Vec;
 
 import java.io.File;
 import java.io.IOException;
@@ -20,11 +21,13 @@ public class DependecyScorer extends Scorer {
     private GrammaticalStructureFactory gsf; //Stanford Grammatical Structure Factory
     private Semafor semafor;
     private String placeholderHead;
+    private Word2Vec vec;
 
-    public DependecyScorer(LexicalizedParser lp, GrammaticalStructureFactory gsf, Semafor semafor) {
+    public DependecyScorer(LexicalizedParser lp, GrammaticalStructureFactory gsf, Semafor semafor, Word2Vec wordToVec) {
         this.lp = lp;
         this.gsf = gsf;
         this.semafor = semafor;
+        this.vec = wordToVec;
     }
 
     public double getScore(Entity entity, Document doc) {
@@ -63,6 +66,7 @@ public class DependecyScorer extends Scorer {
                 if (entityHead!=0) {
                     Token entityHeadToken = tokens.get(entityHead - 1);
                     String entityHeadForm = entityHeadToken.getForm();
+                    //return semanticComparison(entityHeadForm, this.placeholderHead);
                     if (entityHeadForm.equals(this.placeholderHead)) {
                         //TODO compare heads semantically
                         return 1.0;

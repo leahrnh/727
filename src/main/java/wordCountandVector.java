@@ -15,16 +15,11 @@ import java.util.List;
 public class wordCountandVector extends Scorer{
 
     private static ArrayList<String> vocabulary = new ArrayList<String>();
-    File gModel = new File("/Users/shrimai/Documents/word2vec/GoogleNews-vectors-negative300.bin.gz");
-    Word2Vec vec;
-    {
-        try {
-            vec = (Word2Vec) WordVectorSerializer.loadGoogleModel(gModel, true);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
+    private Word2Vec vec;
 
+    public wordCountandVector(Word2Vec wordToVec) {
+        this.vec = wordToVec;
+    }
 
 
     @Override
@@ -53,31 +48,8 @@ public class wordCountandVector extends Scorer{
                 }
             }
         }
-        System.out.println(score);
+        //System.out.println(score);
         return score;
-    }
-
-    private void writeWords(String wordToWrite) {
-
-        //CHANGE FILEPATH
-        File file = new File("/Users/shrimai/Documents/Sem2/11727/727/src/main/resources/wordVector/");
-        String new_name = file + "wordList.txt";
-        System.out.println(new_name);
-        File sentenceFile = new File(new_name);
-        FileWriter fw = null;
-
-        try {
-            fw = new FileWriter(sentenceFile.getAbsoluteFile(), true);
-            BufferedWriter bw = new BufferedWriter(fw);
-            bw.write(wordToWrite);
-            bw.newLine();
-            bw.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-
-
     }
 
 

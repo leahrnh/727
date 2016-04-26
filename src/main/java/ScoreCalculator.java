@@ -2,8 +2,11 @@ import edu.cmu.cs.lti.ark.fn.Semafor;
 import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
 import edu.stanford.nlp.trees.GrammaticalStructureFactory;
 import edu.stanford.nlp.trees.TreebankLanguagePack;
+import org.deeplearning4j.models.embeddings.loader.WordVectorSerializer;
+import org.deeplearning4j.models.word2vec.Word2Vec;
 import weka.classifiers.Classifier;
 import weka.classifiers.bayes.NaiveBayes;
+import weka.classifiers.functions.Logistic;
 import weka.core.*;
 
 import java.io.File;
@@ -46,16 +49,30 @@ public class ScoreCalculator {
         //LexicalizedParser lp = initializeLP(); //Stanford parser
         //GrammaticalStructureFactory gsf = initializeGSF(lp); //Stanford Grammatical Structure Factory
         //Semafor semafor = initializeSemafor(); //Semafor
+        Word2Vec wordToVec = initalizeWord2Vec();
 
         //set up scorers
-        scorersList.add(new ScoreWeight<Scorer, Double>(new WordcountScorer(), 1.0));
+        //scorersList.add(new ScoreWeight<Scorer, Double>(new WordcountScorer(), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new SemaforScorer(lp, gsf, semafor), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new PowerloomScorer(), 1.0));
-        //scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyScorer(lp, gsf, semafor), 1.0));
+        //scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyScorer(lp, gsf, semafor, wordToVec), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new SentenceToVector(DocumentList), 0.3));
-        //scorersList.add(new ScoreWeight<Scorer, Double>(new wordCountandVector(), 1.0));
+        scorersList.add(new ScoreWeight<Scorer, Double>(new wordCountandVector(wordToVec), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyScorer(lp, gsf, semafor), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new SentenceToVector(TrainDocumentList), 0.3));
+    }
+
+    private Word2Vec initalizeWord2Vec() {
+        File gModel = new File("/Users/shrimai/Documents/word2vec/GoogleNews-vectors-negative300.bin.gz");
+        Word2Vec vec = null;
+        {
+            try {
+                vec = (Word2Vec) WordVectorSerializer.loadGoogleModel(gModel, true);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+        return vec;
     }
 
 
@@ -138,8 +155,8 @@ public class ScoreCalculator {
         }
 
         //Now that we have all our training examples, train a model
-        model = new NaiveBayes();
-        //model = new Logistic();
+        //model = new NaiveBayes();
+        model = new Logistic();
         try {
             model.buildClassifier(trainingSet);
         } catch (Exception e) {
