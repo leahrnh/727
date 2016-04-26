@@ -24,13 +24,15 @@ public class WordcountScorer extends Scorer {
                         return 0.0;
                     }
                     if (sentenceWords.contains(word)) {
+                        //TODO maybe add word2vec comparison?
                         //count words that are in both the question and a sentence containing the target entity
                         score += 1.0;
                     }
                 }
             }
         }
-        return score/100;
+        //This doesn't need to be normalized because the training will take care of that be setting weights
+        return score;
     }
 
     public void initializeScorer(Document document) {return;}

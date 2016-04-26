@@ -11,13 +11,19 @@ public class Main {
     public static void main(String[] args) throws ClassNotFoundException, IOException, URISyntaxException {
 
         //convert input documents to data structures
-        String inputdir = args[0];
-        List<Document> docs = getData(inputdir);
+        String trainDir = args[0];
+        String testDir = args[1];
+        List<Document> trainDocs = getData(trainDir);
+        List<Document> testDocs = getData(testDir);
 
-        ScoreCalculator scoreCalculate = new ScoreCalculator(docs);
+        ScoreCalculator scoreCalculate = new ScoreCalculator(trainDocs, testDocs);
+        scoreCalculate.trainWeights();
         scoreCalculate.setScores();
         //perform all the evaluation in this method
-        evaluate(docs);
+        //System.out.println("\n\nTRAINING EVALUATION");
+        //evaluate(trainDocs);
+        System.out.println("\n\nTESTING EVALUATION");
+        evaluate(testDocs);
     }
 
     /**
