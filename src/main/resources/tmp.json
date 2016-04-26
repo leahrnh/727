@@ -1,0 +1,54 @@
+{
+  "tokens": [
+    "i",
+    "hit",
+    "my",
+    "friend"
+  ],
+  "frames": [
+    {
+      "target": {
+        "start": 1,
+        "end": 2,
+        "name": "Impact",
+        "text": "hit"
+      },
+      "annotationSets": [
+        {
+          "frameElements": [
+            {
+              "start": 0,
+              "end": 1,
+              "name": "Impactor",
+              "text": "i"
+            }
+          ],
+          "score": 50.709247055529744,
+          "rank": 0
+        }
+      ]
+    },
+    {
+      "target": {
+        "start": 3,
+        "end": 4,
+        "name": "Personal_relationship",
+        "text": "friend"
+      },
+      "annotationSets": [
+        {
+          "frameElements": [
+            {
+              "start": 2,
+              "end": 3,
+              "name": "Partner_1",
+              "text": "my"
+            }
+          ],
+          "score": 46.573391028463114,
+          "rank": 0
+        }
+      ]
+    }
+  ]
+}

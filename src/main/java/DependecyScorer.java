@@ -53,9 +53,9 @@ public class DependecyScorer extends Scorer {
 
         //extract entity head and relation in different sentences
         Token head = tokens.get(placeholderHead-1);
-        String headForm = head.getForm();
+        String placeholderHeadForm = head.getForm();
         //if the head is "entity," that also gives us no useful information
-        if (headForm.equals("entity")) {
+        if (placeholderHeadForm.equals("entity")) {
             return 0.0;
         }
 
@@ -92,7 +92,8 @@ public class DependecyScorer extends Scorer {
                 if (entityHead!=0) {
                     Token entityHeadToken = tokens.get(entityHead - 1);
                     String entityHeadForm = entityHeadToken.getForm();
-                    if (entityHeadForm.equals(headForm)) {
+                    if (entityHeadForm.equals(placeholderHeadForm)) {
+                        //TODO compare heads semantically
                         return 1.0;
                     }
                 }

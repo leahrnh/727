@@ -19,7 +19,6 @@ public class SentenceToVector extends Scorer{
             this.sentence = name;
         }
 
-        @Override
         public int compareTo(ScorePair<D, S> o) {
             return score < o.score ? -1 : score > o.score ? 1 : 0;
         }
