@@ -49,15 +49,17 @@ public class Sentence {
     }
 
     private void parseSentence(LexicalizedParser lp, GrammaticalStructureFactory gsf, Semafor semafor) {
-        String targetText = text.replaceAll("@", "");
-        Pattern pattern = Pattern.compile("entity([0-9]+)");
-        Matcher m = pattern.matcher(targetText);
+        String parseText = text;
+        Pattern pattern = Pattern.compile("@entity[0-9]+");
+        Matcher m = pattern.matcher(parseText);
         entityNumbers = new ArrayList<Integer>();
         while (m.find()) {
-            Integer entityNumber = Integer.parseInt(m.group(1));
-            entityNumbers.add(entityNumber);
+            String entityCode = m.group();
+            parseText = parseText.replaceAll(entityCode, convertCode2Letters(entityCode));
         }
-        targetText = targetText.replaceAll(" entity([0-9]+) ", " entity ");
+        parseText = parseText.replaceAll("@placeholder", "placeholder");
+        System.out.println(text);
+        System.out.println(parseText);
 
         //Dependency parse
         String conllDependencyParse;
@@ -71,7 +73,7 @@ public class Sentence {
         // Tell Java to use your special stream
         System.setOut(ps);
 
-        for (List<HasWord> sentence : new DocumentPreprocessor(new StringReader(targetText))) {
+        for (List<HasWord> sentence : new DocumentPreprocessor(new StringReader(parseText))) {
             Tree parse = lp.apply(sentence);
 
             GrammaticalStructure gs = gsf.newGrammaticalStructure(parse);
@@ -89,7 +91,7 @@ public class Sentence {
                 e.printStackTrace();
             }
         } else {
-            System.err.println(targetText);
+            System.err.println(parseText);
             System.err.println("Warning: Sentence has no parse. \"" + text + "\"");
         }
 
@@ -112,5 +114,44 @@ public class Sentence {
 
     public List<Integer> getEntityNumbers() {
         return entityNumbers;
+    }
+
+    public String convertCode2Letters(String code) {
+        if (code.matches("@entity[0-9]+")) {
+            code = code.replaceAll("@", "");
+            code = code.replaceAll("0", "A");
+            code = code.replaceAll("1", "B");
+            code = code.replaceAll("2", "C");
+            code = code.replaceAll("3", "D");
+            code = code.replaceAll("4", "E");
+            code = code.replaceAll("5", "F");
+            code = code.replaceAll("6", "G");
+            code = code.replaceAll("7", "H");
+            code = code.replaceAll("8", "I");
+            code = code.replaceAll("9", "J");
+            return code;
+        } else {
+            System.err.println("Can't convert code " + code);
+            return "";
+        }
+    }
+
+    public String convertCode2Numbers(String code) {
+        if (code.matches("entity[A-J]+")) {
+            code = code.replaceAll("A", "0");
+            code = code.replaceAll("B", "1");
+            code = code.replaceAll("C", "2");
+            code = code.replaceAll("D", "3");
+            code = code.replaceAll("E", "4");
+            code = code.replaceAll("F", "5");
+            code = code.replaceAll("G", "6");
+            code = code.replaceAll("H", "7");
+            code = code.replaceAll("I", "8");
+            code = code.replaceAll("J", "9");
+            return "@" + code;
+        } else {
+            System.err.print("Can't convert code " + code);
+            return "";
+        }
     }
 }
