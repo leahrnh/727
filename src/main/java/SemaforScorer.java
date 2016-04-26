@@ -1,13 +1,8 @@
 import edu.cmu.cs.lti.ark.fn.Semafor;
 import edu.cmu.cs.lti.ark.fn.parsing.SemaforParseResult;
-import edu.cmu.cs.lti.ark.util.ds.Scored;
 import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
 import edu.stanford.nlp.trees.GrammaticalStructureFactory;
-import edu.stanford.nlp.trees.TreebankLanguagePack;
 
-import java.io.File;
-import java.io.IOException;
-import java.net.URISyntaxException;
 import java.util.List;
 
 /**
@@ -19,6 +14,8 @@ public class SemaforScorer extends Scorer {
     private LexicalizedParser lp; //Stanford parser
     private GrammaticalStructureFactory gsf; //Stanford Grammatical Structure Factory
     private Semafor semafor;
+    private String placeholderFrame;
+    private String placeholderRole;
 
     public SemaforScorer(LexicalizedParser lp, GrammaticalStructureFactory gsf, Semafor semafor) {
         this.lp = lp;
@@ -27,46 +24,62 @@ public class SemaforScorer extends Scorer {
     }
 
     public double getScore(Entity entity, Document doc) {
-        System.out.println("******DOC******");
-        Sentence questionSentence = doc.getQuestion().getSentence();
+        //Currently not returning a meaningful score. That would be nice, too.
+        return 0;
+    }
+
+    /*private boolean containsWord(String text, String target) {
+        String[] words = text.split("\\s");
+        for (String word : words) {
+            if (word.equals(target)) {
+                return true;
+            }
+        }
+        return false;
+    }*/
+
+    public void initializeScorer(Document document){
+        this.placeholderFrame = "";
+        this.placeholderRole = "";
+        Sentence questionSentence = document.getQuestion().getSentence();
         edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence questionParse = questionSentence.getDependencyParse(lp, gsf, semafor);
         SemaforParseResult questionSemafor = questionSentence.getSemaforParse(lp, gsf, semafor);
 
         for (SemaforParseResult.Frame frame : questionSemafor.frames) {
             SemaforParseResult.Frame.NamedSpanSet target = frame.target;
-            String frameName = target.name;
-            System.out.print("Frame: " + frameName);
-            for (SemaforParseResult.Frame.Span span : target.spans) {
-                System.out.println( "...from text " + span.text);
+            //System.out.println("Target name: " + target.name);
+            List<SemaforParseResult.Frame.Span> spans = target.spans;
+            for (SemaforParseResult.Frame.Span span : spans) {
+                //System.out.println("\tText: " + span.text);
+                //System.out.println("\tStart: " + span.start);
+                //System.out.println("\tEnd: " + span.end);
                 if (span.text.equals("placeholder")) {
-                    System.out.println("placeholder in frame " + frameName + " with role " + frameName);
+                    this.placeholderFrame = target.name;
+                    this.placeholderRole = target.name;
                 }
             }
-            for (SemaforParseResult.Frame.ScoredRoleAssignment annotationSet : frame.annotationSets) {
-                for (SemaforParseResult.Frame.NamedSpanSet spanSet : annotationSet.frameElements) {
-                    String spanName = spanSet.name;
-                    System.out.print("Span: " + spanName);
-                    for (SemaforParseResult.Frame.Span span : spanSet.spans) {
-                        System.out.println( "...from text " + span.text);
+            List<SemaforParseResult.Frame.ScoredRoleAssignment> scoredRoleAssignments = frame.annotationSets;
+            for (SemaforParseResult.Frame.ScoredRoleAssignment scoredRoleAssignment : scoredRoleAssignments) {
+                List<SemaforParseResult.Frame.NamedSpanSet> namedSpanSets = scoredRoleAssignment.frameElements;
+                for (SemaforParseResult.Frame.NamedSpanSet namedSpanSet : namedSpanSets) {
+                    //System.out.println("\tNamed span set: " + namedSpanSet.name);
+                    List<SemaforParseResult.Frame.Span> subSpans = namedSpanSet.spans;
+                    for (SemaforParseResult.Frame.Span span : subSpans) {
+                        //System.out.println("\t\tText: " + span.text);
+                        //System.out.println("\t\tStart: " + span.start);
+                        //System.out.println("\t\tEnd: " + span.end);
                         if (span.text.equals("placeholder")) {
-                            System.out.println("placeholder in frame " + frameName + " with role " + spanName);
+                            this.placeholderFrame = target.name;
+                            this.placeholderRole = namedSpanSet.name;
                         }
                     }
                 }
             }
-
         }
-
-
-        /*for (Sentence sentence : doc.getPassage().getSentences()) {
-            edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence dependencyParse = sentence.getDependencyParse(lp, gsf, semafor);
-            SemaforParseResult semaforParse = sentence.getSemaforParse(lp, gsf, semafor);
-        }
-        */
-
-        //Currently not returning a meaningful score. That would be nice, too.
-        return 0;
+        /*if (this.placeholderFrame.equals("")) {
+            System.out.println("No role for placeholder");
+        } else {
+            System.out.println("Placeholder hasrole " + this.placeholderRole + " in frame " + this.placeholderFrame);
+        }*/
     }
-
-    public void initializeScorer(Document document){return;}
 }

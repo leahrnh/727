@@ -19,6 +19,7 @@ public class DependecyScorer extends Scorer {
     private LexicalizedParser lp; //Stanford parser
     private GrammaticalStructureFactory gsf; //Stanford Grammatical Structure Factory
     private Semafor semafor;
+    private String placeholderHead;
 
     public DependecyScorer(LexicalizedParser lp, GrammaticalStructureFactory gsf, Semafor semafor) {
         this.lp = lp;
@@ -28,36 +29,6 @@ public class DependecyScorer extends Scorer {
 
     public double getScore(Entity entity, Document doc) {
         Integer entityCode = entity.getCodeNumber();
-
-
-        //extract placeholder head and relation
-        Sentence questionSentence = doc.getQuestion().getSentence();
-        edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence questionParse = questionSentence.getDependencyParse(lp, gsf, semafor);
-        List<Token> tokens = questionParse.getTokens();
-        Integer placeholderHead = 0;
-        findPlaceholder:
-        for (Token token : tokens) {
-            String word = token.getForm();
-            //System.out.println(token.getId() + "\t" + token.getForm()+ "\t" + token.getHead() + "\t" + token.getDeprel());
-            if (word.equals("placeholder")) {
-                placeholderHead = token.getHead();
-                break findPlaceholder;
-            }
-        }
-
-        //what if the placeholder is the root?
-        if (placeholderHead==0) {
-            //Then we get no info from looking at what its head is, so return 0 indiscriminately
-            return 0.0;
-        }
-
-        //extract entity head and relation in different sentences
-        Token head = tokens.get(placeholderHead-1);
-        String placeholderHeadForm = head.getForm();
-        //if the head is "entity," that also gives us no useful information
-        if (placeholderHeadForm.equals("entity")) {
-            return 0.0;
-        }
 
         // calculate score as (number of sentences in which entity has same head as placeholder) / (number of sentences including entity)
         //check each sentence for whether it contains the target entity
@@ -70,7 +41,7 @@ public class DependecyScorer extends Scorer {
 
                 //identify entity in sentence matching target
                 int entityIndex = sentenceEntities.indexOf(entityCode);
-                tokens = dependencyParse.getTokens();
+                List<Token> tokens = dependencyParse.getTokens();
                 int numEntitiesSeen = 0;
                 Integer entityHead = 0;
 
@@ -92,7 +63,7 @@ public class DependecyScorer extends Scorer {
                 if (entityHead!=0) {
                     Token entityHeadToken = tokens.get(entityHead - 1);
                     String entityHeadForm = entityHeadToken.getForm();
-                    if (entityHeadForm.equals(placeholderHeadForm)) {
+                    if (entityHeadForm.equals(this.placeholderHead)) {
                         //TODO compare heads semantically
                         return 1.0;
                     }
@@ -105,5 +76,41 @@ public class DependecyScorer extends Scorer {
         return 0.0;
     }
 
-    public void initializeScorer(Document document){return;}
+    public void initializeScorer(Document document){
+        this.placeholderHead = "";
+
+        //extract placeholder head and relation
+        Sentence questionSentence = document.getQuestion().getSentence();
+        edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence questionParse = questionSentence.getDependencyParse(lp, gsf, semafor);
+        List<Token> tokens = questionParse.getTokens();
+        Integer placeholderHead = 0;
+        findPlaceholder:
+        for (Token token : tokens) {
+            String word = token.getForm();
+            //System.out.println(token.getId() + "\t" + token.getForm()+ "\t" + token.getHead() + "\t" + token.getDeprel());
+            if (word.equals("placeholder")) {
+                placeholderHead = token.getHead();
+                break findPlaceholder;
+            }
+        }
+
+        //what if the placeholder is the root?
+        if (placeholderHead==0) {
+            //Then we get no info from looking at what its head is, so return 0 indiscriminately
+            this.placeholderHead = "";
+            return;
+        }
+
+        //extract entity head and relation in different sentences
+        Token head = tokens.get(placeholderHead-1);
+        String placeholderHeadForm = head.getForm();
+        //if the head is "entity," that also gives us no useful information
+        if (placeholderHeadForm.equals("entity")) {
+            this.placeholderHead = "";
+            return;
+        }
+
+        //remember placeholder for the document
+        this.placeholderHead = placeholderHeadForm;
+    }
 }
