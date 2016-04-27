@@ -3,6 +3,6 @@
 *~
 target/*
 src/main/resources/semafor_models/*
-src/main/resources/word2vec_models/*
+src/main/resources/wordVector/*
 **/.idea
 **.iml
