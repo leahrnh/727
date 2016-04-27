@@ -1,31 +1,27 @@
 import edu.cmu.cs.lti.ark.fn.Semafor;
 import edu.cmu.cs.lti.ark.fn.data.prep.formats.Token;
-import edu.cmu.cs.lti.ark.fn.parsing.SemaforParseResult;
 import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
 import edu.stanford.nlp.trees.GrammaticalStructureFactory;
-import edu.stanford.nlp.trees.TreebankLanguagePack;
 import org.deeplearning4j.models.word2vec.Word2Vec;
 
-import java.io.File;
-import java.io.IOException;
-import java.net.URISyntaxException;
 import java.util.List;
 
 /**
- * Demo class to show how to incorporate parses into a scorer.
- * Note that sentences will only be parsed once.
+ * Created by shrimai on 4/27/16.
  */
-public class DependecyScorer extends Scorer {
+public class DependecyWordVectorScorer extends Scorer {
 
     private LexicalizedParser lp; //Stanford parser
     private GrammaticalStructureFactory gsf; //Stanford Grammatical Structure Factory
     private Semafor semafor;
     private String placeholderHead;
+    private Word2Vec vec;
 
-    public DependecyScorer(LexicalizedParser lp, GrammaticalStructureFactory gsf, Semafor semafor) {
+    public DependecyWordVectorScorer(LexicalizedParser lp, GrammaticalStructureFactory gsf, Semafor semafor, Word2Vec wordToVec) {
         this.lp = lp;
         this.gsf = gsf;
         this.semafor = semafor;
+        this.vec = wordToVec;
     }
 
     public double getScore(Entity entity, Document doc) {
@@ -59,11 +55,7 @@ public class DependecyScorer extends Scorer {
                 if (entityHead!=0) {
                     Token entityHeadToken = tokens.get(entityHead - 1);
                     String entityHeadForm = entityHeadToken.getForm();
-                    //return semanticComparison(entityHeadForm, this.placeholderHead);
-                    if (entityHeadForm.equals(this.placeholderHead)) {
-                        //TODO compare heads semantically
-                        return 1.0;
-                    }
+                    return vec.similarity(entityHeadForm, this.placeholderHead);
                 }
 
             }

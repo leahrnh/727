@@ -55,7 +55,8 @@ public class ScoreCalculator {
         //scorersList.add(new ScoreWeight<Scorer, Double>(new WordcountScorer(), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new SemaforScorer(lp, gsf, semafor), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new PowerloomScorer(), 1.0));
-        scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyScorer(lp, gsf, semafor, wordToVec), 1.0));
+        //scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyScorer(lp, gsf, semafor), 1.0));
+        scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyWordVectorScorer(lp, gsf, semafor, wordToVec), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new SentenceToVector(DocumentList), 0.3));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new wordCountandVector(wordToVec), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyScorer(lp, gsf, semafor), 1.0));
@@ -63,7 +64,7 @@ public class ScoreCalculator {
     }
 
     private Word2Vec initalizeWord2Vec() {
-        File gModel = new File("/Users/shrimai/Documents/word2vec/GoogleNews-vectors-negative300.bin.gz");
+        File gModel = new File("src/main/resources/wordVector/GoogleNews-vectors-negative300.bin.gz");
         Word2Vec vec = null;
         {
             try {
