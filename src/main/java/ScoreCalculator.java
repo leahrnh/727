@@ -63,7 +63,7 @@ public class ScoreCalculator {
     }
 
     private Word2Vec initalizeWord2Vec() {
-        File gModel = new File("/Users/shrimai/Documents/word2vec/GoogleNews-vectors-negative300.bin.gz");
+        File gModel = new File("src/main/resources/word2vec_models/GoogleNews-vectors-negative300.bin.gz");
         Word2Vec vec = null;
         {
             try {
@@ -155,8 +155,8 @@ public class ScoreCalculator {
         }
 
         //Now that we have all our training examples, train a model
-        //model = new NaiveBayes();
-        model = new Logistic();
+        model = new NaiveBayes();
+        //model = new Logistic();
         try {
             model.buildClassifier(trainingSet);
         } catch (Exception e) {
