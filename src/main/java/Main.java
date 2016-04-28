@@ -11,8 +11,7 @@ public class Main {
 
     public static void main(String[] args) throws ClassNotFoundException, IOException, URISyntaxException {
 
-
-        System.out.println("Starting at " + new Timestamp(new java.util.Date().getTime()));
+        Timestamp startTime = new Timestamp(new java.util.Date().getTime());
 
         //convert input documents to data structures
         String trainDir = args[0];
@@ -28,6 +27,9 @@ public class Main {
         //evaluate(trainDocs);
         System.out.println("\n\nTESTING EVALUATION");
         evaluate(testDocs);
+
+        System.out.println("Started at " + startTime);
+        System.out.println("Finishing at " + new Timestamp(new java.util.Date().getTime()));
     }
 
     /**
@@ -92,7 +94,6 @@ public class Main {
 
         System.out.println("\n\nPercent correct: " + percentCorrect);
         System.out.println("Mean reciprocal rank: " + meanReciprocalRank);
-        System.out.println("Finishing at " + new Timestamp(new java.util.Date().getTime()));
     }
 
 
