@@ -50,10 +50,12 @@ public class Sentence {
 
     private void parseSentence(LexicalizedParser lp, GrammaticalStructureFactory gsf, Semafor semafor) {
         String parseText = text;
-        Pattern pattern = Pattern.compile("@entity[0-9]+");
+        Pattern pattern = Pattern.compile("@entity([0-9]+)");
         Matcher m = pattern.matcher(parseText);
         entityNumbers = new ArrayList<Integer>();
         while (m.find()) {
+            Integer entityNumber = Integer.parseInt(m.group(1));
+            entityNumbers.add(entityNumber);
             String entityCode = m.group();
             parseText = parseText.replaceAll(entityCode, convertCode2Letters(entityCode));
         }

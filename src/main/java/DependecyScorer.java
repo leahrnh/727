@@ -33,6 +33,11 @@ public class DependecyScorer extends Scorer {
         String entityCode = entity.getCode();
         String entityParseCode = Sentence.convertCode2Letters(entityCode);
 
+        //if placeholderHead is empty, we will never find a match, so we can just return 0 for everything
+        if (placeholderHead.equals("")) {
+            return 0.0;
+        }
+
         // calculate score as (number of sentences in which entity has same head as placeholder) / (number of sentences including entity)
         //check each sentence for whether it contains the target entity
         for (Sentence sentence : doc.getPassage().getSentences()) {
@@ -99,7 +104,7 @@ public class DependecyScorer extends Scorer {
         }
 
         //extract entity head and relation in different sentences
-        Token head = tokens.get(placeholderHead-1);
+        Token head = tokens.get(placeholderHead - 1);
         String placeholderHeadForm = head.getForm();
         //if the head is "entity," that also gives us no useful information
         if (placeholderHeadForm.matches("entity[A-Z]+")) {
