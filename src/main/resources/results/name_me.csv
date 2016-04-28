@@ -1,0 +1,6 @@
+filename, correct?, chosen entity, MRR
+/Users/leah/Tulip/CMU/Spring2016/Semantics/727/src/main/resources/tinyTest/0a0b21fe8c09db4f9bb0cc3bd81423dcf88278bb.question,false,@entity0,0.3333333333333333
+/Users/leah/Tulip/CMU/Spring2016/Semantics/727/src/main/resources/tinyTest/0a1c507c76b90a2c321dbfb60d78415ddeae7163.question,true,@entity5,1.0
+/Users/leah/Tulip/CMU/Spring2016/Semantics/727/src/main/resources/tinyTest/0a4d24446d11aa4b1aeec69b526ad9b5dc075ba4.question,false,@entity58,0.027777777777777776
+/Users/leah/Tulip/CMU/Spring2016/Semantics/727/src/main/resources/tinyTest/0a59a3d31e582abc14f9a5f72915ad76c8035139.question,true,@entity7,1.0
+/Users/leah/Tulip/CMU/Spring2016/Semantics/727/src/main/resources/tinyTest/0a6cddc7bece284f16fa89796477903b7c8b3ac5.question,false,@entity63,0.125
