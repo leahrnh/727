@@ -57,7 +57,7 @@ public class Sentence {
             Integer entityNumber = Integer.parseInt(m.group(1));
             entityNumbers.add(entityNumber);
             String entityCode = m.group();
-            parseText = parseText.replaceAll(entityCode, convertCode2Letters(entityCode));
+            parseText = parseText.replaceAll(entityCode, convertCode(entityCode));
         }
         parseText = parseText.replaceAll("@placeholder", "placeholder");
 
@@ -116,19 +116,10 @@ public class Sentence {
         return entityNumbers;
     }
 
-    public static String convertCode2Letters(String code) {
+    public static String convertCode(String code) {
         if (code.matches("@entity[0-9]+")) {
+            code = code.replaceAll("entity", "Entity");
             code = code.replaceAll("@", "");
-            code = code.replaceAll("0", "A");
-            code = code.replaceAll("1", "B");
-            code = code.replaceAll("2", "C");
-            code = code.replaceAll("3", "D");
-            code = code.replaceAll("4", "E");
-            code = code.replaceAll("5", "F");
-            code = code.replaceAll("6", "G");
-            code = code.replaceAll("7", "H");
-            code = code.replaceAll("8", "I");
-            code = code.replaceAll("9", "J");
             return code;
         } else {
             System.err.println("Can't convert code " + code);
@@ -136,22 +127,9 @@ public class Sentence {
         }
     }
 
-    public static String convertCode2Numbers(String code) {
-        if (code.matches("entity[A-J]+")) {
-            code = code.replaceAll("A", "0");
-            code = code.replaceAll("B", "1");
-            code = code.replaceAll("C", "2");
-            code = code.replaceAll("D", "3");
-            code = code.replaceAll("E", "4");
-            code = code.replaceAll("F", "5");
-            code = code.replaceAll("G", "6");
-            code = code.replaceAll("H", "7");
-            code = code.replaceAll("I", "8");
-            code = code.replaceAll("J", "9");
-            return "@" + code;
-        } else {
-            System.err.print("Can't convert code " + code);
-            return "";
+    public void printParse() {
+        for (Token token : dependencyParse.getTokens()) {
+            System.out.println(token.getId()+"\t"+token.getForm()+"\t"+token.getHead());
         }
     }
 }

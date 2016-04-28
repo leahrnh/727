@@ -2,6 +2,7 @@ import org.apache.commons.io.FilenameUtils;
 
 import java.io.*;
 import java.net.URISyntaxException;
+import java.sql.Timestamp;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
@@ -9,6 +10,9 @@ import java.util.Properties;
 public class Main {
 
     public static void main(String[] args) throws ClassNotFoundException, IOException, URISyntaxException {
+
+
+        System.out.println("Starting at " + new Timestamp(new java.util.Date().getTime()));
 
         //convert input documents to data structures
         String trainDir = args[0];
@@ -86,8 +90,9 @@ public class Main {
         double percentCorrect = (double) numCorrect / docs.size();
         double meanReciprocalRank = sumReciprocalRank / docs.size();
 
-        System.out.println("Percent correct: " + percentCorrect);
+        System.out.println("\n\nPercent correct: " + percentCorrect);
         System.out.println("Mean reciprocal rank: " + meanReciprocalRank);
+        System.out.println("Finishing at " + new Timestamp(new java.util.Date().getTime()));
     }
 
 

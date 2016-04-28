@@ -27,7 +27,12 @@ public class DependecyWordVectorScorer extends Scorer {
     public double getScore(Entity entity, Document doc) {
         Integer entityCodeNumber = entity.getCodeNumber();
         String entityCode = entity.getCode();
-        String entityParseCode = Sentence.convertCode2Letters(entityCode);
+        String entityParseCode = Sentence.convertCode(entityCode);
+
+        //if placeholderHead is empty, we will never find a match, so we can just return 0 for everything
+        if (placeholderHead.equals("")) {
+            return 0.0;
+        }
 
         // calculate score as (number of sentences in which entity has same head as placeholder) / (number of sentences including entity)
         //check each sentence for whether it contains the target entity

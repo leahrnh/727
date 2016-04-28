@@ -1,14 +1,8 @@
 import edu.cmu.cs.lti.ark.fn.Semafor;
 import edu.cmu.cs.lti.ark.fn.data.prep.formats.Token;
-import edu.cmu.cs.lti.ark.fn.parsing.SemaforParseResult;
 import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
 import edu.stanford.nlp.trees.GrammaticalStructureFactory;
-import edu.stanford.nlp.trees.TreebankLanguagePack;
-import org.deeplearning4j.models.word2vec.Word2Vec;
 
-import java.io.File;
-import java.io.IOException;
-import java.net.URISyntaxException;
 import java.util.List;
 
 /**
@@ -31,7 +25,7 @@ public class DependecyScorer extends Scorer {
     public double getScore(Entity entity, Document doc) {
         Integer entityCodeNumber = entity.getCodeNumber();
         String entityCode = entity.getCode();
-        String entityParseCode = Sentence.convertCode2Letters(entityCode);
+        String entityParseCode = Sentence.convertCode(entityCode);
 
         //if placeholderHead is empty, we will never find a match, so we can just return 0 for everything
         if (placeholderHead.equals("")) {
@@ -64,6 +58,7 @@ public class DependecyScorer extends Scorer {
                 if (entityHead!=0) {
                     Token entityHeadToken = tokens.get(entityHead - 1);
                     String entityHeadForm = entityHeadToken.getForm();
+                    //System.out.println("Entity " + entityCode + " has head " + entityHeadForm);
                     //return semanticComparison(entityHeadForm, this.placeholderHead);
                     if (entityHeadForm.equals(this.placeholderHead)) {
                         //TODO compare heads semantically
@@ -114,5 +109,7 @@ public class DependecyScorer extends Scorer {
 
         //remember placeholder for the document
         this.placeholderHead = placeholderHeadForm;
+        //questionSentence.printParse();
+        //System.out.println("Placeholder has head " + placeholderHeadForm);
     }
 }
