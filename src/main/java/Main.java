@@ -27,7 +27,7 @@ public class Main {
 
         ScoreCalculator scoreCalculate = new ScoreCalculator(trainDocs, testDocs);
         scoreCalculate.trainWeights();
-        scoreCalculate.setScores();
+        //scoreCalculate.setScores();
         //perform all the evaluation in this method
         //System.out.println("\n\nTRAINING EVALUATION");
         //evaluate(trainDocs, outputName);
