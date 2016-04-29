@@ -3,6 +3,7 @@ import edu.cmu.cs.lti.ark.fn.parsing.SemaforParseResult;
 import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
 import edu.stanford.nlp.trees.GrammaticalStructureFactory;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -21,29 +22,61 @@ public class SemaforScorer extends Scorer {
         this.lp = lp;
         this.gsf = gsf;
         this.semafor = semafor;
+        this.placeholderFrame = "";
+        this.placeholderRole = "";
     }
 
     public double getScore(Entity entity, Document doc) {
-        //Currently not returning a meaningful score. That would be nice, too.
-        return 0;
-    }
-
-    /*private boolean containsWord(String text, String target) {
-        String[] words = text.split("\\s");
-        for (String word : words) {
-            if (word.equals(target)) {
-                return true;
+        double score = 0.0;
+        if (this.placeholderFrame.equals("")) {
+            return score;
+        }
+        Passage passage = doc.getPassage();
+        String entityCode = Sentence.convertCode(entity.getCode());
+        Integer entityCodeNumber = entity.getCodeNumber();
+        for (Sentence sentence : passage.getSentences()) {
+            //if the sentence does contain the entity, find its head, and see if it matches the head of placeholder
+            edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence dependencyParse = sentence.getDependencyParse(lp, gsf, semafor); //using this as a setter method even though it really isn't
+            if (sentence.getEntityNumbers().contains(entityCodeNumber)) {
+                List<String> frameAndRole = findFrameAndRole(sentence, entityCode);
+                String entityFrame = frameAndRole.get(0);
+                String entityRole = frameAndRole.get(1);
+                if (!entityFrame.equals("")) {
+                    System.out.println(entityCode + " has role " + entityRole + " in frame " + entityFrame);
+                }
+                if (this.placeholderRole.equals(entityRole)) {
+                    score += 1;
+                    System.out.println(doc.getId());
+                    System.out.println("**Found match between placeholder and " + entityCode + " role " + entityRole);
+                    if (this.placeholderFrame.equals(entityFrame)) {
+                        score += 1;
+                        System.out.println(doc.getId());
+                        System.out.println("****Found match between placeholder and " + entityCode + " frame " + entityFrame);
+                    }
+                }
             }
         }
-        return false;
-    }*/
+        return score;
+    }
 
     public void initializeScorer(Document document){
-        this.placeholderFrame = "";
-        this.placeholderRole = "";
         Sentence questionSentence = document.getQuestion().getSentence();
-        edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence questionParse = questionSentence.getDependencyParse(lp, gsf, semafor);
-        SemaforParseResult questionSemafor = questionSentence.getSemaforParse(lp, gsf, semafor);
+        List<String> frameAndRole = findFrameAndRole(questionSentence, "placeholder");
+        this.placeholderFrame = frameAndRole.get(0);
+        this.placeholderRole = frameAndRole.get(1);
+
+
+        if (this.placeholderFrame.equals("")) {
+            System.out.println("No role for placeholder");
+        } else {
+            System.out.println("placeholder has role " + this.placeholderRole + " in frame " + this.placeholderFrame);
+        }
+    }
+
+    private List<String> findFrameAndRole(Sentence sentence, String targetWord) {
+        SemaforParseResult questionSemafor = sentence.getSemaforParse(lp, gsf, semafor);
+        String foundFrame = "";
+        String foundRole = "";
 
         for (SemaforParseResult.Frame frame : questionSemafor.frames) {
             SemaforParseResult.Frame.NamedSpanSet target = frame.target;
@@ -53,9 +86,9 @@ public class SemaforScorer extends Scorer {
                 //System.out.println("\tText: " + span.text);
                 //System.out.println("\tStart: " + span.start);
                 //System.out.println("\tEnd: " + span.end);
-                if (span.text.equals("placeholder")) {
-                    this.placeholderFrame = target.name;
-                    this.placeholderRole = target.name;
+                if (span.text.equals(targetWord)) {
+                    foundFrame = target.name;
+                    foundRole = target.name;
                 }
             }
             List<SemaforParseResult.Frame.ScoredRoleAssignment> scoredRoleAssignments = frame.annotationSets;
@@ -68,18 +101,19 @@ public class SemaforScorer extends Scorer {
                         //System.out.println("\t\tText: " + span.text);
                         //System.out.println("\t\tStart: " + span.start);
                         //System.out.println("\t\tEnd: " + span.end);
-                        if (span.text.equals("placeholder")) {
-                            this.placeholderFrame = target.name;
-                            this.placeholderRole = namedSpanSet.name;
+                        if (span.text.equals(targetWord)) {
+                            foundFrame = target.name;
+                            foundRole = namedSpanSet.name;
                         }
                     }
                 }
             }
         }
-        /*if (this.placeholderFrame.equals("")) {
-            System.out.println("No role for placeholder");
-        } else {
-            System.out.println("Placeholder has role " + this.placeholderRole + " in frame " + this.placeholderFrame);
-        }*/
+
+        List<String> answer = new ArrayList<String>();
+        answer.add(foundFrame);
+        answer.add(foundRole);
+
+        return answer;
     }
 }
