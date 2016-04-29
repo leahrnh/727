@@ -13,26 +13,39 @@ public class Main {
 
         Timestamp startTime = new Timestamp(new java.util.Date().getTime());
 
+        String trainDir = args[1];
+        String testDir = args[2];
+
         //convert input documents to data structures
-        String trainDir = args[0];
-        String testDir = args[1];
         List<Document> trainDocs = getData(trainDir);
         List<Document> testDocs = getData(testDir);
 
-        //name output
-        String outputName = "name_me";
-        if (args.length > 2) {
-            outputName = args[2];
-        }
-
         ScoreCalculator scoreCalculate = new ScoreCalculator(trainDocs, testDocs);
+
         scoreCalculate.trainWeights();
         //scoreCalculate.setScores();
         //perform all the evaluation in this method
         //System.out.println("\n\nTRAINING EVALUATION");
         //evaluate(trainDocs, outputName);
         System.out.println("\n\nTESTING EVALUATION");
-        evaluate(testDocs, outputName);
+
+
+        if (args[0].equals("train")) {
+            scoreCalculate.trainWeights();
+
+        } else if (args[0].equals("test")) {
+            //name output
+            String outputName = "name_me";
+            if (args.length > 3) {
+                outputName = args[3];
+            }
+            scoreCalculate.setScores();
+            System.out.println("\n\nTESTING EVALUATION");
+            evaluate(testDocs, outputName);
+        } else {
+            System.err.println("Cannot deal with argument " + args[0]);
+        }
+
 
         System.out.println("Started at " + startTime);
         System.out.println("Finishing at " + new Timestamp(new java.util.Date().getTime()));
