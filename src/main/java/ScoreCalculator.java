@@ -10,7 +10,9 @@ import weka.classifiers.functions.Logistic;
 import weka.core.*;
 
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.ObjectInputStream;
 import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.List;
@@ -24,7 +26,7 @@ public class ScoreCalculator {
     private static List<Document> TrainDocumentList;
     private static List<Document> TestDocumentList;
     private List<Double> weights;
-    private Classifier model;
+
     private Instances trainingSet;
 
     class ScoreWeight<S, W> {
@@ -49,17 +51,17 @@ public class ScoreCalculator {
         LexicalizedParser lp = initializeLP(); //Stanford parser
         GrammaticalStructureFactory gsf = initializeGSF(lp); //Stanford Grammatical Structure Factory
         Semafor semafor = initializeSemafor(); //Semafor
-        //Word2Vec wordToVec = initalizeWord2Vec();
+        Word2Vec wordToVec = initalizeWord2Vec();
 
         //set up scorers
         //scorersList.add(new ScoreWeight<Scorer, Double>(new WordcountScorer(), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new SemaforScorer(lp, gsf, semafor), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new PowerloomScorer(), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyScorer(lp, gsf, semafor), 1.0));
-        //scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyWordVectorScorer(lp, gsf, semafor, wordToVec), 1.0));
+        scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyWordVectorScorer(lp, gsf, semafor, wordToVec), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new SentenceToVector(DocumentList), 0.3));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new wordCountandVector(wordToVec), 1.0));
-        scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyScorer(lp, gsf, semafor), 1.0));
+        //scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyScorer(lp, gsf, semafor), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new SentenceToVector(TrainDocumentList), 0.3));
     }
 
@@ -156,17 +158,36 @@ public class ScoreCalculator {
         }
 
         //Now that we have all our training examples, train a model
-        model = new NaiveBayes();
-        //model = new Logistic();
+        Classifier model = new Logistic();
         try {
             model.buildClassifier(trainingSet);
+            Debug.saveToFile("src/main/resources/wekaModels/depWordVec.model", model);
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
+    private static Classifier loadModel() throws Exception {
+
+        Classifier classifier;
+
+        FileInputStream fis = new FileInputStream("src/main/resources/wekaModels/depWordVec.model");
+        ObjectInputStream ois = new ObjectInputStream(fis);
+
+        classifier = (Classifier) ois.readObject();
+        ois.close();
+
+        return classifier;
+    }
+
     public void setScores() {
         int n = 1;
+        Classifier model = null;
+        try {
+            model = loadModel();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
 
         //set up Weka feature vector
         int numScorers = scorersList.size();
