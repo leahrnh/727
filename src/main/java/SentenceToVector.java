@@ -25,14 +25,14 @@ public class SentenceToVector extends Scorer{
     }
 
     public SentenceToVector(List<Document> documentList) {
-        for (Document doc : documentList) {
+        /*for (Document doc : documentList) {
             String file_id = doc.getId();
             String questionSentence = doc.getQuestion().getText();
             List<Sentence> candidateSentences = doc.getPassage().getSentences();
             writeSentences(file_id, candidateSentences, questionSentence);
         }
         String command = "python /Users/shrimai/skipVector/skip-thoughts/semantic_score.py";
-        /*try {
+        try {
             // PRINT : Running the Python Module
             System.out.println("Running the python command");
             Process process = Runtime.getRuntime().exec(command);
@@ -56,7 +56,7 @@ public class SentenceToVector extends Scorer{
 
         for (int i = 0; i < all_score.size(); i++){
             if (all_score.get(i).sentence.contains(current_entity)) {
-                System.out.println();
+                //System.out.println();
                 return all_score.get(i).score/5.0;
             }
         }
