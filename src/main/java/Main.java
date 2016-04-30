@@ -32,7 +32,6 @@ public class Main {
 
         if (args[0].equals("train")) {
             scoreCalculate.trainWeights();
-
         } else if (args[0].equals("test")) {
             //name output
             String outputName = "name_me";
@@ -42,7 +41,18 @@ public class Main {
             scoreCalculate.setScores();
             System.out.println("\n\nTESTING EVALUATION");
             evaluate(testDocs, outputName);
-        } else {
+        } else if (args[0].equals("traintest")) {
+            scoreCalculate.trainWeights();
+            //name output
+            String outputName = "name_me";
+            if (args.length > 3) {
+                outputName = args[3];
+            }
+            scoreCalculate.setScores();
+            System.out.println("\n\nTESTING EVALUATION");
+            evaluate(testDocs, outputName);
+        }
+        else {
             System.err.println("Cannot deal with argument " + args[0]);
         }
 
