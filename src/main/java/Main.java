@@ -22,6 +22,14 @@ public class Main {
 
         ScoreCalculator scoreCalculate = new ScoreCalculator(trainDocs, testDocs);
 
+        scoreCalculate.trainWeights();
+        //scoreCalculate.setScores();
+        //perform all the evaluation in this method
+        //System.out.println("\n\nTRAINING EVALUATION");
+        //evaluate(trainDocs, outputName);
+        System.out.println("\n\nTESTING EVALUATION");
+
+
         if (args[0].equals("train")) {
             scoreCalculate.trainWeights();
 
@@ -37,6 +45,7 @@ public class Main {
         } else {
             System.err.println("Cannot deal with argument " + args[0]);
         }
+
 
         System.out.println("Started at " + startTime);
         System.out.println("Finishing at " + new Timestamp(new java.util.Date().getTime()));
