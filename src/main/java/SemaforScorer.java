@@ -7,8 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Demo class to show how to incorporate parses into a scorer.
- * Note that sentences will only be parsed once.
+ * Parse sentences using Semafor and compare frames and roles
  */
 public class SemaforScorer extends Scorer {
 
@@ -41,17 +40,15 @@ public class SemaforScorer extends Scorer {
                 List<String> frameAndRole = findFrameAndRole(sentence, entityCode);
                 String entityFrame = frameAndRole.get(0);
                 String entityRole = frameAndRole.get(1);
-                if (!entityFrame.equals("")) {
-                    System.out.println(entityCode + " has role " + entityRole + " in frame " + entityFrame);
-                }
+
                 if (this.placeholderRole.equals(entityRole)) {
                     score += 1;
-                    System.out.println(doc.getId());
-                    System.out.println("**Found match between placeholder and " + entityCode + " role " + entityRole);
+                    //System.out.println(doc.getId());
+                    //System.out.println("**Found match between placeholder and " + entityCode + " role " + entityRole);
                     if (this.placeholderFrame.equals(entityFrame)) {
                         score += 1;
-                        System.out.println(doc.getId());
-                        System.out.println("****Found match between placeholder and " + entityCode + " frame " + entityFrame);
+                        //System.out.println(doc.getId());
+                        //System.out.println("****Found match between placeholder and " + entityCode + " frame " + entityFrame);
                     }
                 }
             }
@@ -66,11 +63,11 @@ public class SemaforScorer extends Scorer {
         this.placeholderRole = frameAndRole.get(1);
 
 
-        if (this.placeholderFrame.equals("")) {
+        /*if (this.placeholderFrame.equals("")) {
             System.out.println("No role for placeholder");
         } else {
             System.out.println("placeholder has role " + this.placeholderRole + " in frame " + this.placeholderFrame);
-        }
+        }*/
     }
 
     private List<String> findFrameAndRole(Sentence sentence, String targetWord) {
