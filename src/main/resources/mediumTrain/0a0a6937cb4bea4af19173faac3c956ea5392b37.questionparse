@@ -1,0 +1,15 @@
+1	placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	made	_	VERB	VBD	_	0	root	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	reference	_	NOUN	NN	_	2	dobj	_	_
+5	as	_	ADP	IN	_	6	case	_	_
+6	part	_	NOUN	NN	_	2	nmod	_	_
+7	of	_	ADP	IN	_	8	case	_	_
+8	remarks	_	NOUN	NNS	_	6	nmod	_	_
+9	condemning	_	VERB	VBG	_	2	xcomp	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	president	_	NOUN	NN	_	14	nmod:poss	_	_
+12	's	_	PART	POS	_	11	case	_	_
+13	immigration	_	NOUN	NN	_	14	compound	_	_
+14	plan	_	NOUN	NN	_	9	dobj	_	_
+

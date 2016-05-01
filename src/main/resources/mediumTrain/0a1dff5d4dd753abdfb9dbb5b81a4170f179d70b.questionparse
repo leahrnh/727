@@ -1,0 +1,15 @@
+1	writers	_	NOUN	NNS	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	Entity8	_	NOUN	NNS	_	4	nsubj	_	_
+4	won	_	VERB	VBD	_	1	appos	_	_
+5	approval	_	NOUN	NN	_	4	dobj	_	_
+6	of	_	ADP	IN	_	7	case	_	_
+7	Entity10	_	NOUN	NNS	_	5	nmod	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	placeholder	_	NOUN	NN	_	7	conj	_	_
+10	and	_	CONJ	CC	_	7	cc	_	_
+11	president	_	NOUN	NN	_	7	conj	_	_
+12	who	_	PRON	WP	_	13	nsubj	_	_
+13	won	_	VERB	VBD	_	5	acl:relcl	_	_
+14	reelection	_	NOUN	NN	_	13	dobj	_	_
+

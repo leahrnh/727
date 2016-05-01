@@ -34,6 +34,7 @@ public class SemaforScorer extends Scorer {
             String entityFrame = frameAndRole.get(0);
             String entityRole = frameAndRole.get(1);
 
+            //System.out.println(entityCode + " role " + entityRole);
             if (this.placeholderRole.equals(entityRole)) {
                 score += 1;
                 //System.out.println(doc.getId());
@@ -41,10 +42,13 @@ public class SemaforScorer extends Scorer {
                 if (this.placeholderFrame.equals(entityFrame)) {
                     score += 1;
                     //System.out.println(doc.getId());
-                    //System.out.println("****Found match between placeholder and " + entityCode + " frame " + entityFrame);
+                    //System.out.println("**Found match between placeholder and " + entityCode + " frame " + entityFrame);
                 }
+                //System.out.println("****" + doc.getId());
+                //System.out.println("Found match with " + entityCode);
             }
         }
+        //System.out.println("Score for " + entityCode + ": " + score);
         return score;
     }
 

@@ -1,0 +1,12 @@
+1	the	_	DET	DT	_	4	det	_	_
+2	newly	_	ADV	RB	_	3	advmod	_	_
+3	independent	_	ADJ	JJ	_	4	amod	_	_
+4	country	_	NOUN	NN	_	8	nsubj	_	_
+5	of	_	ADP	IN	_	6	case	_	_
+6	placeholder	_	NOUN	NN	_	4	nmod	_	_
+7	is	_	AUX	VBZ	_	8	aux	_	_
+8	facing	_	VERB	VBG	_	0	root	_	_
+9	a	_	DET	DT	_	11	det	_	_
+10	refugee	_	NOUN	NN	_	11	compound	_	_
+11	crisis	_	NOUN	NN	_	8	dobj	_	_
+

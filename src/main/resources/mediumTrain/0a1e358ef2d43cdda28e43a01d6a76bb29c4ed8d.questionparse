@@ -1,0 +1,12 @@
+1	placeholder	_	NOUN	NN	_	3	compound	_	_
+2	artist	_	NOUN	NN	_	3	compound	_	_
+3	Entity11	_	NOUN	NNS	_	8	nmod:poss	_	_
+4	's	_	PART	POS	_	3	case	_	_
+5	giant	_	NOUN	NN	_	8	compound	_	_
+6	rubber	_	NOUN	NN	_	8	compound	_	_
+7	duck	_	NOUN	NN	_	8	compound	_	_
+8	tour	_	NOUN	NN	_	9	nsubj	_	_
+9	arrives	_	VERB	VBZ	_	0	root	_	_
+10	in	_	ADP	IN	_	11	case	_	_
+11	Entity4	_	NOUN	NNS	_	9	nmod	_	_
+

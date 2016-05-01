@@ -1,0 +1,13 @@
+1	two	_	NUM	CD	_	2	nummod	_	_
+2	polls	_	NOUN	NNS	_	5	nsubj	_	_
+3	released	_	VERB	VBN	_	2	acl	_	_
+4	sunday	_	PROPN	NNP	_	3	nmod:tmod	_	_
+5	showed	_	VERB	VBD	_	0	root	_	_
+6	the	_	DET	DT	_	9	det	_	_
+7	placeholder	_	NOUN	NN	_	9	compound	_	_
+8	senate	_	NOUN	NN	_	9	compound	_	_
+9	race	_	NOUN	NN	_	5	iobj	_	_
+10	a	_	DET	DT	_	12	det	_	_
+11	dead	_	ADJ	JJ	_	12	amod	_	_
+12	heat	_	NOUN	NN	_	5	dobj	_	_
+

@@ -1,0 +1,8 @@
+1	placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	died	_	VERB	VBD	_	0	root	_	_
+3	tuesday	_	PROPN	NNP	_	2	dobj	_	_
+4	of	_	ADP	IN	_	7	case	_	_
+5	colon	_	NOUN	NN	_	7	compound	_	_
+6	cancer	_	NOUN	NN	_	7	compound	_	_
+7	complications	_	NOUN	NNS	_	3	nmod	_	_
+

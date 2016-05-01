@@ -119,7 +119,7 @@ public class Document {
             parseText = parseText.replaceAll(entityCode, Sentence.convertCode(entityCode));
         }
         //sentence.setEntityNumbers(entityNumbers);
-        //parseText = parseText.replaceAll("@placeholder", "placeholder");
+        parseText = parseText.replaceAll("@placeholder", "placeholder");
 
         //Dependency parse
         String conllDependencyParse;

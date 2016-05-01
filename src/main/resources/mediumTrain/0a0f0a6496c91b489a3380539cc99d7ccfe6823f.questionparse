@@ -1,0 +1,10 @@
+1	memo	_	NOUN	NN	_	2	nsubj	_	_
+2	written	_	VERB	VBN	_	0	root	_	_
+3	by	_	ADP	IN	_	7	case	_	_
+4	maj.	_	PROPN	NNP	_	5	compound	_	_
+5	Entity3	_	PROPN	NNP	_	7	nmod:poss	_	_
+6	's	_	PART	POS	_	5	case	_	_
+7	supervisor	_	NOUN	NN	_	2	nmod	_	_
+8	at	_	ADP	IN	_	9	case	_	_
+9	placeholder	_	NOUN	NN	_	2	nmod	_	_
+
