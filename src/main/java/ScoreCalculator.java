@@ -56,7 +56,6 @@ public class ScoreCalculator {
         //scorersList.add(new ScoreWeight<Scorer, Double>(new PowerloomScorer(), 1.0));
         scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyScorer(), 1.0));
         scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyWordVectorScorer(wordToVec), 1.0));
-        //scorersList.add(new ScoreWeight<Scorer, Double>(new SentenceToVector(DocumentList), 0.3));
         scorersList.add(new ScoreWeight<Scorer, Double>(new wordCountandVector(wordToVec), 1.0));
         scorersList.add(new ScoreWeight<Scorer, Double>(new SentenceToVector(TrainDocumentList), 0.3));
     }

@@ -54,17 +54,15 @@ public class SentenceToVector extends Scorer{
     public double getScore(Entity entity, Document doc) {
         String current_entity = entity.getCode().toLowerCase();
         double temp = 0.0;
-        int count = 0;
         for (int i = 0; i < all_score.size(); i++){
             if (all_score.get(i).sentence.contains(current_entity)) {
                 //System.out.println();
-                //count += 1;
-                //temp += all_score.get(i).score/5.0;
-                return all_score.get(i).score/5.0;
+                temp += all_score.get(i).score/5.0;
+                //return all_score.get(i).score/5.0;
             }
         }
-        //return temp/count;
-        return 0;
+        return temp;
+        //return 0;
     }
     
     public void initializeScorer(Document document){
