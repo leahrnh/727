@@ -1,3 +1,7 @@
+import edu.cmu.cs.lti.ark.fn.Semafor;
+import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
+import edu.stanford.nlp.trees.GrammaticalStructureFactory;
+import edu.stanford.nlp.trees.TreebankLanguagePack;
 import org.apache.commons.io.FilenameUtils;
 
 import java.io.*;
@@ -9,6 +13,10 @@ import java.util.Properties;
 
 public class Main {
 
+    private static LexicalizedParser lp;
+    private static GrammaticalStructureFactory gsf;
+    private static Semafor semafor;
+
     public static void main(String[] args) throws ClassNotFoundException, IOException, URISyntaxException {
 
         Timestamp startTime = new Timestamp(new java.util.Date().getTime());
@@ -16,19 +24,16 @@ public class Main {
         String trainDir = args[1];
         String testDir = args[2];
 
+
+        lp = initializeLP(); //Stanford parser
+        gsf = initializeGSF(lp); //Stanford Grammatical Structure Factory
+        semafor = initializeSemafor(); //Semafor
+
         //convert input documents to data structures
         List<Document> trainDocs = getData(trainDir);
         List<Document> testDocs = getData(testDir);
 
         ScoreCalculator scoreCalculate = new ScoreCalculator(trainDocs, testDocs);
-
-        scoreCalculate.trainWeights();
-        //scoreCalculate.setScores();
-        //perform all the evaluation in this method
-        //System.out.println("\n\nTRAINING EVALUATION");
-        //evaluate(trainDocs, outputName);
-        System.out.println("\n\nTESTING EVALUATION");
-
 
         if (args[0].equals("train")) {
             scoreCalculate.trainWeights();
@@ -76,7 +81,7 @@ public class Main {
             if (file.isFile() && ext.equals("question")) {
                 // PRINT :File names Read
                 System.out.println("Filename: " + file.getName());
-                Document d = new Document(file.getAbsolutePath());
+                Document d = new Document(file.getAbsolutePath(), lp, gsf, semafor);
                 docs.add(d);
             }
         }
@@ -141,6 +146,37 @@ public class Main {
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    private static GrammaticalStructureFactory initializeGSF(LexicalizedParser lp) {
+        GrammaticalStructureFactory gsf = null;
+        TreebankLanguagePack tlp = lp.treebankLanguagePack(); // a PennTreebankLanguagePack for English
+        if (tlp.supportsGrammaticalStructures()) {
+            gsf = tlp.grammaticalStructureFactory();
+        }
+        return gsf;
+    }
+
+
+    private static LexicalizedParser initializeLP() {
+        LexicalizedParser lp = LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz");
+        return lp;
+    }
+
+    private static Semafor initializeSemafor() {
+        File modelsLocation = new File("src/main/resources/semafor_models");
+        String modelsDir = modelsLocation.getAbsolutePath();
+        try {
+            Semafor semafor = Semafor.getSemaforInstance(modelsDir);
+            return semafor;
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        } catch (URISyntaxException e) {
+            e.printStackTrace();
+        }
+        return null;
     }
 
 

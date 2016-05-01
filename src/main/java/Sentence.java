@@ -1,25 +1,11 @@
-import edu.cmu.cs.lti.ark.fn.Semafor;
-import edu.cmu.cs.lti.ark.fn.data.prep.formats.SentenceCodec;
 import edu.cmu.cs.lti.ark.fn.data.prep.formats.Token;
 import edu.cmu.cs.lti.ark.fn.parsing.SemaforParseResult;
-import edu.stanford.nlp.ling.HasWord;
-import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
-import edu.stanford.nlp.process.DocumentPreprocessor;
-import edu.stanford.nlp.trees.GrammaticalStructure;
-import edu.stanford.nlp.trees.GrammaticalStructureFactory;
-import edu.stanford.nlp.trees.Tree;
 
-import java.io.*;
-import java.util.ArrayList;
 import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
-import static edu.cmu.cs.lti.ark.fn.data.prep.formats.SentenceCodec.ConllCodec;
 
 public class Sentence {
     private String text;
-    private List<Integer> entityNumbers;
+    //private List<Integer> entityNumbers;
     private edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence dependencyParse;
     private SemaforParseResult semaforParse;
 
@@ -34,21 +20,23 @@ public class Sentence {
     /**
      * Get the Turbo-parsed version of the sentence. This includes tokens, parts of speech, dependency tags
      */
-    public edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence getDependencyParse(LexicalizedParser lp, GrammaticalStructureFactory gsf, Semafor semafor) {
-        if (dependencyParse ==null) {
-            parseSentence(lp, gsf, semafor);
-        }
+    public edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence getDependencyParse() {
         return dependencyParse;
     }
 
-    public SemaforParseResult getSemaforParse(LexicalizedParser lp, GrammaticalStructureFactory gsf, Semafor semafor) {
-        if (semaforParse==null) {
-            parseSentence(lp, gsf, semafor);
-        }
+    public SemaforParseResult getSemaforParse() {
         return semaforParse;
     }
 
-    private void parseSentence(LexicalizedParser lp, GrammaticalStructureFactory gsf, Semafor semafor) {
+    public void setDependencyParse(edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence dependencyParse) {
+        this.dependencyParse = dependencyParse;
+    }
+
+    public void setSemaforParse(SemaforParseResult semaforParse) {
+        this.semaforParse = semaforParse;
+    }
+
+    /*private void parseSentence(LexicalizedParser lp, GrammaticalStructureFactory gsf, Semafor semafor) {
         String parseText = text;
         Pattern pattern = Pattern.compile("@entity([0-9]+)");
         Matcher m = pattern.matcher(parseText);
@@ -115,6 +103,10 @@ public class Sentence {
     public List<Integer> getEntityNumbers() {
         return entityNumbers;
     }
+
+    public void setEntityNumbers(List<Integer> entityNumbers) {
+        this.entityNumbers = entityNumbers;
+    }*/
 
     public static String convertCode(String code) {
         if (code.matches("@entity[0-9]+")) {

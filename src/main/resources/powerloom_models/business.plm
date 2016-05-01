@@ -12,7 +12,7 @@
   :documentation "Module for the Business demo example used in the PowerLoom Manual."
   :includes ("PL-USER"))
 
-(in-module "BUSINESS")
+(in-modsule "BUSINESS")
 
 ;; clear any info from previous runs:
 (clear-module "BUSINESS")

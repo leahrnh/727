@@ -11,16 +11,10 @@ import java.util.List;
  */
 public class SemaforScorer extends Scorer {
 
-    private LexicalizedParser lp; //Stanford parser
-    private GrammaticalStructureFactory gsf; //Stanford Grammatical Structure Factory
-    private Semafor semafor;
     private String placeholderFrame;
     private String placeholderRole;
 
-    public SemaforScorer(LexicalizedParser lp, GrammaticalStructureFactory gsf, Semafor semafor) {
-        this.lp = lp;
-        this.gsf = gsf;
-        this.semafor = semafor;
+    public SemaforScorer() {
         this.placeholderFrame = "";
         this.placeholderRole = "";
     }
@@ -35,21 +29,19 @@ public class SemaforScorer extends Scorer {
         Integer entityCodeNumber = entity.getCodeNumber();
         for (Sentence sentence : passage.getSentences()) {
             //if the sentence does contain the entity, find its head, and see if it matches the head of placeholder
-            edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence dependencyParse = sentence.getDependencyParse(lp, gsf, semafor); //using this as a setter method even though it really isn't
-            if (sentence.getEntityNumbers().contains(entityCodeNumber)) {
-                List<String> frameAndRole = findFrameAndRole(sentence, entityCode);
-                String entityFrame = frameAndRole.get(0);
-                String entityRole = frameAndRole.get(1);
+            edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence dependencyParse = sentence.getDependencyParse(); //using this as a setter method even though it really isn't
+            List<String> frameAndRole = findFrameAndRole(sentence, entityCode);
+            String entityFrame = frameAndRole.get(0);
+            String entityRole = frameAndRole.get(1);
 
-                if (this.placeholderRole.equals(entityRole)) {
+            if (this.placeholderRole.equals(entityRole)) {
+                score += 1;
+                //System.out.println(doc.getId());
+                //System.out.println("**Found match between placeholder and " + entityCode + " role " + entityRole);
+                if (this.placeholderFrame.equals(entityFrame)) {
                     score += 1;
                     //System.out.println(doc.getId());
-                    //System.out.println("**Found match between placeholder and " + entityCode + " role " + entityRole);
-                    if (this.placeholderFrame.equals(entityFrame)) {
-                        score += 1;
-                        //System.out.println(doc.getId());
-                        //System.out.println("****Found match between placeholder and " + entityCode + " frame " + entityFrame);
-                    }
+                    //System.out.println("****Found match between placeholder and " + entityCode + " frame " + entityFrame);
                 }
             }
         }
@@ -71,7 +63,7 @@ public class SemaforScorer extends Scorer {
     }
 
     private List<String> findFrameAndRole(Sentence sentence, String targetWord) {
-        SemaforParseResult questionSemafor = sentence.getSemaforParse(lp, gsf, semafor);
+        SemaforParseResult questionSemafor = sentence.getSemaforParse();
         String foundFrame = "";
         String foundRole = "";
 

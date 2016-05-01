@@ -11,15 +11,9 @@ import java.util.List;
  */
 public class DependecyScorer extends Scorer {
 
-    private LexicalizedParser lp; //Stanford parser
-    private GrammaticalStructureFactory gsf; //Stanford Grammatical Structure Factory
-    private Semafor semafor;
     private String placeholderHead;
 
-    public DependecyScorer(LexicalizedParser lp, GrammaticalStructureFactory gsf, Semafor semafor) {
-        this.lp = lp;
-        this.gsf = gsf;
-        this.semafor = semafor;
+    public DependecyScorer() {
     }
 
     public double getScore(Entity entity, Document doc) {
@@ -35,38 +29,33 @@ public class DependecyScorer extends Scorer {
         // calculate score as (number of sentences in which entity has same head as placeholder) / (number of sentences including entity)
         //check each sentence for whether it contains the target entity
         for (Sentence sentence : doc.getPassage().getSentences()) {
-            edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence dependencyParse = sentence.getDependencyParse(lp, gsf, semafor);
-            List<Integer> sentenceEntities = sentence.getEntityNumbers();
+            edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence dependencyParse = sentence.getDependencyParse();
 
-            //if the sentence does contain the entity, find its head, and see if it matches the head of placeholder
-            if (sentenceEntities.contains(entityCodeNumber)) {
+            //identify entity in sentence matching target
+            List<Token> tokens = dependencyParse.getTokens();
+            Integer entityHead = 0;
 
-                //identify entity in sentence matching target
-                List<Token> tokens = dependencyParse.getTokens();
-                Integer entityHead = 0;
-
-                findTargetEntity:
-                for (Token token : tokens) {
-                    if (token.getForm().equals(entityParseCode)) {
-                        //found our entity!
-                        entityHead = token.getHead();
-                        break findTargetEntity;
-                    }
+            findTargetEntity:
+            for (Token token : tokens) {
+                if (token.getForm().equals(entityParseCode)) {
+                    //found our entity!
+                    entityHead = token.getHead();
+                    break findTargetEntity;
                 }
-
-                //compare entity head to placeholder head, and give a point if they match
-                if (entityHead!=0) {
-                    Token entityHeadToken = tokens.get(entityHead - 1);
-                    String entityHeadForm = entityHeadToken.getForm();
-                    //System.out.println("Entity " + entityCode + " has head " + entityHeadForm);
-                    //return semanticComparison(entityHeadForm, this.placeholderHead);
-                    if (entityHeadForm.equals(this.placeholderHead)) {
-                        //TODO compare heads semantically
-                        return 1.0;
-                    }
-                }
-
             }
+
+            //compare entity head to placeholder head, and give a point if they match
+            if (entityHead != 0) {
+                Token entityHeadToken = tokens.get(entityHead - 1);
+                String entityHeadForm = entityHeadToken.getForm();
+                //System.out.println("Entity " + entityCode + " has head " + entityHeadForm);
+                //return semanticComparison(entityHeadForm, this.placeholderHead);
+                if (entityHeadForm.equals(this.placeholderHead)) {
+                    //TODO compare heads semantically
+                    return 1.0;
+                }
+            }
+
         }
 
         //if we never found a match...
@@ -78,7 +67,7 @@ public class DependecyScorer extends Scorer {
 
         //extract placeholder head and relation
         Sentence questionSentence = document.getQuestion().getSentence();
-        edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence questionParse = questionSentence.getDependencyParse(lp, gsf, semafor);
+        edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence questionParse = questionSentence.getDependencyParse();
         List<Token> tokens = questionParse.getTokens();
         Integer placeholderHead = 0;
         findPlaceholder:

@@ -30,11 +30,11 @@ public class PowerloomScorer extends Scorer {
     public void initializeScorer(Document document) {
         System.out.println("Testing PowerLoom Wrapper Class");
         PowerLoomUtils plu = new PowerLoomUtils();
-        plu.load("src/main/resources/powerloom_models/business.plm");
-        plu.changeModule("BUSINESS");
+        //plu.load("src/main/resources/powerloom_models/business.plm");
+        //plu.changeModule("BUSINESS");
         // Note: query strings broken over multiple lines
         // for better formatting in book example section:
-        /*plu.assertProposition(
+        plu.assertProposition(
                 "(and (company c1)" +
                         "     (company-name c1 \"Moms Grocery\"))");
         plu.assertProposition(
@@ -60,6 +60,5 @@ public class PowerloomScorer extends Scorer {
                         "      (company-name ?x ?name)" +
                         "      (CEO ?name ?ceo))");
         System.out.println(answers);
-        */
     }
 }

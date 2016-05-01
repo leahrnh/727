@@ -1,0 +1,14 @@
+1	@placeholder	_	NOUN	NN	_	4	compound	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	allied	_	NOUN	NN	_	1	conj	_	_
+4	forces	_	NOUN	NNS	_	6	nsubj	_	_
+5	have	_	AUX	VBP	_	6	aux	_	_
+6	had	_	VERB	VBN	_	0	root	_	_
+7	recent	_	ADJ	JJ	_	8	amod	_	_
+8	success	_	NOUN	NN	_	6	dobj	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	but	_	CONJ	CC	_	6	cc	_	_
+11	Entity1	_	NOUN	NNS	_	12	nsubj	_	_
+12	remains	_	VERB	VBZ	_	6	conj	_	_
+13	powerful	_	ADJ	JJ	_	12	xcomp	_	_
+
