@@ -39,7 +39,7 @@ public class Main {
             scoreCalculate.trainWeights();
         } else if (args[0].equals("test")) {
             //name output
-            String outputName = "name_me";
+            String outputName = "depSentCount";
             if (args.length > 3) {
                 outputName = args[3];
             }
