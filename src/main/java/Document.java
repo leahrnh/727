@@ -30,7 +30,7 @@ public class Document {
     /**
      * Constructor that reads components directly from the file
      */
-    public Document(String filepath, LexicalizedParser lp, GrammaticalStructureFactory gsf, Semafor semafor) {
+    public Document(String filepath, LexicalizedParser lp, GrammaticalStructureFactory gsf, Semafor semafor, boolean useSemafor) {
         this.id = filepath;
         this.lp = lp;
         this.gsf = gsf;
@@ -60,14 +60,14 @@ public class Document {
         File questionParseFile = new File(questionParseFileName);
         //if the parse file does not already exist, then create it
         if (!parseFile.exists()) {
-            createParseFile(parseFileName, passage);
+            createParseFile(parseFileName, passage, useSemafor);
         }
 
         if (!questionParseFile.exists()) {
             createQuestionParseFile(questionParseFile, question);
         }
 
-        readParseFile(passage, parseFileName, semafor);
+        readParseFile(passage, parseFileName, semafor, useSemafor);
         readQuestionParseFile(question, questionParseFileName, semafor);
 
         this.answer = new Entity(lines.get(6) + ":UNKNOWN"); //this is kind of a hack because the answer code doesn't come with a word
@@ -157,7 +157,7 @@ public class Document {
         }
     }
 
-    private void readParseFile(Passage passage, String parseFileName, Semafor semafor) {
+    private void readParseFile(Passage passage, String parseFileName, Semafor semafor, boolean useSemafor) {
         SentenceCodec.SentenceIterator sentenceIterator = null;
         try {
             sentenceIterator = ConllCodec.readInput(new FileReader(parseFileName));
@@ -170,17 +170,19 @@ public class Document {
             Sentence targetSentence = sentences.get(i);
             edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence dependencyParse = sentenceIterator.next();
             targetSentence.setDependencyParse(dependencyParse);
-            try {
-                targetSentence.setSemaforParse(semafor.parseSentence(dependencyParse));
-            } catch (IOException e) {
-                e.printStackTrace();
+            if (useSemafor) {
+                try {
+                    targetSentence.setSemaforParse(semafor.parseSentence(dependencyParse));
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
             }
             i++;
 
         }
     }
 
-    private void createParseFile(String parseFileName, Passage passage) {
+    private void createParseFile(String parseFileName, Passage passage, boolean useSemafor) {
         FileWriter fileWriter = null;
         try {
             fileWriter = new FileWriter(parseFileName);
@@ -223,10 +225,12 @@ public class Document {
 
             conllDependencyParse = tmpOutputStream.toString();
 
-            try {
-                bufferedWriter.write(conllDependencyParse);
-            } catch (IOException e) {
-                e.printStackTrace();
+            if (useSemafor) {
+                try {
+                    bufferedWriter.write(conllDependencyParse);
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
             }
         }
         try {

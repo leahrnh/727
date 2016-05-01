@@ -28,10 +28,11 @@ public class Main {
         lp = initializeLP(); //Stanford parser
         gsf = initializeGSF(lp); //Stanford Grammatical Structure Factory
         semafor = initializeSemafor(); //Semafor
+        boolean useSemafor = false;
 
         //convert input documents to data structures
-        List<Document> trainDocs = getData(trainDir);
-        List<Document> testDocs = getData(testDir);
+        List<Document> trainDocs = getData(trainDir, useSemafor);
+        List<Document> testDocs = getData(testDir, useSemafor);
 
         ScoreCalculator scoreCalculate = new ScoreCalculator(trainDocs, testDocs);
 
@@ -39,7 +40,7 @@ public class Main {
             scoreCalculate.trainWeights();
         } else if (args[0].equals("test")) {
             //name output
-            String outputName = "depSentCount";
+            String outputName = "name_me";
             if (args.length > 3) {
                 outputName = args[3];
             }
@@ -69,7 +70,7 @@ public class Main {
     /**
      * Go through the given directory, and convert files into Documents
      */
-    private static List<Document> getData(String inputdir) throws URISyntaxException, IOException, ClassNotFoundException {
+    private static List<Document> getData(String inputdir, boolean useSemafor) throws URISyntaxException, IOException, ClassNotFoundException {
         List<Document> docs = new ArrayList();
         File folder = new File(inputdir);
         // PRINT :Reading File Directory
@@ -84,7 +85,7 @@ public class Main {
                 System.out.println("Processing file " + n);
                 n++;
                 System.out.println("Filename: " + file.getName());
-                Document d = new Document(file.getAbsolutePath(), lp, gsf, semafor);
+                Document d = new Document(file.getAbsolutePath(), lp, gsf, semafor, useSemafor);
                 docs.add(d);
             }
         }

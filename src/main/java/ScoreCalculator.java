@@ -52,13 +52,13 @@ public class ScoreCalculator {
         //Word2Vec wordToVec = initalizeWord2Vec();
 
         //set up scorers
-        //scorersList.add(new ScoreWeight<Scorer, Double>(new WordcountScorer(), 1.0));
+        scorersList.add(new ScoreWeight<Scorer, Double>(new WordcountScorer(), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new SemaforScorer(), 1.0));
-        //scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyScorer(), 1.0));
+        scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyScorer(), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyWordVectorScorer(wordToVec), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new wordCountandVector(wordToVec), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new SentenceToVector(TrainDocumentList), 0.3));
-        scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyChildScorer(), 1.0));
+        //scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyChildScorer(), 1.0));
     }
 
     private Word2Vec initalizeWord2Vec() {
@@ -157,7 +157,7 @@ public class ScoreCalculator {
         Classifier model = new Logistic();
         try {
             model.buildClassifier(trainingSet);
-            Debug.saveToFile("src/main/resources/wekaModels/depSentCount.model", model);
+            Debug.saveToFile("src/main/resources/wekaModels/depSepCount.model", model);
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -167,7 +167,7 @@ public class ScoreCalculator {
 
         Classifier classifier;
 
-        FileInputStream fis = new FileInputStream("src/main/resources/wekaModels/depSentCount.model");
+        FileInputStream fis = new FileInputStream("src/main/resources/wekaModels/depSepCount.model");
         ObjectInputStream ois = new ObjectInputStream(fis);
 
         classifier = (Classifier) ois.readObject();
