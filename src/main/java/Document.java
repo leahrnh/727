@@ -80,7 +80,6 @@ public class Document {
     }
 
     private void readQuestionParseFile(Question question, String questionParseFileName, Semafor semafor) {
-        System.out.println("reading question parse...");
         SentenceCodec.SentenceIterator sentenceIterator = null;
         try {
             sentenceIterator = ConllCodec.readInput(new FileReader(questionParseFileName));
@@ -101,7 +100,6 @@ public class Document {
     }
 
     private void createQuestionParseFile(File questionParseFile, Question question) {
-        System.out.println("Creating question parse...");
         FileWriter fileWriter = null;
         try {
             fileWriter = new FileWriter(questionParseFile);
@@ -183,7 +181,6 @@ public class Document {
     }
 
     private void createParseFile(String parseFileName, Passage passage) {
-        System.out.println("Creating passage parse...");
         FileWriter fileWriter = null;
         try {
             fileWriter = new FileWriter(parseFileName);
