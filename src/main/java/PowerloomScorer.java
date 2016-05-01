@@ -9,6 +9,11 @@ import edu.isi.stella.Stella_Object;
 import java.io.File;
 import java.util.List;
 
+
+/**
+ * We messed around a bit with powerloom, but ultimately decided that in order for it to be useful it
+ * needed hand-written rules and a substantial knowledge base
+ */
 public class PowerloomScorer extends Scorer {
 
     //private static String kbfileDefault = "business.plm";
