@@ -22,7 +22,7 @@ public class Main {
 
         ScoreCalculator scoreCalculate = new ScoreCalculator(trainDocs, testDocs);
 
-        scoreCalculate.trainWeights();
+        //scoreCalculate.trainWeights();
         //scoreCalculate.setScores();
         //perform all the evaluation in this method
         //System.out.println("\n\nTRAINING EVALUATION");
@@ -34,7 +34,7 @@ public class Main {
             scoreCalculate.trainWeights();
         } else if (args[0].equals("test")) {
             //name output
-            String outputName = "name_me";
+            String outputName = "depSentCount";
             if (args.length > 3) {
                 outputName = args[3];
             }
