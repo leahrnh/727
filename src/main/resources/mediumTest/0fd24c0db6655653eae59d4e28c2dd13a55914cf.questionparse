@@ -1,0 +1,21 @@
+1	@placeholder	_	NOUN	NN	_	12	nsubj	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	Entity211	_	NOUN	NNS	_	1	conj	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	both	_	DET	DT	_	6	det	_	_
+6	men	_	NOUN	NNS	_	1	appos	_	_
+7	of	_	ADP	IN	_	8	case	_	_
+8	stature	_	NOUN	NN	_	6	nmod	_	_
+9	and	_	CONJ	CC	_	8	cc	_	_
+10	wealth	_	NOUN	NN	_	8	conj	_	_
+11	,	_	PUNCT	,	_	0	erased	_	_
+12	chipped	_	VERB	VBN	_	0	root	_	_
+13	in	_	ADP	IN	_	12	nmod	_	_
+14	to	_	PART	TO	_	15	mark	_	_
+15	help	_	VERB	VB	_	12	xcomp	_	_
+16	fund	_	NOUN	NN	_	17	compound	_	_
+17	Entity0	_	NOUN	NNS	_	19	nmod:poss	_	_
+18	'	_	PART	POS	_	17	case	_	_
+19	ministry	_	NOUN	NN	_	15	dobj	_	_
+20	.	_	PUNCT	.	_	0	erased	_	_
+

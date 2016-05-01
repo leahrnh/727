@@ -1,0 +1,9 @@
+1	employees	_	NOUN	NNS	_	8	nsubj	_	_
+2	at	_	ADP	IN	_	5	case	_	_
+3	two	_	NUM	CD	_	5	nummod	_	_
+4	@placeholder	_	NOUN	NN	_	5	compound	_	_
+5	distilleries	_	NOUN	NNS	_	1	nmod	_	_
+6	among	_	ADP	IN	_	7	case	_	_
+7	those	_	PRON	DT	_	5	nmod	_	_
+8	indicted	_	VERB	VBD	_	0	root	_	_
+

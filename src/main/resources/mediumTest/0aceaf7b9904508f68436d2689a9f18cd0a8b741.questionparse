@@ -1,0 +1,24 @@
+1	meeting	_	NOUN	NN	_	3	compound	_	_
+2	cardinal	_	NOUN	NN	_	3	compound	_	_
+3	Entity54	_	NOUN	NNS	_	6	nsubj	_	_
+4	of	_	ADP	IN	_	5	case	_	_
+5	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+6	showed	_	VERB	VBD	_	0	root	_	_
+7	how	_	ADV	WRB	_	11	advmod	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	Entity38	_	NOUN	NNS	_	11	nsubj	_	_
+10	is	_	AUX	VBZ	_	11	aux	_	_
+11	putting	_	VERB	VBG	_	23	advcl	_	_
+12	people	_	NOUN	NNS	_	11	dobj	_	_
+13	in	_	ADP	IN	_	14	case	_	_
+14	place	_	NOUN	NN	_	11	nmod	_	_
+15	to	_	PART	TO	_	16	mark	_	_
+16	carry	_	VERB	VB	_	11	advcl	_	_
+17	out	_	ADP	RP	_	16	compound:prt	_	_
+18	his	_	PRON	PRP$	_	20	nmod:poss	_	_
+19	new	_	ADJ	JJ	_	20	amod	_	_
+20	vision	_	NOUN	NN	_	16	dobj	_	_
+21	,	_	PUNCT	,	_	0	erased	_	_
+22	Entity187	_	NOUN	NNS	_	23	nsubj	_	_
+23	writes	_	VERB	VBZ	_	6	ccomp	_	_
+

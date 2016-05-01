@@ -1,0 +1,13 @@
+1	Entity1	_	PROPN	NNP	_	4	nsubjpass	_	_
+2	was	_	AUX	VBD	_	4	auxpass	_	_
+3	recently	_	ADV	RB	_	4	advmod	_	_
+4	moved	_	VERB	VBN	_	0	root	_	_
+5	from	_	ADP	IN	_	8	case	_	_
+6	a	_	DET	DT	_	8	det	_	_
+7	@placeholder	_	NOUN	NN	_	8	compound	_	_
+8	hospital	_	NOUN	NN	_	4	nmod	_	_
+9	to	_	ADP	TO	_	12	case	_	_
+10	a	_	DET	DT	_	12	det	_	_
+11	labor	_	NOUN	NN	_	12	compound	_	_
+12	camp	_	NOUN	NN	_	4	nmod	_	_
+

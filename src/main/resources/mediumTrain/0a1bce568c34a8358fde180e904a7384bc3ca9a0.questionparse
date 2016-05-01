@@ -1,0 +1,17 @@
+1	with	_	ADP	IN	_	4	case	_	_
+2	1.2	_	NUM	CD	_	3	compound	_	_
+3	million	_	NUM	CD	_	4	nummod	_	_
+4	employees	_	NOUN	NNS	_	10	nmod	_	_
+5	in	_	ADP	IN	_	6	case	_	_
+6	@placeholder	_	NOUN	NN	_	4	nmod	_	_
+7	alone	_	ADV	RB	_	10	advmod	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	production	_	NOUN	NN	_	10	nsubj	_	_
+10	takes	_	VERB	VBZ	_	0	root	_	_
+11	place	_	NOUN	NN	_	10	dobj	_	_
+12	at	_	ADP	IN	_	16	case	_	_
+13	more	_	ADJ	JJR	_	15	advmod	_	_
+14	than	_	ADP	IN	_	13	mwe	_	_
+15	12	_	NUM	CD	_	16	nummod	_	_
+16	factories	_	NOUN	NNS	_	10	nmod	_	_
+

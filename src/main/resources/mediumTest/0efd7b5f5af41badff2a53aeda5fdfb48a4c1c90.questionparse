@@ -1,0 +1,17 @@
+1	Entity5	_	PROPN	NNP	_	6	nsubj	_	_
+2	is	_	VERB	VBZ	_	6	cop	_	_
+3	a	_	DET	DT	_	6	det	_	_
+4	wholesale	_	ADJ	JJ	_	6	amod	_	_
+5	flower	_	NOUN	NN	_	6	compound	_	_
+6	market	_	NOUN	NN	_	0	root	_	_
+7	in	_	ADP	IN	_	8	case	_	_
+8	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+9	that	_	DET	WDT	_	10	nsubj	_	_
+10	attracts	_	VERB	VBZ	_	6	acl:relcl	_	_
+11	more	_	ADJ	JJR	_	13	advmod	_	_
+12	than	_	ADP	IN	_	11	mwe	_	_
+13	2,000	_	NUM	CD	_	14	nummod	_	_
+14	sellers	_	NOUN	NNS	_	10	dobj	_	_
+15	each	_	DET	DT	_	16	det	_	_
+16	day	_	NOUN	NN	_	14	dep	_	_
+

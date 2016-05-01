@@ -1,0 +1,17 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	suspect	_	NOUN	NN	_	5	nsubj	_	_
+3	is	_	VERB	VBZ	_	5	cop	_	_
+4	a	_	DET	DT	_	5	det	_	_
+5	37	_	NUM	CD	_	0	root	_	_
+6	-	_	PUNCT	:	_	0	erased	_	_
+7	year	_	NOUN	NN	_	5	dep	_	_
+8	-	_	PUNCT	:	_	0	erased	_	_
+9	old	_	ADJ	JJ	_	10	amod	_	_
+10	@placeholder	_	NOUN	NN	_	16	nsubj	_	_
+11	from	_	ADP	IN	_	15	case	_	_
+12	Entity11	_	ADJ	JJ	_	15	amod	_	_
+13	,	_	PUNCT	,	_	0	erased	_	_
+14	Entity1	_	ADJ	JJ	_	15	amod	_	_
+15	police	_	NOUN	NNS	_	10	nmod	_	_
+16	say	_	VERB	VBP	_	5	parataxis	_	_
+

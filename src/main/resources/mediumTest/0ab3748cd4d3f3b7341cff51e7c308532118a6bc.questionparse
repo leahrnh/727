@@ -1,0 +1,13 @@
+1	Entity48	_	ADJ	JJ	_	3	amod	_	_
+2	archaeologist	_	NOUN	NN	_	3	compound	_	_
+3	@placeholder	_	NOUN	NN	_	4	nsubj	_	_
+4	discovers	_	VERB	VBZ	_	0	root	_	_
+5	ancient	_	ADJ	JJ	_	7	amod	_	_
+6	Entity28	_	ADJ	JJ	_	7	amod	_	_
+7	cities	_	NOUN	NNS	_	4	dobj	_	_
+8	in	_	ADP	IN	_	10	case	_	_
+9	the	_	DET	DT	_	10	det	_	_
+10	jungles	_	NOUN	NNS	_	4	nmod	_	_
+11	of	_	ADP	IN	_	12	case	_	_
+12	Entity89	_	NOUN	NNS	_	10	nmod	_	_
+

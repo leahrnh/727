@@ -1,0 +1,18 @@
+1	Entity152	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	is	_	VERB	VBZ	_	6	cop	_	_
+4	current	_	ADJ	JJ	_	6	amod	_	_
+5	leader	_	NOUN	NN	_	6	compound	_	_
+6	Entity153	_	NOUN	NNS	_	1	parataxis	_	_
+7	trying	_	VERB	VBG	_	6	acl	_	_
+8	to	_	PART	TO	_	9	mark	_	_
+9	put	_	VERB	VB	_	7	xcomp	_	_
+10	@placeholder	_	NOUN	NN	_	9	dobj	_	_
+11	on	_	ADP	IN	_	13	case	_	_
+12	right	_	ADJ	JJ	_	13	amod	_	_
+13	track	_	NOUN	NN	_	9	nmod	_	_
+14	before	_	SCONJ	IN	_	16	mark	_	_
+15	he	_	PRON	PRP	_	16	nsubj	_	_
+16	dies	_	VERB	VBZ	_	9	advcl	_	_
+17	?	_	PUNCT	.	_	0	erased	_	_
+

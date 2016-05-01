@@ -1,0 +1,12 @@
+1	rescue	_	VERB	VB	_	0	root	_	_
+2	teams	_	NOUN	NNS	_	1	dobj	_	_
+3	searching	_	VERB	VBG	_	2	acl	_	_
+4	for	_	ADP	IN	_	7	case	_	_
+5	46	_	NUM	CD	_	7	nummod	_	_
+6	@placeholder	_	NOUN	NN	_	7	compound	_	_
+7	sailors	_	NOUN	NNS	_	3	nmod	_	_
+8	missing	_	VERB	VBG	_	7	acl	_	_
+9	after	_	ADP	IN	_	11	case	_	_
+10	friday	_	PROPN	NNP	_	11	compound	_	_
+11	explosion	_	NOUN	NN	_	8	nmod	_	_
+

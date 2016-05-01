@@ -1,0 +1,9 @@
+1	@placeholder	_	VERB	VB	_	0	root	_	_
+2	government	_	NOUN	NN	_	3	compound	_	_
+3	tweets	_	NOUN	NNS	_	1	dobj	_	_
+4	that	_	SCONJ	IN	_	8	mark	_	_
+5	attack	_	NOUN	NN	_	6	compound	_	_
+6	mastermind	_	NOUN	NN	_	8	nsubj	_	_
+7	was	_	VERB	VBD	_	8	cop	_	_
+8	Entity4	_	NOUN	NNS	_	1	ccomp	_	_
+

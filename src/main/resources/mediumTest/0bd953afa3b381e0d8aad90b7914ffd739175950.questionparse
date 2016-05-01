@@ -1,0 +1,13 @@
+1	thunderstorms	_	NOUN	NNS	_	6	nsubjpass	_	_
+2	with	_	ADP	IN	_	4	case	_	_
+3	large	_	ADJ	JJ	_	4	amod	_	_
+4	hail	_	NOUN	NN	_	1	nmod	_	_
+5	are	_	AUX	VBP	_	6	auxpass	_	_
+6	predicted	_	VERB	VBN	_	0	root	_	_
+7	for	_	ADP	IN	_	9	case	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+10	and	_	CONJ	CC	_	9	cc	_	_
+11	the	_	DET	DT	_	12	det	_	_
+12	Entity7	_	NOUN	NNS	_	9	conj	_	_
+

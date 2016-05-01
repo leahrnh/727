@@ -1,0 +1,10 @@
+1	parents	_	NOUN	NNS	_	4	nsubj	_	_
+2	of	_	ADP	IN	_	3	case	_	_
+3	Entity94	_	NOUN	NNS	_	1	nmod	_	_
+4	argue	_	VERB	VBP	_	0	root	_	_
+5	against	_	ADP	IN	_	7	case	_	_
+6	death	_	NOUN	NN	_	7	compound	_	_
+7	penalty	_	NOUN	NN	_	4	nmod	_	_
+8	for	_	ADP	IN	_	9	case	_	_
+9	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+

@@ -75,14 +75,14 @@ public class Main {
         // PRINT :Reading File Directory
         System.out.println("Reading files from " + inputdir);
         File[] listOfFiles = folder.listFiles();
-        int numFiles = listOfFiles.length;
-        int n = 0;
+        int n = 1;
         for (File file : listOfFiles) {
-            System.out.println("Processing file " + n + "/" + numFiles);
             String filename = file.toString();
             String ext = FilenameUtils.getExtension(filename);
             if (file.isFile() && ext.equals("question")) {
                 // PRINT :File names Read
+                System.out.println("Processing file " + n);
+                n++;
                 System.out.println("Filename: " + file.getName());
                 Document d = new Document(file.getAbsolutePath(), lp, gsf, semafor);
                 docs.add(d);

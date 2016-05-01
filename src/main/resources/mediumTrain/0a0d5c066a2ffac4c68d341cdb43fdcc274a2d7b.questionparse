@@ -1,0 +1,14 @@
+1	storms	_	NOUN	NNS	_	0	root	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	tornado	_	NOUN	NN	_	1	conj	_	_
+4	warning	_	VERB	VBG	_	1	dep	_	_
+5	also	_	ADV	RB	_	4	advmod	_	_
+6	delays	_	NOUN	NNS	_	7	compound	_	_
+7	start	_	NOUN	NN	_	4	dobj	_	_
+8	of	_	ADP	IN	_	11	case	_	_
+9	men	_	NOUN	NNS	_	11	nmod:poss	_	_
+10	's	_	PART	POS	_	9	case	_	_
+11	semifinals	_	NOUN	NNS	_	7	nmod	_	_
+12	at	_	ADP	IN	_	13	case	_	_
+13	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+

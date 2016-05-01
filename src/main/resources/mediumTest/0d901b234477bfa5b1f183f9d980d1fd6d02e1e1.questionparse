@@ -1,0 +1,15 @@
+1	response	_	NOUN	NN	_	0	root	_	_
+2	across	_	ADP	IN	_	4	case	_	_
+3	social	_	ADJ	JJ	_	4	amod	_	_
+4	media	_	NOUN	NNS	_	1	nmod	_	_
+5	led	_	VERB	VBN	_	4	acl	_	_
+6	to	_	ADP	TO	_	9	case	_	_
+7	multiple	_	ADJ	JJ	_	9	amod	_	_
+8	trending	_	ADJ	JJ	_	9	amod	_	_
+9	topics	_	NOUN	NNS	_	5	nmod	_	_
+10	for	_	ADP	IN	_	14	case	_	_
+11	@placeholder	_	NOUN	NN	_	14	nmod:poss	_	_
+12	's	_	PART	POS	_	11	case	_	_
+13	presidential	_	ADJ	JJ	_	14	amod	_	_
+14	announcement	_	NOUN	NN	_	9	nmod	_	_
+

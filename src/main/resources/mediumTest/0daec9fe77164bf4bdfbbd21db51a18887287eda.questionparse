@@ -1,0 +1,17 @@
+1	in	_	ADP	IN	_	3	case	_	_
+2	an	_	DET	DT	_	3	det	_	_
+3	interview	_	NOUN	NN	_	10	nmod	_	_
+4	with	_	ADP	IN	_	6	case	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	Entity7	_	NOUN	NNS	_	3	nmod	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	president	_	NOUN	NN	_	9	compound	_	_
+9	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+10	says	_	VERB	VBZ	_	0	root	_	_
+11	he	_	PRON	PRP	_	12	nsubj	_	_
+12	understands	_	VERB	VBZ	_	10	ccomp	_	_
+13	Entity3	_	NOUN	NNS	_	14	nsubj	_	_
+14	feels	_	VERB	VBZ	_	12	ccomp	_	_
+15	particularly	_	ADV	RB	_	16	advmod	_	_
+16	vulnerable	_	ADJ	JJ	_	14	xcomp	_	_
+

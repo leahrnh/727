@@ -1,0 +1,14 @@
+1	police	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	authorities	_	NOUN	NNS	_	4	nsubj	_	_
+4	found	_	VERB	VBD	_	1	appos	_	_
+5	a	_	DET	DT	_	6	det	_	_
+6	firearm	_	NOUN	NN	_	4	dobj	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	three	_	NUM	CD	_	9	nummod	_	_
+9	computers	_	NOUN	NNS	_	6	appos	_	_
+10	in	_	ADP	IN	_	13	case	_	_
+11	her	_	PRON	PRP$	_	13	nmod:poss	_	_
+12	@placeholder	_	NOUN	NN	_	13	compound	_	_
+13	residence	_	NOUN	NN	_	9	nmod	_	_
+

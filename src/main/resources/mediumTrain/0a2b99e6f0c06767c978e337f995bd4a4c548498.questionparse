@@ -1,0 +1,15 @@
+1	official	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	@placeholder	_	NOUN	NN	_	8	nsubj	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	Entity10	_	NOUN	NNS	_	3	appos	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	police	_	NOUN	NNS	_	5	appos	_	_
+8	seized	_	VERB	VBD	_	1	appos	_	_
+9	gun	_	NOUN	NN	_	8	dobj	_	_
+10	during	_	ADP	IN	_	12	case	_	_
+11	traffic	_	NOUN	NN	_	12	compound	_	_
+12	stop	_	NOUN	NN	_	8	nmod	_	_
+13	in	_	ADP	IN	_	14	case	_	_
+14	2005	_	NUM	CD	_	8	nmod	_	_
+

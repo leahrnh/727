@@ -1,0 +1,14 @@
+1	Entity72	_	PROPN	NNP	_	10	nsubj	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	dad	_	NOUN	NN	_	1	appos	_	_
+5	of	_	ADP	IN	_	7	case	_	_
+6	''	_	PUNCT	''	_	0	erased	_	_
+7	@placeholder	_	NOUN	NN	_	4	nmod	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	''	_	PUNCT	''	_	0	erased	_	_
+10	needs	_	VERB	VBZ	_	0	root	_	_
+11	a	_	DET	DT	_	13	det	_	_
+12	kidney	_	NOUN	NN	_	13	compound	_	_
+13	transplant	_	NOUN	NN	_	10	dobj	_	_
+

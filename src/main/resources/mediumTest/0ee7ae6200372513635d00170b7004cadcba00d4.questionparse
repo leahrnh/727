@@ -1,0 +1,15 @@
+1	reports	_	NOUN	NNS	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	gunmen	_	NOUN	NNS	_	4	nsubj	_	_
+4	storm	_	VERB	VBG	_	1	appos	_	_
+5	the	_	DET	DT	_	7	det	_	_
+6	Entity14	_	ADJ	JJ	_	7	amod	_	_
+7	school	_	NOUN	NN	_	4	dobj	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	attacking	_	VERB	VBG	_	4	conj	_	_
+10	@placeholder	_	NOUN	NN	_	9	dobj	_	_
+11	and	_	CONJ	CC	_	4	cc	_	_
+12	letting	_	VERB	VBG	_	4	conj	_	_
+13	Entity35	_	NOUN	NNS	_	14	nsubj	_	_
+14	go	_	VERB	VB	_	12	ccomp	_	_
+

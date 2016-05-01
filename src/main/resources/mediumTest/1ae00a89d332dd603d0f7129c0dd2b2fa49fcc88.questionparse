@@ -1,0 +1,14 @@
+1	Entity81	_	PROPN	NNP	_	3	nmod:poss	_	_
+2	's	_	PART	POS	_	1	case	_	_
+3	family	_	NOUN	NN	_	10	nsubj	_	_
+4	and	_	CONJ	CC	_	3	cc	_	_
+5	other	_	ADJ	JJ	_	6	amod	_	_
+6	members	_	NOUN	NNS	_	3	conj	_	_
+7	of	_	ADP	IN	_	8	case	_	_
+8	Entity77	_	NOUN	NNS	_	6	nmod	_	_
+9	will	_	AUX	MD	_	10	aux	_	_
+10	attend	_	VERB	VB	_	0	root	_	_
+11	@placeholder	_	NOUN	NN	_	13	nmod:poss	_	_
+12	's	_	PART	POS	_	11	case	_	_
+13	funeral	_	NOUN	NN	_	10	dobj	_	_
+

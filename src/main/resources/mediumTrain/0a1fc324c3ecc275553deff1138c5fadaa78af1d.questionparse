@@ -1,0 +1,13 @@
+1	Entity4	_	ADJ	JJ	_	2	amod	_	_
+2	Entity3	_	NOUN	NNS	_	3	nsubj	_	_
+3	produces	_	VERB	VBZ	_	0	root	_	_
+4	seventh	_	ADJ	JJ	_	6	amod	_	_
+5	different	_	ADJ	JJ	_	6	amod	_	_
+6	winner	_	NOUN	NN	_	3	dobj	_	_
+7	in	_	ADP	IN	_	9	case	_	_
+8	seventh	_	ADJ	JJ	_	9	amod	_	_
+9	race	_	NOUN	NN	_	6	nmod	_	_
+10	of	_	ADP	IN	_	12	case	_	_
+11	@placeholder	_	NOUN	NN	_	12	compound	_	_
+12	season	_	NOUN	NN	_	9	nmod	_	_
+

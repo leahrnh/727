@@ -1,0 +1,19 @@
+1	with	_	ADP	IN	_	2	case	_	_
+2	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+3	,	_	PUNCT	,	_	0	erased	_	_
+4	we	_	PRON	PRP	_	6	nsubjpass	_	_
+5	are	_	AUX	VBP	_	6	auxpass	_	_
+6	confronted	_	VERB	VBN	_	0	root	_	_
+7	with	_	ADP	IN	_	9	case	_	_
+8	a	_	DET	DT	_	9	det	_	_
+9	tool	_	NOUN	NN	_	6	nmod	_	_
+10	that	_	DET	WDT	_	13	nsubj	_	_
+11	can	_	AUX	MD	_	13	aux	_	_
+12	be	_	VERB	VB	_	13	cop	_	_
+13	lethal	_	ADJ	JJ	_	9	acl:relcl	_	_
+14	to	_	PART	TO	_	15	mark	_	_
+15	police	_	VERB	VB	_	13	xcomp	_	_
+16	officers	_	NOUN	NNS	_	15	dobj	_	_
+17	and	_	CONJ	CC	_	16	cc	_	_
+18	deputies	_	NOUN	NNS	_	16	conj	_	_
+
