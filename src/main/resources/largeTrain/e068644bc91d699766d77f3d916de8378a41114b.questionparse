@@ -6,7 +6,7 @@
 6	thursday	_	PROPN	NNP	_	1	nmod	_	_
 7	,	_	PUNCT	,	_	0	erased	_	_
 8	while	_	SCONJ	IN	_	10	mark	_	_
-9	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+9	placeholder	_	NOUN	NN	_	10	nsubj	_	_
 10	take	_	VERB	VBP	_	1	advcl	_	_
 11	on	_	ADP	IN	_	12	case	_	_
 12	Entity103	_	NOUN	NNS	_	10	nmod	_	_

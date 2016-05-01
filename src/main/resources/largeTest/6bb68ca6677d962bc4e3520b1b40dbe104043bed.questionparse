@@ -12,7 +12,7 @@
 12	facto	_	X	FW	_	11	dep	_	_
 13	capital	_	NOUN	NN	_	7	nmod	_	_
 14	of	_	ADP	IN	_	15	case	_	_
-15	@placeholder	_	NOUN	NN	_	13	nmod	_	_
+15	placeholder	_	NOUN	NN	_	13	nmod	_	_
 16	,	_	PUNCT	,	_	0	erased	_	_
 17	Entity1	_	NOUN	NNS	_	18	nsubj	_	_
 18	says	_	VERB	VBZ	_	0	root	_	_

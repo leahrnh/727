@@ -10,5 +10,5 @@
 10	from	_	ADP	IN	_	11	case	_	_
 11	Entity99	_	NOUN	NNS	_	9	nmod	_	_
 12	,	_	PUNCT	,	_	0	erased	_	_
-13	@placeholder	_	ADV	RB	_	9	advmod	_	_
+13	placeholder	_	ADV	RB	_	9	advmod	_	_
 

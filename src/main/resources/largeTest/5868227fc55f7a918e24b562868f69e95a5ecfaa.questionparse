@@ -1,6 +1,6 @@
 1	Entity0	_	ADJ	JJ	_	3	amod	_	_
 2	beat	_	NOUN	NN	_	3	compound	_	_
-3	@placeholder	_	NOUN	NN	_	0	root	_	_
+3	placeholder	_	NOUN	NN	_	0	root	_	_
 4	1	_	NUM	CD	_	3	dep	_	_
 5	-	_	PUNCT	:	_	0	erased	_	_
 6	0	_	NUM	CD	_	3	dep	_	_

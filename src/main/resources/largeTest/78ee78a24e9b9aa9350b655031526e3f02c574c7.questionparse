@@ -5,7 +5,7 @@
 5	of	_	ADP	IN	_	11	case	_	_
 6	Entity7	_	ADJ	JJ	_	11	amod	_	_
 7	and	_	CONJ	CC	_	6	cc	_	_
-8	@placeholder	_	NOUN	NN	_	6	conj	_	_
+8	placeholder	_	NOUN	NN	_	6	conj	_	_
 9	tv	_	NOUN	NN	_	11	compound	_	_
 10	stars	_	NOUN	NNS	_	11	compound	_	_
 11	Entity0	_	NOUN	NNS	_	4	nmod	_	_

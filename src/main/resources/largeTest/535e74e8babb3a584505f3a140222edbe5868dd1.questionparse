@@ -5,7 +5,7 @@
 5	Entity41	_	NOUN	NNS	_	3	dobj	_	_
 6	finally	_	ADV	RB	_	3	advmod	_	_
 7	wins	_	VERB	VBZ	_	0	root	_	_
-8	@placeholder	_	NOUN	NN	_	7	dobj	_	_
+8	placeholder	_	NOUN	NN	_	7	dobj	_	_
 9	jumping	_	VERB	VBG	_	8	acl	_	_
 10	title	_	NOUN	NN	_	9	dobj	_	_
 11	at	_	ADP	IN	_	13	case	_	_

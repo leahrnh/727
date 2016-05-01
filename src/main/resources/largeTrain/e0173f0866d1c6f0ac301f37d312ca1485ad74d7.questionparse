@@ -7,7 +7,7 @@
 7	for	_	ADP	IN	_	8	case	_	_
 8	independence	_	NOUN	NN	_	6	nmod	_	_
 9	from	_	ADP	IN	_	10	case	_	_
-10	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+10	placeholder	_	NOUN	NN	_	3	nmod	_	_
 11	on	_	ADP	IN	_	12	case	_	_
 12	september	_	PROPN	NNP	_	10	nmod	_	_
 13	18	_	NUM	CD	_	12	nummod	_	_

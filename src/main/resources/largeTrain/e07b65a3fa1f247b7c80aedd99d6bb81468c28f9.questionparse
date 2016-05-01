@@ -11,6 +11,6 @@
 11	at	_	ADP	IN	_	15	case	_	_
 12	prestigious	_	ADJ	JJ	_	15	amod	_	_
 13	Entity24	_	ADJ	JJ	_	15	amod	_	_
-14	@placeholder	_	NOUN	NN	_	15	compound	_	_
+14	placeholder	_	NOUN	NN	_	15	compound	_	_
 15	ceremony	_	NOUN	NN	_	8	nmod	_	_
 

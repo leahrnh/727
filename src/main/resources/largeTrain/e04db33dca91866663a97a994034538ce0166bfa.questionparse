@@ -12,6 +12,6 @@
 12	for	_	ADP	IN	_	13	case	_	_
 13	Entity41	_	NOUN	NNS	_	2	nmod	_	_
 14	,	_	PUNCT	,	_	0	erased	_	_
-15	@placeholder	_	NOUN	NN	_	13	appos	_	_
+15	placeholder	_	NOUN	NN	_	13	appos	_	_
 16	says	_	VERB	VBZ	_	0	root	_	_
 

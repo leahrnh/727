@@ -4,7 +4,7 @@
 4	in	_	ADP	IN	_	5	case	_	_
 5	quarterfinals	_	NOUN	NNS	_	1	nmod	_	_
 6	of	_	ADP	IN	_	7	case	_	_
-7	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+7	placeholder	_	NOUN	NN	_	5	nmod	_	_
 8	in	_	ADP	IN	_	9	case	_	_
 9	Entity10	_	NOUN	NNS	_	7	nmod	_	_
 10	,	_	PUNCT	,	_	0	erased	_	_

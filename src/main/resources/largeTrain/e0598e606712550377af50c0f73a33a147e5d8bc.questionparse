@@ -6,7 +6,7 @@
 6	can	_	AUX	MD	_	7	aux	_	_
 7	clinch	_	VERB	VB	_	3	ccomp	_	_
 8	top	_	ADJ	JJ	_	11	amod	_	_
-9	@placeholder	_	NOUN	NN	_	11	compound	_	_
+9	placeholder	_	NOUN	NN	_	11	compound	_	_
 10	thoroughbred	_	ADJ	JJ	_	11	amod	_	_
 11	award	_	NOUN	NN	_	7	dobj	_	_
 

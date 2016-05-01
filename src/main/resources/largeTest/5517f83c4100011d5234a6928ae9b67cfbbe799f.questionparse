@@ -14,7 +14,7 @@
 14	,	_	PUNCT	,	_	0	erased	_	_
 15	''	_	PUNCT	''	_	0	erased	_	_
 16	says	_	VERB	VBZ	_	26	parataxis	_	_
-17	@placeholder	_	NOUN	NN	_	16	dobj	_	_
+17	placeholder	_	NOUN	NN	_	16	dobj	_	_
 18	,	_	PUNCT	,	_	0	erased	_	_
 19	who	_	PRON	WP	_	26	nsubj	_	_
 20	is	_	AUX	VBZ	_	21	aux	_	_

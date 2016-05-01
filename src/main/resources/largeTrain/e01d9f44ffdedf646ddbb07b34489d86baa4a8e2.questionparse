@@ -10,7 +10,7 @@
 10	found	_	VERB	VBD	_	1	appos	_	_
 11	day	_	NOUN	NN	_	10	nmod:tmod	_	_
 12	after	_	ADP	IN	_	15	case	_	_
-13	@placeholder	_	NOUN	NN	_	15	nmod:poss	_	_
+13	placeholder	_	NOUN	NN	_	15	nmod:poss	_	_
 14	's	_	PART	POS	_	13	case	_	_
 15	death	_	NOUN	NN	_	10	nmod	_	_
 

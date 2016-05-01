@@ -15,5 +15,5 @@
 15	be	_	VERB	VB	_	16	cop	_	_
 16	part	_	NOUN	NN	_	7	xcomp	_	_
 17	of	_	ADP	IN	_	18	case	_	_
-18	@placeholder	_	NOUN	NN	_	16	nmod	_	_
+18	placeholder	_	NOUN	NN	_	16	nmod	_	_
 

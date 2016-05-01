@@ -2,7 +2,7 @@
 2	death	_	NOUN	NN	_	3	compound	_	_
 3	toll	_	NOUN	NN	_	13	nsubj	_	_
 4	in	_	ADP	IN	_	6	case	_	_
-5	@placeholder	_	NOUN	NN	_	6	compound	_	_
+5	placeholder	_	NOUN	NN	_	6	compound	_	_
 6	rises	_	NOUN	NNS	_	3	nmod	_	_
 7	to	_	ADP	TO	_	8	case	_	_
 8	3,218	_	NUM	CD	_	6	nmod	_	_

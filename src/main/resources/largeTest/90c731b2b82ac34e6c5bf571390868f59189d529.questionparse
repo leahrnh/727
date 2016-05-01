@@ -1,5 +1,5 @@
 1	scholar	_	NOUN	NN	_	2	compound	_	_
-2	@placeholder	_	NOUN	NN	_	4	nsubj	_	_
+2	placeholder	_	NOUN	NN	_	4	nsubj	_	_
 3	had	_	AUX	VBD	_	4	aux	_	_
 4	passed	_	VERB	VBN	_	0	root	_	_
 5	the	_	DET	DT	_	6	det	_	_

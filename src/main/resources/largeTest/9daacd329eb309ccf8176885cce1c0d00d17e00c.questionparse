@@ -10,7 +10,7 @@
 10	78	_	NUM	CD	_	8	appos	_	_
 11	of	_	ADP	IN	_	12	case	_	_
 12	them	_	PRON	PRP	_	10	nmod	_	_
-13	@placeholder	_	NOUN	NN	_	17	compound	_	_
+13	placeholder	_	NOUN	NN	_	17	compound	_	_
 14	,	_	PUNCT	,	_	0	erased	_	_
 15	Entity7	_	ADJ	JJ	_	17	amod	_	_
 16	news	_	NOUN	NN	_	17	compound	_	_

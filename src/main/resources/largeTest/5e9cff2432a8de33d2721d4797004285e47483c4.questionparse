@@ -3,7 +3,7 @@
 3	elderly	_	ADJ	JJ	_	4	amod	_	_
 4	resident	_	NOUN	NN	_	2	dobj	_	_
 5	told	_	VERB	VBD	_	4	acl:relcl	_	_
-6	@placeholder	_	NOUN	NN	_	5	dobj	_	_
+6	placeholder	_	NOUN	NN	_	5	dobj	_	_
 7	:	_	PUNCT	:	_	0	erased	_	_
 8	''	_	PUNCT	''	_	0	erased	_	_
 9	i	_	X	FW	_	12	nsubj	_	_

@@ -11,7 +11,7 @@
 11	for	_	SCONJ	IN	_	12	dep	_	_
 12	may	_	AUX	MD	_	10	advcl	_	_
 13	9	_	NUM	CD	_	15	nummod	_	_
-14	@placeholder	_	NOUN	NN	_	15	compound	_	_
+14	placeholder	_	NOUN	NN	_	15	compound	_	_
 15	celebrations	_	NOUN	NNS	_	12	nsubj	_	_
 16	,	_	PUNCT	,	_	0	erased	_	_
 17	news	_	NOUN	NN	_	19	compound	_	_

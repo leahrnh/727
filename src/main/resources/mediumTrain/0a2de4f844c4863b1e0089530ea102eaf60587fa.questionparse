@@ -1,7 +1,0 @@
-1	Entity28	_	PROPN	NNP	_	2	nsubj	_	_
-2	overturned	_	VERB	VBD	_	0	root	_	_
-3	Entity1	_	ADJ	JJ	_	4	amod	_	_
-4	@placeholder	_	NOUN	NN	_	6	nmod:poss	_	_
-5	's	_	PART	POS	_	4	case	_	_
-6	conviction	_	NOUN	NN	_	2	dobj	_	_
-

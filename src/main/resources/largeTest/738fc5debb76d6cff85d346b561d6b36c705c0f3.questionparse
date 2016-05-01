@@ -12,7 +12,7 @@
 12	security	_	NOUN	NN	_	13	compound	_	_
 13	screenings	_	NOUN	NNS	_	10	dobj	_	_
 14	,	_	PUNCT	,	_	0	erased	_	_
-15	@placeholder	_	NOUN	NN	_	16	compound	_	_
+15	placeholder	_	NOUN	NN	_	16	compound	_	_
 16	official	_	NOUN	NN	_	17	nsubj	_	_
 17	says	_	VERB	VBZ	_	0	root	_	_
 

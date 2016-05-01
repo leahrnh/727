@@ -9,6 +9,6 @@
 9	calm	_	NOUN	NN	_	5	nmod	_	_
 10	at	_	ADP	IN	_	13	case	_	_
 11	a	_	DET	DT	_	13	det	_	_
-12	@placeholder	_	NOUN	NN	_	13	compound	_	_
+12	placeholder	_	NOUN	NN	_	13	compound	_	_
 13	demonstration	_	NOUN	NN	_	5	nmod	_	_
 

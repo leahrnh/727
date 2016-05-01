@@ -1,6 +1,6 @@
 1	Entity9	_	PROPN	NNP	_	6	nsubj	_	_
 2	is	_	VERB	VBZ	_	6	cop	_	_
-3	@placeholder	_	NOUN	NN	_	6	nmod:poss	_	_
+3	placeholder	_	NOUN	NN	_	6	nmod:poss	_	_
 4	's	_	PART	POS	_	3	case	_	_
 5	provincial	_	ADJ	JJ	_	6	amod	_	_
 6	capital	_	NOUN	NN	_	0	root	_	_

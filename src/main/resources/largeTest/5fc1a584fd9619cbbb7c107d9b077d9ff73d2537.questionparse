@@ -12,5 +12,5 @@
 12	still	_	ADV	RB	_	13	advmod	_	_
 13	vote	_	VERB	VB	_	9	ccomp	_	_
 14	for	_	ADP	IN	_	15	case	_	_
-15	@placeholder	_	NOUN	NN	_	13	nmod	_	_
+15	placeholder	_	NOUN	NN	_	13	nmod	_	_
 

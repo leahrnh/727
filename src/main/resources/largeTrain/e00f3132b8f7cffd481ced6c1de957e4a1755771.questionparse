@@ -5,7 +5,7 @@
 5	Entity6	_	NOUN	NNS	_	4	dobj	_	_
 6	from	_	ADP	IN	_	10	case	_	_
 7	southern	_	ADJ	JJ	_	8	amod	_	_
-8	@placeholder	_	NOUN	NN	_	10	nmod:poss	_	_
+8	placeholder	_	NOUN	NN	_	10	nmod:poss	_	_
 9	's	_	PART	POS	_	8	case	_	_
 10	Entity17	_	NOUN	NNS	_	4	nmod	_	_
 

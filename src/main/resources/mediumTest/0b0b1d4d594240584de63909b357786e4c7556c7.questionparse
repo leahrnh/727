@@ -12,7 +12,7 @@
 12	illegally	_	ADV	RB	_	11	advmod	_	_
 13	fishing	_	VERB	VBG	_	11	xcomp	_	_
 14	off	_	ADP	RP	_	13	compound:prt	_	_
-15	@placeholder	_	NOUN	NN	_	13	dobj	_	_
+15	placeholder	_	NOUN	NN	_	13	dobj	_	_
 16	,	_	PUNCT	,	_	0	erased	_	_
 17	it	_	PRON	PRP	_	18	nsubj	_	_
 18	says	_	VERB	VBZ	_	7	acl:relcl	_	_

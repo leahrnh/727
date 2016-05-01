@@ -6,7 +6,7 @@
 6	points	_	NOUN	NNS	_	3	nmod	_	_
 7	,	_	PUNCT	,	_	0	erased	_	_
 8	while	_	SCONJ	IN	_	10	mark	_	_
-9	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+9	placeholder	_	NOUN	NN	_	10	nsubj	_	_
 10	has	_	VERB	VBZ	_	2	advcl	_	_
 11	18	_	NUM	CD	_	10	dobj	_	_
 

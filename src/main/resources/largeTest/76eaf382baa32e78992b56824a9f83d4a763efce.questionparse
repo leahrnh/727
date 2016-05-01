@@ -3,7 +3,7 @@
 3	massive	_	ADJ	JJ	_	4	amod	_	_
 4	fires	_	NOUN	NNS	_	1	nmod	_	_
 5	in	_	ADP	IN	_	6	case	_	_
-6	@placeholder	_	NOUN	NN	_	1	nmod	_	_
+6	placeholder	_	NOUN	NN	_	1	nmod	_	_
 7	created	_	VERB	VBN	_	6	acl	_	_
 8	fiery	_	ADJ	JJ	_	9	amod	_	_
 9	sunsets	_	NOUN	NNS	_	7	dobj	_	_

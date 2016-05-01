@@ -11,6 +11,6 @@
 11	cellar	_	NOUN	NN	_	3	nmod	_	_
 12	in	_	ADP	IN	_	15	case	_	_
 13	an	_	DET	DT	_	15	det	_	_
-14	@placeholder	_	NOUN	NN	_	15	compound	_	_
+14	placeholder	_	NOUN	NN	_	15	compound	_	_
 15	village	_	NOUN	NN	_	11	nmod	_	_
 

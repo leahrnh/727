@@ -1,7 +1,7 @@
 1	in	_	ADP	IN	_	2	case	_	_
 2	2013	_	NUM	CD	_	7	nmod	_	_
 3	,	_	PUNCT	,	_	0	erased	_	_
-4	@placeholder	_	NOUN	NN	_	6	nmod:poss	_	_
+4	placeholder	_	NOUN	NN	_	6	nmod:poss	_	_
 5	'	_	PART	POS	_	4	case	_	_
 6	family	_	NOUN	NN	_	7	nsubj	_	_
 7	said	_	VERB	VBD	_	0	root	_	_

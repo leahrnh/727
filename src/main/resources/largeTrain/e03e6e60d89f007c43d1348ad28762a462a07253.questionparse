@@ -8,7 +8,7 @@
 8	carrying	_	VERB	VBG	_	9	amod	_	_
 9	aid	_	NOUN	NN	_	6	dobj	_	_
 10	for	_	ADP	IN	_	12	case	_	_
-11	@placeholder	_	NOUN	NN	_	12	compound	_	_
+11	placeholder	_	NOUN	NN	_	12	compound	_	_
 12	unloads	_	NOUN	NNS	_	9	nmod	_	_
 13	at	_	ADP	IN	_	16	case	_	_
 14	the	_	DET	DT	_	16	det	_	_

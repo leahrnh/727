@@ -6,7 +6,7 @@
 6	freed	_	VERB	VBN	_	0	root	_	_
 7	from	_	ADP	IN	_	11	case	_	_
 8	the	_	DET	DT	_	11	det	_	_
-9	@placeholder	_	NOUN	NN	_	11	compound	_	_
+9	placeholder	_	NOUN	NN	_	11	compound	_	_
 10	terror	_	NOUN	NN	_	11	compound	_	_
 11	group	_	NOUN	NN	_	6	nmod	_	_
 

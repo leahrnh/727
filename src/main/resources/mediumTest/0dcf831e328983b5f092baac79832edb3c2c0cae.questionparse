@@ -13,5 +13,5 @@
 13	designers	_	NOUN	NNS	_	4	nmod	_	_
 14	such	_	ADJ	JJ	_	16	case	_	_
 15	as	_	ADP	IN	_	14	mwe	_	_
-16	@placeholder	_	NOUN	NN	_	13	nmod	_	_
+16	placeholder	_	NOUN	NN	_	13	nmod	_	_
 

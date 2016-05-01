@@ -7,7 +7,7 @@
 7	point	_	NOUN	NN	_	8	compound	_	_
 8	plan	_	NOUN	NN	_	5	dep	_	_
 9	for	_	ADP	IN	_	10	case	_	_
-10	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+10	placeholder	_	NOUN	NN	_	8	nmod	_	_
 11	but	_	CONJ	CC	_	14	cc	_	_
 12	Entity3	_	NOUN	NNS	_	14	nsubj	_	_
 13	have	_	AUX	VBP	_	14	aux	_	_

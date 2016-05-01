@@ -10,5 +10,5 @@
 10	beat	_	VERB	VB	_	8	xcomp	_	_
 11	Entity4	_	NOUN	NNS	_	10	dobj	_	_
 12	in	_	ADP	IN	_	13	case	_	_
-13	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+13	placeholder	_	NOUN	NN	_	10	nmod	_	_
 

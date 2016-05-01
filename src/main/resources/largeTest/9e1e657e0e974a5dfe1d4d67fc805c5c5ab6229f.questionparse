@@ -12,5 +12,5 @@
 12	bicycle	_	NOUN	NN	_	13	compound	_	_
 13	race	_	NOUN	NN	_	8	nmod	_	_
 14	near	_	ADP	IN	_	15	case	_	_
-15	@placeholder	_	NOUN	NN	_	13	nmod	_	_
+15	placeholder	_	NOUN	NN	_	13	nmod	_	_
 

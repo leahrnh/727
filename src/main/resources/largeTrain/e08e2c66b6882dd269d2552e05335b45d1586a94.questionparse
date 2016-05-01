@@ -9,7 +9,7 @@
 9	with	_	ADP	IN	_	12	case	_	_
 10	its	_	PRON	PRP$	_	12	nmod:poss	_	_
 11	famous	_	ADJ	JJ	_	12	amod	_	_
-12	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+12	placeholder	_	NOUN	NN	_	8	nmod	_	_
 13	and	_	CONJ	CC	_	12	cc	_	_
 14	Entity162	_	NOUN	NNS	_	12	conj	_	_
 

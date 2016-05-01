@@ -5,5 +5,5 @@
 5	lot	_	NOUN	NN	_	2	nmod	_	_
 6	belong	_	VERB	VBP	_	0	root	_	_
 7	to	_	PART	TO	_	8	mark	_	_
-8	@placeholder	_	VERB	VB	_	6	xcomp	_	_
+8	placeholder	_	VERB	VB	_	6	xcomp	_	_
 

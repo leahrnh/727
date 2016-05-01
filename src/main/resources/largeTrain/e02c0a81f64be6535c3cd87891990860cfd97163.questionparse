@@ -6,7 +6,7 @@
 6	at	_	ADP	IN	_	7	case	_	_
 7	odds	_	NOUN	NNS	_	0	root	_	_
 8	over	_	ADP	IN	_	12	case	_	_
-9	@placeholder	_	NOUN	NN	_	12	nmod:poss	_	_
+9	placeholder	_	NOUN	NN	_	12	nmod:poss	_	_
 10	's	_	PART	POS	_	9	case	_	_
 11	nuclear	_	ADJ	JJ	_	12	amod	_	_
 12	ambitions	_	NOUN	NNS	_	7	nmod	_	_

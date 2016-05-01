@@ -5,7 +5,7 @@
 5	accidentally	_	ADV	RB	_	6	advmod	_	_
 6	killed	_	VERB	VBD	_	0	root	_	_
 7	hostages	_	NOUN	NNS	_	8	compound	_	_
-8	@placeholder	_	NOUN	NN	_	6	dobj	_	_
+8	placeholder	_	NOUN	NN	_	6	dobj	_	_
 9	and	_	CONJ	CC	_	8	cc	_	_
 10	Entity5	_	NOUN	NNS	_	8	conj	_	_
 

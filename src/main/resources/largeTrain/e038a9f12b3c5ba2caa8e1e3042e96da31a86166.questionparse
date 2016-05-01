@@ -1,4 +1,4 @@
-1	@placeholder	_	ADV	RB	_	2	advmod	_	_
+1	placeholder	_	ADV	RB	_	2	advmod	_	_
 2	did	_	VERB	VBD	_	0	root	_	_
 3	a	_	DET	DT	_	5	det	_	_
 4	risque	_	ADJ	JJ	_	5	amod	_	_

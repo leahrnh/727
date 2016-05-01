@@ -5,5 +5,5 @@
 5	cultural	_	ADJ	JJ	_	6	amod	_	_
 6	village	_	NOUN	NN	_	3	dobj	_	_
 7	in	_	ADP	IN	_	8	case	_	_
-8	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+8	placeholder	_	NOUN	NN	_	3	nmod	_	_
 

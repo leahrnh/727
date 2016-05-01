@@ -4,7 +4,7 @@
 4	years	_	NOUN	NNS	_	10	nsubj	_	_
 5	old	_	ADJ	JJ	_	7	amod	_	_
 6	,	_	PUNCT	,	_	0	erased	_	_
-7	@placeholder	_	ADJ	JJ	_	4	amod	_	_
+7	placeholder	_	ADJ	JJ	_	4	amod	_	_
 8	is	_	VERB	VBZ	_	10	cop	_	_
 9	mostly	_	ADV	RB	_	10	advmod	_	_
 10	bed	_	NOUN	NN	_	0	root	_	_

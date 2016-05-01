@@ -13,7 +13,7 @@
 13	but	_	CONJ	CC	_	11	cc	_	_
 14	went	_	VERB	VBD	_	11	conj	_	_
 15	for	_	ADP	IN	_	16	case	_	_
-16	@placeholder	_	NOUN	NN	_	14	nmod	_	_
+16	placeholder	_	NOUN	NN	_	14	nmod	_	_
 17	in	_	ADP	IN	_	18	case	_	_
 18	2008	_	NUM	CD	_	14	nmod	_	_
 

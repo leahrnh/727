@@ -5,6 +5,6 @@
 5	ending	_	NOUN	NN	_	2	nmod	_	_
 6	of	_	ADP	IN	_	8	case	_	_
 7	''	_	PUNCT	''	_	0	erased	_	_
-8	@placeholder	_	NOUN	NN	_	2	nmod	_	_
+8	placeholder	_	NOUN	NN	_	2	nmod	_	_
 9	''	_	PUNCT	''	_	0	erased	_	_
 

@@ -5,6 +5,6 @@
 5	,	_	PUNCT	,	_	0	erased	_	_
 6	even	_	ADV	RB	_	9	advmod	_	_
 7	amid	_	ADP	IN	_	9	case	_	_
-8	@placeholder	_	NOUN	NN	_	9	compound	_	_
+8	placeholder	_	NOUN	NN	_	9	compound	_	_
 9	ceremonies	_	NOUN	NNS	_	2	nmod	_	_
 

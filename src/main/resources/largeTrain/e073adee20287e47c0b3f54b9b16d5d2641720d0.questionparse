@@ -13,5 +13,5 @@
 13	1	_	NUM	CD	_	14	nummod	_	_
 14	draw	_	NOUN	NN	_	1	dep	_	_
 15	at	_	ADP	IN	_	16	case	_	_
-16	@placeholder	_	NOUN	NN	_	14	nmod	_	_
+16	placeholder	_	NOUN	NN	_	14	nmod	_	_
 

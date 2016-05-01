@@ -8,5 +8,5 @@
 8	affordable	_	ADJ	JJ	_	3	ccomp	_	_
 9	for	_	ADP	IN	_	11	case	_	_
 10	most	_	ADJ	JJS	_	11	amod	_	_
-11	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+11	placeholder	_	NOUN	NN	_	8	nmod	_	_
 

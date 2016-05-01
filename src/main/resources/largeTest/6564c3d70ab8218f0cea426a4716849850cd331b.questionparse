@@ -8,6 +8,6 @@
 8	assault	_	NOUN	NN	_	2	nmod	_	_
 9	of	_	ADP	IN	_	12	case	_	_
 10	a	_	DET	DT	_	12	det	_	_
-11	@placeholder	_	NOUN	NN	_	12	compound	_	_
+11	placeholder	_	NOUN	NN	_	12	compound	_	_
 12	employee	_	NOUN	NN	_	8	nmod	_	_
 

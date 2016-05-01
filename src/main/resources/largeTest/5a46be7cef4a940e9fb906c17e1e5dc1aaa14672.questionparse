@@ -6,7 +6,7 @@
 6	polls	_	NOUN	NNS	_	3	nmod	_	_
 7	after	_	ADP	IN	_	11	case	_	_
 8	first	_	ADJ	JJ	_	11	amod	_	_
-9	@placeholder	_	NOUN	NN	_	11	compound	_	_
+9	placeholder	_	NOUN	NN	_	11	compound	_	_
 10	election	_	NOUN	NN	_	11	compound	_	_
 11	debate	_	NOUN	NN	_	3	nmod	_	_
 12	between	_	ADP	IN	_	15	case	_	_

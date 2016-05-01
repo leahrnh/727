@@ -1,6 +1,6 @@
 1	chief	_	ADJ	JJ	_	3	amod	_	_
 2	justice	_	NOUN	NN	_	3	compound	_	_
-3	@placeholder	_	NOUN	NN	_	16	nsubj	_	_
+3	placeholder	_	NOUN	NN	_	16	nsubj	_	_
 4	,	_	PUNCT	,	_	0	erased	_	_
 5	who	_	PRON	WP	_	6	nsubj	_	_
 6	shocked	_	VERB	VBD	_	3	acl:relcl	_	_

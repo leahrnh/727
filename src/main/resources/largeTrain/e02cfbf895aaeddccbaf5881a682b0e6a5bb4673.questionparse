@@ -9,7 +9,7 @@
 9	Entity6	_	ADJ	JJ	_	10	amod	_	_
 10	soldiers	_	NOUN	NNS	_	7	dobj	_	_
 11	in	_	ADP	IN	_	12	case	_	_
-12	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+12	placeholder	_	NOUN	NN	_	7	nmod	_	_
 13	in	_	ADP	IN	_	14	case	_	_
 14	2007	_	NUM	CD	_	12	nmod	_	_
 

@@ -9,7 +9,7 @@
 9	in	_	ADP	IN	_	15	case	_	_
 10	Entity8	_	PROPN	NNP	_	15	nmod:poss	_	_
 11	's	_	PART	POS	_	10	case	_	_
-12	@placeholder	_	NOUN	NN	_	15	compound	_	_
+12	placeholder	_	NOUN	NN	_	15	compound	_	_
 13	,	_	PUNCT	,	_	0	erased	_	_
 14	media	_	NOUN	NN	_	15	dep	_	_
 15	outlet	_	NOUN	NN	_	8	nmod	_	_

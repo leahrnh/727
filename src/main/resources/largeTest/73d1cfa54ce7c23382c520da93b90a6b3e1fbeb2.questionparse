@@ -12,7 +12,7 @@
 12	''	_	PUNCT	''	_	0	erased	_	_
 13	and	_	CONJ	CC	_	7	advmod	_	_
 14	''	_	PUNCT	''	_	0	erased	_	_
-15	@placeholder	_	NOUN	NN	_	7	dobj	_	_
+15	placeholder	_	NOUN	NN	_	7	dobj	_	_
 16	''	_	PUNCT	''	_	0	erased	_	_
 17	are	_	VERB	VBP	_	18	cop	_	_
 18	brief	_	ADJ	JJ	_	0	root	_	_

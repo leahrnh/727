@@ -6,5 +6,5 @@
 6	at	_	ADP	IN	_	9	case	_	_
 7	the	_	DET	DT	_	9	det	_	_
 8	2004	_	NUM	CD	_	9	nummod	_	_
-9	@placeholder	_	NOUN	NN	_	2	nmod	_	_
+9	placeholder	_	NOUN	NN	_	2	nmod	_	_
 

@@ -4,7 +4,7 @@
 4	characters	_	NOUN	NNS	_	2	dobj	_	_
 5	at	_	ADP	IN	_	9	case	_	_
 6	a	_	DET	DT	_	9	det	_	_
-7	@placeholder	_	NOUN	NN	_	9	compound	_	_
+7	placeholder	_	NOUN	NN	_	9	compound	_	_
 8	house	_	NOUN	NN	_	9	compound	_	_
 9	party	_	NOUN	NN	_	2	nmod	_	_
 

@@ -15,6 +15,6 @@
 15	film	_	NOUN	NN	_	9	conj	_	_
 16	is	_	VERB	VBZ	_	8	acl:relcl	_	_
 17	''	_	PUNCT	''	_	0	erased	_	_
-18	@placeholder	_	NOUN	NN	_	7	dobj	_	_
+18	placeholder	_	NOUN	NN	_	7	dobj	_	_
 19	''	_	PUNCT	''	_	0	erased	_	_
 

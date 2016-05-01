@@ -1,6 +1,6 @@
 1	yoga	_	NOUN	NN	_	3	compound	_	_
 2	guru	_	NOUN	NN	_	3	compound	_	_
-3	@placeholder	_	NOUN	NN	_	4	nsubj	_	_
+3	placeholder	_	NOUN	NN	_	4	nsubj	_	_
 4	denies	_	VERB	VBZ	_	0	root	_	_
 5	sexual	_	ADJ	JJ	_	7	amod	_	_
 6	assault	_	NOUN	NN	_	7	compound	_	_

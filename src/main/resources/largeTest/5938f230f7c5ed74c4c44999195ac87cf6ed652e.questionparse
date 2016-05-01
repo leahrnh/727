@@ -10,7 +10,7 @@
 10	start	_	NOUN	NN	_	7	nmod	_	_
 11	of	_	ADP	IN	_	13	case	_	_
 12	the	_	DET	DT	_	13	det	_	_
-13	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+13	placeholder	_	NOUN	NN	_	10	nmod	_	_
 14	in	_	ADP	IN	_	15	case	_	_
 15	Entity258	_	NOUN	NNS	_	13	nmod	_	_
 16	during	_	ADP	IN	_	17	case	_	_

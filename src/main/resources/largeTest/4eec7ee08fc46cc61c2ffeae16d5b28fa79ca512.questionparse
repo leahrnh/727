@@ -14,6 +14,6 @@
 14	terrorist	_	ADJ	JJ	_	15	amod	_	_
 15	group	_	NOUN	NN	_	12	dobj	_	_
 16	called	_	VERB	VBN	_	15	acl	_	_
-17	@placeholder	_	NOUN	NN	_	16	dobj	_	_
+17	placeholder	_	NOUN	NN	_	16	dobj	_	_
 18	''	_	PUNCT	''	_	0	erased	_	_
 

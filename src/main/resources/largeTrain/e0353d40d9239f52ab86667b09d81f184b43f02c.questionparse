@@ -13,6 +13,6 @@
 13	,	_	PUNCT	,	_	0	erased	_	_
 14	Entity34	_	NOUN	NNS	_	8	nmod	_	_
 15	and	_	CONJ	CC	_	14	cc	_	_
-16	@placeholder	_	NOUN	NN	_	17	compound	_	_
+16	placeholder	_	NOUN	NN	_	17	compound	_	_
 17	troops	_	NOUN	NNS	_	14	conj	_	_
 

@@ -4,7 +4,7 @@
 4	and	_	CONJ	CC	_	3	cc	_	_
 5	Entity3	_	NOUN	NNS	_	3	conj	_	_
 6	give	_	VERB	VBP	_	0	root	_	_
-7	@placeholder	_	NOUN	NN	_	6	dobj	_	_
+7	placeholder	_	NOUN	NN	_	6	dobj	_	_
 8	come	_	VERB	VBN	_	7	acl	_	_
 9	from	_	ADP	IN	_	11	case	_	_
 10	behind	_	ADP	IN	_	11	case	_	_

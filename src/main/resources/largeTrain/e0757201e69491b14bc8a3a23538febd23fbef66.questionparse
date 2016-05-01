@@ -7,7 +7,7 @@
 7	apartment	_	NOUN	NN	_	4	nmod	_	_
 8	,	_	PUNCT	,	_	0	erased	_	_
 9	and	_	CONJ	CC	_	4	cc	_	_
-10	@placeholder	_	NOUN	NN	_	12	nmod:poss	_	_
+10	placeholder	_	NOUN	NN	_	12	nmod:poss	_	_
 11	's	_	PART	POS	_	10	case	_	_
 12	car	_	NOUN	NN	_	15	nsubjpass	_	_
 13	had	_	AUX	VBD	_	15	aux	_	_

@@ -9,5 +9,5 @@
 9	Entity20	_	NOUN	NNS	_	7	nmod	_	_
 10	,	_	PUNCT	,	_	0	erased	_	_
 11	or	_	CONJ	CC	_	6	cc	_	_
-12	@placeholder	_	NOUN	NN	_	6	conj	_	_
+12	placeholder	_	NOUN	NN	_	6	conj	_	_
 

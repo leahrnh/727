@@ -5,5 +5,5 @@
 5	retaking	_	VERB	VBG	_	4	xcomp	_	_
 6	terrain	_	NOUN	NN	_	5	dobj	_	_
 7	from	_	ADP	IN	_	8	case	_	_
-8	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+8	placeholder	_	NOUN	NN	_	5	nmod	_	_
 

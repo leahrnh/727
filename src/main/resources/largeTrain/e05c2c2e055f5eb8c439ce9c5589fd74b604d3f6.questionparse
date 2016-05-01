@@ -11,6 +11,6 @@
 11	''	_	PUNCT	''	_	0	erased	_	_
 12	says	_	VERB	VBZ	_	6	acl:relcl	_	_
 13	one	_	PRON	PRP	_	15	nsubj	_	_
-14	@placeholder	_	ADV	RB	_	15	advmod	_	_
+14	placeholder	_	ADV	RB	_	15	advmod	_	_
 15	reformer	_	VERB	VBZ	_	0	root	_	_
 

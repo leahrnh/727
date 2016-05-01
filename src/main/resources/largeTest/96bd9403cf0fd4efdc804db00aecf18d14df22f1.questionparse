@@ -6,7 +6,7 @@
 6	nuclear	_	ADJ	JJ	_	7	amod	_	_
 7	reactors	_	NOUN	NNS	_	1	nmod	_	_
 8	in	_	ADP	IN	_	9	case	_	_
-9	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+9	placeholder	_	NOUN	NN	_	7	nmod	_	_
 10	was	_	AUX	VBD	_	12	auxpass	_	_
 11	recently	_	ADV	RB	_	12	advmod	_	_
 12	blocked	_	VERB	VBN	_	0	root	_	_

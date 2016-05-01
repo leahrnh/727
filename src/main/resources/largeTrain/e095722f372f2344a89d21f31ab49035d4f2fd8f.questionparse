@@ -1,6 +1,6 @@
 1	but	_	ADV	RB	_	3	advmod	_	_
 2	''	_	PUNCT	''	_	0	erased	_	_
-3	@placeholder	_	VERB	VB	_	0	root	_	_
+3	placeholder	_	VERB	VB	_	0	root	_	_
 4	''	_	PUNCT	''	_	0	erased	_	_
 5	failed	_	ADJ	JJ	_	3	dobj	_	_
 6	to	_	PART	TO	_	7	mark	_	_

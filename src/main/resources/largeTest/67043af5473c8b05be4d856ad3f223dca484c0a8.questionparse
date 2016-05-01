@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+1	placeholder	_	NOUN	NN	_	2	nsubj	_	_
 2	left	_	VERB	VBD	_	0	root	_	_
 3	''	_	PUNCT	''	_	0	erased	_	_
 4	bloody	_	ADJ	JJ	_	5	amod	_	_

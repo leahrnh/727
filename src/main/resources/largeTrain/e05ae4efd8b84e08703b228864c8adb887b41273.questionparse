@@ -13,5 +13,5 @@
 13	be	_	AUX	VB	_	14	auxpass	_	_
 14	mentioned	_	VERB	VBN	_	11	acl	_	_
 15	on	_	ADP	IN	_	16	case	_	_
-16	@placeholder	_	NOUN	NN	_	14	nmod	_	_
+16	placeholder	_	NOUN	NN	_	14	nmod	_	_
 

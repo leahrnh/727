@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+1	placeholder	_	NOUN	NN	_	2	nsubj	_	_
 2	returns	_	VERB	VBZ	_	0	root	_	_
 3	home	_	ADV	RB	_	5	advmod	_	_
 4	,	_	PUNCT	,	_	0	erased	_	_

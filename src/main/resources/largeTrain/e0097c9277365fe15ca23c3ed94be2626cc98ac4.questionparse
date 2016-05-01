@@ -8,6 +8,6 @@
 8	life	_	NOUN	NN	_	6	nmod	_	_
 9	,	_	PUNCT	,	_	0	erased	_	_
 10	''	_	PUNCT	''	_	0	erased	_	_
-11	@placeholder	_	CONJ	CC	_	3	cc	_	_
+11	placeholder	_	CONJ	CC	_	3	cc	_	_
 12	says	_	VERB	VBZ	_	3	conj	_	_
 

@@ -8,6 +8,6 @@
 8	host	_	VERB	VB	_	6	xcomp	_	_
 9	the	_	DET	DT	_	12	det	_	_
 10	2015	_	NUM	CD	_	12	nummod	_	_
-11	@placeholder	_	NOUN	NN	_	12	compound	_	_
+11	placeholder	_	NOUN	NN	_	12	compound	_	_
 12	ceremony	_	NOUN	NN	_	8	dobj	_	_
 

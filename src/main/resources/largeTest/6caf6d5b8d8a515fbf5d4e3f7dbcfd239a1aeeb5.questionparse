@@ -12,6 +12,6 @@
 12	''	_	PUNCT	''	_	0	erased	_	_
 13	and	_	PROPN	NNP	_	15	nsubj	_	_
 14	''	_	PUNCT	''	_	0	erased	_	_
-15	@placeholder	_	VERB	VBP	_	4	ccomp	_	_
+15	placeholder	_	VERB	VBP	_	4	ccomp	_	_
 16	''	_	PUNCT	''	_	0	erased	_	_
 

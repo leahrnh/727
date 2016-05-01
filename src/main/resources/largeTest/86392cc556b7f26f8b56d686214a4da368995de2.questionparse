@@ -4,7 +4,7 @@
 4	highest	_	ADJ	JJS	_	5	amod	_	_
 5	number	_	NOUN	NN	_	2	dobj	_	_
 6	of	_	ADP	IN	_	7	case	_	_
-7	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+7	placeholder	_	NOUN	NN	_	5	nmod	_	_
 8	in	_	ADP	IN	_	10	case	_	_
 9	the	_	DET	DT	_	10	det	_	_
 10	world	_	NOUN	NN	_	7	nmod	_	_

@@ -5,5 +5,5 @@
 5	efforts	_	NOUN	NNS	_	3	dobj	_	_
 6	to	_	ADP	TO	_	8	case	_	_
 7	arm	_	NOUN	NN	_	8	compound	_	_
-8	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+8	placeholder	_	NOUN	NN	_	3	nmod	_	_
 

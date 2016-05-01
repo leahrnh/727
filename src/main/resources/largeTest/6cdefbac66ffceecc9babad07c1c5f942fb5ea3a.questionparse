@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+1	placeholder	_	NOUN	NN	_	2	nsubj	_	_
 2	released	_	VERB	VBD	_	0	root	_	_
 3	a	_	DET	DT	_	5	det	_	_
 4	teaser	_	NOUN	NN	_	5	compound	_	_

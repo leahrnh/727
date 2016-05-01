@@ -1,7 +1,7 @@
 1	reviewer	_	VERB	VB	_	0	root	_	_
 2	:	_	PUNCT	:	_	0	erased	_	_
 3	''	_	PUNCT	''	_	0	erased	_	_
-4	@placeholder	_	NUM	CD	_	1	dep	_	_
+4	placeholder	_	NUM	CD	_	1	dep	_	_
 5	:	_	PUNCT	:	_	0	erased	_	_
 6	Entity6	_	VERB	VBG	_	1	parataxis	_	_
 7	''	_	PUNCT	''	_	0	erased	_	_

@@ -5,7 +5,7 @@
 5	chemical	_	ADJ	JJ	_	6	amod	_	_
 6	plant	_	NOUN	NN	_	3	dep	_	_
 7	in	_	ADP	IN	_	12	case	_	_
-8	@placeholder	_	NOUN	NN	_	12	nmod:poss	_	_
+8	placeholder	_	NOUN	NN	_	12	nmod:poss	_	_
 9	's	_	PART	POS	_	8	case	_	_
 10	southeastern	_	ADJ	JJ	_	12	amod	_	_
 11	Entity7	_	ADJ	JJ	_	12	amod	_	_

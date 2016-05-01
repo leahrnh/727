@@ -10,6 +10,6 @@
 10	the	_	DET	DT	_	11	det	_	_
 11	gun	_	NOUN	NN	_	8	nmod	_	_
 12	and	_	CONJ	CC	_	11	cc	_	_
-13	@placeholder	_	NOUN	NN	_	11	conj	_	_
+13	placeholder	_	NOUN	NN	_	11	conj	_	_
 14	used	_	VERB	VBN	_	11	acl	_	_
 

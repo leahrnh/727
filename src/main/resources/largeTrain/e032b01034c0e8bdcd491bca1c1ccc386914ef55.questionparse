@@ -4,7 +4,7 @@
 4	Entity1	_	NOUN	NNS	_	3	dobj	_	_
 5	after	_	SCONJ	IN	_	6	mark	_	_
 6	beating	_	VERB	VBG	_	3	advcl	_	_
-7	@placeholder	_	NOUN	NN	_	6	dobj	_	_
+7	placeholder	_	NOUN	NN	_	6	dobj	_	_
 8	7	_	NUM	CD	_	10	nummod	_	_
 9	-	_	PUNCT	:	_	0	erased	_	_
 10	6	_	NUM	CD	_	3	nsubj	_	_

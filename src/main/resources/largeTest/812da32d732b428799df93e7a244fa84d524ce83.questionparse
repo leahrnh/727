@@ -6,6 +6,6 @@
 6	in	_	SCONJ	IN	_	7	mark	_	_
 7	theatrical	_	VERB	VBG	_	2	advcl	_	_
 8	''	_	PUNCT	''	_	0	erased	_	_
-9	@placeholder	_	NOUN	NN	_	7	dobj	_	_
+9	placeholder	_	NOUN	NN	_	7	dobj	_	_
 10	''	_	PUNCT	''	_	0	erased	_	_
 

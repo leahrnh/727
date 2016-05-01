@@ -11,7 +11,7 @@
 11	''	_	PUNCT	''	_	0	erased	_	_
 12	Entity6	_	NOUN	NNS	_	4	nmod	_	_
 13	:	_	PUNCT	:	_	0	erased	_	_
-14	@placeholder	_	NOUN	NN	_	23	nsubj	_	_
+14	placeholder	_	NOUN	NN	_	23	nsubj	_	_
 15	''	_	PUNCT	''	_	0	erased	_	_
 16	and	_	CONJ	CC	_	14	cc	_	_
 17	Entity40	_	ADJ	JJ	_	21	amod	_	_

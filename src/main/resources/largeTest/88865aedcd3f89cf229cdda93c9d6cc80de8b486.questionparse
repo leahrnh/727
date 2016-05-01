@@ -18,6 +18,6 @@
 18	to	_	PART	TO	_	19	mark	_	_
 19	reach	_	VERB	VB	_	17	xcomp	_	_
 20	the	_	DET	DT	_	22	det	_	_
-21	@placeholder	_	NOUN	NN	_	22	compound	_	_
+21	placeholder	_	NOUN	NN	_	22	compound	_	_
 22	coast	_	NOUN	NN	_	19	dobj	_	_
 

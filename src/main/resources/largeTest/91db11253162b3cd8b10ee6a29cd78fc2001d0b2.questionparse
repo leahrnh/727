@@ -5,7 +5,7 @@
 5	ill	_	ADJ	JJ	_	4	xcomp	_	_
 6	at	_	ADP	IN	_	9	case	_	_
 7	the	_	DET	DT	_	9	det	_	_
-8	@placeholder	_	NOUN	NN	_	9	compound	_	_
+8	placeholder	_	NOUN	NN	_	9	compound	_	_
 9	resort	_	NOUN	NN	_	5	nmod	_	_
 10	in	_	ADP	IN	_	13	case	_	_
 11	the	_	DET	DT	_	13	det	_	_

@@ -5,7 +5,7 @@
 5	democrats	_	NOUN	NNS	_	6	nsubj	_	_
 6	favor	_	VERB	VBP	_	0	root	_	_
 7	expanding	_	VERB	VBG	_	6	xcomp	_	_
-8	@placeholder	_	NOUN	NN	_	10	compound	_	_
+8	placeholder	_	NOUN	NN	_	10	compound	_	_
 9	background	_	NOUN	NN	_	10	compound	_	_
 10	checks	_	NOUN	NNS	_	7	dobj	_	_
 11	to	_	ADP	TO	_	13	case	_	_

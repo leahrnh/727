@@ -10,7 +10,7 @@
 10	it	_	PRON	PRP	_	11	nsubj	_	_
 11	came	_	VERB	VBD	_	8	ccomp	_	_
 12	on	_	ADP	IN	_	14	case	_	_
-13	@placeholder	_	NOUN	NN	_	14	compound	_	_
+13	placeholder	_	NOUN	NN	_	14	compound	_	_
 14	independence	_	NOUN	NN	_	11	nmod	_	_
 15	day	_	NOUN	NN	_	11	nmod:tmod	_	_
 

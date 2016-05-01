@@ -15,7 +15,7 @@
 15	Entity0	_	NOUN	NNS	_	16	nsubj	_	_
 16	says	_	VERB	VBZ	_	5	parataxis	_	_
 17	of	_	ADP	IN	_	18	case	_	_
-18	@placeholder	_	NOUN	NN	_	16	nmod	_	_
+18	placeholder	_	NOUN	NN	_	16	nmod	_	_
 19	and	_	CONJ	CC	_	18	cc	_	_
 20	Entity6	_	NOUN	NNS	_	18	conj	_	_
 

@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	0	root	_	_
+1	placeholder	_	NOUN	NN	_	0	root	_	_
 2	:	_	PUNCT	:	_	0	erased	_	_
 3	Entity47	_	ADJ	JJ	_	6	amod	_	_
 4	leader	_	NOUN	NN	_	6	compound	_	_

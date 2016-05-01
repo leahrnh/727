@@ -8,7 +8,7 @@
 8	Entity77	_	NOUN	NNS	_	6	nmod	_	_
 9	will	_	AUX	MD	_	10	aux	_	_
 10	attend	_	VERB	VB	_	0	root	_	_
-11	@placeholder	_	NOUN	NN	_	13	nmod:poss	_	_
+11	placeholder	_	NOUN	NN	_	13	nmod:poss	_	_
 12	's	_	PART	POS	_	11	case	_	_
 13	funeral	_	NOUN	NN	_	10	dobj	_	_
 

@@ -14,6 +14,6 @@
 14	heist	_	NOUN	NN	_	11	dobj	_	_
 15	during	_	ADP	IN	_	18	case	_	_
 16	the	_	DET	DT	_	18	det	_	_
-17	@placeholder	_	NOUN	NN	_	18	compound	_	_
+17	placeholder	_	NOUN	NN	_	18	compound	_	_
 18	vacation	_	NOUN	NN	_	11	nmod	_	_
 

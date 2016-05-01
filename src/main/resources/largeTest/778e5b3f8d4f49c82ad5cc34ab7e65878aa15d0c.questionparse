@@ -8,7 +8,7 @@
 8	commit	_	VERB	VB	_	6	acl	_	_
 9	kidnapping	_	NOUN	NN	_	8	dobj	_	_
 10	in	_	ADP	IN	_	13	case	_	_
-11	@placeholder	_	ADJ	JJ	_	13	amod	_	_
+11	placeholder	_	ADJ	JJ	_	13	amod	_	_
 12	federal	_	ADJ	JJ	_	13	amod	_	_
 13	court	_	NOUN	NN	_	8	nmod	_	_
 

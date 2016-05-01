@@ -9,6 +9,6 @@
 9	victim	_	NOUN	NN	_	13	nsubj	_	_
 10	was	_	VERB	VBD	_	13	cop	_	_
 11	female	_	ADJ	JJ	_	13	amod	_	_
-12	@placeholder	_	NOUN	NN	_	13	compound	_	_
+12	placeholder	_	NOUN	NN	_	13	compound	_	_
 13	citizen	_	NOUN	NN	_	7	ccomp	_	_
 

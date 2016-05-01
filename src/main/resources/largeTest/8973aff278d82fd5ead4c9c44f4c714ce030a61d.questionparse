@@ -12,5 +12,5 @@
 12	Entity40	_	ADJ	JJ	_	13	amod	_	_
 13	lives	_	NOUN	NNS	_	10	nmod	_	_
 14	in	_	ADP	IN	_	15	case	_	_
-15	@placeholder	_	NOUN	NN	_	13	nmod	_	_
+15	placeholder	_	NOUN	NN	_	13	nmod	_	_
 

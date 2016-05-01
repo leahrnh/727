@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	3	nsubjpass	_	_
+1	placeholder	_	NOUN	NN	_	3	nsubjpass	_	_
 2	was	_	AUX	VBD	_	3	auxpass	_	_
 3	charged	_	VERB	VBN	_	0	root	_	_
 4	with	_	ADP	IN	_	5	case	_	_

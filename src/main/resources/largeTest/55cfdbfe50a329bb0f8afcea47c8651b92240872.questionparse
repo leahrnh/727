@@ -11,5 +11,5 @@
 11	their	_	PRON	PRP$	_	12	nmod:poss	_	_
 12	homes	_	NOUN	NNS	_	10	dobj	_	_
 13	in	_	ADP	IN	_	14	case	_	_
-14	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+14	placeholder	_	NOUN	NN	_	10	nmod	_	_
 

@@ -7,7 +7,7 @@
 7	running	_	ADJ	JJ	_	8	amod	_	_
 8	mate	_	NOUN	NN	_	13	nsubj	_	_
 9	,	_	PUNCT	,	_	0	erased	_	_
-10	@placeholder	_	NOUN	NN	_	8	appos	_	_
+10	placeholder	_	NOUN	NN	_	8	appos	_	_
 11	,	_	PUNCT	,	_	0	erased	_	_
 12	is	_	VERB	VBZ	_	13	cop	_	_
 13	shrewd	_	ADJ	JJ	_	2	ccomp	_	_

@@ -12,5 +12,5 @@
 12	up	_	ADP	RP	_	11	compound:prt	_	_
 13	pieces	_	NOUN	NNS	_	11	dobj	_	_
 14	in	_	ADP	IN	_	15	case	_	_
-15	@placeholder	_	NOUN	NN	_	13	nmod	_	_
+15	placeholder	_	NOUN	NN	_	13	nmod	_	_
 

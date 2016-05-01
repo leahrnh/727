@@ -4,7 +4,7 @@
 4	the	_	DET	DT	_	5	det	_	_
 5	beaches	_	NOUN	NNS	_	3	dobj	_	_
 6	at	_	ADP	IN	_	7	case	_	_
-7	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+7	placeholder	_	NOUN	NN	_	3	nmod	_	_
 8	,	_	PUNCT	,	_	0	erased	_	_
 9	beginning	_	VERB	VBG	_	3	advcl	_	_
 10	a	_	DET	DT	_	15	det	_	_

@@ -9,7 +9,7 @@
 9	year	_	NOUN	NN	_	7	dep	_	_
 10	-	_	PUNCT	:	_	0	erased	_	_
 11	old	_	ADJ	JJ	_	13	amod	_	_
-12	@placeholder	_	NOUN	NN	_	13	compound	_	_
+12	placeholder	_	NOUN	NN	_	13	compound	_	_
 13	man	_	NOUN	NN	_	7	dep	_	_
 14	with	_	ADP	IN	_	21	case	_	_
 15	a	_	DET	DT	_	21	det	_	_

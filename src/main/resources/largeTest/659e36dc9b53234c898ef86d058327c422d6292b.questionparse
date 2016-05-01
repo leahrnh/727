@@ -15,6 +15,6 @@
 15	video	_	NOUN	NN	_	12	dobj	_	_
 16	,	_	PUNCT	,	_	0	erased	_	_
 17	the	_	DET	DT	_	18	det	_	_
-18	@placeholder	_	NOUN	NN	_	15	appos	_	_
+18	placeholder	_	NOUN	NN	_	15	appos	_	_
 19	says	_	VERB	VBZ	_	18	dep	_	_
 

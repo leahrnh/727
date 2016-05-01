@@ -10,5 +10,5 @@
 10	on	_	ADP	IN	_	13	case	_	_
 11	league	_	NOUN	NN	_	13	compound	_	_
 12	leaders	_	NOUN	NNS	_	13	compound	_	_
-13	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+13	placeholder	_	NOUN	NN	_	8	nmod	_	_
 

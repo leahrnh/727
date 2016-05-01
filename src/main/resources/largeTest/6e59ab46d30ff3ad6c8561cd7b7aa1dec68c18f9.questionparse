@@ -9,7 +9,7 @@
 9	20	_	NUM	CD	_	10	nummod	_	_
 10	countries	_	NOUN	NNS	_	5	nmod	_	_
 11	to	_	PART	TO	_	12	mark	_	_
-12	@placeholder	_	VERB	VB	_	5	xcomp	_	_
+12	placeholder	_	VERB	VB	_	5	xcomp	_	_
 13	to	_	PART	TO	_	14	mark	_	_
 14	cross	_	VERB	VB	_	12	xcomp	_	_
 15	Entity28	_	NOUN	NNS	_	14	dobj	_	_

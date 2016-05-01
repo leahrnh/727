@@ -10,5 +10,5 @@
 10	the	_	DET	DT	_	11	det	_	_
 11	killing	_	NOUN	NN	_	8	nmod	_	_
 12	of	_	ADP	IN	_	13	case	_	_
-13	@placeholder	_	NOUN	NN	_	11	nmod	_	_
+13	placeholder	_	NOUN	NN	_	11	nmod	_	_
 

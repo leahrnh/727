@@ -10,7 +10,7 @@
 10	be	_	AUX	VB	_	11	auxpass	_	_
 11	extradited	_	VERB	VBN	_	15	advcl	_	_
 12	,	_	PUNCT	,	_	0	erased	_	_
-13	@placeholder	_	NOUN	NN	_	14	compound	_	_
+13	placeholder	_	NOUN	NN	_	14	compound	_	_
 14	police	_	NOUN	NNS	_	15	nsubj	_	_
 15	say	_	VERB	VBP	_	5	acl:relcl	_	_
 

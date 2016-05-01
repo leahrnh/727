@@ -2,7 +2,7 @@
 2	Entity46	_	PROPN	NNP	_	3	nsubj	_	_
 3	traveled	_	VERB	VBD	_	0	root	_	_
 4	to	_	PART	TO	_	5	mark	_	_
-5	@placeholder	_	VERB	VB	_	3	xcomp	_	_
+5	placeholder	_	VERB	VB	_	3	xcomp	_	_
 6	to	_	PART	TO	_	7	mark	_	_
 7	explore	_	VERB	VB	_	5	xcomp	_	_
 8	her	_	PRON	PRP$	_	9	nmod:poss	_	_

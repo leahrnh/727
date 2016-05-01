@@ -4,7 +4,7 @@
 4	deadliest	_	ADJ	JJS	_	0	root	_	_
 5	in	_	ADP	IN	_	7	case	_	_
 6	the	_	DET	DT	_	7	det	_	_
-7	@placeholder	_	NOUN	NN	_	4	nmod	_	_
+7	placeholder	_	NOUN	NN	_	4	nmod	_	_
 8	in	_	ADP	IN	_	12	case	_	_
 9	more	_	ADJ	JJR	_	11	advmod	_	_
 10	than	_	ADP	IN	_	9	mwe	_	_

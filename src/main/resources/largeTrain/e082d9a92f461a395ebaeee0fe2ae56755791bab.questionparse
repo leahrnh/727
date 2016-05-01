@@ -8,6 +8,6 @@
 8	Entity34	_	NOUN	NNS	_	6	dobj	_	_
 9	-	_	PUNCT	:	_	0	erased	_	_
 10	designed	_	VERB	VBN	_	8	acl	_	_
-11	@placeholder	_	NOUN	NN	_	12	compound	_	_
+11	placeholder	_	NOUN	NN	_	12	compound	_	_
 12	rows	_	NOUN	NNS	_	10	dobj	_	_
 

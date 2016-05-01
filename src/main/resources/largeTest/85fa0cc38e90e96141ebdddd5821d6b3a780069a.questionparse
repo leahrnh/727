@@ -11,7 +11,7 @@
 11	Entity2	_	NOUN	NNS	_	6	nmod	_	_
 12	and	_	CONJ	CC	_	11	cc	_	_
 13	foreign	_	ADJ	JJ	_	15	amod	_	_
-14	@placeholder	_	NOUN	NN	_	15	compound	_	_
+14	placeholder	_	NOUN	NN	_	15	compound	_	_
 15	entrepreneurs	_	NOUN	NNS	_	11	conj	_	_
 16	,	_	PUNCT	,	_	0	erased	_	_
 17	says	_	VERB	VBZ	_	0	root	_	_

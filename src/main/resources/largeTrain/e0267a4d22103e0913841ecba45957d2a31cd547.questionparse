@@ -11,7 +11,7 @@
 11	death	_	NOUN	NN	_	4	nmod	_	_
 12	,	_	PUNCT	,	_	0	erased	_	_
 13	a	_	DET	DT	_	15	det	_	_
-14	@placeholder	_	NOUN	NN	_	15	compound	_	_
+14	placeholder	_	NOUN	NN	_	15	compound	_	_
 15	count	_	NOUN	NN	_	16	nsubj	_	_
 16	shows	_	VERB	VBZ	_	4	dep	_	_
 

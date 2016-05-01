@@ -4,7 +4,7 @@
 4	mission	_	NOUN	NN	_	5	nsubj	_	_
 5	hurtles	_	VERB	VBZ	_	0	root	_	_
 6	toward	_	ADP	IN	_	7	case	_	_
-7	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+7	placeholder	_	NOUN	NN	_	5	nmod	_	_
 8	in	_	ADP	IN	_	13	case	_	_
 9	historic	_	ADJ	JJ	_	13	amod	_	_
 10	3	_	NUM	CD	_	11	compound	_	_

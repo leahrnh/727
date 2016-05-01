@@ -8,6 +8,6 @@
 8	comments	_	NOUN	NNS	_	6	dobj	_	_
 9	from	_	ADP	IN	_	12	case	_	_
 10	some	_	DET	DT	_	12	det	_	_
-11	@placeholder	_	NOUN	NN	_	12	compound	_	_
+11	placeholder	_	NOUN	NN	_	12	compound	_	_
 12	owners	_	NOUN	NNS	_	6	nmod	_	_
 

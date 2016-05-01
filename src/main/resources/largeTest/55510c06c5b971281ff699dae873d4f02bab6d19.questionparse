@@ -8,5 +8,5 @@
 8	fired	_	VERB	VBN	_	0	root	_	_
 9	from	_	ADP	IN	_	11	case	_	_
 10	the	_	DET	DT	_	11	det	_	_
-11	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+11	placeholder	_	NOUN	NN	_	8	nmod	_	_
 

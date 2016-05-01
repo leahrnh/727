@@ -1,6 +1,6 @@
 1	Entity340	_	PROPN	NNP	_	2	nsubj	_	_
 2	argues	_	VERB	VBZ	_	0	root	_	_
-3	@placeholder	_	NOUN	NN	_	2	dobj	_	_
+3	placeholder	_	NOUN	NN	_	2	dobj	_	_
 4	revealed	_	VERB	VBN	_	3	acl	_	_
 5	significant	_	ADJ	JJ	_	6	amod	_	_
 6	inequality	_	NOUN	NN	_	4	dobj	_	_

@@ -12,7 +12,7 @@
 12	,	_	PUNCT	,	_	0	erased	_	_
 13	many	_	ADJ	JJ	_	5	xcomp	_	_
 14	from	_	ADP	IN	_	17	case	_	_
-15	@placeholder	_	NOUN	NN	_	17	nmod:poss	_	_
+15	placeholder	_	NOUN	NN	_	17	nmod:poss	_	_
 16	's	_	PART	POS	_	15	case	_	_
 17	neighbors	_	NOUN	NNS	_	13	nmod	_	_
 

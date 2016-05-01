@@ -10,5 +10,5 @@
 10	fighting	_	NOUN	NN	_	7	nmod	_	_
 11	against	_	ADP	IN	_	13	case	_	_
 12	the	_	DET	DT	_	13	det	_	_
-13	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+13	placeholder	_	NOUN	NN	_	7	nmod	_	_
 

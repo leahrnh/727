@@ -6,7 +6,7 @@
 6	small	_	ADJ	JJ	_	7	amod	_	_
 7	earthquakes	_	NOUN	NNS	_	4	nmod	_	_
 8	in	_	ADP	IN	_	9	case	_	_
-9	@placeholder	_	NOUN	NN	_	2	nmod	_	_
+9	placeholder	_	NOUN	NN	_	2	nmod	_	_
 10	to	_	PART	TO	_	11	mark	_	_
 11	scan	_	VERB	VB	_	2	advcl	_	_
 12	the	_	DET	DT	_	13	det	_	_

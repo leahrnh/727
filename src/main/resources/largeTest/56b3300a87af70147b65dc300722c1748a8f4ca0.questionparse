@@ -10,7 +10,7 @@
 10	,	_	PUNCT	,	_	0	erased	_	_
 11	'	_	PUNCT	''	_	0	erased	_	_
 12	but	_	CONJ	CC	_	5	cc	_	_
-13	@placeholder	_	VERB	VBP	_	5	conj	_	_
+13	placeholder	_	VERB	VBP	_	5	conj	_	_
 14	law	_	NOUN	NN	_	13	dobj	_	_
 15	pushing	_	VERB	VBG	_	14	acl	_	_
 16	them	_	PRON	PRP	_	15	dobj	_	_

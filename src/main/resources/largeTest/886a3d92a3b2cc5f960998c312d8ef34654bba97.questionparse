@@ -5,7 +5,7 @@
 5	chaos	_	NOUN	NN	_	3	nmod	_	_
 6	as	_	SCONJ	IN	_	10	mark	_	_
 7	a	_	DET	DT	_	9	det	_	_
-8	@placeholder	_	NOUN	NN	_	9	compound	_	_
+8	placeholder	_	NOUN	NN	_	9	compound	_	_
 9	conflict	_	NOUN	NN	_	10	nsubj	_	_
 10	draws	_	VERB	VBZ	_	3	advcl	_	_
 11	in	_	ADP	IN	_	13	case	_	_

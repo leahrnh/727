@@ -1,6 +1,6 @@
 1	money	_	NOUN	NN	_	3	compound	_	_
 2	expert	_	NOUN	NN	_	3	compound	_	_
-3	@placeholder	_	NOUN	NN	_	4	nsubj	_	_
+3	placeholder	_	NOUN	NN	_	4	nsubj	_	_
 4	points	_	VERB	VBZ	_	0	root	_	_
 5	out	_	ADP	RP	_	4	compound:prt	_	_
 6	hidden	_	ADJ	JJ	_	7	amod	_	_

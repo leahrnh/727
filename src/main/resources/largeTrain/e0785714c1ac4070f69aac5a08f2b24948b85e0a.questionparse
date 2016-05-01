@@ -10,7 +10,7 @@
 10	family	_	NOUN	NN	_	6	conj	_	_
 11	,	_	PUNCT	,	_	0	erased	_	_
 12	''	_	PUNCT	''	_	0	erased	_	_
-13	@placeholder	_	NOUN	NN	_	15	nsubj	_	_
+13	placeholder	_	NOUN	NN	_	15	nsubj	_	_
 14	urges	_	ADV	RB	_	15	advmod	_	_
 15	wife	_	VERB	VBZ	_	0	root	_	_
 16	and	_	CONJ	CC	_	15	cc	_	_

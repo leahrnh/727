@@ -11,5 +11,5 @@
 11	time	_	NOUN	NN	_	8	nmod	_	_
 12	in	_	ADP	IN	_	14	case	_	_
 13	modern	_	ADJ	JJ	_	14	amod	_	_
-14	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+14	placeholder	_	NOUN	NN	_	6	nmod	_	_
 

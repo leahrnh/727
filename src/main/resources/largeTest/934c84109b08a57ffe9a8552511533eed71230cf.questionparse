@@ -6,7 +6,7 @@
 6	upset	_	VERB	VB	_	0	root	_	_
 7	when	_	ADV	WRB	_	6	discourse	_	_
 8	''	_	PUNCT	''	_	0	erased	_	_
-9	@placeholder	_	NOUN	NN	_	6	dobj	_	_
+9	placeholder	_	NOUN	NN	_	6	dobj	_	_
 10	''	_	PUNCT	''	_	0	erased	_	_
 11	fabric	_	NOUN	NN	_	14	nsubj	_	_
 12	did	_	AUX	VBD	_	14	aux	_	_

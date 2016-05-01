@@ -10,7 +10,7 @@
 10	at	_	ADP	IN	_	15	case	_	_
 11	Entity14	_	PROPN	NNP	_	15	nmod:poss	_	_
 12	's	_	PART	POS	_	11	case	_	_
-13	@placeholder	_	NOUN	NN	_	15	compound	_	_
+13	placeholder	_	NOUN	NN	_	15	compound	_	_
 14	youth	_	NOUN	NN	_	15	compound	_	_
 15	tournament	_	NOUN	NN	_	9	nmod	_	_
 

@@ -11,5 +11,5 @@
 11	-	_	PUNCT	:	_	0	erased	_	_
 12	up	_	ADV	RB	_	10	advmod	_	_
 13	to	_	ADP	TO	_	14	case	_	_
-14	@placeholder	_	NOUN	NN	_	12	nmod	_	_
+14	placeholder	_	NOUN	NN	_	12	nmod	_	_
 

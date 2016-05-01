@@ -11,5 +11,5 @@
 11	-	_	PUNCT	:	_	0	erased	_	_
 12	backed	_	VERB	VBN	_	5	dep	_	_
 13	president	_	NOUN	NN	_	14	compound	_	_
-14	@placeholder	_	NOUN	NN	_	5	dobj	_	_
+14	placeholder	_	NOUN	NN	_	5	dobj	_	_
 

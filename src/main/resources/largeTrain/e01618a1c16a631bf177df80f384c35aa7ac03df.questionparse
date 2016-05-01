@@ -1,6 +1,6 @@
 1	cause	_	NOUN	NN	_	8	nsubj	_	_
 2	of	_	ADP	IN	_	5	case	_	_
-3	@placeholder	_	NOUN	NN	_	5	nmod:poss	_	_
+3	placeholder	_	NOUN	NN	_	5	nmod:poss	_	_
 4	's	_	PART	POS	_	3	case	_	_
 5	death	_	NOUN	NN	_	1	nmod	_	_
 6	is	_	VERB	VBZ	_	8	cop	_	_

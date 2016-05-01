@@ -8,5 +8,5 @@
 8	Entity5	_	ADJ	JJ	_	11	amod	_	_
 9	tv	_	NOUN	NN	_	11	compound	_	_
 10	stars	_	NOUN	NNS	_	11	compound	_	_
-11	@placeholder	_	NOUN	NN	_	6	conj	_	_
+11	placeholder	_	NOUN	NN	_	6	conj	_	_
 

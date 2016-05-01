@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+1	placeholder	_	NOUN	NN	_	2	compound	_	_
 2	robot	_	NOUN	NN	_	3	nsubj	_	_
 3	learns	_	VERB	VBZ	_	0	root	_	_
 4	by	_	SCONJ	IN	_	5	mark	_	_

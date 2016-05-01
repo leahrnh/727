@@ -9,7 +9,7 @@
 9	n't	_	PART	RB	_	11	neg	_	_
 10	formally	_	ADV	RB	_	11	advmod	_	_
 11	asked	_	VERB	VBN	_	0	root	_	_
-12	@placeholder	_	NOUN	NN	_	11	nsubj	_	_
+12	placeholder	_	NOUN	NN	_	11	nsubj	_	_
 13	for	_	ADP	IN	_	15	case	_	_
 14	more	_	ADJ	JJR	_	15	amod	_	_
 15	information	_	NOUN	NN	_	12	nmod	_	_

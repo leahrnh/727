@@ -1,6 +1,6 @@
 1	Entity239	_	VERB	VB	_	0	root	_	_
 2	:	_	PUNCT	:	_	0	erased	_	_
-3	@placeholder	_	NOUN	NN	_	5	nmod:poss	_	_
+3	placeholder	_	NOUN	NN	_	5	nmod:poss	_	_
 4	's	_	PART	POS	_	3	case	_	_
 5	uncle	_	NOUN	NN	_	7	nsubjpass	_	_
 6	was	_	AUX	VBD	_	7	auxpass	_	_

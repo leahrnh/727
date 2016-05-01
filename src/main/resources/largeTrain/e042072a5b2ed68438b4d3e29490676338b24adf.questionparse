@@ -6,7 +6,7 @@
 6	this	_	DET	DT	_	7	det	_	_
 7	dog	_	NOUN	NN	_	5	dobj	_	_
 8	in	_	ADP	IN	_	9	case	_	_
-9	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+9	placeholder	_	NOUN	NN	_	5	nmod	_	_
 10	,	_	PUNCT	,	_	0	erased	_	_
 11	Entity1	_	NOUN	NNS	_	9	appos	_	_
 

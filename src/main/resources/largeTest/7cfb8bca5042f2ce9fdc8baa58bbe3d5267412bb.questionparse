@@ -10,5 +10,5 @@
 10	traditionally	_	ADV	RB	_	11	advmod	_	_
 11	employed	_	VERB	VBN	_	9	acl	_	_
 12	by	_	ADP	IN	_	13	case	_	_
-13	@placeholder	_	NOUN	NN	_	11	nmod	_	_
+13	placeholder	_	NOUN	NN	_	11	nmod	_	_
 

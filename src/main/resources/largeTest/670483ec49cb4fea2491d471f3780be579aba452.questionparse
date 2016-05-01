@@ -7,7 +7,7 @@
 7	as	_	ADP	IN	_	8	case	_	_
 8	gunmen	_	NOUN	NNS	_	6	nmod	_	_
 9	engaged	_	VERB	VBN	_	8	acl	_	_
-10	@placeholder	_	NOUN	NN	_	12	compound	_	_
+10	placeholder	_	NOUN	NN	_	12	compound	_	_
 11	security	_	NOUN	NN	_	12	compound	_	_
 12	forces	_	NOUN	NNS	_	9	dobj	_	_
 

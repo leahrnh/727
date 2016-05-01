@@ -9,5 +9,5 @@
 9	as	_	ADP	IN	_	10	case	_	_
 10	evacuees	_	NOUN	NNS	_	7	nmod	_	_
 11	fled	_	VERB	VBD	_	0	root	_	_
-12	@placeholder	_	NOUN	NN	_	11	dobj	_	_
+12	placeholder	_	NOUN	NN	_	11	dobj	_	_
 

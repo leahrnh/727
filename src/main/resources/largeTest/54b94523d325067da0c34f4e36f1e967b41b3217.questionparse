@@ -14,6 +14,6 @@
 14	of	_	ADP	IN	_	15	case	_	_
 15	Entity14	_	NOUN	NNS	_	13	nmod	_	_
 16	,	_	PUNCT	,	_	0	erased	_	_
-17	@placeholder	_	NOUN	NN	_	18	nsubj	_	_
+17	placeholder	_	NOUN	NN	_	18	nsubj	_	_
 18	says	_	VERB	VBZ	_	0	root	_	_
 

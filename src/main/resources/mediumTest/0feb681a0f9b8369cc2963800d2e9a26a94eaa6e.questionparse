@@ -1,7 +1,7 @@
 1	Entity303	_	PROPN	NNP	_	7	nsubj	_	_
 2	,	_	PUNCT	,	_	0	erased	_	_
 3	a	_	DET	DT	_	5	det	_	_
-4	@placeholder	_	NOUN	NN	_	5	compound	_	_
+4	placeholder	_	NOUN	NN	_	5	compound	_	_
 5	refugee	_	NOUN	NN	_	1	appos	_	_
 6	,	_	PUNCT	,	_	0	erased	_	_
 7	paid	_	VERB	VBD	_	0	root	_	_

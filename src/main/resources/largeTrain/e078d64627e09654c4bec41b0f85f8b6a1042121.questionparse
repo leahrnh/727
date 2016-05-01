@@ -6,7 +6,7 @@
 6	en	_	ADP	IN	_	7	case	_	_
 7	route	_	NOUN	NN	_	5	advmod	_	_
 8	to	_	ADP	TO	_	10	case	_	_
-9	@placeholder	_	NOUN	NN	_	10	compound	_	_
+9	placeholder	_	NOUN	NN	_	10	compound	_	_
 10	casino	_	NOUN	NN	_	7	nmod	_	_
 11	;	_	PUNCT	:	_	0	erased	_	_
 12	only	_	ADV	RB	_	13	advmod	_	_

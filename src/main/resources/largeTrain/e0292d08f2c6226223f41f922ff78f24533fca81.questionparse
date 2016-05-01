@@ -13,7 +13,7 @@
 13	,	_	PUNCT	,	_	0	erased	_	_
 14	can	_	AUX	MD	_	15	aux	_	_
 15	lower	_	VERB	VB	_	4	acl:relcl	_	_
-16	@placeholder	_	NOUN	NN	_	18	nmod:poss	_	_
+16	placeholder	_	NOUN	NN	_	18	nmod:poss	_	_
 17	's	_	PART	POS	_	16	case	_	_
 18	risk	_	NOUN	NN	_	15	dobj	_	_
 

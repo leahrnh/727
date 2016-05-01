@@ -5,7 +5,7 @@
 5	recent	_	ADJ	JJ	_	6	amod	_	_
 6	case	_	NOUN	NN	_	3	nmod	_	_
 7	of	_	ADP	IN	_	9	case	_	_
-8	@placeholder	_	NOUN	NN	_	9	compound	_	_
+8	placeholder	_	NOUN	NN	_	9	compound	_	_
 9	teenager	_	NOUN	NN	_	6	nmod	_	_
 10	defacing	_	VERB	VBG	_	9	acl	_	_
 11	an	_	DET	DT	_	13	det	_	_

@@ -15,6 +15,6 @@
 15	strawberry	_	ADJ	JJ	_	16	amod	_	_
 16	fields	_	NOUN	NNS	_	13	nmod	_	_
 17	,	_	PUNCT	,	_	0	erased	_	_
-18	@placeholder	_	ADV	RB	_	19	advmod	_	_
+18	placeholder	_	ADV	RB	_	19	advmod	_	_
 19	says	_	VERB	VBZ	_	3	dep	_	_
 

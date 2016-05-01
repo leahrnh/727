@@ -7,6 +7,6 @@
 7	Entity20	_	NOUN	NNS	_	3	nmod	_	_
 8	during	_	ADP	IN	_	11	case	_	_
 9	the	_	DET	DT	_	11	det	_	_
-10	@placeholder	_	NOUN	NN	_	11	compound	_	_
+10	placeholder	_	NOUN	NN	_	11	compound	_	_
 11	address	_	NOUN	NN	_	3	nmod	_	_
 

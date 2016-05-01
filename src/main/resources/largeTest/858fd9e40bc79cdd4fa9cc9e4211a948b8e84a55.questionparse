@@ -9,5 +9,5 @@
 9	immigrants	_	NOUN	NNS	_	2	dep	_	_
 10	and	_	CONJ	CC	_	9	cc	_	_
 11	three	_	NUM	CD	_	12	nummod	_	_
-12	@placeholder	_	NOUN	NN	_	9	conj	_	_
+12	placeholder	_	NOUN	NN	_	9	conj	_	_
 

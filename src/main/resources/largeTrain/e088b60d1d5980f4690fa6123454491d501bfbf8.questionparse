@@ -5,7 +5,7 @@
 5	as	_	SCONJ	IN	_	7	mark	_	_
 6	being	_	AUX	VBG	_	7	auxpass	_	_
 7	mr.	_	VERB	VBN	_	3	advcl	_	_
-8	@placeholder	_	NOUN	NN	_	11	nmod:poss	_	_
+8	placeholder	_	NOUN	NN	_	11	nmod:poss	_	_
 9	's	_	PART	POS	_	8	case	_	_
 10	personal	_	ADJ	JJ	_	11	amod	_	_
 11	physician	_	NOUN	NN	_	7	dobj	_	_

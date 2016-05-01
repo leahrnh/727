@@ -6,7 +6,7 @@
 6	Entity5	_	NOUN	NNS	_	4	dobj	_	_
 7	from	_	ADP	IN	_	11	case	_	_
 8	''	_	PUNCT	''	_	0	erased	_	_
-9	@placeholder	_	NOUN	NN	_	11	compound	_	_
+9	placeholder	_	NOUN	NN	_	11	compound	_	_
 10	''	_	PUNCT	''	_	0	erased	_	_
 11	movie	_	NOUN	NN	_	4	nmod	_	_
 12	as	_	ADP	IN	_	14	case	_	_

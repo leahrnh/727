@@ -5,7 +5,7 @@
 5	,	_	PUNCT	,	_	0	erased	_	_
 6	Entity47	_	NOUN	NNS	_	4	appos	_	_
 7	,	_	PUNCT	,	_	0	erased	_	_
-8	@placeholder	_	NOUN	NN	_	10	compound	_	_
+8	placeholder	_	NOUN	NN	_	10	compound	_	_
 9	oil	_	NOUN	NN	_	10	compound	_	_
 10	spill	_	NOUN	NN	_	6	conj	_	_
 11	and	_	CONJ	CC	_	6	cc	_	_

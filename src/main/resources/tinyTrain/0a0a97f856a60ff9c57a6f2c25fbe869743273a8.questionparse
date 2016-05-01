@@ -15,7 +15,7 @@
 15	president	_	NOUN	NN	_	11	xcomp	_	_
 16	in	_	ADP	IN	_	19	case	_	_
 17	a	_	DET	DT	_	19	det	_	_
-18	@placeholder	_	NOUN	NN	_	19	compound	_	_
+18	placeholder	_	NOUN	NN	_	19	compound	_	_
 19	interview	_	NOUN	NN	_	11	nmod	_	_
 20	.	_	PUNCT	.	_	0	erased	_	_
 

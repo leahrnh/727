@@ -13,5 +13,5 @@
 13	repeated	_	VERB	VBN	_	1	parataxis	_	_
 14	in	_	ADP	IN	_	16	case	_	_
 15	2015	_	NUM	CD	_	16	nummod	_	_
-16	@placeholder	_	NOUN	NN	_	13	nmod	_	_
+16	placeholder	_	NOUN	NN	_	13	nmod	_	_
 

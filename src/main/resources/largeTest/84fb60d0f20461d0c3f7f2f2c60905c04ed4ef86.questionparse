@@ -7,6 +7,6 @@
 7	2016	_	NUM	CD	_	3	nmod	_	_
 8	's	_	PART	POS	_	7	case	_	_
 9	''	_	PUNCT	''	_	0	erased	_	_
-10	@placeholder	_	NOUN	NN	_	3	dobj	_	_
+10	placeholder	_	NOUN	NN	_	3	dobj	_	_
 11	''	_	PUNCT	''	_	0	erased	_	_
 

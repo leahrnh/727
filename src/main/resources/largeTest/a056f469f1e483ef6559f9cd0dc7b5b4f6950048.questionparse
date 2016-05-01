@@ -5,7 +5,7 @@
 5	stabbing	_	VERB	VBG	_	3	advcl	_	_
 6	Entity4	_	ADJ	JJ	_	8	amod	_	_
 7	ambassador	_	NOUN	NN	_	8	compound	_	_
-8	@placeholder	_	NOUN	NN	_	5	dobj	_	_
+8	placeholder	_	NOUN	NN	_	5	dobj	_	_
 9	in	_	ADP	IN	_	11	case	_	_
 10	the	_	DET	DT	_	11	det	_	_
 11	face	_	NOUN	NN	_	5	nmod	_	_

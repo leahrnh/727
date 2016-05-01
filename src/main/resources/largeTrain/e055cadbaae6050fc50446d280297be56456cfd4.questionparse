@@ -4,7 +4,7 @@
 4	Entity3	_	NOUN	NNS	_	2	nmod	_	_
 5	,	_	PUNCT	,	_	0	erased	_	_
 6	a	_	DET	DT	_	8	det	_	_
-7	@placeholder	_	NOUN	NN	_	8	compound	_	_
+7	placeholder	_	NOUN	NN	_	8	compound	_	_
 8	kindergartner	_	NOUN	NN	_	4	conj	_	_
 9	and	_	CONJ	CC	_	4	cc	_	_
 10	an	_	DET	DT	_	11	det	_	_

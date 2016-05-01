@@ -7,7 +7,7 @@
 7	left	_	VERB	VBN	_	19	ccomp	_	_
 8	the	_	DET	DT	_	13	det	_	_
 9	-LRB-	_	PUNCT	-LRB-	_	0	erased	_	_
-10	@placeholder	_	NOUN	NN	_	13	compound	_	_
+10	placeholder	_	NOUN	NN	_	13	compound	_	_
 11	-RRB-	_	PUNCT	-RRB-	_	0	erased	_	_
 12	crash	_	NOUN	NN	_	13	compound	_	_
 13	site	_	NOUN	NN	_	7	xcomp	_	_

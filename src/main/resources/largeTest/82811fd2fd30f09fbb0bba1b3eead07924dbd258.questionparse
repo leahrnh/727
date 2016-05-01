@@ -11,5 +11,5 @@
 11	Entity5	_	ADJ	JJ	_	12	amod	_	_
 12	city	_	NOUN	NN	_	3	nmod	_	_
 13	of	_	ADP	IN	_	14	case	_	_
-14	@placeholder	_	NOUN	NN	_	12	nmod	_	_
+14	placeholder	_	NOUN	NN	_	12	nmod	_	_
 

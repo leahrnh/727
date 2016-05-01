@@ -8,6 +8,6 @@
 8	,	_	PUNCT	,	_	0	erased	_	_
 9	transactions	_	NOUN	NNS	_	7	appos	_	_
 10	in	_	ADP	IN	_	11	case	_	_
-11	@placeholder	_	NOUN	NN	_	9	nmod	_	_
+11	placeholder	_	NOUN	NN	_	9	nmod	_	_
 12	prohibited	_	VERB	VBN	_	11	acl	_	_
 

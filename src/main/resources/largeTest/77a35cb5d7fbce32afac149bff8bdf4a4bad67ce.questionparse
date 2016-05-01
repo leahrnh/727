@@ -1,6 +1,6 @@
 1	Entity17	_	ADJ	JJ	_	3	amod	_	_
 2	professor	_	NOUN	NN	_	3	compound	_	_
-3	@placeholder	_	NOUN	NN	_	5	nsubj	_	_
+3	placeholder	_	NOUN	NN	_	5	nsubj	_	_
 4	is	_	AUX	VBZ	_	5	aux	_	_
 5	pioneering	_	VERB	VBG	_	0	root	_	_
 6	the	_	DET	DT	_	7	det	_	_

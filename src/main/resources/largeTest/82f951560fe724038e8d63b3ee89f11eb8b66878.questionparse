@@ -4,7 +4,7 @@
 4	first	_	ADJ	JJ	_	5	amod	_	_
 5	president	_	NOUN	NN	_	1	appos	_	_
 6	of	_	ADP	IN	_	7	case	_	_
-7	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+7	placeholder	_	NOUN	NN	_	5	nmod	_	_
 8	,	_	PUNCT	,	_	0	erased	_	_
 9	tells	_	VERB	VBZ	_	19	dep	_	_
 10	Entity1	_	NOUN	NNS	_	9	dobj	_	_

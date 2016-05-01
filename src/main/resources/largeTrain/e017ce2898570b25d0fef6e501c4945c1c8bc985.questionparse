@@ -15,6 +15,6 @@
 15	last	_	ADJ	JJ	_	16	amod	_	_
 16	eight	_	NUM	CD	_	13	nmod	_	_
 17	of	_	ADP	IN	_	19	case	_	_
-18	@placeholder	_	NOUN	NN	_	19	compound	_	_
+18	placeholder	_	NOUN	NN	_	19	compound	_	_
 19	event	_	NOUN	NN	_	6	nmod	_	_
 

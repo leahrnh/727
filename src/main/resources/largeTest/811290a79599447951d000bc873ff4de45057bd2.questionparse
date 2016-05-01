@@ -6,7 +6,7 @@
 6	the	_	DET	DT	_	7	det	_	_
 7	size	_	NOUN	NN	_	4	nmod	_	_
 8	of	_	ADP	IN	_	10	case	_	_
-9	@placeholder	_	NOUN	NN	_	10	compound	_	_
+9	placeholder	_	NOUN	NN	_	10	compound	_	_
 10	payments	_	NOUN	NNS	_	7	nmod	_	_
 11	hospitals	_	NOUN	NNS	_	12	nsubj	_	_
 12	get	_	VERB	VBP	_	10	acl:relcl	_	_

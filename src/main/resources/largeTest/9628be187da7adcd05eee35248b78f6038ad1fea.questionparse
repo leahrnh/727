@@ -1,6 +1,6 @@
 1	Entity209	_	PROPN	NNP	_	0	root	_	_
 2	:	_	PUNCT	:	_	0	erased	_	_
-3	@placeholder	_	NOUN	NN	_	1	dep	_	_
+3	placeholder	_	NOUN	NN	_	1	dep	_	_
 4	compared	_	VERB	VBN	_	5	case	_	_
 5	autism	_	NOUN	NN	_	1	nmod	_	_
 6	to	_	ADP	TO	_	8	case	_	_

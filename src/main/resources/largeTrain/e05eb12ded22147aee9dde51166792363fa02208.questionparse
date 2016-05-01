@@ -1,6 +1,6 @@
 1	new	_	ADJ	JJ	_	0	root	_	_
 2	:	_	PUNCT	:	_	0	erased	_	_
-3	@placeholder	_	NOUN	NN	_	1	dep	_	_
+3	placeholder	_	NOUN	NN	_	1	dep	_	_
 4	says	_	VERB	VBZ	_	3	acl:relcl	_	_
 5	such	_	ADJ	JJ	_	6	amod	_	_
 6	violence	_	NOUN	NN	_	8	nsubj	_	_

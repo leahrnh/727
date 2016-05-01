@@ -6,5 +6,5 @@
 6	rise	_	NOUN	NN	_	0	root	_	_
 7	of	_	ADP	IN	_	9	case	_	_
 8	the	_	DET	DT	_	9	det	_	_
-9	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+9	placeholder	_	NOUN	NN	_	6	nmod	_	_
 

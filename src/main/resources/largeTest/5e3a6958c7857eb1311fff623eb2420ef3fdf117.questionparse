@@ -13,7 +13,7 @@
 13	military	_	ADJ	JJ	_	14	amod	_	_
 14	action	_	NOUN	NN	_	10	dobj	_	_
 15	beyond	_	ADP	IN	_	16	case	_	_
-16	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+16	placeholder	_	NOUN	NN	_	10	nmod	_	_
 17	and	_	CONJ	CC	_	16	cc	_	_
 18	Entity21	_	NOUN	NNS	_	16	conj	_	_
 

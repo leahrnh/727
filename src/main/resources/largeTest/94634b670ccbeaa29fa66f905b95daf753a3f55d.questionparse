@@ -9,7 +9,7 @@
 9	embracing	_	VERB	VBG	_	5	advcl	_	_
 10	responsibility	_	NOUN	NN	_	9	dobj	_	_
 11	for	_	ADP	IN	_	15	case	_	_
-12	@placeholder	_	NOUN	NN	_	15	nmod:poss	_	_
+12	placeholder	_	NOUN	NN	_	15	nmod:poss	_	_
 13	's	_	PART	POS	_	12	case	_	_
 14	wartime	_	ADJ	JJ	_	15	amod	_	_
 15	actions	_	NOUN	NNS	_	9	nmod	_	_

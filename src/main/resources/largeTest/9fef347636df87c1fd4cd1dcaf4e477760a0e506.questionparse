@@ -2,7 +2,7 @@
 2	to	_	PART	TO	_	3	mark	_	_
 3	popular	_	VERB	VB	_	1	dep	_	_
 4	''	_	PUNCT	''	_	0	erased	_	_
-5	@placeholder	_	NOUN	NN	_	7	compound	_	_
+5	placeholder	_	NOUN	NN	_	7	compound	_	_
 6	''	_	PUNCT	''	_	0	erased	_	_
 7	miniseries	_	NOUN	NN	_	3	dobj	_	_
 8	debuting	_	VERB	VBG	_	7	acl	_	_

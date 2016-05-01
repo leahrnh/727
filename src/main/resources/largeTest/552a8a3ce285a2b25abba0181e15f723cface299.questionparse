@@ -7,5 +7,5 @@
 7	to	_	ADP	TO	_	8	case	_	_
 8	waters	_	NOUN	NNS	_	6	nmod	_	_
 9	near	_	ADP	IN	_	10	case	_	_
-10	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+10	placeholder	_	NOUN	NN	_	8	nmod	_	_
 

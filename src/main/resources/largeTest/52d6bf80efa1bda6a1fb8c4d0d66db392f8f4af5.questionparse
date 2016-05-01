@@ -6,7 +6,7 @@
 6	is	_	VERB	VBZ	_	1	parataxis	_	_
 7	that	_	SCONJ	IN	_	10	mark	_	_
 8	the	_	DET	DT	_	9	det	_	_
-9	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+9	placeholder	_	NOUN	NN	_	10	nsubj	_	_
 10	leads	_	VERB	VBZ	_	6	ccomp	_	_
 11	the	_	DET	DT	_	12	det	_	_
 12	world	_	NOUN	NN	_	10	dobj	_	_

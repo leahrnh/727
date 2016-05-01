@@ -8,7 +8,7 @@
 8	Entity5	_	NOUN	NNS	_	6	nmod	_	_
 9	and	_	CONJ	CC	_	6	cc	_	_
 10	join	_	VERB	VB	_	6	conj	_	_
-11	@placeholder	_	NOUN	NN	_	10	dobj	_	_
+11	placeholder	_	NOUN	NN	_	10	dobj	_	_
 12	''	_	PUNCT	''	_	0	erased	_	_
 13	by	_	ADP	IN	_	15	case	_	_
 14	any	_	DET	DT	_	15	det	_	_

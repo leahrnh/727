@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+1	placeholder	_	NOUN	NN	_	10	nsubj	_	_
 2	is	_	VERB	VBZ	_	10	cop	_	_
 3	the	_	DET	DT	_	4	det	_	_
 4	planet	_	NOUN	NN	_	10	nmod:poss	_	_

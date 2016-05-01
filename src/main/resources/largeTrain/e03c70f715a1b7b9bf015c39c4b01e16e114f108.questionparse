@@ -2,7 +2,7 @@
 2	:	_	PUNCT	:	_	0	erased	_	_
 3	actually	_	ADV	RB	_	7	advmod	_	_
 4	,	_	PUNCT	,	_	0	erased	_	_
-5	@placeholder	_	NOUN	NN	_	7	nsubj	_	_
+5	placeholder	_	NOUN	NN	_	7	nsubj	_	_
 6	's	_	VERB	VBZ	_	7	cop	_	_
 7	policy	_	NOUN	NN	_	1	parataxis	_	_
 8	--	_	PUNCT	:	_	0	erased	_	_

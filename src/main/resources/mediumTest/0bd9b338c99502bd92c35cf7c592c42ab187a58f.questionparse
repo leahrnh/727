@@ -4,7 +4,7 @@
 4	talks	_	NOUN	NNS	_	12	nsubj	_	_
 5	on	_	ADP	IN	_	10	case	_	_
 6	an	_	DET	DT	_	10	det	_	_
-7	@placeholder	_	ADJ	JJ	_	10	amod	_	_
+7	placeholder	_	ADJ	JJ	_	10	amod	_	_
 8	nuclear	_	ADJ	JJ	_	10	amod	_	_
 9	deal	_	NOUN	NN	_	10	compound	_	_
 10	framework	_	NOUN	NN	_	4	nmod	_	_

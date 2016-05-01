@@ -1,7 +1,7 @@
 1	the	_	DET	DT	_	2	det	_	_
 2	unrest	_	NOUN	NN	_	3	nsubj	_	_
 3	pitted	_	VERB	VBD	_	0	root	_	_
-4	@placeholder	_	NOUN	NN	_	3	dobj	_	_
+4	placeholder	_	NOUN	NN	_	3	dobj	_	_
 5	against	_	ADP	IN	_	7	case	_	_
 6	Entity39	_	ADJ	JJ	_	7	amod	_	_
 7	majority	_	NOUN	NN	_	3	nmod	_	_

@@ -5,6 +5,6 @@
 5	their	_	PRON	PRP$	_	6	nmod:poss	_	_
 6	cities	_	NOUN	NNS	_	4	dobj	_	_
 7	into	_	ADP	IN	_	9	case	_	_
-8	@placeholder	_	NOUN	NN	_	9	compound	_	_
+8	placeholder	_	NOUN	NN	_	9	compound	_	_
 9	courses	_	NOUN	NNS	_	4	nmod	_	_
 

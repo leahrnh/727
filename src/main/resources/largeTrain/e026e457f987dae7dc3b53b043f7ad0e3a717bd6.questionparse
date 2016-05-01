@@ -1,6 +1,6 @@
 1	Entity246	_	PROPN	NNP	_	0	root	_	_
 2	:	_	PUNCT	:	_	0	erased	_	_
-3	@placeholder	_	NOUN	NN	_	4	nsubj	_	_
+3	placeholder	_	NOUN	NN	_	4	nsubj	_	_
 4	lost	_	VERB	VBD	_	1	parataxis	_	_
 5	ground	_	NOUN	NN	_	4	dobj	_	_
 6	in	_	ADP	IN	_	7	case	_	_

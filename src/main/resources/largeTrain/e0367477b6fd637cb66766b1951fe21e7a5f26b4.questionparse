@@ -16,6 +16,6 @@
 16	the	_	DET	DT	_	17	det	_	_
 17	killing	_	NOUN	NN	_	12	conj	_	_
 18	in	_	ADP	IN	_	19	case	_	_
-19	@placeholder	_	NOUN	NN	_	17	nmod	_	_
+19	placeholder	_	NOUN	NN	_	17	nmod	_	_
 20	?	_	PUNCT	.	_	0	erased	_	_
 

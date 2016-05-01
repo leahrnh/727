@@ -6,7 +6,7 @@
 6	,	_	PUNCT	,	_	0	erased	_	_
 7	Entity148	_	NOUN	NNS	_	1	appos	_	_
 8	,	_	PUNCT	,	_	0	erased	_	_
-9	@placeholder	_	NOUN	NN	_	1	appos	_	_
+9	placeholder	_	NOUN	NN	_	1	appos	_	_
 10	are	_	AUX	VBP	_	11	aux	_	_
 11	reviving	_	VERB	VBG	_	16	ccomp	_	_
 12	culture	_	NOUN	NN	_	13	compound	_	_

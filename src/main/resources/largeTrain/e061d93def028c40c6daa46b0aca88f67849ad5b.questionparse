@@ -4,7 +4,7 @@
 4	forces	_	NOUN	NNS	_	5	nsubj	_	_
 5	fend	_	VERB	VB	_	1	appos	_	_
 6	off	_	ADP	RP	_	5	compound:prt	_	_
-7	@placeholder	_	NOUN	NN	_	8	compound	_	_
+7	placeholder	_	NOUN	NN	_	8	compound	_	_
 8	fighters	_	NOUN	NNS	_	5	dobj	_	_
 9	in	_	ADP	IN	_	10	case	_	_
 10	Entity184	_	NOUN	NNS	_	8	nmod	_	_

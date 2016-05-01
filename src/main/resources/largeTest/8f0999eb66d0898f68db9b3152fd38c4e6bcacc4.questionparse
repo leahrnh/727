@@ -7,7 +7,7 @@
 7	with	_	ADP	IN	_	10	case	_	_
 8	socially	_	ADV	RB	_	9	advmod	_	_
 9	conservative	_	ADJ	JJ	_	10	amod	_	_
-10	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+10	placeholder	_	NOUN	NN	_	6	nmod	_	_
 11	,	_	PUNCT	,	_	0	erased	_	_
 12	traditionally	_	ADV	RB	_	13	advmod	_	_
 13	seen	_	VERB	VBN	_	10	acl	_	_

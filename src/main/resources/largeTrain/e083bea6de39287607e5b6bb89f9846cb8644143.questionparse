@@ -5,6 +5,6 @@
 5	important	_	ADJ	JJ	_	6	amod	_	_
 6	place	_	NOUN	NN	_	3	dobj	_	_
 7	in	_	ADP	IN	_	9	case	_	_
-8	@placeholder	_	NOUN	NN	_	9	compound	_	_
+8	placeholder	_	NOUN	NN	_	9	compound	_	_
 9	history	_	NOUN	NN	_	6	nmod	_	_
 

@@ -4,7 +4,7 @@
 4	Entity246	_	NOUN	NNS	_	2	dobj	_	_
 5	at	_	ADP	IN	_	7	case	_	_
 6	an	_	DET	DT	_	7	det	_	_
-7	@placeholder	_	NOUN	NN	_	2	nmod	_	_
+7	placeholder	_	NOUN	NN	_	2	nmod	_	_
 8	in	_	ADP	IN	_	9	case	_	_
 9	august	_	PROPN	NNP	_	2	nmod	_	_
 

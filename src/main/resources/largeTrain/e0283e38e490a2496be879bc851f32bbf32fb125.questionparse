@@ -5,6 +5,6 @@
 5	visit	_	NOUN	NN	_	1	nmod	_	_
 6	to	_	PART	TO	_	8	mark	_	_
 7	largely	_	ADV	RB	_	8	advmod	_	_
-8	@placeholder	_	VERB	VB	_	1	dep	_	_
+8	placeholder	_	VERB	VB	_	1	dep	_	_
 9	nation	_	NOUN	NN	_	8	dobj	_	_
 

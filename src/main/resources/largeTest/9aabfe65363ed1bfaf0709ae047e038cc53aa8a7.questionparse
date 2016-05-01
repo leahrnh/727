@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	0	root	_	_
+1	placeholder	_	NOUN	NN	_	0	root	_	_
 2	,	_	PUNCT	,	_	0	erased	_	_
 3	Entity12	_	NOUN	NNS	_	1	conj	_	_
 4	,	_	PUNCT	,	_	0	erased	_	_

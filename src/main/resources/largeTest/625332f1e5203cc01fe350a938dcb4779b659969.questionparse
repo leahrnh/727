@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+1	placeholder	_	NOUN	NN	_	2	nsubj	_	_
 2	had	_	VERB	VBD	_	0	root	_	_
 3	many	_	ADJ	JJ	_	4	amod	_	_
 4	tv	_	NOUN	NN	_	2	dobj	_	_

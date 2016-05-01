@@ -10,7 +10,7 @@
 10	post	_	NOUN	NN	_	11	compound	_	_
 11	pix	_	NOUN	NN	_	8	appos	_	_
 12	on	_	ADP	IN	_	13	case	_	_
-13	@placeholder	_	NOUN	NN	_	11	nmod	_	_
+13	placeholder	_	NOUN	NN	_	11	nmod	_	_
 14	with	_	ADP	IN	_	16	case	_	_
 15	male	_	ADJ	JJ	_	16	amod	_	_
 16	friend	_	NOUN	NN	_	13	nmod	_	_

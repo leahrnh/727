@@ -4,7 +4,7 @@
 4	the	_	DET	DT	_	5	det	_	_
 5	overthrow	_	NOUN	NN	_	2	dep	_	_
 6	of	_	ADP	IN	_	7	case	_	_
-7	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+7	placeholder	_	NOUN	NN	_	5	nmod	_	_
 8	,	_	PUNCT	,	_	0	erased	_	_
 9	Entity17	_	NOUN	NNS	_	14	nsubj	_	_
 10	is	_	VERB	VBZ	_	14	cop	_	_

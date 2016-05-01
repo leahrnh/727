@@ -5,7 +5,7 @@
 5	cultural	_	ADJ	JJ	_	6	amod	_	_
 6	clash	_	NOUN	NN	_	0	root	_	_
 7	between	_	ADP	IN	_	8	case	_	_
-8	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+8	placeholder	_	NOUN	NN	_	6	nmod	_	_
 9	and	_	CONJ	CC	_	8	cc	_	_
 10	Entity9	_	NOUN	NNS	_	8	conj	_	_
 11	.	_	PUNCT	.	_	0	erased	_	_

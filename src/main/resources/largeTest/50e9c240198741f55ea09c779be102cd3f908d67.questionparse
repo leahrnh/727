@@ -1,4 +1,4 @@
-1	@placeholder	_	ADV	RB	_	2	advmod	_	_
+1	placeholder	_	ADV	RB	_	2	advmod	_	_
 2	moves	_	VERB	VBZ	_	0	root	_	_
 3	aircraft	_	NOUN	NN	_	4	compound	_	_
 4	carrier	_	NOUN	NN	_	2	nsubj	_	_

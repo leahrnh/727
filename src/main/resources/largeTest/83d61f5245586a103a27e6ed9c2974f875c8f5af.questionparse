@@ -9,5 +9,5 @@
 9	was	_	AUX	VBD	_	10	aux	_	_
 10	flying	_	VERB	VBG	_	2	conj	_	_
 11	toward	_	ADP	IN	_	12	case	_	_
-12	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+12	placeholder	_	NOUN	NN	_	10	nmod	_	_
 

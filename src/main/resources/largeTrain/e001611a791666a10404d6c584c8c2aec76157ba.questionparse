@@ -11,6 +11,6 @@
 11	risks	_	VERB	VBZ	_	4	conj	_	_
 12	prejudicing	_	VERB	VBG	_	11	xcomp	_	_
 13	the	_	DET	DT	_	15	det	_	_
-14	@placeholder	_	NOUN	NN	_	15	compound	_	_
+14	placeholder	_	NOUN	NN	_	15	compound	_	_
 15	case	_	NOUN	NN	_	12	dobj	_	_
 

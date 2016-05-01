@@ -6,7 +6,7 @@
 6	Entity62	_	NOUN	NNS	_	4	nmod	_	_
 7	after	_	ADP	IN	_	9	case	_	_
 8	director	_	NOUN	NN	_	9	compound	_	_
-9	@placeholder	_	NOUN	NN	_	2	nmod	_	_
+9	placeholder	_	NOUN	NN	_	2	nmod	_	_
 10	announced	_	VERB	VBN	_	11	amod	_	_
 11	casting	_	NOUN	NN	_	2	nsubj	_	_
 

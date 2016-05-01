@@ -6,7 +6,7 @@
 6	sixth	_	ADJ	JJ	_	4	nmod	_	_
 7	-	_	PUNCT	:	_	0	erased	_	_
 8	placed	_	VERB	VBN	_	1	dep	_	_
-9	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+9	placeholder	_	NOUN	NN	_	10	nsubj	_	_
 10	sees	_	VERB	VBZ	_	8	ccomp	_	_
 11	Entity1	_	NOUN	NNS	_	12	nsubj	_	_
 12	go	_	VERB	VB	_	10	ccomp	_	_

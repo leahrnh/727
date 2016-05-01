@@ -11,6 +11,6 @@
 11	grappling	_	VERB	VBG	_	6	conj	_	_
 12	with	_	ADP	IN	_	15	case	_	_
 13	violent	_	ADJ	JJ	_	15	amod	_	_
-14	@placeholder	_	NOUN	NN	_	15	compound	_	_
+14	placeholder	_	NOUN	NN	_	15	compound	_	_
 15	extremists	_	NOUN	NNS	_	11	nmod	_	_
 

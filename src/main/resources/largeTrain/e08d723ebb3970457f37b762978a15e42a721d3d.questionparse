@@ -16,6 +16,6 @@
 16	printed	_	VERB	VBN	_	0	root	_	_
 17	in	_	ADP	IN	_	20	case	_	_
 18	a	_	DET	DT	_	20	det	_	_
-19	@placeholder	_	NOUN	NN	_	20	compound	_	_
+19	placeholder	_	NOUN	NN	_	20	compound	_	_
 20	paper	_	NOUN	NN	_	16	nmod	_	_
 

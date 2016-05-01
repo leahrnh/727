@@ -6,7 +6,7 @@
 6	up	_	ADP	RP	_	5	compound:prt	_	_
 7	to	_	PART	TO	_	8	mark	_	_
 8	fight	_	VERB	VB	_	5	xcomp	_	_
-9	@placeholder	_	NOUN	NN	_	8	dobj	_	_
+9	placeholder	_	NOUN	NN	_	8	dobj	_	_
 10	on	_	ADP	IN	_	13	case	_	_
 11	the	_	DET	DT	_	13	det	_	_
 12	front	_	ADJ	JJ	_	13	amod	_	_

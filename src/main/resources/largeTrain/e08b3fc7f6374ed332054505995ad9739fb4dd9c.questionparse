@@ -9,5 +9,5 @@
 9	they	_	PRON	PRP	_	10	nsubj	_	_
 10	control	_	VERB	VBP	_	8	acl:relcl	_	_
 11	near	_	ADP	IN	_	12	case	_	_
-12	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+12	placeholder	_	NOUN	NN	_	10	nmod	_	_
 

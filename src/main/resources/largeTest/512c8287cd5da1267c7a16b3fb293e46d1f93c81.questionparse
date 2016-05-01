@@ -5,7 +5,7 @@
 5	beer	_	NOUN	NN	_	3	dobj	_	_
 6	inspired	_	VERB	VBN	_	5	acl	_	_
 7	by	_	ADP	IN	_	11	case	_	_
-8	@placeholder	_	NOUN	NN	_	11	nmod:poss	_	_
+8	placeholder	_	NOUN	NN	_	11	nmod:poss	_	_
 9	's	_	PART	POS	_	8	case	_	_
 10	ice	_	NOUN	NN	_	11	compound	_	_
 11	cream	_	NOUN	NN	_	6	nmod	_	_

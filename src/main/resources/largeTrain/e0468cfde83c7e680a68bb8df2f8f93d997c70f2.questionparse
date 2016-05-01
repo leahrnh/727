@@ -6,7 +6,7 @@
 6	illegitimate	_	ADJ	JJ	_	7	amod	_	_
 7	son	_	NOUN	NN	_	3	appos	_	_
 8	of	_	ADP	IN	_	9	case	_	_
-9	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+9	placeholder	_	NOUN	NN	_	7	nmod	_	_
 10	,	_	PUNCT	,	_	0	erased	_	_
 11	on	_	ADP	IN	_	9	amod	_	_
 12	Entity4	_	PROPN	NNP	_	15	nmod:poss	_	_

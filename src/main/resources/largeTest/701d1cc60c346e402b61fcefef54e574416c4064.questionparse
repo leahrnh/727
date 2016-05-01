@@ -1,5 +1,5 @@
 1	''	_	VERB	VB	_	0	root	_	_
-2	@placeholder	_	NOUN	NN	_	1	dobj	_	_
+2	placeholder	_	NOUN	NN	_	1	dobj	_	_
 3	''	_	PUNCT	''	_	0	erased	_	_
 4	is	_	VERB	VBZ	_	8	cop	_	_
 5	in	_	ADP	IN	_	8	case	_	_

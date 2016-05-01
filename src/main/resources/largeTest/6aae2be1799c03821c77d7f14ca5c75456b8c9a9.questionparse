@@ -8,5 +8,5 @@
 8	spark	_	NOUN	NN	_	2	dep	_	_
 9	the	_	DET	DT	_	11	det	_	_
 10	#	_	SYM	#	_	11	compound	_	_
-11	@placeholder	_	NUM	CD	_	8	dep	_	_
+11	placeholder	_	NUM	CD	_	8	dep	_	_
 

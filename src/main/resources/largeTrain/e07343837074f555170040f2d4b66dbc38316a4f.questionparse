@@ -9,5 +9,5 @@
 9	550	_	NUM	CD	_	10	nummod	_	_
 10	jobs	_	NOUN	NNS	_	2	dep	_	_
 11	to	_	ADP	TO	_	12	case	_	_
-12	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+12	placeholder	_	NOUN	NN	_	10	nmod	_	_
 

@@ -9,7 +9,7 @@
 9	--	_	PUNCT	:	_	0	erased	_	_
 10	symbol	_	VERB	VBN	_	3	dep	_	_
 11	of	_	ADP	IN	_	15	case	_	_
-12	@placeholder	_	NOUN	NN	_	15	nmod:poss	_	_
+12	placeholder	_	NOUN	NN	_	15	nmod:poss	_	_
 13	's	_	PART	POS	_	12	case	_	_
 14	runaway	_	ADJ	JJ	_	15	amod	_	_
 15	speculation	_	NOUN	NN	_	10	nmod	_	_

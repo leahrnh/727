@@ -4,7 +4,7 @@
 4	did	_	AUX	VBD	_	6	aux	_	_
 5	n't	_	PART	RB	_	6	neg	_	_
 6	take	_	VERB	VB	_	2	ccomp	_	_
-7	@placeholder	_	NOUN	NN	_	9	nmod:poss	_	_
+7	placeholder	_	NOUN	NN	_	9	nmod:poss	_	_
 8	's	_	PART	POS	_	7	case	_	_
 9	Entity44	_	NOUN	NNS	_	6	dobj	_	_
 

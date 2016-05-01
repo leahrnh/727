@@ -7,7 +7,7 @@
 7	save	_	ADP	IN	_	8	case	_	_
 8	millions	_	NOUN	NNS	_	6	nmod	_	_
 9	in	_	ADP	IN	_	12	case	_	_
-10	@placeholder	_	NOUN	NN	_	12	compound	_	_
+10	placeholder	_	NOUN	NN	_	12	compound	_	_
 11	treatment	_	NOUN	NN	_	12	compound	_	_
 12	costs	_	NOUN	NNS	_	8	nmod	_	_
 

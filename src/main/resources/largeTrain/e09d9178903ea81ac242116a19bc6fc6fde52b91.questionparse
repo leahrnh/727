@@ -8,7 +8,7 @@
 8	not	_	PART	RB	_	9	neg	_	_
 9	support	_	VERB	VB	_	4	ccomp	_	_
 10	the	_	DET	DT	_	12	det	_	_
-11	@placeholder	_	NOUN	NN	_	12	compound	_	_
+11	placeholder	_	NOUN	NN	_	12	compound	_	_
 12	military	_	NOUN	NN	_	9	dobj	_	_
 13	directly	_	ADV	RB	_	9	advmod	_	_
 

@@ -5,7 +5,7 @@
 5	implants	_	NOUN	NNS	_	4	dobj	_	_
 6	,	_	PUNCT	,	_	0	erased	_	_
 7	the	_	DET	DT	_	9	det	_	_
-8	@placeholder	_	NOUN	NN	_	9	compound	_	_
+8	placeholder	_	NOUN	NN	_	9	compound	_	_
 9	clan	_	NOUN	NN	_	11	nsubj	_	_
 10	has	_	AUX	VBZ	_	11	aux	_	_
 11	inspired	_	VERB	VBN	_	0	root	_	_

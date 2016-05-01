@@ -7,7 +7,7 @@
 7	from	_	ADP	IN	_	8	case	_	_
 8	Entity103	_	NOUN	NNS	_	6	nmod	_	_
 9	to	_	PART	TO	_	10	mark	_	_
-10	@placeholder	_	VERB	VB	_	6	xcomp	_	_
+10	placeholder	_	VERB	VB	_	6	xcomp	_	_
 11	over	_	ADP	RP	_	10	compound:prt	_	_
 12	a	_	DET	DT	_	13	det	_	_
 13	year	_	NOUN	NN	_	10	nmod:tmod	_	_

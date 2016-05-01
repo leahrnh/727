@@ -1,7 +1,7 @@
 1	Entity124	_	PROPN	NNP	_	2	nsubj	_	_
 2	confirms	_	VERB	VBZ	_	0	root	_	_
 3	to	_	PART	TO	_	4	mark	_	_
-4	@placeholder	_	VERB	VB	_	2	xcomp	_	_
+4	placeholder	_	VERB	VB	_	2	xcomp	_	_
 5	it	_	PRON	PRP	_	8	nsubj	_	_
 6	will	_	AUX	MD	_	8	aux	_	_
 7	still	_	ADV	RB	_	8	advmod	_	_

@@ -5,7 +5,7 @@
 5	to	_	ADP	TO	_	6	mark	_	_
 6	planning	_	VERB	VBG	_	4	advcl	_	_
 7	the	_	DET	DT	_	10	det	_	_
-8	@placeholder	_	NOUN	NN	_	10	compound	_	_
+8	placeholder	_	NOUN	NN	_	10	compound	_	_
 9	airport	_	NOUN	NN	_	10	compound	_	_
 10	attack	_	NOUN	NN	_	6	dobj	_	_
 11	,	_	PUNCT	,	_	0	erased	_	_

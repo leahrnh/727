@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+1	placeholder	_	NOUN	NN	_	2	nsubj	_	_
 2	pleaded	_	VERB	VBD	_	0	root	_	_
 3	guilty	_	ADJ	JJ	_	2	xcomp	_	_
 4	to	_	ADP	TO	_	7	mark	_	_

@@ -9,7 +9,7 @@
 9	2016	_	NUM	CD	_	6	nummod	_	_
 10	and	_	CONJ	CC	_	4	cc	_	_
 11	stars	_	VERB	VBZ	_	4	conj	_	_
-12	@placeholder	_	NOUN	NN	_	11	dobj	_	_
+12	placeholder	_	NOUN	NN	_	11	dobj	_	_
 13	and	_	CONJ	CC	_	12	cc	_	_
 14	Entity48	_	NOUN	NNS	_	12	conj	_	_
 

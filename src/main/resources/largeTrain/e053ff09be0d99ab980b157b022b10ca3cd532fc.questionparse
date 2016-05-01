@@ -8,7 +8,7 @@
 8	shot	_	NOUN	NN	_	9	compound	_	_
 9	lead	_	NOUN	NN	_	6	dep	_	_
 10	at	_	ADP	IN	_	14	case	_	_
-11	@placeholder	_	NOUN	NN	_	14	nmod:poss	_	_
+11	placeholder	_	NOUN	NN	_	14	nmod:poss	_	_
 12	's	_	PART	POS	_	11	case	_	_
 13	opening	_	VERB	VBG	_	14	amod	_	_
 14	event	_	NOUN	NN	_	9	nmod	_	_

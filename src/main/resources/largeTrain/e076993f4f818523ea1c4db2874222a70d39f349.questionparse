@@ -5,7 +5,7 @@
 5	in	_	ADP	IN	_	10	case	_	_
 6	video	_	ADJ	JJ	_	10	amod	_	_
 7	not	_	ADV	RB	_	10	neg	_	_
-8	@placeholder	_	ADJ	JJ	_	10	amod	_	_
+8	placeholder	_	ADJ	JJ	_	10	amod	_	_
 9	army	_	NOUN	NN	_	10	compound	_	_
 10	soldiers	_	NOUN	NNS	_	4	nmod	_	_
 11	,	_	PUNCT	,	_	0	erased	_	_

@@ -6,7 +6,7 @@
 6	resident	_	NOUN	NN	_	7	nsubj	_	_
 7	became	_	VERB	VBD	_	0	root	_	_
 8	a	_	DET	DT	_	10	det	_	_
-9	@placeholder	_	NOUN	NN	_	10	compound	_	_
+9	placeholder	_	NOUN	NN	_	10	compound	_	_
 10	citizen	_	NOUN	NN	_	7	xcomp	_	_
 11	in	_	ADP	IN	_	12	case	_	_
 12	february	_	PROPN	NNP	_	7	nmod	_	_

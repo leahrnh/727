@@ -14,7 +14,7 @@
 14	ransom	_	NOUN	NN	_	12	dobj	_	_
 15	,	_	PUNCT	,	_	0	erased	_	_
 16	a	_	DET	DT	_	18	det	_	_
-17	@placeholder	_	NOUN	NN	_	18	compound	_	_
+17	placeholder	_	NOUN	NN	_	18	compound	_	_
 18	source	_	NOUN	NN	_	19	nsubj	_	_
 19	says	_	VERB	VBZ	_	0	root	_	_
 

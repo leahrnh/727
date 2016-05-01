@@ -12,6 +12,6 @@
 12	from	_	ADP	IN	_	13	case	_	_
 13	extradition	_	NOUN	NN	_	11	nmod	_	_
 14	,	_	PUNCT	,	_	0	erased	_	_
-15	@placeholder	_	NOUN	NN	_	16	nsubj	_	_
+15	placeholder	_	NOUN	NN	_	16	nsubj	_	_
 16	said	_	VERB	VBD	_	7	ccomp	_	_
 

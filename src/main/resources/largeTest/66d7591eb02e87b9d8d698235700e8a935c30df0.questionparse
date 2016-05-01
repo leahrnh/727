@@ -7,7 +7,7 @@
 7	trapped	_	ADJ	JJ	_	8	amod	_	_
 8	victims	_	NOUN	NNS	_	5	nmod	_	_
 9	in	_	ADP	IN	_	10	case	_	_
-10	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+10	placeholder	_	NOUN	NN	_	8	nmod	_	_
 11	,	_	PUNCT	,	_	0	erased	_	_
 12	Entity2	_	NOUN	NNS	_	10	appos	_	_
 

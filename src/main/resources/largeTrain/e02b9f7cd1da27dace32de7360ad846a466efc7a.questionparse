@@ -1,5 +1,5 @@
 1	''	_	ADJ	JJ	_	2	amod	_	_
-2	@placeholder	_	NOUN	NN	_	4	nmod:poss	_	_
+2	placeholder	_	NOUN	NN	_	4	nmod:poss	_	_
 3	'	_	PART	POS	_	2	case	_	_
 4	''	_	NOUN	NN	_	6	nsubjpass	_	_
 5	is	_	AUX	VBZ	_	6	auxpass	_	_

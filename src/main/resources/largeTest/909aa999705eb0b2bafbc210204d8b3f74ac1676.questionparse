@@ -6,7 +6,7 @@
 6	set	_	VERB	VB	_	1	xcomp	_	_
 7	groundwork	_	NOUN	NN	_	6	dobj	_	_
 8	for	_	ADP	IN	_	10	case	_	_
-9	@placeholder	_	NOUN	NN	_	10	compound	_	_
+9	placeholder	_	NOUN	NN	_	10	compound	_	_
 10	action	_	NOUN	NN	_	7	nmod	_	_
 11	in	_	ADP	IN	_	13	case	_	_
 12	coming	_	VERB	VBG	_	13	amod	_	_

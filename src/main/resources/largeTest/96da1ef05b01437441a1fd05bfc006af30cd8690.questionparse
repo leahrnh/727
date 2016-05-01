@@ -10,5 +10,5 @@
 10	region	_	NOUN	NN	_	6	appos	_	_
 11	of	_	ADP	IN	_	13	case	_	_
 12	northwestern	_	NOUN	NN	_	13	compound	_	_
-13	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+13	placeholder	_	NOUN	NN	_	10	nmod	_	_
 

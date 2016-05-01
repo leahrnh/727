@@ -7,7 +7,7 @@
 7	Entity5	_	NOUN	NNS	_	5	nmod	_	_
 8	if	_	SCONJ	IN	_	11	mark	_	_
 9	the	_	DET	DT	_	10	det	_	_
-10	@placeholder	_	NOUN	NN	_	11	nsubj	_	_
+10	placeholder	_	NOUN	NN	_	11	nsubj	_	_
 11	invaded	_	VERB	VBD	_	5	advcl	_	_
 12	and	_	CONJ	CC	_	11	cc	_	_
 13	deposed	_	VERB	VBN	_	11	conj	_	_

@@ -3,5 +3,5 @@
 3	frequently	_	ADV	RB	_	4	advmod	_	_
 4	collaborator	_	ADJ	JJ	_	0	root	_	_
 5	with	_	ADP	IN	_	6	case	_	_
-6	@placeholder	_	NOUN	NN	_	4	nmod	_	_
+6	placeholder	_	NOUN	NN	_	4	nmod	_	_
 

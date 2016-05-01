@@ -1,6 +1,6 @@
 1	protests	_	NOUN	NNS	_	6	nsubj	_	_
 2	in	_	ADP	IN	_	3	case	_	_
-3	@placeholder	_	NOUN	NN	_	1	nmod	_	_
+3	placeholder	_	NOUN	NN	_	1	nmod	_	_
 4	have	_	AUX	VBP	_	6	aux	_	_
 5	been	_	VERB	VBN	_	6	cop	_	_
 6	calm	_	ADJ	JJ	_	0	root	_	_

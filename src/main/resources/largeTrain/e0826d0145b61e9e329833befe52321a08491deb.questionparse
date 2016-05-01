@@ -5,5 +5,5 @@
 5	public	_	ADJ	JJ	_	6	amod	_	_
 6	relations	_	NOUN	NNS	_	3	nmod	_	_
 7	giant	_	ADJ	JJ	_	8	amod	_	_
-8	@placeholder	_	NOUN	NN	_	3	nsubj	_	_
+8	placeholder	_	NOUN	NN	_	3	nsubj	_	_
 

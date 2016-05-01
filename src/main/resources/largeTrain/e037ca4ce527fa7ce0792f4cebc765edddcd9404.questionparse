@@ -13,6 +13,6 @@
 13	role	_	NOUN	NN	_	8	nmod	_	_
 14	on	_	ADP	IN	_	16	case	_	_
 15	''	_	PUNCT	''	_	0	erased	_	_
-16	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+16	placeholder	_	NOUN	NN	_	8	nmod	_	_
 17	''	_	PUNCT	''	_	0	erased	_	_
 

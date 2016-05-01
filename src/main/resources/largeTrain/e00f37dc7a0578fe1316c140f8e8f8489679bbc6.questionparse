@@ -4,7 +4,7 @@
 4	,	_	PUNCT	,	_	0	erased	_	_
 5	disappeared	_	VERB	VBD	_	0	root	_	_
 6	in	_	ADP	IN	_	7	case	_	_
-7	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+7	placeholder	_	NOUN	NN	_	5	nmod	_	_
 8	more	_	ADJ	JJR	_	10	advmod	_	_
 9	than	_	ADP	IN	_	8	mwe	_	_
 10	a	_	DET	DT	_	11	nummod	_	_

@@ -13,5 +13,5 @@
 13	leader	_	NOUN	NN	_	5	nmod	_	_
 14	in	_	ADP	IN	_	16	case	_	_
 15	the	_	DET	DT	_	16	det	_	_
-16	@placeholder	_	NOUN	NN	_	13	nmod	_	_
+16	placeholder	_	NOUN	NN	_	13	nmod	_	_
 

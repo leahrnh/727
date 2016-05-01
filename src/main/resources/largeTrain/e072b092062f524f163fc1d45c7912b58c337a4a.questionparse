@@ -10,7 +10,7 @@
 10	background	_	NOUN	NN	_	4	nmod	_	_
 11	of	_	ADP	IN	_	13	case	_	_
 12	renewed	_	VERB	VBN	_	13	amod	_	_
-13	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+13	placeholder	_	NOUN	NN	_	10	nmod	_	_
 14	-	_	PUNCT	:	_	0	erased	_	_
 15	Entity4	_	NOUN	NNS	_	2	dep	_	_
 16	relations	_	NOUN	NNS	_	15	dep	_	_

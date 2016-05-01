@@ -5,7 +5,7 @@
 5	known	_	VERB	VBN	_	2	ccomp	_	_
 6	as	_	ADP	IN	_	8	case	_	_
 7	''	_	PUNCT	''	_	0	erased	_	_
-8	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+8	placeholder	_	NOUN	NN	_	5	nmod	_	_
 9	,	_	PUNCT	,	_	0	erased	_	_
 10	''	_	PUNCT	''	_	0	erased	_	_
 11	a	_	DET	DT	_	12	det	_	_

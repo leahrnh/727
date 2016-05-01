@@ -8,7 +8,7 @@
 8	orphans	_	NOUN	NNS	_	4	nmod	_	_
 9	hiding	_	VERB	VBG	_	8	acl	_	_
 10	in	_	ADP	IN	_	14	case	_	_
-11	@placeholder	_	NOUN	NN	_	14	compound	_	_
+11	placeholder	_	NOUN	NN	_	14	compound	_	_
 12	and	_	CONJ	CC	_	11	cc	_	_
 13	other	_	ADJ	JJ	_	11	conj	_	_
 14	countries	_	NOUN	NNS	_	9	nmod	_	_

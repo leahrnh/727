@@ -5,7 +5,7 @@
 5	no	_	DET	DT	_	6	neg	_	_
 6	pattern	_	NOUN	NN	_	4	nsubj	_	_
 7	of	_	ADP	IN	_	8	case	_	_
-8	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+8	placeholder	_	NOUN	NN	_	6	nmod	_	_
 9	''	_	PUNCT	''	_	0	erased	_	_
 10	targeting	_	VERB	VBG	_	6	acl	_	_
 11	Entity21	_	NOUN	NNS	_	10	dobj	_	_

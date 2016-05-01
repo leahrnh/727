@@ -14,6 +14,6 @@
 14	slavery	_	NOUN	NN	_	13	dobj	_	_
 15	,	_	PUNCT	,	_	0	erased	_	_
 16	had	_	VERB	VBD	_	1	parataxis	_	_
-17	@placeholder	_	NOUN	NN	_	18	compound	_	_
+17	placeholder	_	NOUN	NN	_	18	compound	_	_
 18	roots	_	NOUN	NNS	_	16	dobj	_	_
 

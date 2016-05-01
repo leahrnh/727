@@ -26,5 +26,5 @@
 8	won	_	VERB	VBN	_	0	root	_	_
 9	''	_	PUNCT	''	_	0	erased	_	_
 10	in	_	ADP	IN	_	11	case	_	_
-11	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+11	placeholder	_	NOUN	NN	_	8	nmod	_	_
 

@@ -7,5 +7,5 @@
 7	cat	_	NOUN	NN	_	4	nmod	_	_
 8	going	_	VERB	VBG	_	7	acl	_	_
 9	#	_	SYM	#	_	10	compound	_	_
-10	@placeholder	_	NUM	CD	_	8	dobj	_	_
+10	placeholder	_	NUM	CD	_	8	dobj	_	_
 

@@ -8,7 +8,7 @@
 8	in	_	ADP	IN	_	13	case	_	_
 9	Entity2	_	PROPN	NNP	_	13	nmod:poss	_	_
 10	's	_	PART	POS	_	9	case	_	_
-11	@placeholder	_	NOUN	NN	_	13	compound	_	_
+11	placeholder	_	NOUN	NN	_	13	compound	_	_
 12	rape	_	NOUN	NN	_	13	compound	_	_
 13	story	_	NOUN	NN	_	7	nmod	_	_
 

@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+1	placeholder	_	NOUN	NN	_	2	compound	_	_
 2	champion	_	NOUN	NN	_	5	nsubj	_	_
 3	will	_	AUX	MD	_	5	aux	_	_
 4	also	_	ADV	RB	_	5	advmod	_	_

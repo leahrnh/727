@@ -7,7 +7,7 @@
 7	of	_	ADP	IN	_	6	mwe	_	_
 8	a	_	DET	DT	_	11	det	_	_
 9	local	_	ADJ	JJ	_	11	amod	_	_
-10	@placeholder	_	NOUN	NN	_	11	compound	_	_
+10	placeholder	_	NOUN	NN	_	11	compound	_	_
 11	cause	_	NOUN	NN	_	5	nmod	_	_
 12	in	_	ADP	IN	_	13	case	_	_
 13	Entity70	_	NOUN	NNS	_	11	nmod	_	_

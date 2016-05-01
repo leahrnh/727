@@ -1,7 +1,7 @@
 1	her	_	PRON	PRP$	_	2	nmod:poss	_	_
 2	husband	_	NOUN	NN	_	7	nsubjpass	_	_
 3	,	_	PUNCT	,	_	0	erased	_	_
-4	@placeholder	_	NOUN	NN	_	2	appos	_	_
+4	placeholder	_	NOUN	NN	_	2	appos	_	_
 5	,	_	PUNCT	,	_	0	erased	_	_
 6	was	_	AUX	VBD	_	7	auxpass	_	_
 7	diagnosed	_	VERB	VBN	_	0	root	_	_

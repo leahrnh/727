@@ -6,7 +6,7 @@
 6	hand	_	NOUN	NN	_	0	root	_	_
 7	to	_	PART	TO	_	8	mark	_	_
 8	watch	_	VERB	VB	_	6	xcomp	_	_
-9	@placeholder	_	NOUN	NN	_	11	nmod:poss	_	_
+9	placeholder	_	NOUN	NN	_	11	nmod:poss	_	_
 10	's	_	PART	POS	_	9	case	_	_
 11	heroics	_	NOUN	NNS	_	8	dobj	_	_
 

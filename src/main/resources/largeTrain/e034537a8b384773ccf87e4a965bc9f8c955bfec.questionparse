@@ -5,7 +5,7 @@
 5	president	_	NOUN	NN	_	6	compound	_	_
 6	Entity123	_	NOUN	NNS	_	3	dep	_	_
 7	,	_	PUNCT	,	_	0	erased	_	_
-8	@placeholder	_	NOUN	NNS	_	6	conj	_	_
+8	placeholder	_	NOUN	NNS	_	6	conj	_	_
 9	and	_	CONJ	CC	_	6	cc	_	_
 10	Entity26	_	NOUN	NNS	_	6	conj	_	_
 11	from	_	ADP	IN	_	12	case	_	_

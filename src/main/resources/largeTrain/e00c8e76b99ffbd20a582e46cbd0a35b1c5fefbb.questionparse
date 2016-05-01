@@ -7,7 +7,7 @@
 7	new	_	ADJ	JJ	_	8	amod	_	_
 8	trend	_	NOUN	NN	_	5	dobj	_	_
 9	in	_	ADP	IN	_	10	case	_	_
-10	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+10	placeholder	_	NOUN	NN	_	5	nmod	_	_
 11	and	_	CONJ	CC	_	10	cc	_	_
 12	wider	_	ADJ	JJR	_	13	amod	_	_
 13	market	_	NOUN	NN	_	10	conj	_	_

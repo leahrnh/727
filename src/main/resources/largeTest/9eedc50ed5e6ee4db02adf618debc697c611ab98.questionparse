@@ -9,5 +9,5 @@
 9	list	_	NOUN	NN	_	2	nsubj	_	_
 10	for	_	ADP	IN	_	12	case	_	_
 11	the	_	DET	DT	_	12	det	_	_
-12	@placeholder	_	NOUN	NN	_	9	nmod	_	_
+12	placeholder	_	NOUN	NN	_	9	nmod	_	_
 

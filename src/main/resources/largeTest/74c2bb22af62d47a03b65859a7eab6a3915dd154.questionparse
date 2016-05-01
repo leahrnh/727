@@ -11,5 +11,5 @@
 11	citizens	_	NOUN	NNS	_	10	dobj	_	_
 12	who	_	PRON	WP	_	13	nsubj	_	_
 13	join	_	VERB	VBP	_	11	acl:relcl	_	_
-14	@placeholder	_	NOUN	NN	_	13	dobj	_	_
+14	placeholder	_	NOUN	NN	_	13	dobj	_	_
 

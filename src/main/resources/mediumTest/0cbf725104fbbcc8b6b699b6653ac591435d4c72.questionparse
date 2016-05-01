@@ -4,7 +4,7 @@
 4	murder	_	NOUN	NN	_	5	compound	_	_
 5	charges	_	NOUN	NNS	_	3	dobj	_	_
 6	in	_	ADP	IN	_	7	case	_	_
-7	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+7	placeholder	_	NOUN	NN	_	3	nmod	_	_
 8	,	_	PUNCT	,	_	0	erased	_	_
 9	Entity80	_	NOUN	NNS	_	7	appos	_	_
 10	,	_	PUNCT	,	_	0	erased	_	_

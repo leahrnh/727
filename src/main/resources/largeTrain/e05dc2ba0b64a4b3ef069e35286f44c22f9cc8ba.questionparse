@@ -12,5 +12,5 @@
 12	over	_	ADP	IN	_	15	case	_	_
 13	Entity6	_	ADJ	JJ	_	15	amod	_	_
 14	rivals	_	NOUN	NNS	_	15	compound	_	_
-15	@placeholder	_	NOUN	NN	_	11	nmod	_	_
+15	placeholder	_	NOUN	NN	_	11	nmod	_	_
 

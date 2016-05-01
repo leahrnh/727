@@ -8,7 +8,7 @@
 8	while	_	SCONJ	IN	_	12	mark	_	_
 9	the	_	DET	DT	_	11	det	_	_
 10	Entity18	_	ADJ	JJ	_	11	amod	_	_
-11	@placeholder	_	NOUN	NN	_	12	nsubj	_	_
+11	placeholder	_	NOUN	NN	_	12	nsubj	_	_
 12	reviews	_	VERB	VBZ	_	7	advcl	_	_
 13	the	_	DET	DT	_	14	det	_	_
 14	state	_	NOUN	NN	_	16	nmod:poss	_	_

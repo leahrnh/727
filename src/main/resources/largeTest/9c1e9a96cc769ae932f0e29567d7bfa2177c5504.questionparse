@@ -9,5 +9,5 @@
 9	wednesday	_	PROPN	NNP	_	8	appos	_	_
 10	night	_	NOUN	NN	_	2	nmod:tmod	_	_
 11	in	_	ADP	IN	_	12	case	_	_
-12	@placeholder	_	NOUN	NN	_	2	nmod	_	_
+12	placeholder	_	NOUN	NN	_	2	nmod	_	_
 

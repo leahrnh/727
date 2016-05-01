@@ -5,7 +5,7 @@
 5	at	_	ADP	IN	_	8	case	_	_
 6	Entity22	_	PROPN	NNP	_	8	nmod:poss	_	_
 7	's	_	PART	POS	_	6	case	_	_
-8	@placeholder	_	NOUN	NN	_	4	nmod	_	_
+8	placeholder	_	NOUN	NN	_	4	nmod	_	_
 9	is	_	VERB	VBZ	_	11	cop	_	_
 10	a	_	DET	DT	_	11	det	_	_
 11	critic	_	NOUN	NN	_	0	root	_	_

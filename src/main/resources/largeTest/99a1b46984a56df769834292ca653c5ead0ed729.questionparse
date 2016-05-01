@@ -4,7 +4,7 @@
 4	between	_	ADP	IN	_	5	case	_	_
 5	Entity2	_	NOUN	NNS	_	3	nmod	_	_
 6	and	_	CONJ	CC	_	5	cc	_	_
-7	@placeholder	_	NOUN	NN	_	5	conj	_	_
+7	placeholder	_	NOUN	NN	_	5	conj	_	_
 8	are	_	VERB	VBP	_	12	cop	_	_
 9	at	_	ADP	IN	_	12	case	_	_
 10	an	_	DET	DT	_	12	det	_	_

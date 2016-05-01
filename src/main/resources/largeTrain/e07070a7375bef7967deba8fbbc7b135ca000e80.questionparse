@@ -15,7 +15,7 @@
 15	efforts	_	NOUN	NNS	_	11	nmod	_	_
 16	to	_	PART	TO	_	17	mark	_	_
 17	urge	_	VERB	VB	_	15	acl	_	_
-18	@placeholder	_	NOUN	NN	_	17	dobj	_	_
+18	placeholder	_	NOUN	NN	_	17	dobj	_	_
 19	to	_	PART	TO	_	20	mark	_	_
 20	run	_	VERB	VB	_	17	xcomp	_	_
 21	for	_	ADP	IN	_	22	case	_	_

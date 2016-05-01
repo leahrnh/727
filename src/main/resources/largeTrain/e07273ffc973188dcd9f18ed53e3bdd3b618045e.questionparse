@@ -9,5 +9,5 @@
 9	Entity1	_	ADJ	JJ	_	10	amod	_	_
 10	city	_	NOUN	NN	_	6	nmod	_	_
 11	of	_	ADP	IN	_	12	case	_	_
-12	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+12	placeholder	_	NOUN	NN	_	10	nmod	_	_
 

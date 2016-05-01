@@ -1,7 +1,7 @@
 1	''	_	ADJ	JJ	_	2	amod	_	_
 2	terminator	_	NOUN	NN	_	0	root	_	_
 3	:	_	PUNCT	:	_	0	erased	_	_
-4	@placeholder	_	NOUN	NN	_	6	compound	_	_
+4	placeholder	_	NOUN	NN	_	6	compound	_	_
 5	''	_	PUNCT	''	_	0	erased	_	_
 6	trailer	_	NOUN	NN	_	2	dep	_	_
 7	shows	_	VERB	VBZ	_	6	acl:relcl	_	_

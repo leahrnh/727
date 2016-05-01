@@ -5,7 +5,7 @@
 5	n't	_	PART	RB	_	6	neg	_	_
 6	confirm	_	VERB	VB	_	2	ccomp	_	_
 7	whether	_	SCONJ	IN	_	10	mark	_	_
-8	@placeholder	_	NOUN	NN	_	10	nsubjpass	_	_
+8	placeholder	_	NOUN	NN	_	10	nsubjpass	_	_
 9	was	_	AUX	VBD	_	10	auxpass	_	_
 10	involved	_	VERB	VBN	_	6	ccomp	_	_
 11	in	_	ADP	IN	_	13	case	_	_

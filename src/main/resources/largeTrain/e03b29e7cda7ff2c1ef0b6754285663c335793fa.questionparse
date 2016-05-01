@@ -4,7 +4,7 @@
 4	visit	_	VERB	VB	_	0	root	_	_
 5	Entity24	_	NOUN	NNS	_	4	dobj	_	_
 6	,	_	PUNCT	,	_	0	erased	_	_
-7	@placeholder	_	NOUN	NN	_	5	conj	_	_
+7	placeholder	_	NOUN	NN	_	5	conj	_	_
 8	,	_	PUNCT	,	_	0	erased	_	_
 9	the	_	DET	DT	_	10	det	_	_
 10	Entity26	_	NOUN	NNS	_	5	conj	_	_

@@ -18,6 +18,6 @@
 6	acts	_	NOUN	NNS	_	3	dobj	_	_
 7	by	_	ADP	IN	_	9	case	_	_
 8	young	_	ADJ	JJ	_	9	amod	_	_
-9	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+9	placeholder	_	NOUN	NN	_	3	nmod	_	_
 10	?	_	PUNCT	.	_	0	erased	_	_
 

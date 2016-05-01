@@ -5,5 +5,5 @@
 5	conduct	_	NOUN	NN	_	6	compound	_	_
 6	raids	_	NOUN	NNS	_	3	dobj	_	_
 7	in	_	ADP	IN	_	8	case	_	_
-8	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+8	placeholder	_	NOUN	NN	_	6	nmod	_	_
 

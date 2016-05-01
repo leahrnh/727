@@ -10,5 +10,5 @@
 10	shipyard	_	NOUN	NN	_	11	compound	_	_
 11	spokesman	_	NOUN	NN	_	12	nsubj	_	_
 12	told	_	VERB	VBD	_	0	root	_	_
-13	@placeholder	_	NOUN	NN	_	12	dobj	_	_
+13	placeholder	_	NOUN	NN	_	12	dobj	_	_
 

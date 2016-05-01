@@ -4,7 +4,7 @@
 4	stars	_	ADP	IN	_	2	case	_	_
 5	Entity15	_	NOUN	NNS	_	2	dep	_	_
 6	,	_	PUNCT	,	_	0	erased	_	_
-7	@placeholder	_	NOUN	NN	_	12	nsubj	_	_
+7	placeholder	_	NOUN	NN	_	12	nsubj	_	_
 8	as	_	ADP	IN	_	10	case	_	_
 9	two	_	NUM	CD	_	10	nummod	_	_
 10	men	_	NOUN	NNS	_	7	nmod	_	_

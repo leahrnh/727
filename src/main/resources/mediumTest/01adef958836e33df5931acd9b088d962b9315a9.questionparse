@@ -14,5 +14,5 @@
 14	flight	_	NOUN	NN	_	8	nmod	_	_
 15	from	_	ADP	IN	_	17	case	_	_
 16	the	_	DET	DT	_	17	det	_	_
-17	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+17	placeholder	_	NOUN	NN	_	6	nmod	_	_
 

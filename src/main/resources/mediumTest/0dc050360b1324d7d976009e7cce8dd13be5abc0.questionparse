@@ -6,5 +6,5 @@
 6	death	_	NOUN	NN	_	7	compound	_	_
 7	penalty	_	NOUN	NN	_	4	nmod	_	_
 8	for	_	ADP	IN	_	9	case	_	_
-9	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+9	placeholder	_	NOUN	NN	_	7	nmod	_	_
 

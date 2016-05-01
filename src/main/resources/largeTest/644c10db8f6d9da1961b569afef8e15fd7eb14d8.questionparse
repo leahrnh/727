@@ -2,6 +2,6 @@
 2	teaches	_	VERB	VBZ	_	0	root	_	_
 3	Entity27	_	NOUN	NNS	_	2	dobj	_	_
 4	a	_	DET	DT	_	6	det	_	_
-5	@placeholder	_	NOUN	NN	_	6	compound	_	_
+5	placeholder	_	NOUN	NN	_	6	compound	_	_
 6	recipe	_	NOUN	NN	_	2	nsubj	_	_
 

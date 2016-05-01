@@ -1,7 +1,7 @@
 1	Entity139	_	PROPN	NNP	_	0	root	_	_
 2	:	_	PUNCT	:	_	0	erased	_	_
 3	justice	_	NOUN	NN	_	5	compound	_	_
-4	@placeholder	_	NOUN	NN	_	5	compound	_	_
+4	placeholder	_	NOUN	NN	_	5	compound	_	_
 5	rules	_	NOUN	NNS	_	9	nsubj	_	_
 6	federal	_	ADJ	JJ	_	7	amod	_	_
 7	ban	_	NOUN	NN	_	8	nmod:npmod	_	_

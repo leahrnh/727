@@ -6,7 +6,7 @@
 6	to	_	PART	TO	_	7	mark	_	_
 7	see	_	VERB	VB	_	5	xcomp	_	_
 8	the	_	DET	DT	_	10	det	_	_
-9	@placeholder	_	NOUN	NN	_	10	compound	_	_
+9	placeholder	_	NOUN	NN	_	10	compound	_	_
 10	crisis	_	NOUN	NN	_	7	dobj	_	_
 11	coming	_	VERB	VBG	_	10	amod	_	_
 12	,	_	PUNCT	,	_	0	erased	_	_

@@ -9,7 +9,7 @@
 9	came	_	VERB	VBD	_	7	ccomp	_	_
 10	from	_	ADP	IN	_	14	case	_	_
 11	2014	_	NUM	CD	_	14	nummod	_	_
-12	@placeholder	_	NOUN	NN	_	14	compound	_	_
+12	placeholder	_	NOUN	NN	_	14	compound	_	_
 13	mass	_	NOUN	NN	_	14	compound	_	_
 14	abduction	_	NOUN	NN	_	9	nmod	_	_
 

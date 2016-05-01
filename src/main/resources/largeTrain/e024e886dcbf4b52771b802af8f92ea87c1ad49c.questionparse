@@ -1,6 +1,6 @@
 1	he	_	PRON	PRP	_	2	nsubj	_	_
 2	says	_	VERB	VBZ	_	0	root	_	_
-3	@placeholder	_	NOUN	NN	_	2	dobj	_	_
+3	placeholder	_	NOUN	NN	_	2	dobj	_	_
 4	,	_	PUNCT	,	_	0	erased	_	_
 5	Entity69	_	NOUN	NNS	_	3	conj	_	_
 6	,	_	PUNCT	,	_	0	erased	_	_

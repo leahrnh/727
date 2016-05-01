@@ -8,7 +8,7 @@
 8	,	_	PUNCT	,	_	0	erased	_	_
 9	Entity16	_	ADJ	JJ	_	7	amod	_	_
 10	,	_	PUNCT	,	_	0	erased	_	_
-11	@placeholder	_	NOUN	NN	_	7	conj	_	_
+11	placeholder	_	NOUN	NN	_	7	conj	_	_
 12	and	_	CONJ	CC	_	7	cc	_	_
 13	Entity18	_	NOUN	NNS	_	7	conj	_	_
 14	,	_	PUNCT	,	_	0	erased	_	_

@@ -3,7 +3,7 @@
 3	Entity14	_	ADJ	JJ	_	4	amod	_	_
 4	chief	_	NOUN	NN	_	1	dep	_	_
 5	says	_	VERB	VBZ	_	4	acl:relcl	_	_
-6	@placeholder	_	NOUN	NN	_	7	nsubj	_	_
+6	placeholder	_	NOUN	NN	_	7	nsubj	_	_
 7	needs	_	VERB	VBZ	_	5	ccomp	_	_
 8	to	_	PART	TO	_	9	mark	_	_
 9	seek	_	VERB	VB	_	7	xcomp	_	_

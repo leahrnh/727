@@ -5,7 +5,7 @@
 5	competitive	_	ADJ	JJ	_	2	xcomp	_	_
 6	with	_	ADP	IN	_	8	case	_	_
 7	the	_	DET	DT	_	8	det	_	_
-8	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+8	placeholder	_	NOUN	NN	_	5	nmod	_	_
 9	and	_	CONJ	CC	_	8	cc	_	_
 10	the	_	DET	DT	_	11	det	_	_
 11	Entity16	_	NOUN	NNS	_	8	conj	_	_

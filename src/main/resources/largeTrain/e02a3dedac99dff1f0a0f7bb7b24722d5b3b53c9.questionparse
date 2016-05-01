@@ -6,7 +6,7 @@
 6	Entity90	_	ADJ	JJ	_	7	amod	_	_
 7	house	_	NOUN	NN	_	2	dobj	_	_
 8	where	_	ADV	WRB	_	12	advmod	_	_
-9	@placeholder	_	NOUN	NN	_	12	nsubj	_	_
+9	placeholder	_	NOUN	NN	_	12	nsubj	_	_
 10	5	_	NUM	CD	_	9	nummod	_	_
 11	first	_	ADV	RB	_	12	advmod	_	_
 12	recorded	_	VERB	VBD	_	2	advcl	_	_

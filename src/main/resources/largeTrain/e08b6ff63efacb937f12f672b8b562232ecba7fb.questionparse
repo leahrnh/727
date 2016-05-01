@@ -4,7 +4,7 @@
 4	Entity5	_	ADJ	JJ	_	5	amod	_	_
 5	coast	_	NOUN	NN	_	2	nmod	_	_
 6	and	_	CONJ	CC	_	5	cc	_	_
-7	@placeholder	_	NOUN	NN	_	5	conj	_	_
+7	placeholder	_	NOUN	NN	_	5	conj	_	_
 8	island	_	NOUN	NN	_	1	nsubj	_	_
 9	of	_	ADP	IN	_	10	case	_	_
 10	Entity13	_	NOUN	NNS	_	8	nmod	_	_

@@ -3,7 +3,7 @@
 3	Entity2	_	NOUN	NNS	_	10	nsubjpass	_	_
 4	and	_	CONJ	CC	_	3	cc	_	_
 5	another	_	DET	DT	_	7	det	_	_
-6	@placeholder	_	NOUN	NN	_	7	compound	_	_
+6	placeholder	_	NOUN	NN	_	7	compound	_	_
 7	hostage	_	NOUN	NN	_	3	conj	_	_
 8	were	_	AUX	VBD	_	10	auxpass	_	_
 9	accidentally	_	ADV	RB	_	10	advmod	_	_

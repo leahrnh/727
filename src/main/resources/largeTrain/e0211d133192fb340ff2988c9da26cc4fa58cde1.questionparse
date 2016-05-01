@@ -12,7 +12,7 @@
 12	''	_	PUNCT	''	_	0	erased	_	_
 13	says	_	VERB	VBZ	_	0	root	_	_
 14	a	_	DET	DT	_	15	det	_	_
-15	@placeholder	_	NOUN	NN	_	13	nsubj	_	_
+15	placeholder	_	NOUN	NN	_	13	nsubj	_	_
 16	-	_	PUNCT	:	_	0	erased	_	_
 17	allied	_	ADJ	JJ	_	18	amod	_	_
 18	lawmaker	_	NOUN	NN	_	15	dep	_	_

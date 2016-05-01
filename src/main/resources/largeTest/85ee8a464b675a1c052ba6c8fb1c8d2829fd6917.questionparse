@@ -3,7 +3,7 @@
 3	nominees	_	NOUN	NNS	_	2	dobj	_	_
 4	:	_	PUNCT	:	_	0	erased	_	_
 5	'	_	ADV	RB	_	6	advmod	_	_
-6	@placeholder	_	ADJ	JJR	_	3	amod	_	_
+6	placeholder	_	ADJ	JJR	_	3	amod	_	_
 7	,	_	PUNCT	,	_	0	erased	_	_
 8	''	_	PUNCT	''	_	0	erased	_	_
 9	''	_	PUNCT	''	_	0	erased	_	_

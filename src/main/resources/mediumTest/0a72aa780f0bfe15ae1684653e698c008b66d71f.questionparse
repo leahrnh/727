@@ -1,6 +1,6 @@
 1	Entity21	_	VERB	VBG	_	8	advcl	_	_
 2	president	_	NOUN	NN	_	3	compound	_	_
-3	@placeholder	_	NOUN	NN	_	1	dobj	_	_
+3	placeholder	_	NOUN	NN	_	1	dobj	_	_
 4	,	_	PUNCT	,	_	0	erased	_	_
 5	Entity6	_	ADJ	JJ	_	7	amod	_	_
 6	president	_	NOUN	NN	_	7	compound	_	_

@@ -8,7 +8,7 @@
 8	''	_	PUNCT	''	_	0	erased	_	_
 9	follows	_	VERB	VBZ	_	0	root	_	_
 10	a	_	DET	DT	_	13	det	_	_
-11	@placeholder	_	NOUN	NN	_	13	compound	_	_
+11	placeholder	_	NOUN	NN	_	13	compound	_	_
 12	refugee	_	NOUN	NN	_	13	compound	_	_
 13	living	_	NOUN	NN	_	9	dobj	_	_
 14	in	_	ADP	IN	_	15	case	_	_

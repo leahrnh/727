@@ -14,5 +14,5 @@
 14	on	_	ADP	IN	_	15	case	_	_
 15	display	_	NOUN	NN	_	13	nmod	_	_
 16	in	_	ADP	IN	_	17	case	_	_
-17	@placeholder	_	NOUN	NN	_	15	nmod	_	_
+17	placeholder	_	NOUN	NN	_	15	nmod	_	_
 

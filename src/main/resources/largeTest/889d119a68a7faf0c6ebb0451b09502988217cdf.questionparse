@@ -8,7 +8,7 @@
 8	happened	_	VERB	VBD	_	6	ccomp	_	_
 9	,	_	PUNCT	,	_	0	erased	_	_
 10	''	_	PUNCT	''	_	0	erased	_	_
-11	@placeholder	_	NOUN	NN	_	15	nsubj	_	_
+11	placeholder	_	NOUN	NN	_	15	nsubj	_	_
 12	tells	_	ADV	RB	_	15	advmod	_	_
 13	the	_	DET	DT	_	14	det	_	_
 14	Entity14	_	NOUN	NN	_	12	nmod:npmod	_	_

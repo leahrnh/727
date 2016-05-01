@@ -9,7 +9,7 @@
 9	Entity5	_	NOUN	NNS	_	10	nsubj	_	_
 10	goes	_	VERB	VBZ	_	14	advcl	_	_
 11	,	_	PUNCT	,	_	0	erased	_	_
-12	@placeholder	_	NOUN	NN	_	14	nsubj	_	_
+12	placeholder	_	NOUN	NN	_	14	nsubj	_	_
 13	can	_	AUX	MD	_	14	aux	_	_
 14	move	_	VERB	VB	_	6	parataxis	_	_
 15	forward	_	ADV	RB	_	14	advmod	_	_

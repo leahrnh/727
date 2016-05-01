@@ -17,6 +17,6 @@
 17	his	_	PRON	PRP$	_	18	nmod:poss	_	_
 18	death	_	NOUN	NN	_	9	nmod	_	_
 19	,	_	PUNCT	,	_	0	erased	_	_
-20	@placeholder	_	NOUN	NN	_	9	appos	_	_
+20	placeholder	_	NOUN	NN	_	9	appos	_	_
 21	says	_	VERB	VBZ	_	20	dep	_	_
 

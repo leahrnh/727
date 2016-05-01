@@ -1,5 +1,5 @@
 1	actress	_	NOUN	NN	_	2	compound	_	_
-2	@placeholder	_	NOUN	NN	_	4	nsubj	_	_
+2	placeholder	_	NOUN	NN	_	4	nsubj	_	_
 3	is	_	AUX	VBZ	_	4	aux	_	_
 4	trying	_	VERB	VBG	_	0	root	_	_
 5	to	_	PART	TO	_	6	mark	_	_

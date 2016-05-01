@@ -14,5 +14,5 @@
 14	say	_	VERB	VBP	_	7	parataxis	_	_
 15	he	_	PRON	PRP	_	16	nsubj	_	_
 16	knew	_	VERB	VBD	_	14	ccomp	_	_
-17	@placeholder	_	NOUN	NN	_	16	dobj	_	_
+17	placeholder	_	NOUN	NN	_	16	dobj	_	_
 

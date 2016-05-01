@@ -10,5 +10,5 @@
 10	horses	_	NOUN	NNS	_	9	dobj	_	_
 11	back	_	ADV	RB	_	9	advmod	_	_
 12	to	_	ADP	TO	_	13	case	_	_
-13	@placeholder	_	NOUN	NN	_	9	nmod	_	_
+13	placeholder	_	NOUN	NN	_	9	nmod	_	_
 

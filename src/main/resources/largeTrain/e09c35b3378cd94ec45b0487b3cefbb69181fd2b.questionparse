@@ -12,6 +12,6 @@
 12	terrorism	_	NOUN	NN	_	13	compound	_	_
 13	designation	_	NOUN	NN	_	16	nmod	_	_
 14	,	_	PUNCT	,	_	0	erased	_	_
-15	@placeholder	_	NOUN	NN	_	16	nsubj	_	_
+15	placeholder	_	NOUN	NN	_	16	nsubj	_	_
 16	reported	_	VERB	VBD	_	10	ccomp	_	_
 

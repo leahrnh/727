@@ -11,7 +11,7 @@
 11	the	_	DET	DT	_	12	det	_	_
 12	government	_	NOUN	NN	_	13	nsubj	_	_
 13	says	_	VERB	VBZ	_	3	dep	_	_
-14	@placeholder	_	NOUN	NN	_	16	nsubj	_	_
+14	placeholder	_	NOUN	NN	_	16	nsubj	_	_
 15	may	_	AUX	MD	_	16	aux	_	_
 16	be	_	VERB	VB	_	13	ccomp	_	_
 17	to	_	PART	TO	_	18	mark	_	_

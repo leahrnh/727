@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	3	compound	_	_
+1	placeholder	_	NOUN	NN	_	3	compound	_	_
 2	musician	_	NOUN	NN	_	3	compound	_	_
 3	Entity2	_	NOUN	NNS	_	5	nsubj	_	_
 4	is	_	VERB	VBZ	_	5	cop	_	_

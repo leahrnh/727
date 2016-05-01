@@ -9,5 +9,5 @@
 9	the	_	DET	DT	_	10	det	_	_
 10	town	_	NOUN	NN	_	7	nmod	_	_
 11	of	_	ADP	IN	_	12	case	_	_
-12	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+12	placeholder	_	NOUN	NN	_	10	nmod	_	_
 

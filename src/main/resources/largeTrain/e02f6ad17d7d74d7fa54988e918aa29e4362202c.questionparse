@@ -1,6 +1,6 @@
 1	Entity136	_	PROPN	NNP	_	0	root	_	_
 2	:	_	PUNCT	:	_	0	erased	_	_
-3	@placeholder	_	NOUN	NN	_	5	nsubj	_	_
+3	placeholder	_	NOUN	NN	_	5	nsubj	_	_
 4	has	_	AUX	VBZ	_	5	aux	_	_
 5	kept	_	VERB	VBN	_	1	parataxis	_	_
 6	terrorists	_	NOUN	NNS	_	5	dobj	_	_

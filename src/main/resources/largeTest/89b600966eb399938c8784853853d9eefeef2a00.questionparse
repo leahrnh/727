@@ -4,7 +4,7 @@
 4	tv	_	NOUN	NN	_	5	compound	_	_
 5	broadcast	_	NOUN	NN	_	8	nmod	_	_
 6	,	_	PUNCT	,	_	0	erased	_	_
-7	@placeholder	_	NOUN	NN	_	8	nsubj	_	_
+7	placeholder	_	NOUN	NN	_	8	nsubj	_	_
 8	said	_	VERB	VBD	_	0	root	_	_
 9	he	_	PRON	PRP	_	11	nsubj	_	_
 10	would	_	AUX	MD	_	11	aux	_	_

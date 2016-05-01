@@ -18,7 +18,7 @@
 18	forget	_	VERB	VB	_	16	xcomp	_	_
 19	the	_	DET	DT	_	21	det	_	_
 20	bluntness	_	NOUN	NNS	_	21	compound	_	_
-21	@placeholder	_	NOUN	NN	_	23	nsubj	_	_
+21	placeholder	_	NOUN	NN	_	23	nsubj	_	_
 22	sometimes	_	ADV	RB	_	23	advmod	_	_
 23	brings	_	VERB	VBZ	_	18	ccomp	_	_
 24	to	_	ADP	TO	_	27	case	_	_

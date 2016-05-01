@@ -1,5 +1,5 @@
 1	''	_	VERB	VB	_	0	root	_	_
-2	@placeholder	_	NOUN	NN	_	1	dobj	_	_
+2	placeholder	_	NOUN	NN	_	1	dobj	_	_
 3	''	_	PUNCT	''	_	0	erased	_	_
 4	is	_	AUX	VBZ	_	5	auxpass	_	_
 5	scheduled	_	VERB	VBN	_	2	acl:relcl	_	_

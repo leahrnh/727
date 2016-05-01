@@ -9,7 +9,7 @@
 9	figure	_	VERB	VB	_	7	xcomp	_	_
 10	out	_	ADP	RP	_	9	compound:prt	_	_
 11	where	_	ADV	WRB	_	13	advmod	_	_
-12	@placeholder	_	NOUN	NN	_	13	nsubj	_	_
+12	placeholder	_	NOUN	NN	_	13	nsubj	_	_
 13	fit	_	VERB	VBP	_	9	advcl	_	_
 14	in	_	ADP	IN	_	15	case	_	_
 15	culture	_	NOUN	NN	_	13	nmod	_	_

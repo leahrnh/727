@@ -12,5 +12,5 @@
 12	says	_	VERB	VBZ	_	0	root	_	_
 13	maj.	_	NUM	CD	_	15	nummod	_	_
 14	gen.	_	NOUN	NN	_	15	compound	_	_
-15	@placeholder	_	NOUN	NN	_	12	nsubj	_	_
+15	placeholder	_	NOUN	NN	_	12	nsubj	_	_
 

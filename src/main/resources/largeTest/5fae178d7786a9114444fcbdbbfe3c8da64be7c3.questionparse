@@ -6,7 +6,7 @@
 6	a	_	DET	DT	_	11	det	_	_
 7	Entity71	_	NOUN	NNS	_	11	compound	_	_
 8	,	_	PUNCT	,	_	0	erased	_	_
-9	@placeholder	_	NOUN	NN	_	11	dep	_	_
+9	placeholder	_	NOUN	NN	_	11	dep	_	_
 10	,	_	PUNCT	,	_	0	erased	_	_
 11	hospital	_	NOUN	NN	_	4	nmod	_	_
 12	for	_	ADP	IN	_	13	case	_	_

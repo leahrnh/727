@@ -13,5 +13,5 @@
 13	highway	_	NOUN	NN	_	10	nmod	_	_
 14	in	_	ADP	IN	_	16	case	_	_
 15	northern	_	ADJ	JJ	_	16	amod	_	_
-16	@placeholder	_	NOUN	NN	_	13	nmod	_	_
+16	placeholder	_	NOUN	NN	_	13	nmod	_	_
 

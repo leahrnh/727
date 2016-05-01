@@ -6,7 +6,7 @@
 6	obstacle	_	NOUN	NN	_	0	root	_	_
 7	,	_	PUNCT	,	_	0	erased	_	_
 8	as	_	SCONJ	IN	_	11	mark	_	_
-9	@placeholder	_	NOUN	NN	_	10	compound	_	_
+9	placeholder	_	NOUN	NN	_	10	compound	_	_
 10	legislators	_	NOUN	NNS	_	11	nsubj	_	_
 11	remember	_	VERB	VBP	_	6	advcl	_	_
 12	the	_	DET	DT	_	14	det	_	_

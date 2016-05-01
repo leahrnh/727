@@ -5,7 +5,7 @@
 5	input	_	NOUN	NN	_	3	nmod	_	_
 6	of	_	ADP	IN	_	10	case	_	_
 7	deposed	_	VERB	VBN	_	10	amod	_	_
-8	@placeholder	_	NOUN	NN	_	10	compound	_	_
+8	placeholder	_	NOUN	NN	_	10	compound	_	_
 9	president	_	NOUN	NN	_	10	compound	_	_
 10	Entity8	_	NOUN	NNS	_	2	nmod	_	_
 

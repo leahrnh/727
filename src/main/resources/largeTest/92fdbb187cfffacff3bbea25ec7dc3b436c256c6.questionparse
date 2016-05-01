@@ -1,7 +1,7 @@
 1	Entity20	_	ADJ	JJ	_	5	amod	_	_
 2	,	_	PUNCT	,	_	0	erased	_	_
 3	former	_	ADJ	JJ	_	5	amod	_	_
-4	@placeholder	_	NOUN	NN	_	5	compound	_	_
+4	placeholder	_	NOUN	NN	_	5	compound	_	_
 5	ambassador	_	NOUN	NN	_	0	root	_	_
 6	to	_	ADP	TO	_	8	case	_	_
 7	the	_	DET	DT	_	8	det	_	_

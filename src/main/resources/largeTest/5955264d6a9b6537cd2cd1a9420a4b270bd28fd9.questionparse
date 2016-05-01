@@ -15,5 +15,5 @@
 15	today	_	NOUN	NN	_	18	nmod:poss	_	_
 16	's	_	PART	POS	_	15	case	_	_
 17	divided	_	VERB	VBN	_	18	amod	_	_
-18	@placeholder	_	NOUN	NN	_	13	nmod	_	_
+18	placeholder	_	NOUN	NN	_	13	nmod	_	_
 

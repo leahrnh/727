@@ -12,6 +12,6 @@
 12	seen	_	VERB	VBN	_	5	ccomp	_	_
 13	,	_	PUNCT	,	_	0	erased	_	_
 14	''	_	PUNCT	''	_	0	erased	_	_
-15	@placeholder	_	CONJ	CC	_	12	cc	_	_
+15	placeholder	_	CONJ	CC	_	12	cc	_	_
 16	says	_	VERB	VBZ	_	12	conj	_	_
 

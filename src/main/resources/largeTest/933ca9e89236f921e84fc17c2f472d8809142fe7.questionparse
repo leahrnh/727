@@ -6,5 +6,5 @@
 6	drone	_	ADJ	JJ	_	7	amod	_	_
 7	footage	_	NOUN	NN	_	5	dobj	_	_
 8	of	_	ADP	IN	_	9	case	_	_
-9	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+9	placeholder	_	NOUN	NN	_	7	nmod	_	_
 

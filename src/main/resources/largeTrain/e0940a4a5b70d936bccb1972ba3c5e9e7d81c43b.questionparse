@@ -13,6 +13,6 @@
 13	bailout	_	NOUN	NN	_	3	dobj	_	_
 14	from	_	ADP	IN	_	17	case	_	_
 15	the	_	DET	DT	_	17	det	_	_
-16	@placeholder	_	NOUN	NN	_	17	compound	_	_
+16	placeholder	_	NOUN	NN	_	17	compound	_	_
 17	government	_	NOUN	NN	_	3	nmod	_	_
 

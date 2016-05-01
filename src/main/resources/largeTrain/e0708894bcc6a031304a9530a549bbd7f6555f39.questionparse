@@ -5,6 +5,6 @@
 5	senior	_	ADJ	JJ	_	6	amod	_	_
 6	positions	_	NOUN	NNS	_	3	nmod	_	_
 7	at	_	ADP	IN	_	9	case	_	_
-8	@placeholder	_	NOUN	NN	_	9	compound	_	_
+8	placeholder	_	NOUN	NN	_	9	compound	_	_
 9	companies	_	NOUN	NNS	_	3	nmod	_	_
 

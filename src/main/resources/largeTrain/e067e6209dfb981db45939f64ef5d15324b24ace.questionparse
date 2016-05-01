@@ -6,7 +6,7 @@
 6	were	_	AUX	VBD	_	7	auxpass	_	_
 7	raped	_	VERB	VBN	_	0	root	_	_
 8	in	_	ADP	IN	_	9	case	_	_
-9	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+9	placeholder	_	NOUN	NN	_	7	nmod	_	_
 10	in	_	ADP	IN	_	13	case	_	_
 11	the	_	DET	DT	_	13	det	_	_
 12	1990s	_	NUM	CD	_	13	nummod	_	_

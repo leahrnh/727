@@ -5,7 +5,7 @@
 5	Entity28	_	ADJ	JJ	_	6	amod	_	_
 6	transgressions	_	NOUN	NNS	_	3	dobj	_	_
 7	in	_	ADP	IN	_	8	case	_	_
-8	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+8	placeholder	_	NOUN	NN	_	3	nmod	_	_
 9	to	_	PART	TO	_	10	mark	_	_
 10	justify	_	VERB	VB	_	3	advcl	_	_
 11	its	_	PRON	PRP$	_	12	nmod:poss	_	_

@@ -8,5 +8,5 @@
 8	hard	_	ADJ	JJ	_	0	root	_	_
 9	-	_	PUNCT	:	_	0	erased	_	_
 10	hit	_	NOUN	NN	_	11	nmod:npmod	_	_
-11	@placeholder	_	ADJ	JJ	_	8	dep	_	_
+11	placeholder	_	ADJ	JJ	_	8	dep	_	_
 

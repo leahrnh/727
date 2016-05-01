@@ -6,5 +6,5 @@
 6	more	_	ADJ	JJR	_	7	amod	_	_
 7	information	_	NOUN	NN	_	5	dobj	_	_
 8	about	_	ADP	IN	_	9	case	_	_
-9	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+9	placeholder	_	NOUN	NN	_	5	nmod	_	_
 

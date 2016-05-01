@@ -1,4 +1,4 @@
-1	@placeholder	_	VERB	VB	_	0	root	_	_
+1	placeholder	_	VERB	VB	_	0	root	_	_
 2	make	_	VERB	VB	_	1	xcomp	_	_
 3	up	_	ADP	RP	_	2	compound:prt	_	_
 4	the	_	DET	DT	_	6	det	_	_

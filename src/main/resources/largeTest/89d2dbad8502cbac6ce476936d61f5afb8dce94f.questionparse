@@ -8,5 +8,5 @@
 8	front	_	ADJ	JJ	_	9	amod	_	_
 9	Entity13	_	NOUN	NNS	_	2	nmod	_	_
 10	and	_	CONJ	CC	_	9	cc	_	_
-11	@placeholder	_	NOUN	NN	_	9	conj	_	_
+11	placeholder	_	NOUN	NN	_	9	conj	_	_
 

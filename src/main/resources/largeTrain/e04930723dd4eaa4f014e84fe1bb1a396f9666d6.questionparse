@@ -8,7 +8,7 @@
 8	of	_	ADP	IN	_	11	case	_	_
 9	the	_	DET	DT	_	11	det	_	_
 10	2013	_	NUM	CD	_	11	nummod	_	_
-11	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+11	placeholder	_	NOUN	NN	_	7	nmod	_	_
 12	,	_	PUNCT	,	_	0	erased	_	_
 13	remain	_	VERB	VBP	_	0	root	_	_
 14	single	_	ADJ	JJ	_	13	xcomp	_	_

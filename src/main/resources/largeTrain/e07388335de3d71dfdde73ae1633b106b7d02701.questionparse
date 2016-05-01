@@ -5,7 +5,7 @@
 5	helped	_	VERB	VBD	_	0	root	_	_
 6	him	_	PRON	PRP	_	7	nsubj	_	_
 7	win	_	VERB	VBP	_	5	ccomp	_	_
-8	@placeholder	_	NOUN	NN	_	10	nmod:poss	_	_
+8	placeholder	_	NOUN	NN	_	10	nmod:poss	_	_
 9	'	_	PART	POS	_	8	case	_	_
 10	Entity121	_	NOUN	NNS	_	7	dobj	_	_
 11	in	_	ADP	IN	_	12	case	_	_

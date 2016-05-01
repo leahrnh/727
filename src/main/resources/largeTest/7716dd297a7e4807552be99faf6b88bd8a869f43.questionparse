@@ -10,5 +10,5 @@
 10	rocket	_	NOUN	NN	_	2	dep	_	_
 11	to	_	ADP	TO	_	13	case	_	_
 12	the	_	DET	DT	_	13	det	_	_
-13	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+13	placeholder	_	NOUN	NN	_	10	nmod	_	_
 

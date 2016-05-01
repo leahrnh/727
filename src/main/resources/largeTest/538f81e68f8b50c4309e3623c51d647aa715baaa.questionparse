@@ -6,7 +6,7 @@
 6	four	_	NUM	CD	_	7	nummod	_	_
 7	victims	_	NOUN	NNS	_	3	nmod	_	_
 8	and	_	CONJ	CC	_	3	cc	_	_
-9	@placeholder	_	NOUN	NN	_	3	conj	_	_
+9	placeholder	_	NOUN	NN	_	3	conj	_	_
 10	flipping	_	VERB	VBG	_	9	acl	_	_
 11	his	_	PRON	PRP$	_	13	nmod:poss	_	_
 12	middle	_	ADJ	JJ	_	13	amod	_	_

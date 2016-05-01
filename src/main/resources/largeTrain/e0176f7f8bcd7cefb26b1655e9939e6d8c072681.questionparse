@@ -5,7 +5,7 @@
 5	as	_	ADP	IN	_	4	mwe	_	_
 6	Entity270	_	NOUN	NNS	_	3	nmod	_	_
 7	,	_	PUNCT	,	_	0	erased	_	_
-8	@placeholder	_	NOUN	NN	_	6	appos	_	_
+8	placeholder	_	NOUN	NN	_	6	appos	_	_
 9	opposed	_	VERB	VBD	_	0	root	_	_
 10	leaking	_	VERB	VBG	_	15	advcl	_	_
 11	of	_	ADP	IN	_	12	case	_	_

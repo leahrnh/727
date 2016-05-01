@@ -8,7 +8,7 @@
 8	,	_	PUNCT	,	_	0	erased	_	_
 9	''	_	PUNCT	''	_	0	erased	_	_
 10	says	_	VERB	VBZ	_	15	parataxis	_	_
-11	@placeholder	_	NOUN	NN	_	10	dobj	_	_
+11	placeholder	_	NOUN	NN	_	10	dobj	_	_
 12	,	_	PUNCT	,	_	0	erased	_	_
 13	who	_	PRON	WP	_	15	nsubj	_	_
 14	starts	_	VERB	VBZ	_	13	dep	_	_

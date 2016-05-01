@@ -11,7 +11,7 @@
 11	Entity32	_	ADJ	JJ	_	12	amod	_	_
 12	Entity35	_	NOUN	NNS	_	9	nmod	_	_
 13	and	_	CONJ	CC	_	12	cc	_	_
-14	@placeholder	_	NOUN	NN	_	15	compound	_	_
+14	placeholder	_	NOUN	NN	_	15	compound	_	_
 15	Entity36	_	NOUN	NNS	_	12	conj	_	_
 16	died	_	VERB	VBN	_	12	acl	_	_
 17	in	_	ADP	IN	_	19	case	_	_

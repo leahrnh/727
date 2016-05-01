@@ -12,7 +12,7 @@
 12	used	_	VERB	VBD	_	10	acl:relcl	_	_
 13	as	_	ADP	IN	_	17	case	_	_
 14	a	_	DET	DT	_	17	det	_	_
-15	@placeholder	_	NOUN	NN	_	17	compound	_	_
+15	placeholder	_	NOUN	NN	_	17	compound	_	_
 16	disc	_	NOUN	NN	_	17	compound	_	_
 17	jockey	_	NOUN	NN	_	12	nmod	_	_
 

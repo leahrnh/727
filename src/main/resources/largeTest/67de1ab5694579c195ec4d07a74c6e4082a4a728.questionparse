@@ -10,7 +10,7 @@
 10	brutal	_	ADJ	JJ	_	14	amod	_	_
 11	violence	_	NOUN	NN	_	14	compound	_	_
 12	poor	_	ADJ	JJ	_	14	amod	_	_
-13	@placeholder	_	NOUN	NN	_	14	compound	_	_
+13	placeholder	_	NOUN	NN	_	14	compound	_	_
 14	experience	_	NOUN	NN	_	7	nmod	_	_
 15	,	_	PUNCT	,	_	0	erased	_	_
 16	she	_	PRON	PRP	_	17	nsubj	_	_

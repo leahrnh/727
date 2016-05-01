@@ -1,4 +1,4 @@
-1	@placeholder	_	VERB	VBN	_	0	root	_	_
+1	placeholder	_	VERB	VBN	_	0	root	_	_
 2	says	_	VERB	VBZ	_	1	ccomp	_	_
 3	''	_	PUNCT	''	_	0	erased	_	_
 4	it	_	PRON	PRP	_	1	xcomp	_	_

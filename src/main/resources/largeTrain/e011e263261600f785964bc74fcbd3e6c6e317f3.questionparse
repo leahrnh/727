@@ -8,5 +8,5 @@
 8	deal	_	NOUN	NN	_	6	nmod	_	_
 9	with	_	ADP	IN	_	11	case	_	_
 10	president	_	NOUN	NN	_	11	compound	_	_
-11	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+11	placeholder	_	NOUN	NN	_	5	nmod	_	_
 

@@ -1,4 +1,4 @@
-1	@placeholder	_	VERB	VB	_	0	root	_	_
+1	placeholder	_	VERB	VB	_	0	root	_	_
 2	special	_	ADJ	JJ	_	3	amod	_	_
 3	forces	_	NOUN	NNS	_	1	dobj	_	_
 4	helicopter	_	NOUN	NN	_	3	dep	_	_

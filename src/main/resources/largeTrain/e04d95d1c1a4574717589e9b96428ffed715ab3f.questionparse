@@ -12,5 +12,5 @@
 12	30	_	NUM	CD	_	13	nummod	_	_
 13	percent	_	NOUN	NN	_	10	nmod	_	_
 14	in	_	ADP	IN	_	15	case	_	_
-15	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+15	placeholder	_	NOUN	NN	_	3	nmod	_	_
 

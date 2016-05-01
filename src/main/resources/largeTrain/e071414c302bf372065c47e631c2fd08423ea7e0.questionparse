@@ -6,5 +6,5 @@
 6	international	_	ADJ	JJ	_	7	amod	_	_
 7	headquarters	_	NOUN	NN	_	4	dobj	_	_
 8	in	_	ADP	IN	_	9	case	_	_
-9	@placeholder	_	NOUN	NN	_	4	nmod	_	_
+9	placeholder	_	NOUN	NN	_	4	nmod	_	_
 

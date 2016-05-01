@@ -4,5 +4,5 @@
 4	joins	_	VERB	VBZ	_	0	root	_	_
 5	Entity6	_	ADJ	JJ	_	7	amod	_	_
 6	club	_	NOUN	NN	_	7	compound	_	_
-7	@placeholder	_	NOUN	NN	_	4	dobj	_	_
+7	placeholder	_	NOUN	NN	_	4	dobj	_	_
 

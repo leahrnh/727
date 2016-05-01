@@ -9,5 +9,5 @@
 9	in	_	ADP	IN	_	10	case	_	_
 10	deaths	_	NOUN	NNS	_	8	nmod	_	_
 11	at	_	ADP	IN	_	12	case	_	_
-12	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+12	placeholder	_	NOUN	NN	_	10	nmod	_	_
 

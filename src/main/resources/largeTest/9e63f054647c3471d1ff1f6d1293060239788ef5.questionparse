@@ -4,7 +4,7 @@
 4	,	_	PUNCT	,	_	0	erased	_	_
 5	Entity10	_	NOUN	NNS	_	1	conj	_	_
 6	,	_	PUNCT	,	_	0	erased	_	_
-7	@placeholder	_	NOUN	NN	_	1	conj	_	_
+7	placeholder	_	NOUN	NN	_	1	conj	_	_
 8	and	_	CONJ	CC	_	1	cc	_	_
 9	Entity12	_	NOUN	NNS	_	1	conj	_	_
 10	are	_	VERB	VBP	_	11	cop	_	_

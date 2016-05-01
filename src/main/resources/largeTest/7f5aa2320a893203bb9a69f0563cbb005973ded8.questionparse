@@ -13,7 +13,7 @@
 13	a	_	DET	DT	_	14	det	_	_
 14	farm	_	NOUN	NN	_	8	nmod	_	_
 15	in	_	ADP	IN	_	16	case	_	_
-16	@placeholder	_	NOUN	NN	_	14	nmod	_	_
+16	placeholder	_	NOUN	NN	_	14	nmod	_	_
 17	,	_	PUNCT	,	_	0	erased	_	_
 18	Entity2	_	NOUN	NNS	_	16	appos	_	_
 

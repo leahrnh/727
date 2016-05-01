@@ -4,7 +4,7 @@
 4	billionaire	_	NOUN	NN	_	5	compound	_	_
 5	Entity17	_	NOUN	NNS	_	2	nmod	_	_
 6	,	_	PUNCT	,	_	0	erased	_	_
-7	@placeholder	_	NOUN	NN	_	2	appos	_	_
+7	placeholder	_	NOUN	NN	_	2	appos	_	_
 8	,	_	PUNCT	,	_	0	erased	_	_
 9	sentenced	_	VERB	VBD	_	0	root	_	_
 10	to	_	ADP	TO	_	14	case	_	_

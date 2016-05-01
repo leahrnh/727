@@ -10,7 +10,7 @@
 10	a	_	DET	DT	_	11	det	_	_
 11	week	_	NOUN	NN	_	5	nmod	_	_
 12	,	_	PUNCT	,	_	0	erased	_	_
-13	@placeholder	_	NOUN	NN	_	15	compound	_	_
+13	placeholder	_	NOUN	NN	_	15	compound	_	_
 14	space	_	NOUN	NN	_	15	compound	_	_
 15	agency	_	NOUN	NN	_	11	appos	_	_
 16	says	_	VERB	VBZ	_	15	dep	_	_

@@ -5,7 +5,7 @@
 5	autism	_	NOUN	NN	_	1	nmod	_	_
 6	to	_	ADP	TO	_	8	case	_	_
 7	the	_	DET	DT	_	8	det	_	_
-8	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+8	placeholder	_	NOUN	NN	_	5	nmod	_	_
 9	,	_	PUNCT	,	_	0	erased	_	_
 10	wrongly	_	ADV	RB	_	11	advmod	_	_
 11	tied	_	VERB	VBN	_	8	acl	_	_

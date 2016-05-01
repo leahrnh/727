@@ -6,7 +6,7 @@
 6	installment	_	NOUN	NN	_	2	acl:relcl	_	_
 7	in	_	ADP	IN	_	11	case	_	_
 8	''	_	PUNCT	''	_	0	erased	_	_
-9	@placeholder	_	NOUN	NN	_	11	compound	_	_
+9	placeholder	_	NOUN	NN	_	11	compound	_	_
 10	''	_	PUNCT	''	_	0	erased	_	_
 11	franchise	_	NOUN	NN	_	6	nmod	_	_
 

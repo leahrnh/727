@@ -6,7 +6,7 @@
 6	of	_	ADP	IN	_	7	case	_	_
 7	friends	_	NOUN	NNS	_	5	nmod	_	_
 8	inspired	_	VERB	VBN	_	7	acl	_	_
-9	@placeholder	_	NOUN	NN	_	11	compound	_	_
+9	placeholder	_	NOUN	NN	_	11	compound	_	_
 10	participant	_	NOUN	NN	_	11	compound	_	_
 11	Entity124	_	NOUN	NNS	_	8	dobj	_	_
 

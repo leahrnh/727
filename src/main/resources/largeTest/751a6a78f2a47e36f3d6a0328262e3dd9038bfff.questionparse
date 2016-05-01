@@ -8,7 +8,7 @@
 8	training	_	NOUN	NN	_	4	dobj	_	_
 9	required	_	VERB	VBN	_	8	acl	_	_
 10	by	_	ADP	IN	_	11	case	_	_
-11	@placeholder	_	NOUN	NN	_	9	nmod	_	_
+11	placeholder	_	NOUN	NN	_	9	nmod	_	_
 12	to	_	PART	TO	_	16	mark	_	_
 13	be	_	VERB	VB	_	16	cop	_	_
 14	a	_	DET	DT	_	16	det	_	_

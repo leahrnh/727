@@ -5,7 +5,7 @@
 5	relationship	_	NOUN	NN	_	2	dobj	_	_
 6	with	_	ADP	IN	_	8	case	_	_
 7	the	_	DET	DT	_	8	det	_	_
-8	@placeholder	_	NOUN	NN	_	2	nmod	_	_
+8	placeholder	_	NOUN	NN	_	2	nmod	_	_
 9	ayatollah	_	NOUN	NN	_	10	compound	_	_
 10	Entity41	_	NOUN	NNS	_	13	nsubj	_	_
 11	is	_	VERB	VBZ	_	13	cop	_	_

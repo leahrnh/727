@@ -12,5 +12,5 @@
 12	at	_	ADP	IN	_	13	case	_	_
 13	home	_	NOUN	NN	_	11	nmod	_	_
 14	to	_	ADP	TO	_	15	case	_	_
-15	@placeholder	_	NOUN	NN	_	13	nmod	_	_
+15	placeholder	_	NOUN	NN	_	13	nmod	_	_
 

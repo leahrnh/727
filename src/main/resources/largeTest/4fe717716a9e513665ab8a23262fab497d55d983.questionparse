@@ -11,7 +11,7 @@
 11	shipping	_	NOUN	NN	_	8	nmod	_	_
 12	,	_	PUNCT	,	_	0	erased	_	_
 13	a	_	DET	DT	_	16	det	_	_
-14	@placeholder	_	NOUN	NN	_	16	compound	_	_
+14	placeholder	_	NOUN	NN	_	16	compound	_	_
 15	defense	_	NOUN	NN	_	16	compound	_	_
 16	official	_	NOUN	NN	_	11	appos	_	_
 17	says	_	VERB	VBZ	_	16	dep	_	_

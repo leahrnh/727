@@ -13,5 +13,5 @@
 13	in	_	ADP	IN	_	14	case	_	_
 14	Entity142	_	NOUN	NNS	_	12	nmod	_	_
 15	or	_	CONJ	CC	_	14	cc	_	_
-16	@placeholder	_	NOUN	NN	_	14	conj	_	_
+16	placeholder	_	NOUN	NN	_	14	conj	_	_
 

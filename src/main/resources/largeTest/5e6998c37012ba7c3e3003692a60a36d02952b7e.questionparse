@@ -2,7 +2,7 @@
 2	in	_	ADP	IN	_	3	case	_	_
 3	Entity173	_	NOUN	NNS	_	1	nmod	_	_
 4	,	_	PUNCT	,	_	0	erased	_	_
-5	@placeholder	_	NOUN	NN	_	3	appos	_	_
+5	placeholder	_	NOUN	NN	_	3	appos	_	_
 6	,	_	PUNCT	,	_	0	erased	_	_
 7	offers	_	VERB	VBZ	_	1	dep	_	_
 8	a	_	DET	DT	_	11	det	_	_

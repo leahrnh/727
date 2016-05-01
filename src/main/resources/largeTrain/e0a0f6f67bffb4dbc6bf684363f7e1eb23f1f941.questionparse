@@ -11,7 +11,7 @@
 11	were	_	AUX	VBD	_	12	auxpass	_	_
 12	involved	_	VERB	VBN	_	6	ccomp	_	_
 13	in	_	ADP	IN	_	16	case	_	_
-14	@placeholder	_	NOUN	NN	_	16	nmod:poss	_	_
+14	placeholder	_	NOUN	NN	_	16	nmod:poss	_	_
 15	's	_	PART	POS	_	14	case	_	_
 16	death	_	NOUN	NN	_	12	nmod	_	_
 

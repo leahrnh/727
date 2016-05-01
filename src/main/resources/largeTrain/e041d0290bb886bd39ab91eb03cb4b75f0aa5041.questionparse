@@ -11,6 +11,6 @@
 11	how	_	ADV	WRB	_	13	advmod	_	_
 12	to	_	PART	TO	_	13	mark	_	_
 13	transform	_	VERB	VB	_	9	acl	_	_
-14	@placeholder	_	NOUN	NN	_	15	compound	_	_
+14	placeholder	_	NOUN	NN	_	15	compound	_	_
 15	literature	_	NOUN	NN	_	13	dobj	_	_
 

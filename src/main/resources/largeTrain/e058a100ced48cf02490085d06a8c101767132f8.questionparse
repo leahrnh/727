@@ -11,5 +11,5 @@
 11	you	_	PRON	PRP	_	12	nsubj	_	_
 12	saw	_	VERB	VBD	_	10	acl:relcl	_	_
 13	on	_	ADP	IN	_	14	case	_	_
-14	@placeholder	_	NOUN	NN	_	12	nmod	_	_
+14	placeholder	_	NOUN	NN	_	12	nmod	_	_
 

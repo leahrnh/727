@@ -4,7 +4,7 @@
 4	1962	_	NUM	CD	_	10	nmod	_	_
 5	,	_	PUNCT	,	_	0	erased	_	_
 6	the	_	DET	DT	_	7	det	_	_
-7	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+7	placeholder	_	NOUN	NN	_	10	nsubj	_	_
 8	has	_	AUX	VBZ	_	10	aux	_	_
 9	not	_	PART	RB	_	10	neg	_	_
 10	blocked	_	VERB	VBN	_	0	root	_	_

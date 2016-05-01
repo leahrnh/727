@@ -8,7 +8,7 @@
 8	which	_	DET	WDT	_	10	nsubj	_	_
 9	already	_	ADV	RB	_	10	advmod	_	_
 10	includes	_	VERB	VBZ	_	6	acl:relcl	_	_
-11	@placeholder	_	NOUN	NN	_	10	dobj	_	_
+11	placeholder	_	NOUN	NN	_	10	dobj	_	_
 12	,	_	PUNCT	,	_	0	erased	_	_
 13	Entity13	_	NOUN	NNS	_	11	appos	_	_
 

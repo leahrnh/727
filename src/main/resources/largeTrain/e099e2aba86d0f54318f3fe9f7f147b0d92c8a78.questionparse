@@ -6,5 +6,5 @@
 6	at	_	ADP	IN	_	7	case	_	_
 7	Entity6	_	NOUN	NNS	_	5	nmod	_	_
 8	by	_	ADP	IN	_	9	case	_	_
-9	@placeholder	_	NOUN	NN	_	2	nmod	_	_
+9	placeholder	_	NOUN	NN	_	2	nmod	_	_
 

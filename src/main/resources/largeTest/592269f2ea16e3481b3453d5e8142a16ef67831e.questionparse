@@ -8,7 +8,7 @@
 8	their	_	PRON	PRP$	_	9	nmod:poss	_	_
 9	pay	_	NOUN	NN	_	6	dobj	_	_
 10	,	_	PUNCT	,	_	0	erased	_	_
-11	@placeholder	_	NOUN	NN	_	2	appos	_	_
+11	placeholder	_	NOUN	NN	_	2	appos	_	_
 12	said	_	VERB	VBD	_	0	root	_	_
 13	in	_	ADP	IN	_	15	case	_	_
 14	a	_	DET	DT	_	15	det	_	_

@@ -11,7 +11,7 @@
 11	not	_	PART	RB	_	12	neg	_	_
 12	leave	_	VERB	VB	_	0	root	_	_
 13	the	_	DET	DT	_	14	det	_	_
-14	@placeholder	_	NOUN	NN	_	12	dobj	_	_
+14	placeholder	_	NOUN	NN	_	12	dobj	_	_
 15	even	_	ADV	RB	_	23	advmod	_	_
 16	if	_	SCONJ	IN	_	23	mark	_	_
 17	i	_	X	FW	_	23	nsubj	_	_

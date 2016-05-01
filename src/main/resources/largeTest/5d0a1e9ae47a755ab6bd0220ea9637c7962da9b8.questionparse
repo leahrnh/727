@@ -4,7 +4,7 @@
 4	Entity27	_	NOUN	NNS	_	2	dobj	_	_
 5	with	_	SCONJ	IN	_	6	mark	_	_
 6	making	_	VERB	VBG	_	2	advcl	_	_
-7	@placeholder	_	VERB	VBP	_	6	xcomp	_	_
+7	placeholder	_	VERB	VBP	_	6	xcomp	_	_
 8	''	_	PUNCT	''	_	0	erased	_	_
 9	a	_	DET	DT	_	10	det	_	_
 10	lot	_	NOUN	NN	_	7	dobj	_	_

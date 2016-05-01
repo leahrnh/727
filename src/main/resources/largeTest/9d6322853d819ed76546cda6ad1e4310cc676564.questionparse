@@ -1,5 +1,5 @@
 1	the	_	DET	DT	_	2	det	_	_
-2	@placeholder	_	NOUN	NN	_	3	nsubj	_	_
+2	placeholder	_	NOUN	NN	_	3	nsubj	_	_
 3	invaded	_	VERB	VBD	_	0	root	_	_
 4	Entity23	_	NOUN	NNS	_	3	dobj	_	_
 5	in	_	ADP	IN	_	6	case	_	_

@@ -5,7 +5,7 @@
 5	car	_	NOUN	NN	_	3	dobj	_	_
 6	near	_	ADP	IN	_	9	case	_	_
 7	the	_	DET	DT	_	9	det	_	_
-8	@placeholder	_	NOUN	NN	_	9	compound	_	_
+8	placeholder	_	NOUN	NN	_	9	compound	_	_
 9	Entity4	_	NOUN	NNS	_	5	nmod	_	_
 10	in	_	ADP	IN	_	11	case	_	_
 11	Entity9	_	NOUN	NNS	_	3	nmod	_	_

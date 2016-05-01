@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+1	placeholder	_	NOUN	NN	_	2	nsubj	_	_
 2	became	_	VERB	VBD	_	0	root	_	_
 3	involved	_	VERB	VBN	_	2	xcomp	_	_
 4	in	_	ADP	IN	_	5	case	_	_

@@ -5,7 +5,7 @@
 5	after	_	SCONJ	IN	_	13	mark	_	_
 6	avalanches	_	NOUN	NNS	_	13	nsubj	_	_
 7	at	_	ADP	IN	_	10	case	_	_
-8	@placeholder	_	NOUN	NN	_	10	compound	_	_
+8	placeholder	_	NOUN	NN	_	10	compound	_	_
 9	base	_	NOUN	NN	_	10	compound	_	_
 10	camp	_	NOUN	NN	_	6	nmod	_	_
 11	,	_	PUNCT	,	_	0	erased	_	_

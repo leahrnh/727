@@ -13,6 +13,6 @@
 13	the	_	DET	DT	_	14	det	_	_
 14	noose	_	NOUN	NN	_	12	dobj	_	_
 15	,	_	PUNCT	,	_	0	erased	_	_
-16	@placeholder	_	NOUN	NN	_	14	appos	_	_
+16	placeholder	_	NOUN	NN	_	14	appos	_	_
 17	says	_	VERB	VBZ	_	16	dep	_	_
 

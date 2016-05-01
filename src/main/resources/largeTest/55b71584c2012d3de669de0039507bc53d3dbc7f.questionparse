@@ -11,7 +11,7 @@
 11	range	_	NOUN	NN	_	8	dobj	_	_
 12	and	_	CONJ	CC	_	8	cc	_	_
 13	make	_	VERB	VB	_	8	conj	_	_
-14	@placeholder	_	NOUN	NN	_	15	compound	_	_
+14	placeholder	_	NOUN	NN	_	15	compound	_	_
 15	troops	_	NOUN	NNS	_	16	nsubj	_	_
 16	safer	_	ADJ	JJR	_	13	xcomp	_	_
 

@@ -4,7 +4,7 @@
 4	at	_	ADP	IN	_	5	case	_	_
 5	allegations	_	NOUN	NNS	_	3	nmod	_	_
 6	against	_	ADP	IN	_	9	case	_	_
-7	@placeholder	_	NOUN	NN	_	9	nmod:poss	_	_
+7	placeholder	_	NOUN	NN	_	9	nmod:poss	_	_
 8	's	_	PART	POS	_	7	case	_	_
 9	president	_	NOUN	NN	_	5	nmod	_	_
 10	says	_	VERB	VBZ	_	0	root	_	_

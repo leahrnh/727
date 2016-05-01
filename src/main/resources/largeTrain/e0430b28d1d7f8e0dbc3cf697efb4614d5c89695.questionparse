@@ -4,7 +4,7 @@
 4	sen.	_	NOUN	NN	_	5	compound	_	_
 5	Entity49	_	NOUN	NNS	_	2	nmod	_	_
 6	said	_	VERB	VBD	_	0	root	_	_
-7	@placeholder	_	NOUN	NN	_	9	nmod:poss	_	_
+7	placeholder	_	NOUN	NN	_	9	nmod:poss	_	_
 8	's	_	PART	POS	_	7	case	_	_
 9	decision	_	NOUN	NN	_	11	nsubj	_	_
 10	would	_	AUX	MD	_	11	aux	_	_

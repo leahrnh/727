@@ -15,5 +15,5 @@
 15	back	_	ADP	RP	_	10	compound:prt	_	_
 16	to	_	ADP	TO	_	18	case	_	_
 17	the	_	DET	DT	_	18	det	_	_
-18	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+18	placeholder	_	NOUN	NN	_	10	nmod	_	_
 

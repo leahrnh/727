@@ -8,6 +8,6 @@
 8	nations	_	NOUN	NNS	_	3	nmod	_	_
 9	around	_	ADP	IN	_	12	case	_	_
 10	the	_	DET	DT	_	12	det	_	_
-11	@placeholder	_	NOUN	NN	_	12	compound	_	_
+11	placeholder	_	NOUN	NN	_	12	compound	_	_
 12	world	_	NOUN	NN	_	8	nmod	_	_
 

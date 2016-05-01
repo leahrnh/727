@@ -5,7 +5,7 @@
 5	's	_	PART	POS	_	4	case	_	_
 6	trip	_	NOUN	NN	_	2	nmod	_	_
 7	to	_	PART	TO	_	8	mark	_	_
-8	@placeholder	_	VERB	VB	_	6	acl	_	_
+8	placeholder	_	VERB	VB	_	6	acl	_	_
 9	approaches	_	NOUN	NNS	_	10	compound	_	_
 10	Entity14	_	NOUN	NNS	_	13	nmod:poss	_	_
 11	's	_	PART	POS	_	10	case	_	_

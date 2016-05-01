@@ -10,5 +10,5 @@
 10	last	_	ADJ	JJ	_	11	amod	_	_
 11	month	_	NOUN	NN	_	7	nmod:tmod	_	_
 12	by	_	ADP	IN	_	13	case	_	_
-13	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+13	placeholder	_	NOUN	NN	_	7	nmod	_	_
 

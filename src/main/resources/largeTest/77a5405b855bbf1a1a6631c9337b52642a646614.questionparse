@@ -8,7 +8,7 @@
 8	''	_	PUNCT	''	_	0	erased	_	_
 9	and	_	CONJ	CC	_	4	cc	_	_
 10	''	_	PUNCT	''	_	0	erased	_	_
-11	@placeholder	_	NUM	CD	_	4	conj	_	_
+11	placeholder	_	NUM	CD	_	4	conj	_	_
 12	,	_	PUNCT	,	_	0	erased	_	_
 13	march	_	NOUN	NN	_	14	nsubj	_	_
 14	2013	_	VERB	VBZ	_	0	root	_	_

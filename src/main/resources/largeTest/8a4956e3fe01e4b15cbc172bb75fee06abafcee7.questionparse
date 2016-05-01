@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+1	placeholder	_	NOUN	NN	_	2	compound	_	_
 2	lawmaker	_	NOUN	NN	_	0	root	_	_
 3	:	_	PUNCT	:	_	0	erased	_	_
 4	bill	_	NOUN	NN	_	2	dep	_	_

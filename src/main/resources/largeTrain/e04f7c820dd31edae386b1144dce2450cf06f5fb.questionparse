@@ -12,6 +12,6 @@
 12	Entity32	_	NOUN	NNS	_	3	nmod	_	_
 13	,	_	PUNCT	,	_	0	erased	_	_
 14	''	_	PUNCT	''	_	0	erased	_	_
-15	@placeholder	_	NOUN	NN	_	12	dep	_	_
+15	placeholder	_	NOUN	NN	_	12	dep	_	_
 16	says	_	VERB	VBZ	_	15	dep	_	_
 

@@ -1,4 +1,4 @@
-1	@placeholder	_	ADJ	JJ	_	3	amod	_	_
+1	placeholder	_	ADJ	JJ	_	3	amod	_	_
 2	gov.	_	NOUN	NN	_	3	compound	_	_
 3	Entity186	_	NOUN	NN	_	0	root	_	_
 4	:	_	PUNCT	:	_	0	erased	_	_

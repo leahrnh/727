@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+1	placeholder	_	NOUN	NN	_	2	compound	_	_
 2	tops	_	NOUN	NNS	_	0	root	_	_
 3	Entity11	_	PROPN	NNP	_	5	nmod:poss	_	_
 4	'	_	PART	POS	_	3	case	_	_

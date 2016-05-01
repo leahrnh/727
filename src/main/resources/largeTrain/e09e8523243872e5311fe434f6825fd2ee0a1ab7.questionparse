@@ -6,7 +6,7 @@
 6	veteran	_	NOUN	NN	_	0	root	_	_
 7	,	_	PUNCT	,	_	0	erased	_	_
 8	while	_	SCONJ	IN	_	14	mark	_	_
-9	@placeholder	_	NOUN	NN	_	14	nsubj	_	_
+9	placeholder	_	NOUN	NN	_	14	nsubj	_	_
 10	may	_	AUX	MD	_	14	aux	_	_
 11	be	_	VERB	VB	_	14	cop	_	_
 12	the	_	NOUN	NN	_	14	compound	_	_

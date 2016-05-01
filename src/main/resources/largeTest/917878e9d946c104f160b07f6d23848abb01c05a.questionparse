@@ -7,7 +7,7 @@
 7	but	_	CONJ	CC	_	5	cc	_	_
 8	what	_	PRON	WP	_	9	nsubj	_	_
 9	took	_	VERB	VBD	_	5	conj	_	_
-10	@placeholder	_	NOUN	NN	_	9	dobj	_	_
+10	placeholder	_	NOUN	NN	_	9	dobj	_	_
 11	so	_	ADV	RB	_	12	advmod	_	_
 12	long	_	ADV	RB	_	9	advmod	_	_
 13	?	_	PUNCT	.	_	0	erased	_	_

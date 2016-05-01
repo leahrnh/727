@@ -9,6 +9,6 @@
 9	may	_	AUX	MD	_	10	aux	_	_
 10	turn	_	VERB	VB	_	0	root	_	_
 11	to	_	ADP	TO	_	13	case	_	_
-12	@placeholder	_	NOUN	NN	_	13	compound	_	_
+12	placeholder	_	NOUN	NN	_	13	compound	_	_
 13	cinema	_	NOUN	NN	_	10	nmod	_	_
 

@@ -12,6 +12,6 @@
 12	people	_	NOUN	NNS	_	9	dobj	_	_
 13	,	_	PUNCT	,	_	0	erased	_	_
 14	''	_	PUNCT	''	_	0	erased	_	_
-15	@placeholder	_	NOUN	NN	_	16	nsubj	_	_
+15	placeholder	_	NOUN	NN	_	16	nsubj	_	_
 16	says	_	VERB	VBZ	_	12	acl:relcl	_	_
 

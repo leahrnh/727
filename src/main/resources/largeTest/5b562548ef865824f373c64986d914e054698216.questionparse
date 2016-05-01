@@ -8,7 +8,7 @@
 8	to	_	PART	TO	_	9	mark	_	_
 9	get	_	VERB	VB	_	7	xcomp	_	_
 10	foreign	_	ADJ	JJ	_	12	amod	_	_
-11	@placeholder	_	NOUN	NN	_	12	compound	_	_
+11	placeholder	_	NOUN	NN	_	12	compound	_	_
 12	papers	_	NOUN	NNS	_	9	dobj	_	_
 13	to	_	PART	TO	_	14	mark	_	_
 14	get	_	VERB	VB	_	7	xcomp	_	_

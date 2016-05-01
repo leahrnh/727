@@ -6,7 +6,7 @@
 6	''	_	PUNCT	''	_	0	erased	_	_
 7	change	_	NOUN	NN	_	5	dobj	_	_
 8	in	_	ADP	IN	_	12	case	_	_
-9	@placeholder	_	NOUN	NN	_	12	nmod:poss	_	_
+9	placeholder	_	NOUN	NN	_	12	nmod:poss	_	_
 10	's	_	PART	POS	_	9	case	_	_
 11	economic	_	ADJ	JJ	_	12	amod	_	_
 12	development	_	NOUN	NN	_	5	nmod	_	_

@@ -9,7 +9,7 @@
 9	to	_	PART	TO	_	10	mark	_	_
 10	print	_	VERB	VB	_	8	xcomp	_	_
 11	a	_	DET	DT	_	13	det	_	_
-12	@placeholder	_	NOUN	NN	_	13	compound	_	_
+12	placeholder	_	NOUN	NN	_	13	compound	_	_
 13	replica	_	NOUN	NN	_	10	dobj	_	_
 14	of	_	ADP	IN	_	16	case	_	_
 15	the	_	DET	DT	_	16	det	_	_

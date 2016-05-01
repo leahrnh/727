@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	13	nsubj	_	_
+1	placeholder	_	NOUN	NN	_	13	nsubj	_	_
 2	and	_	CONJ	CC	_	1	cc	_	_
 3	Entity17	_	NOUN	NNS	_	1	conj	_	_
 4	,	_	PUNCT	,	_	0	erased	_	_

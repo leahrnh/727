@@ -6,7 +6,7 @@
 6	as	_	SCONJ	IN	_	8	mark	_	_
 7	they	_	PRON	PRP	_	8	nsubj	_	_
 8	map	_	VERB	VBP	_	2	dep	_	_
-9	@placeholder	_	NOUN	NN	_	11	nmod:poss	_	_
+9	placeholder	_	NOUN	NN	_	11	nmod:poss	_	_
 10	's	_	PART	POS	_	9	case	_	_
 11	Entity11	_	NOUN	NNS	_	8	dobj	_	_
 

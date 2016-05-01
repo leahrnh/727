@@ -3,7 +3,7 @@
 3	blames	_	VERB	VBZ	_	2	acl:relcl	_	_
 4	an	_	PUNCT	,	_	0	erased	_	_
 5	''	_	PUNCT	''	_	0	erased	_	_
-6	@placeholder	_	VERB	VBP	_	0	root	_	_
+6	placeholder	_	VERB	VBP	_	0	root	_	_
 7	group	_	NOUN	NN	_	6	dobj	_	_
 8	''	_	PUNCT	''	_	0	erased	_	_
 9	;	_	PUNCT	:	_	0	erased	_	_

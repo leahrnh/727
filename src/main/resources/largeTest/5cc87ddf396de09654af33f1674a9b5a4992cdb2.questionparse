@@ -1,6 +1,6 @@
 1	Entity233	_	PROPN	NNP	_	0	root	_	_
 2	:	_	PUNCT	:	_	0	erased	_	_
-3	@placeholder	_	NOUN	NN	_	7	compound	_	_
+3	placeholder	_	NOUN	NN	_	7	compound	_	_
 4	and	_	CONJ	CC	_	3	cc	_	_
 5	other	_	ADJ	JJ	_	3	conj	_	_
 6	jihadi	_	NOUN	NN	_	7	compound	_	_

@@ -11,6 +11,6 @@
 11	according	_	VERB	VBG	_	15	case	_	_
 12	to	_	ADP	TO	_	11	mwe	_	_
 13	a	_	DET	DT	_	15	det	_	_
-14	@placeholder	_	NOUN	NN	_	15	compound	_	_
+14	placeholder	_	NOUN	NN	_	15	compound	_	_
 15	count	_	NOUN	NN	_	7	nmod	_	_
 

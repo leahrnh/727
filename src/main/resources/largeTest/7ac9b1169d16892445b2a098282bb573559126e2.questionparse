@@ -1,6 +1,6 @@
 1	the	_	DET	DT	_	3	det	_	_
 2	rev.	_	NOUN	NN	_	3	compound	_	_
-3	@placeholder	_	NOUN	NN	_	9	nsubjpass	_	_
+3	placeholder	_	NOUN	NN	_	9	nsubjpass	_	_
 4	,	_	PUNCT	,	_	0	erased	_	_
 5	88	_	NUM	CD	_	3	amod	_	_
 6	,	_	PUNCT	,	_	0	erased	_	_

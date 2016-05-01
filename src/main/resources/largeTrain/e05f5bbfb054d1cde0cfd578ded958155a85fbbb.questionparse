@@ -10,6 +10,6 @@
 10	tabs	_	NOUN	NNS	_	9	dobj	_	_
 11	on	_	SCONJ	IN	_	12	mark	_	_
 12	upcoming	_	VERB	VBG	_	9	advcl	_	_
-13	@placeholder	_	NOUN	NN	_	14	compound	_	_
+13	placeholder	_	NOUN	NN	_	14	compound	_	_
 14	election	_	NOUN	NN	_	12	dobj	_	_
 

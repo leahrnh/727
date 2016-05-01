@@ -9,7 +9,7 @@
 9	years	_	NOUN	NNS	_	6	nmod	_	_
 10	to	_	PART	TO	_	11	mark	_	_
 11	confront	_	VERB	VB	_	6	acl	_	_
-12	@placeholder	_	NOUN	NN	_	15	nmod:poss	_	_
+12	placeholder	_	NOUN	NN	_	15	nmod:poss	_	_
 13	's	_	PART	POS	_	12	case	_	_
 14	economic	_	ADJ	JJ	_	15	amod	_	_
 15	woes	_	NOUN	NNS	_	11	dobj	_	_

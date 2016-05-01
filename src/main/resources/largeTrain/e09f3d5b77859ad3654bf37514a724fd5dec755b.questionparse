@@ -3,7 +3,7 @@
 3	still	_	ADV	RB	_	4	advmod	_	_
 4	reign	_	ADJ	JJ	_	0	root	_	_
 5	in	_	ADP	IN	_	7	case	_	_
-6	@placeholder	_	NOUN	NN	_	7	compound	_	_
+6	placeholder	_	NOUN	NN	_	7	compound	_	_
 7	shantytowns	_	NOUN	NNS	_	4	nmod	_	_
 8	that	_	DET	WDT	_	11	nsubj	_	_
 9	have	_	AUX	VBP	_	11	aux	_	_

@@ -5,7 +5,7 @@
 5	years	_	NOUN	NNS	_	3	dep	_	_
 6	since	_	ADP	IN	_	10	case	_	_
 7	the	_	DET	DT	_	10	det	_	_
-8	@placeholder	_	NOUN	NN	_	10	compound	_	_
+8	placeholder	_	NOUN	NN	_	10	compound	_	_
 9	oil	_	NOUN	NN	_	10	compound	_	_
 10	spill	_	NOUN	NN	_	5	nmod	_	_
 

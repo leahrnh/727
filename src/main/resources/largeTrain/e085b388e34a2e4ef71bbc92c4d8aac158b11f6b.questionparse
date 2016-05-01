@@ -1,5 +1,5 @@
 1	former	_	ADJ	JJ	_	4	amod	_	_
-2	@placeholder	_	NOUN	NN	_	4	compound	_	_
+2	placeholder	_	NOUN	NN	_	4	compound	_	_
 3	safety	_	NOUN	NN	_	4	compound	_	_
 4	Entity9	_	NOUN	NNS	_	10	nsubj	_	_
 5	is	_	VERB	VBZ	_	10	cop	_	_

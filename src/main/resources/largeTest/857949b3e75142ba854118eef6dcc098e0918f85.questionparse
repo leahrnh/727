@@ -1,4 +1,4 @@
-1	@placeholder	_	ADV	RB	_	3	advmod	_	_
+1	placeholder	_	ADV	RB	_	3	advmod	_	_
 2	,	_	PUNCT	,	_	0	erased	_	_
 3	allied	_	VERB	VBD	_	0	root	_	_
 4	ships	_	NOUN	NNS	_	3	dobj	_	_

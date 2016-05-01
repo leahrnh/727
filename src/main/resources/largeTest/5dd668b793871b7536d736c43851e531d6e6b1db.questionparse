@@ -7,5 +7,5 @@
 7	he	_	PRON	PRP	_	8	nsubj	_	_
 8	helped	_	VERB	VBD	_	3	advcl	_	_
 9	uphold	_	VERB	VB	_	8	xcomp	_	_
-10	@placeholder	_	NOUN	NN	_	9	dobj	_	_
+10	placeholder	_	NOUN	NN	_	9	dobj	_	_
 

@@ -6,6 +6,6 @@
 6	of	_	ADP	IN	_	7	case	_	_
 7	consciousness	_	NOUN	NN	_	5	nmod	_	_
 8	on	_	ADP	IN	_	10	case	_	_
-9	@placeholder	_	NOUN	NN	_	10	compound	_	_
+9	placeholder	_	NOUN	NN	_	10	compound	_	_
 10	flight	_	NOUN	NN	_	7	nmod	_	_
 

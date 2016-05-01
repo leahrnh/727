@@ -1,5 +1,5 @@
 1	Entity3	_	ADJ	JJ	_	2	amod	_	_
-2	@placeholder	_	NOUN	NN	_	3	nsubj	_	_
+2	placeholder	_	NOUN	NN	_	3	nsubj	_	_
 3	says	_	VERB	VBZ	_	0	root	_	_
 4	it	_	PRON	PRP	_	6	nsubj	_	_
 5	is	_	AUX	VBZ	_	6	aux	_	_

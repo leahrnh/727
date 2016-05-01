@@ -13,5 +13,5 @@
 13	meat	_	NOUN	NN	_	10	nmod	_	_
 14	,	_	PUNCT	,	_	0	erased	_	_
 15	including	_	VERB	VBG	_	16	case	_	_
-16	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+16	placeholder	_	NOUN	NN	_	10	nmod	_	_
 

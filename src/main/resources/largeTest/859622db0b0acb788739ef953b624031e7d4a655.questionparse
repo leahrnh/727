@@ -4,7 +4,7 @@
 4	a	_	DET	DT	_	5	det	_	_
 5	student	_	NOUN	NN	_	2	nmod	_	_
 6	at	_	ADP	IN	_	7	case	_	_
-7	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+7	placeholder	_	NOUN	NN	_	5	nmod	_	_
 8	in	_	ADP	IN	_	11	case	_	_
 9	the	_	DET	DT	_	11	det	_	_
 10	western	_	ADJ	JJ	_	11	amod	_	_

@@ -8,7 +8,7 @@
 8	interactions	_	NOUN	NNS	_	5	conj	_	_
 9	between	_	ADP	IN	_	11	case	_	_
 10	officer	_	NOUN	NN	_	11	compound	_	_
-11	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+11	placeholder	_	NOUN	NN	_	8	nmod	_	_
 12	and	_	CONJ	CC	_	11	cc	_	_
 13	Entity6	_	NOUN	NNS	_	11	conj	_	_
 

@@ -7,7 +7,7 @@
 7	space	_	NOUN	NN	_	5	nmod	_	_
 8	has	_	AUX	VBZ	_	9	aux	_	_
 9	benefited	_	VERB	VBN	_	0	root	_	_
-10	@placeholder	_	ADJ	JJ	_	12	amod	_	_
+10	placeholder	_	ADJ	JJ	_	12	amod	_	_
 11	national	_	ADJ	JJ	_	12	amod	_	_
 12	security	_	NOUN	NN	_	9	dobj	_	_
 

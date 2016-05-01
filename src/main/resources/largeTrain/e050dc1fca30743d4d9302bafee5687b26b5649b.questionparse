@@ -5,7 +5,7 @@
 5	in	_	ADP	IN	_	6	case	_	_
 6	Entity4	_	NOUN	NNS	_	4	nmod	_	_
 7	decides	_	VERB	VBZ	_	0	root	_	_
-8	@placeholder	_	NOUN	NN	_	9	nsubj	_	_
+8	placeholder	_	NOUN	NN	_	9	nsubj	_	_
 9	has	_	VERB	VBZ	_	7	ccomp	_	_
 10	dementia	_	NOUN	NN	_	9	dobj	_	_
 

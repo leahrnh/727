@@ -10,7 +10,7 @@
 10	their	_	PRON	PRP$	_	11	nmod:poss	_	_
 11	hands	_	NOUN	NNS	_	9	dobj	_	_
 12	on	_	ADP	IN	_	16	case	_	_
-13	@placeholder	_	NOUN	NN	_	16	nmod:poss	_	_
+13	placeholder	_	NOUN	NN	_	16	nmod:poss	_	_
 14	's	_	PART	POS	_	13	case	_	_
 15	butter	_	NOUN	NN	_	16	compound	_	_
 16	cookies	_	NOUN	NNS	_	9	nmod	_	_

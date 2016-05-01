@@ -6,7 +6,7 @@
 6	eight	_	NUM	CD	_	7	nummod	_	_
 7	times	_	NOUN	NNS	_	2	dobj	_	_
 8	as	_	SCONJ	IN	_	10	mark	_	_
-9	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+9	placeholder	_	NOUN	NN	_	10	nsubj	_	_
 10	runs	_	VERB	VBZ	_	2	advcl	_	_
 11	away	_	ADP	RP	_	10	compound:prt	_	_
 12	,	_	PUNCT	,	_	0	erased	_	_

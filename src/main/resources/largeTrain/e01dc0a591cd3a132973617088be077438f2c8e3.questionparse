@@ -2,7 +2,7 @@
 2	seeing	_	VERB	VBG	_	6	advcl	_	_
 3	picture	_	NOUN	NN	_	2	dobj	_	_
 4	,	_	PUNCT	,	_	0	erased	_	_
-5	@placeholder	_	NOUN	NN	_	6	nsubj	_	_
+5	placeholder	_	NOUN	NN	_	6	nsubj	_	_
 6	says	_	VERB	VBZ	_	0	root	_	_
 7	he	_	PRON	PRP	_	8	nsubj	_	_
 8	wanted	_	VERB	VBD	_	6	ccomp	_	_

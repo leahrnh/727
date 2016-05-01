@@ -3,5 +3,5 @@
 3	Entity1	_	NOUN	NNS	_	4	nsubj	_	_
 4	faces	_	VERB	VBZ	_	0	root	_	_
 5	democrat	_	ADJ	JJ	_	6	amod	_	_
-6	@placeholder	_	NOUN	NN	_	4	dobj	_	_
+6	placeholder	_	NOUN	NN	_	4	dobj	_	_
 

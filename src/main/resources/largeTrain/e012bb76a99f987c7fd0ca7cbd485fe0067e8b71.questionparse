@@ -11,7 +11,7 @@
 11	from	_	ADP	IN	_	14	case	_	_
 12	Entity4	_	PROPN	NNP	_	14	nmod:poss	_	_
 13	's	_	PART	POS	_	12	case	_	_
-14	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+14	placeholder	_	NOUN	NN	_	10	nmod	_	_
 15	,	_	PUNCT	,	_	0	erased	_	_
 16	Entity143	_	NOUN	NNS	_	14	appos	_	_
 17	adds	_	VERB	VBZ	_	16	dep	_	_

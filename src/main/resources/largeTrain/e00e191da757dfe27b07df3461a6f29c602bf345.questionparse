@@ -2,7 +2,7 @@
 2	2014	_	PROPN	NNP	_	3	nsubj	_	_
 3	went	_	VERB	VBD	_	0	root	_	_
 4	to	_	ADP	TO	_	5	case	_	_
-5	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+5	placeholder	_	NOUN	NN	_	3	nmod	_	_
 6	,	_	PUNCT	,	_	0	erased	_	_
 7	Entity8	_	NOUN	NNS	_	5	appos	_	_
 8	,	_	PUNCT	,	_	0	erased	_	_

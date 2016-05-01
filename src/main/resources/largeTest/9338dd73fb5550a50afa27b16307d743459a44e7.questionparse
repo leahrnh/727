@@ -22,5 +22,5 @@
 22	,	_	PUNCT	,	_	0	erased	_	_
 23	''	_	PUNCT	''	_	0	erased	_	_
 24	says	_	VERB	VBZ	_	16	ccomp	_	_
-25	@placeholder	_	NOUN	NN	_	24	dobj	_	_
+25	placeholder	_	NOUN	NN	_	24	dobj	_	_
 

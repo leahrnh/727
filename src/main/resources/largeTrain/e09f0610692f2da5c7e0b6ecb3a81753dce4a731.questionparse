@@ -12,6 +12,6 @@
 12	their	_	PRON	PRP$	_	13	nmod:poss	_	_
 13	rights	_	NOUN	NNS	_	11	dobj	_	_
 14	,	_	PUNCT	,	_	0	erased	_	_
-15	@placeholder	_	NOUN	NN	_	16	nsubj	_	_
+15	placeholder	_	NOUN	NN	_	16	nsubj	_	_
 16	says	_	VERB	VBZ	_	0	root	_	_
 

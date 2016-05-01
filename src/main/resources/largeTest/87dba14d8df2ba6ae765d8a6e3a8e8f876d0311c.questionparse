@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+1	placeholder	_	NOUN	NN	_	2	compound	_	_
 2	marks	_	NOUN	NNS	_	0	root	_	_
 3	21	_	NUM	CD	_	4	nummod	_	_
 4	years	_	NOUN	NNS	_	2	dep	_	_

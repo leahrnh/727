@@ -12,5 +12,5 @@
 12	trades	_	NOUN	NNS	_	8	nmod	_	_
 13	which	_	DET	WDT	_	14	nsubj	_	_
 14	collapsed	_	VERB	VBD	_	12	acl:relcl	_	_
-15	@placeholder	_	NOUN	NN	_	14	dobj	_	_
+15	placeholder	_	NOUN	NN	_	14	dobj	_	_
 

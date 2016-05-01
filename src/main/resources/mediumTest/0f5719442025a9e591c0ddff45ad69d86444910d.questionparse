@@ -11,5 +11,5 @@
 11	at	_	ADP	IN	_	14	case	_	_
 12	a	_	DET	DT	_	14	det	_	_
 13	Entity211	_	ADJ	JJ	_	14	amod	_	_
-14	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+14	placeholder	_	NOUN	NN	_	10	nmod	_	_
 

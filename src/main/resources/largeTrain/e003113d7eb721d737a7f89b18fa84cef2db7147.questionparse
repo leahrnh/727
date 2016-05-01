@@ -6,7 +6,7 @@
 6	,	_	PUNCT	,	_	0	erased	_	_
 7	and	_	CONJ	CC	_	5	cc	_	_
 8	rep.	_	NOUN	NN	_	9	compound	_	_
-9	@placeholder	_	NOUN	NN	_	5	conj	_	_
+9	placeholder	_	NOUN	NN	_	5	conj	_	_
 10	also	_	ADV	RB	_	11	advmod	_	_
 11	endorse	_	VERB	VBP	_	0	root	_	_
 12	Entity3	_	NOUN	NNS	_	11	dobj	_	_

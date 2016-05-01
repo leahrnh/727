@@ -12,5 +12,5 @@
 12	Entity7	_	NOUN	NNS	_	10	appos	_	_
 13	,	_	PUNCT	,	_	0	erased	_	_
 14	to	_	ADP	TO	_	15	case	_	_
-15	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+15	placeholder	_	NOUN	NN	_	6	nmod	_	_
 

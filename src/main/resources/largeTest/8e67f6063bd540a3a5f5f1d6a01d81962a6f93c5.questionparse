@@ -11,5 +11,5 @@
 11	academic	_	ADJ	JJ	_	12	amod	_	_
 12	fraud	_	NOUN	NN	_	8	nmod	_	_
 13	at	_	ADP	IN	_	14	case	_	_
-14	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+14	placeholder	_	NOUN	NN	_	6	nmod	_	_
 

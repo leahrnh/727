@@ -1,7 +1,7 @@
 1	Entity169	_	PROPN	NNP	_	2	nsubj	_	_
 2	calls	_	VERB	VBZ	_	0	root	_	_
 3	for	_	ADP	IN	_	4	case	_	_
-4	@placeholder	_	NOUN	NN	_	2	nmod	_	_
+4	placeholder	_	NOUN	NN	_	2	nmod	_	_
 5	,	_	PUNCT	,	_	0	erased	_	_
 6	Entity1	_	ADJ	JJ	_	7	amod	_	_
 7	leaders	_	NOUN	NNS	_	2	dobj	_	_

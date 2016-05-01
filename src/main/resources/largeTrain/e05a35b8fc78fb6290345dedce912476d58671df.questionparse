@@ -9,5 +9,5 @@
 9	n't	_	PART	RB	_	10	neg	_	_
 10	criticize	_	VERB	VB	_	6	ccomp	_	_
 11	president	_	NOUN	NN	_	12	compound	_	_
-12	@placeholder	_	NOUN	NN	_	10	dobj	_	_
+12	placeholder	_	NOUN	NN	_	10	dobj	_	_
 

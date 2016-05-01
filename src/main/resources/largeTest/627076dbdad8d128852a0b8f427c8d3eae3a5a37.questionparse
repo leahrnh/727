@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+1	placeholder	_	NOUN	NN	_	2	nsubj	_	_
 2	died	_	VERB	VBD	_	0	root	_	_
 3	tuesday	_	PROPN	NNP	_	4	compound	_	_
 4	morning	_	NOUN	NN	_	2	nmod:tmod	_	_

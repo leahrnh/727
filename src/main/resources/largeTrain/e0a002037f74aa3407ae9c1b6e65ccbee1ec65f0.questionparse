@@ -1,6 +1,6 @@
 1	he	_	PRON	PRP	_	2	nsubj	_	_
 2	slams	_	VERB	VBZ	_	0	root	_	_
-3	@placeholder	_	NOUN	NN	_	6	compound	_	_
+3	placeholder	_	NOUN	NN	_	6	compound	_	_
 4	and	_	CONJ	CC	_	3	cc	_	_
 5	Entity19	_	NOUN	NNS	_	3	conj	_	_
 6	travel	_	NOUN	NN	_	2	dobj	_	_

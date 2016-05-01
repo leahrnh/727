@@ -14,5 +14,5 @@
 14	jails	_	NOUN	NNS	_	1	dep	_	_
 15	in	_	ADP	IN	_	17	case	_	_
 16	the	_	DET	DT	_	17	det	_	_
-17	@placeholder	_	NOUN	NN	_	14	nmod	_	_
+17	placeholder	_	NOUN	NN	_	14	nmod	_	_
 

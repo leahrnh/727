@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	0	root	_	_
+1	placeholder	_	NOUN	NN	_	0	root	_	_
 2	unveils	_	PUNCT	:	_	0	erased	_	_
 3	entry	_	NOUN	NN	_	1	dep	_	_
 4	into	_	ADP	IN	_	6	case	_	_

@@ -9,7 +9,7 @@
 9	threat	_	NOUN	NN	_	2	ccomp	_	_
 10	to	_	ADP	TO	_	12	case	_	_
 11	the	_	DET	DT	_	12	det	_	_
-12	@placeholder	_	NOUN	NN	_	9	nmod	_	_
+12	placeholder	_	NOUN	NN	_	9	nmod	_	_
 13	or	_	CONJ	CC	_	12	cc	_	_
 14	other	_	ADJ	JJ	_	15	amod	_	_
 15	nations	_	NOUN	NNS	_	12	conj	_	_

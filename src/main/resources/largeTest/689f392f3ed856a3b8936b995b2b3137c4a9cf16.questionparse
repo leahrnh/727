@@ -9,7 +9,7 @@
 9	Entity14	_	NOUN	NNS	_	1	ccomp	_	_
 10	,	_	PUNCT	,	_	0	erased	_	_
 11	the	_	DET	DT	_	14	det	_	_
-12	@placeholder	_	NOUN	NN	_	14	compound	_	_
+12	placeholder	_	NOUN	NN	_	14	compound	_	_
 13	refugee	_	NOUN	NN	_	14	compound	_	_
 14	camp	_	NOUN	NN	_	18	nsubj	_	_
 15	is	_	VERB	VBZ	_	18	cop	_	_

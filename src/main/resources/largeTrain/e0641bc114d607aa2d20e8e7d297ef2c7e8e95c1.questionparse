@@ -6,6 +6,6 @@
 6	Entity2	_	ADJ	JJ	_	7	amod	_	_
 7	warplanes	_	NOUN	NNS	_	5	dobj	_	_
 8	entered	_	VERB	VBN	_	7	acl	_	_
-9	@placeholder	_	NOUN	NN	_	10	compound	_	_
+9	placeholder	_	NOUN	NN	_	10	compound	_	_
 10	airspace	_	NOUN	NN	_	8	dobj	_	_
 

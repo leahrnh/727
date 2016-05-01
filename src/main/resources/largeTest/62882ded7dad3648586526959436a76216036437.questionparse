@@ -16,7 +16,7 @@
 16	deputy	_	NOUN	NN	_	9	xcomp	_	_
 17	,	_	PUNCT	,	_	0	erased	_	_
 18	''	_	PUNCT	''	_	0	erased	_	_
-19	@placeholder	_	NOUN	NN	_	21	nmod:poss	_	_
+19	placeholder	_	NOUN	NN	_	21	nmod:poss	_	_
 20	'	_	PART	POS	_	19	case	_	_
 21	lawyer	_	NOUN	NN	_	22	nsubj	_	_
 22	says	_	VERB	VBZ	_	16	acl:relcl	_	_

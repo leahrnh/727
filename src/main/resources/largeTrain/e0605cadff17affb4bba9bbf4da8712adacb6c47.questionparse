@@ -4,7 +4,7 @@
 4	say	_	VERB	VBP	_	0	root	_	_
 5	Entity2	_	NOUN	NNS	_	8	nsubj	_	_
 6	and	_	CONJ	CC	_	5	cc	_	_
-7	@placeholder	_	NOUN	NN	_	5	conj	_	_
+7	placeholder	_	NOUN	NN	_	5	conj	_	_
 8	reflect	_	VERB	VBP	_	4	ccomp	_	_
 9	a	_	DET	DT	_	11	det	_	_
 10	hubristic	_	ADJ	JJ	_	11	amod	_	_

@@ -4,7 +4,7 @@
 4	man	_	NOUN	NN	_	2	dep	_	_
 5	paean	_	VERB	VBN	_	4	acl	_	_
 6	''	_	PUNCT	''	_	0	erased	_	_
-7	@placeholder	_	ADJ	JJ	_	9	amod	_	_
+7	placeholder	_	ADJ	JJ	_	9	amod	_	_
 8	''	_	PUNCT	''	_	0	erased	_	_
 9	recalls	_	NOUN	NNS	_	5	dobj	_	_
 10	''	_	PUNCT	''	_	0	erased	_	_

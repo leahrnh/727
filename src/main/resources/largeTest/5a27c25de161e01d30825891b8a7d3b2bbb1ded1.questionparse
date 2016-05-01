@@ -8,6 +8,6 @@
 8	with	_	ADP	IN	_	9	case	_	_
 9	rebels	_	NOUN	NNS	_	5	nmod	_	_
 10	,	_	PUNCT	,	_	0	erased	_	_
-11	@placeholder	_	NOUN	NN	_	12	compound	_	_
+11	placeholder	_	NOUN	NN	_	12	compound	_	_
 12	reports	_	NOUN	NNS	_	9	appos	_	_
 

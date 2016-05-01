@@ -2,7 +2,7 @@
 2	's	_	PART	POS	_	1	case	_	_
 3	Entity6	_	NOUN	NN	_	6	nsubj	_	_
 4	and	_	CONJ	CC	_	3	cc	_	_
-5	@placeholder	_	NOUN	NN	_	3	conj	_	_
+5	placeholder	_	NOUN	NN	_	3	conj	_	_
 6	paused	_	VERB	VBD	_	0	root	_	_
 7	to	_	PART	TO	_	8	mark	_	_
 8	capture	_	VERB	VB	_	6	xcomp	_	_

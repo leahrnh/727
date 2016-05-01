@@ -10,5 +10,5 @@
 10	to	_	ADP	TO	_	11	case	_	_
 11	Entity16	_	NOUN	NNS	_	3	nmod	_	_
 12	and	_	CONJ	CC	_	11	cc	_	_
-13	@placeholder	_	NOUN	NN	_	11	conj	_	_
+13	placeholder	_	NOUN	NN	_	11	conj	_	_
 

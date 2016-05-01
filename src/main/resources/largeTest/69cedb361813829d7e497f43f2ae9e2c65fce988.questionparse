@@ -4,7 +4,7 @@
 4	most	_	ADJ	JJS	_	5	amod	_	_
 5	multimillionaires	_	NOUN	NNS	_	2	nmod	_	_
 6	in	_	ADP	IN	_	7	case	_	_
-7	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+7	placeholder	_	NOUN	NN	_	5	nmod	_	_
 8	is	_	VERB	VBZ	_	0	root	_	_
 9	Entity36	_	NOUN	NNS	_	8	nsubj	_	_
 

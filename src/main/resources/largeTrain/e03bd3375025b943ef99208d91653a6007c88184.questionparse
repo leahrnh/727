@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	4	nmod:poss	_	_
+1	placeholder	_	NOUN	NN	_	4	nmod:poss	_	_
 2	's	_	PART	POS	_	1	case	_	_
 3	68th	_	ADJ	JJ	_	4	amod	_	_
 4	birthday	_	NOUN	NN	_	7	nsubj	_	_

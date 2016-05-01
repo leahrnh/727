@@ -2,7 +2,7 @@
 2	was	_	AUX	VBD	_	3	auxpass	_	_
 3	sacked	_	VERB	VBN	_	0	root	_	_
 4	after	_	ADP	IN	_	7	case	_	_
-5	@placeholder	_	NOUN	NN	_	7	compound	_	_
+5	placeholder	_	NOUN	NN	_	7	compound	_	_
 6	quarterfinal	_	ADJ	JJ	_	7	amod	_	_
 7	exit	_	NOUN	NN	_	3	nmod	_	_
 8	to	_	ADP	TO	_	10	case	_	_

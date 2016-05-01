@@ -6,5 +6,5 @@
 6	avalanches	_	NOUN	NNS	_	7	nsubj	_	_
 7	reported	_	VERB	VBD	_	2	parataxis	_	_
 8	on	_	ADP	IN	_	9	case	_	_
-9	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+9	placeholder	_	NOUN	NN	_	7	nmod	_	_
 

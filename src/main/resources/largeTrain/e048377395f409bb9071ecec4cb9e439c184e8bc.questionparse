@@ -1,7 +1,7 @@
 1	Entity215	_	VERB	VB	_	0	root	_	_
 2	claim	_	NOUN	NN	_	4	compound	_	_
 3	''	_	PUNCT	''	_	0	erased	_	_
-4	@placeholder	_	NOUN	NN	_	1	dobj	_	_
+4	placeholder	_	NOUN	NN	_	1	dobj	_	_
 5	''	_	PUNCT	''	_	0	erased	_	_
 6	subject	_	NOUN	NN	_	7	compound	_	_
 7	amounts	_	NOUN	NNS	_	10	nsubj	_	_

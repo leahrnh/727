@@ -9,7 +9,7 @@
 9	for	_	ADP	IN	_	10	case	_	_
 10	many	_	ADJ	JJ	_	8	nmod	_	_
 11	of	_	ADP	IN	_	14	case	_	_
-12	@placeholder	_	NOUN	NN	_	14	nmod:poss	_	_
+12	placeholder	_	NOUN	NN	_	14	nmod:poss	_	_
 13	's	_	PART	POS	_	12	case	_	_
 14	problems	_	NOUN	NNS	_	10	nmod	_	_
 

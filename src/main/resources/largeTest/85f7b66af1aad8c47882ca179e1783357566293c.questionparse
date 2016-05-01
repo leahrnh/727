@@ -14,5 +14,5 @@
 14	Entity3	_	VERB	VBG	_	11	xcomp	_	_
 15	''	_	PUNCT	''	_	0	erased	_	_
 16	character	_	NOUN	NN	_	17	compound	_	_
-17	@placeholder	_	NOUN	NN	_	14	dobj	_	_
+17	placeholder	_	NOUN	NN	_	14	dobj	_	_
 

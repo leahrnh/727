@@ -6,7 +6,7 @@
 6	Entity7	_	NOUN	NNS	_	3	nmod	_	_
 7	,	_	PUNCT	,	_	0	erased	_	_
 8	president	_	NOUN	NN	_	9	compound	_	_
-9	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+9	placeholder	_	NOUN	NN	_	10	nsubj	_	_
 10	says	_	VERB	VBZ	_	0	root	_	_
 11	he	_	PRON	PRP	_	12	nsubj	_	_
 12	understands	_	VERB	VBZ	_	10	ccomp	_	_

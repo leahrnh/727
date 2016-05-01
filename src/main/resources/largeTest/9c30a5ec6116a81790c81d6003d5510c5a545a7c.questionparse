@@ -10,7 +10,7 @@
 10	killed	_	VERB	VBN	_	2	ccomp	_	_
 11	in	_	ADP	IN	_	15	case	_	_
 12	a	_	DET	DT	_	15	det	_	_
-13	@placeholder	_	NOUN	NN	_	15	compound	_	_
+13	placeholder	_	NOUN	NN	_	15	compound	_	_
 14	drone	_	NOUN	NN	_	15	compound	_	_
 15	strike	_	NOUN	NN	_	10	nmod	_	_
 

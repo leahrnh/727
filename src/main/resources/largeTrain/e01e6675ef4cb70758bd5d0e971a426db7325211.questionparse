@@ -6,7 +6,7 @@
 6	,	_	PUNCT	,	_	0	erased	_	_
 7	''	_	PUNCT	''	_	0	erased	_	_
 8	the	_	DET	DT	_	9	det	_	_
-9	@placeholder	_	NOUN	NN	_	13	nsubj	_	_
+9	placeholder	_	NOUN	NN	_	13	nsubj	_	_
 10	-	_	NUM	CD	_	11	nummod	_	_
 11	born	_	NOUN	NNS	_	12	nmod:npmod	_	_
 12	teenager	_	ADV	RB	_	13	advmod	_	_

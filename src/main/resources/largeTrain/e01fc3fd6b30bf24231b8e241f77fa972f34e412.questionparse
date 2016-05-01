@@ -5,7 +5,7 @@
 5	raids	_	NOUN	NNS	_	3	nmod	_	_
 6	traced	_	VERB	VBN	_	5	acl	_	_
 7	to	_	ADP	TO	_	8	case	_	_
-8	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+8	placeholder	_	NOUN	NN	_	6	nmod	_	_
 9	;	_	PUNCT	:	_	0	erased	_	_
 10	2,000	_	NUM	CD	_	11	nsubj	_	_
 11	cross	_	VERB	VBP	_	17	ccomp	_	_

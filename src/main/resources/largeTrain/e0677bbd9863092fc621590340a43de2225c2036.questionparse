@@ -10,6 +10,6 @@
 10	year	_	NOUN	NN	_	13	compound	_	_
 11	's	_	NOUN	NNS	_	13	compound	_	_
 12	''	_	PUNCT	''	_	0	erased	_	_
-13	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+13	placeholder	_	NOUN	NN	_	7	nmod	_	_
 14	''	_	PUNCT	''	_	0	erased	_	_
 

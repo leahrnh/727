@@ -3,7 +3,7 @@
 3	year	_	NOUN	NN	_	8	nsubj	_	_
 4	-	_	PUNCT	:	_	0	erased	_	_
 5	old	_	ADJ	JJ	_	7	amod	_	_
-6	@placeholder	_	NOUN	NN	_	7	compound	_	_
+6	placeholder	_	NOUN	NN	_	7	compound	_	_
 7	dancer	_	NOUN	NN	_	3	dep	_	_
 8	makes	_	VERB	VBZ	_	1	parataxis	_	_
 9	$	_	SYM	$	_	10	dep	_	_

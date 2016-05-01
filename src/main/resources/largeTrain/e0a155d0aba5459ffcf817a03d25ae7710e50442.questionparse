@@ -4,7 +4,7 @@
 4	ties	_	NOUN	NNS	_	3	dobj	_	_
 5	,	_	PUNCT	,	_	0	erased	_	_
 6	from	_	ADP	IN	_	7	case	_	_
-7	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+7	placeholder	_	NOUN	NN	_	3	nmod	_	_
 8	ceo	_	VERB	VBN	_	7	acl	_	_
 9	on	_	ADP	IN	_	10	case	_	_
 10	down	_	ADV	RB	_	8	advcl	_	_

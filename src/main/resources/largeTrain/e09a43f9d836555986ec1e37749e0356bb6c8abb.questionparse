@@ -6,7 +6,7 @@
 6	banking	_	NOUN	NN	_	7	compound	_	_
 7	ties	_	NOUN	NNS	_	4	dobj	_	_
 8	to	_	PART	TO	_	9	mark	_	_
-9	@placeholder	_	VERB	VB	_	4	xcomp	_	_
+9	placeholder	_	VERB	VB	_	4	xcomp	_	_
 10	by	_	ADP	IN	_	11	case	_	_
 11	monday	_	PROPN	NNP	_	9	nmod	_	_
 12	afternoon	_	NOUN	NN	_	9	dobj	_	_

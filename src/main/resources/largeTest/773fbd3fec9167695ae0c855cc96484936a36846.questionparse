@@ -10,7 +10,7 @@
 10	of	_	SCONJ	IN	_	11	mark	_	_
 11	killing	_	VERB	VBG	_	9	advcl	_	_
 12	two	_	NUM	CD	_	15	nummod	_	_
-13	@placeholder	_	ADJ	JJ	_	15	amod	_	_
+13	placeholder	_	ADJ	JJ	_	15	amod	_	_
 14	domestic	_	ADJ	JJ	_	15	amod	_	_
 15	workers	_	NOUN	NNS	_	11	dobj	_	_
 

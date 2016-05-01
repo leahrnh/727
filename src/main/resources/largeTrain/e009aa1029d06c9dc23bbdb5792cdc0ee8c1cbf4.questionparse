@@ -7,7 +7,7 @@
 7	year	_	NOUN	NN	_	2	dep	_	_
 8	-	_	PUNCT	:	_	0	erased	_	_
 9	old	_	ADJ	JJ	_	10	amod	_	_
-10	@placeholder	_	NOUN	NN	_	13	nsubjpass	_	_
+10	placeholder	_	NOUN	NN	_	13	nsubjpass	_	_
 11	was	_	AUX	VBD	_	13	auxpass	_	_
 12	severely	_	ADV	RB	_	13	advmod	_	_
 13	injured	_	VERB	VBN	_	0	root	_	_

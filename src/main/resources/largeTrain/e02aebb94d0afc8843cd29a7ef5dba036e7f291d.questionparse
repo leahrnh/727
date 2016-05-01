@@ -4,7 +4,7 @@
 4	was	_	VERB	VBD	_	7	cop	_	_
 5	the	_	DET	DT	_	7	det	_	_
 6	last	_	ADJ	JJ	_	7	amod	_	_
-7	@placeholder	_	NOUN	NN	_	1	parataxis	_	_
+7	placeholder	_	NOUN	NN	_	1	parataxis	_	_
 8	to	_	PART	TO	_	9	mark	_	_
 9	deliver	_	VERB	VB	_	7	acl	_	_
 10	a	_	DET	DT	_	12	det	_	_

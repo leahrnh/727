@@ -7,7 +7,7 @@
 7	Entity12	_	NOUN	NNS	_	5	nmod	_	_
 8	,	_	PUNCT	,	_	0	erased	_	_
 9	but	_	CONJ	CC	_	5	cc	_	_
-10	@placeholder	_	NOUN	NN	_	14	nsubj	_	_
+10	placeholder	_	NOUN	NN	_	14	nsubj	_	_
 11	likely	_	ADV	RB	_	14	advmod	_	_
 12	wo	_	AUX	MD	_	14	aux	_	_
 13	n't	_	PART	RB	_	14	neg	_	_

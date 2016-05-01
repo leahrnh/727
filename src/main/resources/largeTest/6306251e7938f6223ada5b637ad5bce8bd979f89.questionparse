@@ -13,7 +13,7 @@
 13	this	_	DET	DT	_	14	det	_	_
 14	one	_	NOUN	NN	_	15	nsubj	_	_
 15	gives	_	VERB	VBZ	_	6	conj	_	_
-16	@placeholder	_	NOUN	NN	_	15	dobj	_	_
+16	placeholder	_	NOUN	NN	_	15	dobj	_	_
 17	too	_	ADV	RB	_	18	advmod	_	_
 18	much	_	ADV	RB	_	15	advmod	_	_
 

@@ -6,7 +6,7 @@
 6	joint	_	ADJ	JJ	_	7	amod	_	_
 7	Entity4	_	NOUN	NNS	_	4	dobj	_	_
 8	-	_	PUNCT	:	_	0	erased	_	_
-9	@placeholder	_	ADJ	JJ	_	11	amod	_	_
+9	placeholder	_	ADJ	JJ	_	11	amod	_	_
 10	military	_	ADJ	JJ	_	11	amod	_	_
 11	drills	_	NOUN	NNS	_	7	dep	_	_
 

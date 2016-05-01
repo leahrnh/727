@@ -5,7 +5,7 @@
 5	end	_	NOUN	NN	_	3	dobj	_	_
 6	of	_	ADP	IN	_	9	case	_	_
 7	the	_	DET	DT	_	9	det	_	_
-8	@placeholder	_	NOUN	NN	_	9	compound	_	_
+8	placeholder	_	NOUN	NN	_	9	compound	_	_
 9	administration	_	NOUN	NN	_	5	nmod	_	_
 10	and	_	CONJ	CC	_	5	cc	_	_
 11	the	_	DET	DT	_	12	det	_	_

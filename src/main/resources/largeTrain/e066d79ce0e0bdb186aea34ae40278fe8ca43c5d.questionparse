@@ -1,4 +1,4 @@
-1	@placeholder	_	VERB	VBG	_	0	root	_	_
+1	placeholder	_	VERB	VBG	_	0	root	_	_
 2	:	_	PUNCT	:	_	0	erased	_	_
 3	'	_	PUNCT	``	_	0	erased	_	_
 4	our	_	PRON	PRP$	_	5	nmod:poss	_	_

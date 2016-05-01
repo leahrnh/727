@@ -8,7 +8,7 @@
 8	made	_	VERB	VBD	_	4	dep	_	_
 9	debut	_	NOUN	NN	_	8	dobj	_	_
 10	against	_	ADP	IN	_	11	case	_	_
-11	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+11	placeholder	_	NOUN	NN	_	8	nmod	_	_
 12	at	_	ADP	IN	_	13	case	_	_
 13	Entity77	_	NOUN	NNS	_	8	nmod	_	_
 14	in	_	ADP	IN	_	15	case	_	_

@@ -2,7 +2,7 @@
 2	gov.	_	NOUN	NN	_	3	compound	_	_
 3	Entity137	_	NOUN	NNS	_	8	nsubj	_	_
 4	and	_	CONJ	CC	_	3	cc	_	_
-5	@placeholder	_	NOUN	NN	_	7	compound	_	_
+5	placeholder	_	NOUN	NN	_	7	compound	_	_
 6	sen.	_	NOUN	NN	_	7	compound	_	_
 7	Entity174	_	NOUN	NNS	_	3	conj	_	_
 8	mentioned	_	VERB	VBN	_	0	root	_	_

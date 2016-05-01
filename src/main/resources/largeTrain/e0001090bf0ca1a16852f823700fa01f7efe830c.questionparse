@@ -1,6 +1,6 @@
 1	new	_	ADJ	JJ	_	0	root	_	_
 2	:	_	PUNCT	:	_	0	erased	_	_
-3	@placeholder	_	NOUN	NN	_	1	dep	_	_
+3	placeholder	_	NOUN	NN	_	1	dep	_	_
 4	emphasized	_	VERB	VBN	_	3	acl	_	_
 5	Entity10	_	PROPN	NNP	_	7	dep	_	_
 6	's	_	PART	POS	_	5	case	_	_

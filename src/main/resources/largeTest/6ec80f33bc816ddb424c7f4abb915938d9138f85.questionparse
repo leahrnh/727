@@ -8,7 +8,7 @@
 8	size	_	VERB	VBP	_	3	ccomp	_	_
 9	up	_	ADP	RP	_	8	compound:prt	_	_
 10	against	_	ADP	IN	_	15	case	_	_
-11	@placeholder	_	NOUN	NN	_	15	nmod:poss	_	_
+11	placeholder	_	NOUN	NN	_	15	nmod:poss	_	_
 12	's	_	PART	POS	_	11	case	_	_
 13	raw	_	ADJ	JJ	_	15	amod	_	_
 14	economic	_	ADJ	JJ	_	15	amod	_	_

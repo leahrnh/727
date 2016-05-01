@@ -3,7 +3,7 @@
 3	worries	_	VERB	VBZ	_	0	root	_	_
 4	that	_	SCONJ	IN	_	13	mark	_	_
 5	if	_	SCONJ	IN	_	7	mark	_	_
-6	@placeholder	_	NOUN	NN	_	7	nsubj	_	_
+6	placeholder	_	NOUN	NN	_	7	nsubj	_	_
 7	becomes	_	VERB	VBZ	_	13	advcl	_	_
 8	president	_	NOUN	NN	_	7	xcomp	_	_
 9	,	_	PUNCT	,	_	0	erased	_	_

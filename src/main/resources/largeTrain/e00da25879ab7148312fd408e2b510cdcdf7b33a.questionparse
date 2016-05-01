@@ -6,7 +6,7 @@
 6	suggested	_	VERB	VBD	_	4	ccomp	_	_
 7	autopsy	_	ADV	RB	_	6	advmod	_	_
 8	but	_	CONJ	CC	_	12	cc	_	_
-9	@placeholder	_	NOUN	NN	_	11	nmod:poss	_	_
+9	placeholder	_	NOUN	NN	_	11	nmod:poss	_	_
 10	's	_	PART	POS	_	9	case	_	_
 11	widower	_	NOUN	NN	_	12	nsubj	_	_
 12	objected	_	VERB	VBD	_	6	ccomp	_	_

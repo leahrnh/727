@@ -9,5 +9,5 @@
 9	for	_	ADP	IN	_	12	case	_	_
 10	Entity22	_	ADJ	JJ	_	12	amod	_	_
 11	club	_	NOUN	NN	_	12	compound	_	_
-12	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+12	placeholder	_	NOUN	NN	_	8	nmod	_	_
 

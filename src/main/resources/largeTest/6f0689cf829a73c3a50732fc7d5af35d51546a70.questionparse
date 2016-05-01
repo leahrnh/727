@@ -8,7 +8,7 @@
 8	do	_	VERB	VB	_	15	advcl	_	_
 9	,	_	PUNCT	,	_	0	erased	_	_
 10	''	_	PUNCT	''	_	0	erased	_	_
-11	@placeholder	_	NOUN	NN	_	14	nmod:poss	_	_
+11	placeholder	_	NOUN	NN	_	14	nmod:poss	_	_
 12	's	_	PART	POS	_	11	case	_	_
 13	foreign	_	ADJ	JJ	_	14	amod	_	_
 14	minister	_	NOUN	NN	_	15	nsubj	_	_

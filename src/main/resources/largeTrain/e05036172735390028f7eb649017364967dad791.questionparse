@@ -1,4 +1,4 @@
-1	@placeholder	_	VERB	VB	_	0	root	_	_
+1	placeholder	_	VERB	VB	_	0	root	_	_
 2	expresses	_	VERB	VBG	_	1	xcomp	_	_
 3	''	_	PUNCT	''	_	0	erased	_	_
 4	serious	_	ADJ	JJ	_	5	amod	_	_

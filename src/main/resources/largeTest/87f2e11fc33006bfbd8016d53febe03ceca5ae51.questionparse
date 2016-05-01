@@ -10,5 +10,5 @@
 10	get	_	VERB	VB	_	6	advcl	_	_
 11	them	_	PRON	PRP	_	10	dobj	_	_
 12	to	_	PART	TO	_	13	mark	_	_
-13	@placeholder	_	VERB	VB	_	10	xcomp	_	_
+13	placeholder	_	VERB	VB	_	10	xcomp	_	_
 

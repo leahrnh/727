@@ -13,5 +13,5 @@
 13	,	_	PUNCT	,	_	0	erased	_	_
 14	according	_	VERB	VBG	_	16	case	_	_
 15	to	_	ADP	TO	_	14	mwe	_	_
-16	@placeholder	_	NOUN	NN	_	9	nmod	_	_
+16	placeholder	_	NOUN	NN	_	9	nmod	_	_
 

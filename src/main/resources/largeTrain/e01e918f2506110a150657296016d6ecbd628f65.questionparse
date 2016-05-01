@@ -6,7 +6,7 @@
 6	period	_	NOUN	NN	_	10	nmod	_	_
 7	,	_	PUNCT	,	_	0	erased	_	_
 8	the	_	DET	DT	_	9	det	_	_
-9	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+9	placeholder	_	NOUN	NN	_	10	nsubj	_	_
 10	opened	_	VERB	VBD	_	0	root	_	_
 11	184	_	NUM	CD	_	13	nummod	_	_
 12	criminal	_	ADJ	JJ	_	13	amod	_	_

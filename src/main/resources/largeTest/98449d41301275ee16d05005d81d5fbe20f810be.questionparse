@@ -8,6 +8,6 @@
 8	ethical	_	ADJ	JJ	_	9	amod	_	_
 9	history	_	NOUN	NN	_	1	appos	_	_
 10	of	_	ADP	IN	_	12	case	_	_
-11	@placeholder	_	NOUN	NN	_	12	compound	_	_
+11	placeholder	_	NOUN	NN	_	12	compound	_	_
 12	charities	_	NOUN	NNS	_	9	nmod	_	_
 

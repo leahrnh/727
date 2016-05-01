@@ -5,7 +5,7 @@
 5	hiv	_	NOUN	NN	_	6	compound	_	_
 6	infections	_	NOUN	NNS	_	2	nmod	_	_
 7	in	_	ADP	IN	_	8	case	_	_
-8	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+8	placeholder	_	NOUN	NN	_	6	nmod	_	_
 9	has	_	AUX	VBZ	_	10	aux	_	_
 10	grown	_	VERB	VBN	_	0	root	_	_
 11	to	_	ADP	TO	_	13	case	_	_

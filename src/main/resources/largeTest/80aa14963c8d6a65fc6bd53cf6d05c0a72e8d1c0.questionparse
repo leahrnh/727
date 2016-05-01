@@ -1,6 +1,6 @@
 1	Entity5	_	VERB	VB	_	0	root	_	_
 2	recruiting	_	VERB	VBG	_	4	amod	_	_
-3	@placeholder	_	NOUN	NN	_	4	compound	_	_
+3	placeholder	_	NOUN	NN	_	4	compound	_	_
 4	candidates	_	NOUN	NNS	_	1	dobj	_	_
 5	for	_	ADP	IN	_	6	case	_	_
 6	2016	_	NUM	CD	_	4	nmod	_	_

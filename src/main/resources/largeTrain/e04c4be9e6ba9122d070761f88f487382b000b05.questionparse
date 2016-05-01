@@ -14,7 +14,7 @@
 14	memory	_	NOUN	NN	_	12	nmod	_	_
 15	of	_	ADP	IN	_	20	case	_	_
 16	former	_	ADJ	JJ	_	20	amod	_	_
-17	@placeholder	_	NOUN	NN	_	20	compound	_	_
+17	placeholder	_	NOUN	NN	_	20	compound	_	_
 18	chairman	_	NOUN	NN	_	20	compound	_	_
 19	sir	_	NOUN	NN	_	20	compound	_	_
 20	Entity79	_	NOUN	NNS	_	14	nmod	_	_

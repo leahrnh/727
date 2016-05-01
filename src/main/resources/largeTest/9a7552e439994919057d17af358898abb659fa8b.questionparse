@@ -6,7 +6,7 @@
 6	was	_	AUX	VBD	_	7	auxpass	_	_
 7	diagnosed	_	VERB	VBN	_	0	root	_	_
 8	with	_	ADP	IN	_	11	case	_	_
-9	@placeholder	_	NOUN	NN	_	11	nmod:poss	_	_
+9	placeholder	_	NOUN	NN	_	11	nmod:poss	_	_
 10	's	_	PART	POS	_	9	case	_	_
 11	lymphoma	_	NOUN	NN	_	7	nmod	_	_
 12	,	_	PUNCT	,	_	0	erased	_	_

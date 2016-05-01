@@ -8,5 +8,5 @@
 8	october	_	PROPN	NNP	_	7	nmod:tmod	_	_
 9	14	_	NUM	CD	_	8	nummod	_	_
 10	in	_	ADP	IN	_	11	case	_	_
-11	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+11	placeholder	_	NOUN	NN	_	7	nmod	_	_
 

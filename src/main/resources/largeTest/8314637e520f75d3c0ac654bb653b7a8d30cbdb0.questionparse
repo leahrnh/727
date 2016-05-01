@@ -11,5 +11,5 @@
 11	resolution	_	NOUN	NN	_	12	compound	_	_
 12	process	_	NOUN	NN	_	9	dobj	_	_
 13	with	_	ADP	IN	_	14	case	_	_
-14	@placeholder	_	NOUN	NN	_	9	nmod	_	_
+14	placeholder	_	NOUN	NN	_	9	nmod	_	_
 

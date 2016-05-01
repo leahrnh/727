@@ -16,6 +16,6 @@
 16	Entity88	_	NOUN	NNS	_	19	dep	_	_
 17	vice	_	NOUN	NN	_	19	compound	_	_
 18	president	_	NOUN	NN	_	19	compound	_	_
-19	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+19	placeholder	_	NOUN	NN	_	8	nmod	_	_
 20	says	_	VERB	VBZ	_	5	dep	_	_
 

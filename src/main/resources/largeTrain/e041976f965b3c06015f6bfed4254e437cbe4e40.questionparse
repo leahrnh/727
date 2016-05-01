@@ -2,7 +2,7 @@
 2	Entity309	_	NOUN	NNS	_	13	nmod	_	_
 3	to	_	PART	TO	_	5	mark	_	_
 4	''	_	PUNCT	''	_	0	erased	_	_
-5	@placeholder	_	VERB	VB	_	2	acl	_	_
+5	placeholder	_	VERB	VB	_	2	acl	_	_
 6	''	_	PUNCT	''	_	0	erased	_	_
 7	to	_	ADP	TO	_	10	case	_	_
 8	Entity131	_	PROPN	NNP	_	10	nmod:poss	_	_

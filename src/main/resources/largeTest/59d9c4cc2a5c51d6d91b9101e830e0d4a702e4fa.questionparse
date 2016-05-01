@@ -12,5 +12,5 @@
 12	a	_	DET	DT	_	13	det	_	_
 13	Entity15	_	NOUN	NNS	_	10	nmod	_	_
 14	in	_	ADP	IN	_	15	case	_	_
-15	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+15	placeholder	_	NOUN	NN	_	8	nmod	_	_
 

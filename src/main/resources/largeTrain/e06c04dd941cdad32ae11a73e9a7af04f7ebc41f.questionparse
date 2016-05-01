@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+1	placeholder	_	NOUN	NN	_	2	compound	_	_
 2	drug	_	NOUN	NN	_	3	nsubj	_	_
 3	lord	_	VERB	VBD	_	0	root	_	_
 4	Entity8	_	NOUN	NNS	_	3	dobj	_	_

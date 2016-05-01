@@ -6,7 +6,7 @@
 6	after	_	SCONJ	IN	_	11	mark	_	_
 7	blast	_	NOUN	NN	_	10	compound	_	_
 8	,	_	PUNCT	,	_	0	erased	_	_
-9	@placeholder	_	NOUN	NN	_	10	dep	_	_
+9	placeholder	_	NOUN	NN	_	10	dep	_	_
 10	spokeswoman	_	NOUN	NN	_	11	nsubj	_	_
 11	says	_	VERB	VBZ	_	5	ccomp	_	_
 

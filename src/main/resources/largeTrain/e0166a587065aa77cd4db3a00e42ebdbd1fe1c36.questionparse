@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	3	compound	_	_
+1	placeholder	_	NOUN	NN	_	3	compound	_	_
 2	secretary	_	NOUN	NN	_	3	compound	_	_
 3	general	_	NOUN	NN	_	4	nsubj	_	_
 4	attends	_	VERB	VBZ	_	0	root	_	_

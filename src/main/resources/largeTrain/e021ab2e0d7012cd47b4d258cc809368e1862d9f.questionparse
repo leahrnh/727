@@ -4,7 +4,7 @@
 4	claim	_	VERB	VBP	_	0	root	_	_
 5	she	_	PRON	PRP	_	6	nsubj	_	_
 6	opposed	_	VERB	VBD	_	4	ccomp	_	_
-7	@placeholder	_	NOUN	NN	_	10	nmod:poss	_	_
+7	placeholder	_	NOUN	NN	_	10	nmod:poss	_	_
 8	's	_	PART	POS	_	7	case	_	_
 9	''	_	PUNCT	''	_	0	erased	_	_
 10	bridge	_	NOUN	NN	_	6	dobj	_	_

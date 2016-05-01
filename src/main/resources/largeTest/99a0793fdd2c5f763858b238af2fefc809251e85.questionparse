@@ -6,7 +6,7 @@
 6	fly	_	VERB	VB	_	1	ccomp	_	_
 7	on	_	ADP	RP	_	6	compound:prt	_	_
 8	to	_	ADP	TO	_	10	case	_	_
-9	@placeholder	_	NOUN	NN	_	10	compound	_	_
+9	placeholder	_	NOUN	NN	_	10	compound	_	_
 10	grounds	_	NOUN	NNS	_	6	nmod	_	_
 11	when	_	ADV	WRB	_	16	advmod	_	_
 12	Entity8	_	NOUN	NNS	_	16	nsubj	_	_

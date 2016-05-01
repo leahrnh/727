@@ -8,5 +8,5 @@
 8	,	_	PUNCT	,	_	0	erased	_	_
 9	source	_	NOUN	NN	_	2	dobj	_	_
 10	tells	_	VERB	VBZ	_	9	acl:relcl	_	_
-11	@placeholder	_	NOUN	NN	_	10	dobj	_	_
+11	placeholder	_	NOUN	NN	_	10	dobj	_	_
 

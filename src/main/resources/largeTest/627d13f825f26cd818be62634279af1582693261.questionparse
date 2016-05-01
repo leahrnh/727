@@ -5,7 +5,7 @@
 5	with	_	ADP	IN	_	6	case	_	_
 6	symbolism	_	NOUN	NN	_	4	nmod	_	_
 7	;	_	PUNCT	:	_	0	erased	_	_
-8	@placeholder	_	NOUN	NN	_	9	nsubj	_	_
+8	placeholder	_	NOUN	NN	_	9	nsubj	_	_
 9	says	_	VERB	VBZ	_	14	ccomp	_	_
 10	lyrics	_	NOUN	NNS	_	9	dobj	_	_
 11	,	_	PUNCT	,	_	0	erased	_	_

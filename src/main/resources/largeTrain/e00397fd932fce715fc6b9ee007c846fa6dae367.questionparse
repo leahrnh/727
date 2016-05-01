@@ -5,7 +5,7 @@
 5	jail	_	NOUN	NN	_	6	compound	_	_
 6	time	_	NOUN	NN	_	4	dobj	_	_
 7	,	_	PUNCT	,	_	0	erased	_	_
-8	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+8	placeholder	_	NOUN	NN	_	10	nsubj	_	_
 9	must	_	AUX	MD	_	10	aux	_	_
 10	perform	_	VERB	VB	_	0	root	_	_
 11	community	_	NOUN	NN	_	12	compound	_	_

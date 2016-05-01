@@ -4,7 +4,7 @@
 4	a	_	DET	DT	_	5	det	_	_
 5	document	_	NOUN	NN	_	3	dobj	_	_
 6	revealing	_	VERB	VBG	_	3	advcl	_	_
-7	@placeholder	_	NOUN	NN	_	11	nmod:poss	_	_
+7	placeholder	_	NOUN	NN	_	11	nmod:poss	_	_
 8	's	_	PART	POS	_	7	case	_	_
 9	ideological	_	ADJ	JJ	_	11	amod	_	_
 10	battle	_	NOUN	NN	_	11	compound	_	_

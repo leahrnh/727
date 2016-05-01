@@ -8,6 +8,6 @@
 8	,	_	PUNCT	,	_	0	erased	_	_
 9	''	_	PUNCT	''	_	0	erased	_	_
 10	president	_	NOUN	NN	_	12	nsubj	_	_
-11	@placeholder	_	ADV	RB	_	12	advmod	_	_
+11	placeholder	_	ADV	RB	_	12	advmod	_	_
 12	insists	_	VERB	VBZ	_	0	root	_	_
 

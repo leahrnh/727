@@ -4,7 +4,7 @@
 4	captured	_	VERB	VBD	_	1	xcomp	_	_
 5	Entity3	_	NOUN	NNS	_	4	dobj	_	_
 6	shooting	_	VERB	VBG	_	4	xcomp	_	_
-7	@placeholder	_	NOUN	NN	_	6	dobj	_	_
+7	placeholder	_	NOUN	NN	_	6	dobj	_	_
 8	;	_	PUNCT	:	_	0	erased	_	_
 9	if	_	SCONJ	IN	_	13	mark	_	_
 10	cop	_	NOUN	NN	_	13	nsubj	_	_

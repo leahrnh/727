@@ -9,5 +9,5 @@
 9	100	_	NUM	CD	_	10	nummod	_	_
 10	gala	_	NOUN	NN	_	3	nmod	_	_
 11	in	_	ADP	IN	_	12	case	_	_
-12	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+12	placeholder	_	NOUN	NN	_	10	nmod	_	_
 

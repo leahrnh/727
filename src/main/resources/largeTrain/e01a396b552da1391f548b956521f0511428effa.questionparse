@@ -6,7 +6,7 @@
 6	n't	_	PART	RB	_	7	neg	_	_
 7	determine	_	VERB	VB	_	2	ccomp	_	_
 8	whether	_	SCONJ	IN	_	10	mark	_	_
-9	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+9	placeholder	_	NOUN	NN	_	10	nsubj	_	_
 10	had	_	VERB	VBD	_	7	ccomp	_	_
 11	a	_	DET	DT	_	13	det	_	_
 12	late	_	ADJ	JJ	_	13	amod	_	_

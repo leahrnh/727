@@ -7,7 +7,7 @@
 7	was	_	AUX	VBD	_	8	auxpass	_	_
 8	arrested	_	VERB	VBN	_	4	ccomp	_	_
 9	at	_	ADP	IN	_	10	case	_	_
-10	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+10	placeholder	_	NOUN	NN	_	8	nmod	_	_
 11	after	_	ADP	IN	_	12	case	_	_
 12	landing	_	NOUN	NN	_	8	nmod	_	_
 13	on	_	ADP	IN	_	15	case	_	_

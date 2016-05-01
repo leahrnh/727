@@ -1,5 +1,5 @@
 1	the	_	DET	DT	_	2	det	_	_
-2	@placeholder	_	NOUN	NN	_	3	nsubj	_	_
+2	placeholder	_	NOUN	NN	_	3	nsubj	_	_
 3	sent	_	VERB	VBD	_	0	root	_	_
 4	tweets	_	NOUN	NNS	_	3	iobj	_	_
 5	warning	_	NOUN	NN	_	3	dobj	_	_

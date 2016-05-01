@@ -7,7 +7,7 @@
 7	bitter	_	ADJ	JJ	_	8	amod	_	_
 8	peace	_	NOUN	NN	_	5	dobj	_	_
 9	with	_	ADP	IN	_	12	case	_	_
-10	@placeholder	_	NOUN	NN	_	12	nmod:poss	_	_
+10	placeholder	_	NOUN	NN	_	12	nmod:poss	_	_
 11	's	_	PART	POS	_	10	case	_	_
 12	Entity9	_	NOUN	NNS	_	5	nmod	_	_
 

@@ -1,5 +1,5 @@
 1	two	_	NUM	CD	_	4	nummod	_	_
-2	@placeholder	_	NOUN	NN	_	4	compound	_	_
+2	placeholder	_	NOUN	NN	_	4	compound	_	_
 3	drug	_	NOUN	NN	_	4	compound	_	_
 4	traffickers	_	NOUN	NNS	_	11	nsubj	_	_
 5	on	_	ADP	IN	_	7	case	_	_

@@ -3,7 +3,7 @@
 3	a	_	DET	DT	_	4	det	_	_
 4	debate	_	NOUN	NN	_	2	dobj	_	_
 5	in	_	ADP	IN	_	6	case	_	_
-6	@placeholder	_	NOUN	NN	_	4	nmod	_	_
+6	placeholder	_	NOUN	NN	_	4	nmod	_	_
 7	whether	_	SCONJ	IN	_	12	mark	_	_
 8	the	_	DET	DT	_	9	det	_	_
 9	haul	_	NOUN	NN	_	12	nsubjpass	_	_

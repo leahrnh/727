@@ -5,7 +5,7 @@
 5	n't	_	PART	RB	_	6	neg	_	_
 6	fighting	_	VERB	VBG	_	2	ccomp	_	_
 7	just	_	ADV	RB	_	8	advmod	_	_
-8	@placeholder	_	NOUN	NN	_	6	dobj	_	_
+8	placeholder	_	NOUN	NN	_	6	dobj	_	_
 9	but	_	CONJ	CC	_	11	case	_	_
 10	fighting	_	VERB	VBG	_	11	amod	_	_
 11	Entity44	_	NOUN	NNS	_	8	nmod	_	_

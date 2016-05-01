@@ -12,5 +12,5 @@
 12	Entity94	_	ADJ	JJ	_	13	amod	_	_
 13	range	_	NOUN	NN	_	4	nmod	_	_
 14	named	_	VERB	VBN	_	13	acl	_	_
-15	@placeholder	_	NOUN	NN	_	14	dobj	_	_
+15	placeholder	_	NOUN	NN	_	14	dobj	_	_
 

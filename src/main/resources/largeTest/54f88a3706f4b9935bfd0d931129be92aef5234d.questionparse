@@ -8,7 +8,7 @@
 8	killed	_	VERB	VBN	_	3	conj	_	_
 9	by	_	ADP	IN	_	13	case	_	_
 10	a	_	DET	DT	_	13	det	_	_
-11	@placeholder	_	NOUN	NN	_	13	compound	_	_
+11	placeholder	_	NOUN	NN	_	13	compound	_	_
 12	police	_	NOUN	NN	_	13	compound	_	_
 13	officer	_	NOUN	NN	_	8	nmod	_	_
 

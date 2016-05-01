@@ -8,5 +8,5 @@
 8	book	_	NOUN	NN	_	9	compound	_	_
 9	superhero	_	NOUN	NN	_	4	nmod	_	_
 10	in	_	ADP	IN	_	11	case	_	_
-11	@placeholder	_	NOUN	NN	_	9	nmod	_	_
+11	placeholder	_	NOUN	NN	_	9	nmod	_	_
 

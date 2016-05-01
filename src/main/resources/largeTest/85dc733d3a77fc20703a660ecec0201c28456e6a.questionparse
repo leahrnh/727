@@ -16,6 +16,6 @@
 16	reboot	_	NOUN	NN	_	13	nmod	_	_
 17	of	_	ADP	IN	_	19	case	_	_
 18	''	_	PUNCT	''	_	0	erased	_	_
-19	@placeholder	_	NOUN	NN	_	9	nmod	_	_
+19	placeholder	_	NOUN	NN	_	9	nmod	_	_
 20	''	_	PUNCT	''	_	0	erased	_	_
 

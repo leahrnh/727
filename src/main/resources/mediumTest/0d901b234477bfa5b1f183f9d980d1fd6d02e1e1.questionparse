@@ -8,7 +8,7 @@
 8	trending	_	ADJ	JJ	_	9	amod	_	_
 9	topics	_	NOUN	NNS	_	5	nmod	_	_
 10	for	_	ADP	IN	_	14	case	_	_
-11	@placeholder	_	NOUN	NN	_	14	nmod:poss	_	_
+11	placeholder	_	NOUN	NN	_	14	nmod:poss	_	_
 12	's	_	PART	POS	_	11	case	_	_
 13	presidential	_	ADJ	JJ	_	14	amod	_	_
 14	announcement	_	NOUN	NN	_	9	nmod	_	_

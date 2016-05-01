@@ -1,6 +1,6 @@
 1	Entity14	_	PROPN	NNP	_	0	root	_	_
 2	:	_	PUNCT	:	_	0	erased	_	_
-3	@placeholder	_	NOUN	NN	_	4	compound	_	_
+3	placeholder	_	NOUN	NN	_	4	compound	_	_
 4	leader	_	NOUN	NN	_	5	nsubj	_	_
 5	making	_	VERB	VBG	_	1	parataxis	_	_
 6	progress	_	NOUN	NN	_	5	dobj	_	_

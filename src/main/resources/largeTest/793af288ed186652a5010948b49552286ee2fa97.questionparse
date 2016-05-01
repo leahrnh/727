@@ -8,7 +8,7 @@
 8	Entity1	_	ADJ	JJ	_	9	amod	_	_
 9	shores	_	NOUN	NNS	_	6	nmod	_	_
 10	from	_	ADP	IN	_	11	case	_	_
-11	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+11	placeholder	_	NOUN	NN	_	6	nmod	_	_
 12	since	_	ADP	IN	_	14	case	_	_
 13	last	_	ADJ	JJ	_	14	amod	_	_
 14	weekend	_	NOUN	NN	_	6	nmod	_	_

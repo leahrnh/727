@@ -6,7 +6,7 @@
 6	7	_	NUM	CD	_	7	nmod:npmod	_	_
 7	north	_	ADV	RB	_	9	advmod	_	_
 8	of	_	ADP	IN	_	9	case	_	_
-9	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+9	placeholder	_	NOUN	NN	_	5	nmod	_	_
 10	in	_	ADP	IN	_	12	case	_	_
 11	the	_	DET	DT	_	12	det	_	_
 12	Entity9	_	NOUN	NNS	_	3	nmod	_	_

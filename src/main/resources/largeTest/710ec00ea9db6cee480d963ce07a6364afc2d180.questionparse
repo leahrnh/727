@@ -4,7 +4,7 @@
 4	known	_	ADJ	JJ	_	5	amod	_	_
 5	video	_	NOUN	NN	_	8	nmod	_	_
 6	,	_	PUNCT	,	_	0	erased	_	_
-7	@placeholder	_	NOUN	NN	_	8	nsubj	_	_
+7	placeholder	_	NOUN	NN	_	8	nsubj	_	_
 8	called	_	VERB	VBD	_	0	root	_	_
 9	for	_	ADP	IN	_	10	case	_	_
 10	governments	_	NOUN	NNS	_	8	nmod	_	_

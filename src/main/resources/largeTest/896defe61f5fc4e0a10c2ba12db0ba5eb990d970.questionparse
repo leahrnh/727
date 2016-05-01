@@ -4,7 +4,7 @@
 4	900	_	NUM	CD	_	5	nummod	_	_
 5	refugees	_	NOUN	NNS	_	9	nsubj	_	_
 6	from	_	ADP	IN	_	7	case	_	_
-7	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+7	placeholder	_	NOUN	NN	_	5	nmod	_	_
 8	have	_	AUX	VBP	_	9	aux	_	_
 9	arrived	_	VERB	VBN	_	3	ccomp	_	_
 10	in	_	ADP	IN	_	11	case	_	_

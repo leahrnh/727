@@ -11,5 +11,5 @@
 11	try	_	VERB	VB	_	3	advcl	_	_
 12	and	_	CONJ	CC	_	11	cc	_	_
 13	win	_	VERB	VB	_	11	conj	_	_
-14	@placeholder	_	NOUN	NN	_	11	dobj	_	_
+14	placeholder	_	NOUN	NN	_	11	dobj	_	_
 

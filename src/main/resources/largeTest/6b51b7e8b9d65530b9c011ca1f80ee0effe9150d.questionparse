@@ -5,7 +5,7 @@
 5	,	_	PUNCT	,	_	0	erased	_	_
 6	and	_	CONJ	CC	_	4	cc	_	_
 7	then	_	ADV	RB	_	9	advmod	_	_
-8	@placeholder	_	NOUN	NN	_	9	nsubj	_	_
+8	placeholder	_	NOUN	NN	_	9	nsubj	_	_
 9	gets	_	VERB	VBZ	_	4	conj	_	_
 10	out	_	ADP	RP	_	9	compound:prt	_	_
 11	of	_	ADP	IN	_	13	case	_	_

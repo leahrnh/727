@@ -8,7 +8,7 @@
 8	outlets	_	NOUN	NNS	_	4	conj	_	_
 9	and	_	CONJ	CC	_	4	cc	_	_
 10	a	_	DET	DT	_	12	det	_	_
-11	@placeholder	_	NOUN	NN	_	12	compound	_	_
+11	placeholder	_	NOUN	NN	_	12	compound	_	_
 12	diplomat	_	NOUN	NN	_	4	conj	_	_
 13	say	_	VERB	VBP	_	3	ccomp	_	_
 

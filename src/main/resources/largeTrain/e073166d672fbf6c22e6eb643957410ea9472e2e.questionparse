@@ -4,7 +4,7 @@
 4	delays	_	NOUN	NNS	_	2	nmod	_	_
 5	had	_	AUX	VBD	_	6	aux	_	_
 6	worried	_	VERB	VBN	_	0	root	_	_
-7	@placeholder	_	NOUN	NN	_	8	compound	_	_
+7	placeholder	_	NOUN	NN	_	8	compound	_	_
 8	officials	_	NOUN	NNS	_	6	dobj	_	_
 9	but	_	CONJ	CC	_	12	cc	_	_
 10	both	_	DET	DT	_	11	det	_	_

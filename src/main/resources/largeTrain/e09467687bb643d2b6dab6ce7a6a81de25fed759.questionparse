@@ -4,7 +4,7 @@
 4	meet	_	VERB	VB	_	2	dep	_	_
 5	Entity5	_	PROPN	NNP	_	7	nmod:poss	_	_
 6	's	_	PART	POS	_	5	case	_	_
-7	@placeholder	_	NOUN	NN	_	4	dobj	_	_
+7	placeholder	_	NOUN	NN	_	4	dobj	_	_
 8	to	_	PART	TO	_	9	mark	_	_
 9	discuss	_	VERB	VB	_	7	acl	_	_
 10	racism	_	NOUN	NN	_	9	dobj	_	_

@@ -9,7 +9,7 @@
 9	the	_	DET	DT	_	10	det	_	_
 10	loss	_	NOUN	NN	_	3	nmod	_	_
 11	of	_	ADP	IN	_	13	case	_	_
-12	@placeholder	_	NOUN	NN	_	13	compound	_	_
+12	placeholder	_	NOUN	NN	_	13	compound	_	_
 13	lives	_	NOUN	NNS	_	10	nmod	_	_
 14	in	_	ADP	IN	_	15	case	_	_
 15	Entity17	_	NOUN	NNS	_	13	nmod	_	_

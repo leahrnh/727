@@ -9,7 +9,7 @@
 9	n't	_	PART	RB	_	10	neg	_	_
 10	rule	_	VERB	VB	_	0	root	_	_
 11	out	_	ADP	RP	_	10	compound:prt	_	_
-12	@placeholder	_	ADJ	JJ	_	14	amod	_	_
+12	placeholder	_	ADJ	JJ	_	14	amod	_	_
 13	military	_	ADJ	JJ	_	14	amod	_	_
 14	action	_	NOUN	NN	_	10	dobj	_	_
 15	beyond	_	ADP	IN	_	16	case	_	_

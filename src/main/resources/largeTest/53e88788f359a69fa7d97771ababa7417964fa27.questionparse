@@ -4,7 +4,7 @@
 4	only	_	ADV	RB	_	17	advmod	_	_
 5	trust	_	NOUN	NN	_	7	nsubj	_	_
 6	in	_	ADV	RB	_	7	advmod	_	_
-7	@placeholder	_	VERB	VBP	_	17	parataxis	_	_
+7	placeholder	_	VERB	VBP	_	17	parataxis	_	_
 8	for	_	ADP	IN	_	9	amod	_	_
 9	a	_	DET	DT	_	17	nsubj	_	_
 10	miracle	_	ADV	RB	_	17	advmod	_	_

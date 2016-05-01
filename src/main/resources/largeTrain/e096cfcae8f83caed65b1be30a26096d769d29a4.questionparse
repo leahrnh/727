@@ -1,6 +1,6 @@
 1	Entity291	_	PROPN	NNP	_	0	root	_	_
 2	:	_	PUNCT	:	_	0	erased	_	_
-3	@placeholder	_	NOUN	NN	_	8	nsubj	_	_
+3	placeholder	_	NOUN	NN	_	8	nsubj	_	_
 4	was	_	VERB	VBD	_	8	cop	_	_
 5	an	_	DET	DT	_	8	det	_	_
 6	especially	_	ADV	RB	_	7	advmod	_	_

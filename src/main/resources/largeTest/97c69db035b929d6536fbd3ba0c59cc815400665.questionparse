@@ -4,7 +4,7 @@
 4	,	_	PUNCT	,	_	0	erased	_	_
 5	Entity44	_	NOUN	NNS	_	3	conj	_	_
 6	and	_	CONJ	CC	_	3	cc	_	_
-7	@placeholder	_	NOUN	NN	_	3	conj	_	_
+7	placeholder	_	NOUN	NN	_	3	conj	_	_
 8	adopted	_	VERB	VBD	_	1	dep	_	_
 9	Entity3	_	NOUN	NNS	_	1	nsubj	_	_
 

@@ -2,7 +2,7 @@
 2	is	_	VERB	VBZ	_	5	cop	_	_
 3	a	_	DET	DT	_	5	det	_	_
 4	lifelong	_	ADJ	JJ	_	5	amod	_	_
-5	@placeholder	_	NOUN	NN	_	0	root	_	_
+5	placeholder	_	NOUN	NN	_	0	root	_	_
 6	but	_	CONJ	CC	_	5	cc	_	_
 7	had	_	AUX	VBD	_	9	aux	_	_
 8	never	_	ADV	RB	_	9	neg	_	_

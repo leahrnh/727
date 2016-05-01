@@ -11,7 +11,7 @@
 11	1998	_	NUM	CD	_	8	nmod	_	_
 12	and	_	CONJ	CC	_	2	cc	_	_
 13	joined	_	VERB	VBN	_	2	conj	_	_
-14	@placeholder	_	ADJ	JJ	_	13	xcomp	_	_
+14	placeholder	_	ADJ	JJ	_	13	xcomp	_	_
 15	,	_	PUNCT	,	_	0	erased	_	_
 16	becoming	_	VERB	VBG	_	13	xcomp	_	_
 17	a	_	DET	DT	_	18	det	_	_

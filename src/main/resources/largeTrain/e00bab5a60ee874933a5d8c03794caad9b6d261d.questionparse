@@ -4,7 +4,7 @@
 4	walk	_	VERB	VB	_	10	advcl	_	_
 5	through	_	ADP	IN	_	7	case	_	_
 6	the	_	DET	DT	_	7	det	_	_
-7	@placeholder	_	NOUN	NN	_	4	nmod	_	_
+7	placeholder	_	NOUN	NN	_	4	nmod	_	_
 8	,	_	PUNCT	,	_	0	erased	_	_
 9	he	_	PRON	PRP	_	10	nsubj	_	_
 10	says	_	VERB	VBZ	_	0	root	_	_

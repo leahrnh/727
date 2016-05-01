@@ -10,5 +10,5 @@
 10	western	_	ADJ	JJ	_	11	amod	_	_
 11	province	_	NOUN	NN	_	7	nmod	_	_
 12	of	_	ADP	IN	_	13	case	_	_
-13	@placeholder	_	NOUN	NN	_	11	nmod	_	_
+13	placeholder	_	NOUN	NN	_	11	nmod	_	_
 

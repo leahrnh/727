@@ -1,6 +1,6 @@
 1	new	_	ADJ	JJ	_	0	root	_	_
 2	:	_	PUNCT	:	_	0	erased	_	_
-3	@placeholder	_	NOUN	NN	_	1	dep	_	_
+3	placeholder	_	NOUN	NN	_	1	dep	_	_
 4	sworn	_	VERB	VBN	_	3	acl	_	_
 5	in	_	ADP	IN	_	11	case	_	_
 6	as	_	ADP	IN	_	11	case	_	_

@@ -14,5 +14,5 @@
 14	head	_	VERB	VB	_	10	ccomp	_	_
 15	home	_	NOUN	NN	_	14	dobj	_	_
 16	to	_	ADP	TO	_	17	case	_	_
-17	@placeholder	_	NOUN	NN	_	14	nmod	_	_
+17	placeholder	_	NOUN	NN	_	14	nmod	_	_
 

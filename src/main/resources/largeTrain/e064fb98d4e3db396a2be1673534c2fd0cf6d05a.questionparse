@@ -12,6 +12,6 @@
 12	the	_	DET	DT	_	13	det	_	_
 13	house	_	NOUN	NN	_	8	nmod	_	_
 14	where	_	ADV	WRB	_	16	advmod	_	_
-15	@placeholder	_	NOUN	NN	_	16	nsubj	_	_
+15	placeholder	_	NOUN	NN	_	16	nsubj	_	_
 16	lived	_	VERB	VBD	_	8	advcl	_	_
 

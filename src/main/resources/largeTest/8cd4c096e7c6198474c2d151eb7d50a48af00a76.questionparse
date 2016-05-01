@@ -13,6 +13,6 @@
 13	back	_	ADV	RB	_	8	conj	_	_
 14	in	_	ADP	IN	_	16	case	_	_
 15	the	_	DET	DT	_	16	det	_	_
-16	@placeholder	_	NOUN	NN	_	13	nmod	_	_
+16	placeholder	_	NOUN	NN	_	13	nmod	_	_
 17	''	_	PUNCT	''	_	0	erased	_	_
 

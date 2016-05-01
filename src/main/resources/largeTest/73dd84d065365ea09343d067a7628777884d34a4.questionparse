@@ -8,7 +8,7 @@
 8	newborn	_	ADJ	JJ	_	9	amod	_	_
 9	princess	_	NOUN	NNS	_	6	dobj	_	_
 10	after	_	ADP	IN	_	11	case	_	_
-11	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+11	placeholder	_	NOUN	NN	_	6	nmod	_	_
 12	would	_	AUX	MD	_	13	aux	_	_
 13	put	_	VERB	VB	_	4	ccomp	_	_
 14	too	_	ADV	RB	_	15	advmod	_	_

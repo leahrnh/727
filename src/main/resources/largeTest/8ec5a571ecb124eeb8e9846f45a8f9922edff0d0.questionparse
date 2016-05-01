@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+1	placeholder	_	NOUN	NN	_	2	compound	_	_
 2	police	_	NOUN	NNS	_	4	nsubj	_	_
 3	have	_	AUX	VBP	_	4	aux	_	_
 4	arrested	_	VERB	VBN	_	0	root	_	_

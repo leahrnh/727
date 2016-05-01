@@ -10,6 +10,6 @@
 10	800,000	_	NUM	CD	_	11	nummod	_	_
 11	children	_	NOUN	NNS	_	7	nmod	_	_
 12	,	_	PUNCT	,	_	0	erased	_	_
-13	@placeholder	_	NOUN	NN	_	11	appos	_	_
+13	placeholder	_	NOUN	NN	_	11	appos	_	_
 14	says	_	VERB	VBZ	_	13	dep	_	_
 

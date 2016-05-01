@@ -9,5 +9,5 @@
 9	fellow	_	ADJ	JJ	_	12	amod	_	_
 10	militant	_	ADJ	JJ	_	12	amod	_	_
 11	group	_	NOUN	NN	_	12	compound	_	_
-12	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+12	placeholder	_	NOUN	NN	_	6	nmod	_	_
 

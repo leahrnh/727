@@ -6,7 +6,7 @@
 6	why	_	ADV	WRB	_	12	advmod	_	_
 7	so	_	ADV	RB	_	10	advmod	_	_
 8	many	_	ADJ	JJ	_	10	amod	_	_
-9	@placeholder	_	NOUN	NN	_	10	compound	_	_
+9	placeholder	_	NOUN	NN	_	10	compound	_	_
 10	cities	_	NOUN	NNS	_	12	nsubjpass	_	_
 11	were	_	AUX	VBD	_	12	auxpass	_	_
 12	abandoned	_	VERB	VBN	_	5	advcl	_	_

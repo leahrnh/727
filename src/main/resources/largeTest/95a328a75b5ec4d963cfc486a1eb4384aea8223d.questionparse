@@ -9,5 +9,5 @@
 9	robbed	_	VERB	VBN	_	5	conj	_	_
 10	,	_	PUNCT	,	_	0	erased	_	_
 11	says	_	VERB	VBZ	_	0	root	_	_
-12	@placeholder	_	NOUN	NN	_	11	nsubj	_	_
+12	placeholder	_	NOUN	NN	_	11	nsubj	_	_
 

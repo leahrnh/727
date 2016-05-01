@@ -3,7 +3,7 @@
 3	54	_	NUM	CD	_	1	amod	_	_
 4	,	_	PUNCT	,	_	0	erased	_	_
 5	hit	_	VERB	VBD	_	0	root	_	_
-6	@placeholder	_	NOUN	NN	_	8	compound	_	_
+6	placeholder	_	NOUN	NN	_	8	compound	_	_
 7	president	_	NOUN	NN	_	8	compound	_	_
 8	Entity15	_	NOUN	NNS	_	5	dobj	_	_
 9	in	_	ADP	IN	_	11	case	_	_

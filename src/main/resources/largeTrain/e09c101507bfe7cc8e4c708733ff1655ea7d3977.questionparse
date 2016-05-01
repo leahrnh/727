@@ -4,7 +4,7 @@
 4	charger	_	NOUN	NN	_	3	dobj	_	_
 5	into	_	ADP	IN	_	7	case	_	_
 6	an	_	DET	DT	_	7	det	_	_
-7	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+7	placeholder	_	NOUN	NN	_	3	nmod	_	_
 8	and	_	CONJ	CC	_	3	cc	_	_
 9	get	_	VERB	VB	_	3	conj	_	_
 10	an	_	DET	DT	_	11	det	_	_

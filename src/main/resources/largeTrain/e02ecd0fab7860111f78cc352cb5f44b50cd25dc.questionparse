@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	4	nmod:poss	_	_
+1	placeholder	_	NOUN	NN	_	4	nmod:poss	_	_
 2	's	_	PART	POS	_	1	case	_	_
 3	brothers	_	ADJ	JJ	_	4	amod	_	_
 4	Entity16	_	NOUN	NNS	_	8	nsubjpass	_	_

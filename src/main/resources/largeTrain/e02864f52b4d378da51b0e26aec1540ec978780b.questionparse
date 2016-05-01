@@ -4,7 +4,7 @@
 4	in	_	ADP	IN	_	5	case	_	_
 5	etiquette	_	NOUN	NN	_	3	nmod	_	_
 6	from	_	ADP	IN	_	10	case	_	_
-7	@placeholder	_	NOUN	NN	_	10	nmod:poss	_	_
+7	placeholder	_	NOUN	NN	_	10	nmod:poss	_	_
 8	's	_	PART	POS	_	7	case	_	_
 9	football	_	NOUN	NN	_	10	compound	_	_
 10	coach	_	NOUN	NN	_	2	nmod	_	_

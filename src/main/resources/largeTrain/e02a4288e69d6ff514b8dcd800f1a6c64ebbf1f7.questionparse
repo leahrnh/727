@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	0	root	_	_
+1	placeholder	_	NOUN	NN	_	0	root	_	_
 2	:	_	PUNCT	:	_	0	erased	_	_
 3	ebola	_	NOUN	NN	_	4	compound	_	_
 4	cases	_	NOUN	NNS	_	10	nsubj	_	_

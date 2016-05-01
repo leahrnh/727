@@ -7,7 +7,7 @@
 7	situation	_	NOUN	NN	_	4	nmod	_	_
 8	,	_	PUNCT	,	_	0	erased	_	_
 9	''	_	PUNCT	''	_	0	erased	_	_
-10	@placeholder	_	NOUN	NN	_	14	nsubj	_	_
+10	placeholder	_	NOUN	NN	_	14	nsubj	_	_
 11	ceo	_	ADV	RB	_	12	advmod	_	_
 12	and	_	PROPN	NNP	_	13	advmod	_	_
 13	president	_	NOUN	NN	_	14	advmod	_	_

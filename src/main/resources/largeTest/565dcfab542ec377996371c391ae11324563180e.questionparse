@@ -5,7 +5,7 @@
 5	murder	_	NOUN	NN	_	6	compound	_	_
 6	trial	_	NOUN	NN	_	9	nsubj	_	_
 7	of	_	ADP	IN	_	8	case	_	_
-8	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+8	placeholder	_	NOUN	NN	_	6	nmod	_	_
 9	brought	_	VERB	VBD	_	2	parataxis	_	_
 10	jurors	_	NOUN	NNS	_	9	dobj	_	_
 11	together	_	ADV	RB	_	9	advmod	_	_

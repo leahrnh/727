@@ -7,6 +7,6 @@
 7	24	_	NUM	CD	_	8	compound	_	_
 8	trillion	_	NUM	CD	_	6	nummod	_	_
 9	:	_	PUNCT	:	_	0	erased	_	_
-10	@placeholder	_	NOUN	NN	_	3	dep	_	_
+10	placeholder	_	NOUN	NN	_	3	dep	_	_
 11	report	_	NOUN	NN	_	10	dep	_	_
 

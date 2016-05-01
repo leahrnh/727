@@ -4,7 +4,7 @@
 4	Entity15	_	ADJ	JJ	_	5	amod	_	_
 5	investment	_	NOUN	NN	_	9	nsubjpass	_	_
 6	in	_	ADP	IN	_	7	case	_	_
-7	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+7	placeholder	_	NOUN	NN	_	5	nmod	_	_
 8	is	_	AUX	VBZ	_	9	auxpass	_	_
 9	set	_	VERB	VBN	_	3	ccomp	_	_
 10	to	_	PART	TO	_	11	mark	_	_

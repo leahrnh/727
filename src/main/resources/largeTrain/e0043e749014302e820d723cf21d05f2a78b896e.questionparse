@@ -1,4 +1,4 @@
-1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+1	placeholder	_	NOUN	NN	_	2	nsubj	_	_
 2	says	_	VERB	VBZ	_	0	root	_	_
 3	it	_	PRON	PRP	_	4	nsubj	_	_
 4	detonated	_	VERB	VBD	_	2	ccomp	_	_

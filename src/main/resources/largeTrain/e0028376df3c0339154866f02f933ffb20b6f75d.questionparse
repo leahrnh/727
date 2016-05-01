@@ -6,7 +6,7 @@
 6	off	_	ADP	IN	_	9	case	_	_
 7	Entity7	_	PROPN	NNP	_	9	nmod:poss	_	_
 8	's	_	PART	POS	_	7	case	_	_
-9	@placeholder	_	NOUN	NN	_	4	nmod	_	_
+9	placeholder	_	NOUN	NN	_	4	nmod	_	_
 10	in	_	ADP	IN	_	11	case	_	_
 11	january	_	PROPN	NNP	_	4	nmod	_	_
 12	2012	_	NUM	CD	_	11	nummod	_	_

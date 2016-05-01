@@ -4,7 +4,7 @@
 4	was	_	AUX	VBD	_	5	auxpass	_	_
 5	defiant	_	VERB	VBN	_	1	parataxis	_	_
 6	about	_	ADP	IN	_	7	case	_	_
-7	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+7	placeholder	_	NOUN	NN	_	5	nmod	_	_
 8	,	_	PUNCT	,	_	0	erased	_	_
 9	but	_	CONJ	CC	_	5	cc	_	_
 10	Entity13	_	NOUN	NNS	_	14	nsubj	_	_

@@ -6,7 +6,7 @@
 6	Entity41	_	NOUN	NNS	_	4	nmod	_	_
 7	,	_	PUNCT	,	_	0	erased	_	_
 8	star	_	NOUN	NN	_	9	compound	_	_
-9	@placeholder	_	NOUN	NN	_	6	appos	_	_
+9	placeholder	_	NOUN	NN	_	6	appos	_	_
 10	,	_	PUNCT	,	_	0	erased	_	_
 11	Entity46	_	NOUN	NNS	_	9	appos	_	_
 

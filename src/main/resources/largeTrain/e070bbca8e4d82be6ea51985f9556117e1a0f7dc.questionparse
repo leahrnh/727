@@ -10,5 +10,5 @@
 10	motorcade	_	ADJ	JJ	_	11	amod	_	_
 11	explodes	_	NOUN	NNS	_	5	dobj	_	_
 12	in	_	ADP	IN	_	13	case	_	_
-13	@placeholder	_	NOUN	NN	_	11	nmod	_	_
+13	placeholder	_	NOUN	NN	_	11	nmod	_	_
 

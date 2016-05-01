@@ -17,5 +17,5 @@
 17	live	_	ADJ	JJ	_	13	nmod	_	_
 18	in	_	ADP	IN	_	20	case	_	_
 19	greater	_	ADJ	JJR	_	20	amod	_	_
-20	@placeholder	_	NOUN	NN	_	13	nmod	_	_
+20	placeholder	_	NOUN	NN	_	13	nmod	_	_
 

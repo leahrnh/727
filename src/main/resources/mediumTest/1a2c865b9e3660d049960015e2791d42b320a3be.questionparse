@@ -3,7 +3,7 @@
 3	about	_	ADP	IN	_	6	case	_	_
 4	a	_	DET	DT	_	6	det	_	_
 5	dystopian	_	NOUN	NN	_	6	compound	_	_
-6	@placeholder	_	NOUN	NN	_	0	root	_	_
+6	placeholder	_	NOUN	NN	_	0	root	_	_
 7	where	_	ADV	WRB	_	12	advmod	_	_
 8	all	_	DET	DT	_	9	det	_	_
 9	crime	_	NOUN	NN	_	12	nsubj	_	_

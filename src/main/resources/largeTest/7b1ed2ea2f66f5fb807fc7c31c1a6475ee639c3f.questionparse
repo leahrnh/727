@@ -10,7 +10,7 @@
 10	are	_	VERB	VBP	_	11	cop	_	_
 11	victims	_	NOUN	NNS	_	1	parataxis	_	_
 12	and	_	CONJ	CC	_	11	cc	_	_
-13	@placeholder	_	NOUN	NN	_	14	compound	_	_
+13	placeholder	_	NOUN	NN	_	14	compound	_	_
 14	officer	_	NOUN	NN	_	11	conj	_	_
 15	who	_	PRON	WP	_	17	nsubjpass	_	_
 16	was	_	AUX	VBD	_	17	auxpass	_	_

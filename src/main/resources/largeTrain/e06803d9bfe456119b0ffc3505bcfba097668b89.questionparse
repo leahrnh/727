@@ -9,7 +9,7 @@
 9	trains	_	NOUN	NNS	_	5	nmod	_	_
 10	in	_	ADP	IN	_	12	case	_	_
 11	western	_	ADJ	JJ	_	12	amod	_	_
-12	@placeholder	_	NOUN	NN	_	9	nmod	_	_
+12	placeholder	_	NOUN	NN	_	9	nmod	_	_
 13	happened	_	VERB	VBD	_	0	root	_	_
 14	monday	_	PROPN	NNP	_	13	nmod:tmod	_	_
 

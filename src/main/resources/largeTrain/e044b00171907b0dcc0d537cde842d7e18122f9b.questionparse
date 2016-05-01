@@ -4,7 +4,7 @@
 4	leaders	_	NOUN	NNS	_	2	dobj	_	_
 5	met	_	VERB	VBN	_	4	acl	_	_
 6	at	_	ADP	IN	_	7	case	_	_
-7	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+7	placeholder	_	NOUN	NN	_	5	nmod	_	_
 8	,	_	PUNCT	,	_	0	erased	_	_
 9	Entity2	_	ADJ	JJ	_	11	amod	_	_
 10	offered	_	VERB	VBN	_	11	amod	_	_

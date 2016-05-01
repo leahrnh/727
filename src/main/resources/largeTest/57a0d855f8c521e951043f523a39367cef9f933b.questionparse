@@ -8,7 +8,7 @@
 8	year	_	NOUN	NN	_	6	dep	_	_
 9	-	_	PUNCT	:	_	0	erased	_	_
 10	old	_	ADJ	JJ	_	11	amod	_	_
-11	@placeholder	_	NOUN	NN	_	8	dep	_	_
+11	placeholder	_	NOUN	NN	_	8	dep	_	_
 12	,	_	PUNCT	,	_	0	erased	_	_
 13	lost	_	VERB	VBD	_	2	ccomp	_	_
 14	control	_	NOUN	NN	_	13	dobj	_	_

@@ -6,6 +6,6 @@
 6	series	_	NOUN	NN	_	2	dep	_	_
 7	,	_	PUNCT	,	_	0	erased	_	_
 8	''	_	PUNCT	''	_	0	erased	_	_
-9	@placeholder	_	VERB	VBP	_	0	root	_	_
+9	placeholder	_	VERB	VBP	_	0	root	_	_
 10	''	_	PUNCT	''	_	0	erased	_	_
 

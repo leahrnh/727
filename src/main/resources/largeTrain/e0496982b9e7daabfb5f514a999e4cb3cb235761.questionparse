@@ -15,5 +15,5 @@
 15	,	_	PUNCT	,	_	0	erased	_	_
 16	''	_	PUNCT	''	_	0	erased	_	_
 17	says	_	VERB	VBZ	_	14	acl:relcl	_	_
-18	@placeholder	_	NOUN	NN	_	17	dobj	_	_
+18	placeholder	_	NOUN	NN	_	17	dobj	_	_
 

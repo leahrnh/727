@@ -8,7 +8,7 @@
 8	steaks	_	NOUN	NNS	_	1	dep	_	_
 9	sunday	_	PROPN	NNP	_	8	appos	_	_
 10	in	_	ADP	IN	_	11	case	_	_
-11	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+11	placeholder	_	NOUN	NN	_	8	nmod	_	_
 12	,	_	PUNCT	,	_	0	erased	_	_
 13	Entity12	_	NOUN	NNS	_	11	appos	_	_
 

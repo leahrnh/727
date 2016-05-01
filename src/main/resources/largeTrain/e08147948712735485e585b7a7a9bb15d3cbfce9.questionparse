@@ -6,7 +6,7 @@
 6	,	_	PUNCT	,	_	0	erased	_	_
 7	''	_	PUNCT	''	_	0	erased	_	_
 8	rival	_	NOUN	NN	_	10	nsubj	_	_
-9	@placeholder	_	ADV	RB	_	10	advmod	_	_
+9	placeholder	_	ADV	RB	_	10	advmod	_	_
 10	tells	_	VERB	VBZ	_	0	root	_	_
 11	supporters	_	NOUN	NNS	_	10	dobj	_	_
 12	after	_	ADP	IN	_	13	case	_	_

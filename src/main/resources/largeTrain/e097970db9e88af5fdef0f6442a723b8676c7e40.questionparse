@@ -1,6 +1,6 @@
 1	new	_	ADJ	JJ	_	0	root	_	_
 2	:	_	PUNCT	:	_	0	erased	_	_
-3	@placeholder	_	NOUN	NN	_	4	compound	_	_
+3	placeholder	_	NOUN	NN	_	4	compound	_	_
 4	authorities	_	NOUN	NNS	_	1	dep	_	_
 5	have	_	VERB	VBP	_	4	acl:relcl	_	_
 6	no	_	DET	DT	_	7	neg	_	_

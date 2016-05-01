@@ -14,5 +14,5 @@
 14	control	_	NOUN	NN	_	13	dobj	_	_
 15	of	_	ADP	IN	_	17	case	_	_
 16	a	_	DET	DT	_	17	det	_	_
-17	@placeholder	_	NOUN	NN	_	14	nmod	_	_
+17	placeholder	_	NOUN	NN	_	14	nmod	_	_
 

@@ -8,7 +8,7 @@
 8	faculty	_	NOUN	NN	_	9	compound	_	_
 9	position	_	NOUN	NN	_	1	nsubj	_	_
 10	at	_	ADP	IN	_	13	case	_	_
-11	@placeholder	_	NOUN	NN	_	13	nmod:poss	_	_
+11	placeholder	_	NOUN	NN	_	13	nmod:poss	_	_
 12	's	_	PART	POS	_	11	case	_	_
 13	Entity60	_	NOUN	NNS	_	9	nmod	_	_
 

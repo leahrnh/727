@@ -4,7 +4,7 @@
 4	Entity19	_	NOUN	NNS	_	5	nsubj	_	_
 5	remembers	_	VERB	VBZ	_	0	root	_	_
 6	the	_	DET	DT	_	7	det	_	_
-7	@placeholder	_	NOUN	NN	_	9	nmod:poss	_	_
+7	placeholder	_	NOUN	NN	_	9	nmod:poss	_	_
 8	's	_	PART	POS	_	7	case	_	_
 9	contributions	_	NOUN	NNS	_	5	dobj	_	_
 10	to	_	ADP	TO	_	12	case	_	_

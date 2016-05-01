@@ -1,5 +1,5 @@
 1	former	_	ADJ	JJ	_	5	amod	_	_
-2	@placeholder	_	NOUN	NN	_	5	compound	_	_
+2	placeholder	_	NOUN	NN	_	5	compound	_	_
 3	international	_	ADJ	JJ	_	5	amod	_	_
 4	footballer	_	NOUN	NN	_	5	compound	_	_
 5	Entity9	_	NOUN	NNS	_	6	nsubj	_	_

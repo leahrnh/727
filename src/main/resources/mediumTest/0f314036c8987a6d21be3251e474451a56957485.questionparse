@@ -4,7 +4,7 @@
 4	Entity70	_	ADJ	JJ	_	5	amod	_	_
 5	case	_	NOUN	NN	_	2	nmod	_	_
 6	,	_	PUNCT	,	_	0	erased	_	_
-7	@placeholder	_	NOUN	NN	_	8	nsubj	_	_
+7	placeholder	_	NOUN	NN	_	8	nsubj	_	_
 8	did	_	VERB	VBD	_	0	root	_	_
 9	the	_	DET	DT	_	11	det	_	_
 10	right	_	ADJ	JJ	_	11	amod	_	_

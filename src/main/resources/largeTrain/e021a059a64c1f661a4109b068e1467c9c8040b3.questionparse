@@ -3,7 +3,7 @@
 3	series	_	NOUN	NN	_	2	dep	_	_
 4	,	_	PUNCT	,	_	0	erased	_	_
 5	''	_	PUNCT	''	_	0	erased	_	_
-6	@placeholder	_	NOUN	NN	_	2	dep	_	_
+6	placeholder	_	NOUN	NN	_	2	dep	_	_
 7	,	_	PUNCT	,	_	0	erased	_	_
 8	''	_	PUNCT	''	_	0	erased	_	_
 9	airs	_	VERB	VBZ	_	0	root	_	_

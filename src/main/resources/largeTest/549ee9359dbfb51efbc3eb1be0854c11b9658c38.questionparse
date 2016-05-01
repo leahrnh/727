@@ -5,7 +5,7 @@
 5	54	_	NUM	CD	_	6	nummod	_	_
 6	percent	_	NOUN	NN	_	4	dobj	_	_
 7	of	_	ADP	IN	_	10	case	_	_
-8	@placeholder	_	NOUN	NN	_	10	compound	_	_
+8	placeholder	_	NOUN	NN	_	10	compound	_	_
 9	doctors	_	NOUN	NNS	_	10	compound	_	_
 10	support	_	NOUN	NN	_	6	nmod	_	_
 11	assisted	_	VERB	VBN	_	10	acl	_	_

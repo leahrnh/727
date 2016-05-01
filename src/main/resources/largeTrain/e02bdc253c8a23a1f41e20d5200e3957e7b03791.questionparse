@@ -11,6 +11,6 @@
 11	to	_	PART	TO	_	12	mark	_	_
 12	top	_	VERB	VB	_	10	xcomp	_	_
 13	the	_	DET	DT	_	15	det	_	_
-14	@placeholder	_	NOUN	NN	_	15	compound	_	_
+14	placeholder	_	NOUN	NN	_	15	compound	_	_
 15	agenda	_	NOUN	NN	_	12	dobj	_	_
 

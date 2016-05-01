@@ -9,6 +9,6 @@
 9	have	_	VERB	VBP	_	5	conj	_	_
 10	Entity6	_	PROPN	NNP	_	13	nmod:poss	_	_
 11	's	_	PART	POS	_	10	case	_	_
-12	@placeholder	_	NOUN	NN	_	13	compound	_	_
+12	placeholder	_	NOUN	NN	_	13	compound	_	_
 13	address	_	NOUN	NN	_	9	dobj	_	_
 
