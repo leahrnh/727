@@ -1,0 +1,14 @@
+1	the	_	DET	DT	_	3	det	_	_
+2	church	_	NOUN	NN	_	3	compound	_	_
+3	members	_	NOUN	NNS	_	4	nsubj	_	_
+4	say	_	VERB	VBP	_	0	root	_	_
+5	they	_	PRON	PRP	_	6	nsubj	_	_
+6	believe	_	VERB	VBP	_	4	ccomp	_	_
+7	@placeholder	_	NOUN	NN	_	9	compound	_	_
+8	troop	_	NOUN	NN	_	9	compound	_	_
+9	deaths	_	NOUN	NNS	_	13	nsubj	_	_
+10	are	_	VERB	VBP	_	13	cop	_	_
+11	Entity23	_	PROPN	NNP	_	13	nmod:poss	_	_
+12	's	_	PART	POS	_	11	case	_	_
+13	punishment	_	NOUN	NN	_	6	ccomp	_	_
+

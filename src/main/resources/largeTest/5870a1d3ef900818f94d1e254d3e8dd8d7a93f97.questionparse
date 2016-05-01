@@ -1,0 +1,18 @@
+1	@placeholder	_	NOUN	NN	_	3	nsubjpass	_	_
+2	was	_	AUX	VBD	_	3	auxpass	_	_
+3	found	_	VERB	VBN	_	0	root	_	_
+4	on	_	ADP	IN	_	6	case	_	_
+5	his	_	PRON	PRP$	_	6	nmod:poss	_	_
+6	sailboat	_	NOUN	NN	_	3	nmod	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	which	_	DET	WDT	_	10	nsubj	_	_
+9	was	_	AUX	VBD	_	10	aux	_	_
+10	listing	_	VERB	VBG	_	6	acl:relcl	_	_
+11	and	_	CONJ	CC	_	6	cc	_	_
+12	in	_	ADP	IN	_	14	case	_	_
+13	bad	_	ADJ	JJ	_	14	amod	_	_
+14	shape	_	NOUN	NN	_	6	conj	_	_
+15	,	_	PUNCT	,	_	0	erased	_	_
+16	rescuer	_	NOUN	NN	_	14	appos	_	_
+17	says	_	VERB	VBZ	_	16	dep	_	_
+

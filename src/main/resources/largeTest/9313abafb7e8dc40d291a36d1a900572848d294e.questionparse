@@ -1,0 +1,14 @@
+1	social	_	ADJ	JJ	_	2	amod	_	_
+2	media	_	NOUN	NNS	_	4	nsubj	_	_
+3	has	_	AUX	VBZ	_	4	aux	_	_
+4	helped	_	VERB	VBN	_	0	root	_	_
+5	people	_	NOUN	NNS	_	7	nsubj	_	_
+6	overseas	_	ADV	RB	_	7	advmod	_	_
+7	tracked	_	VERB	VBN	_	4	ccomp	_	_
+8	down	_	ADP	RP	_	7	compound:prt	_	_
+9	their	_	PRON	PRP$	_	11	nmod:poss	_	_
+10	loved	_	ADJ	JJ	_	11	amod	_	_
+11	ones	_	NOUN	NNS	_	7	dobj	_	_
+12	in	_	ADP	IN	_	13	case	_	_
+13	@placeholder	_	NOUN	NN	_	11	nmod	_	_
+

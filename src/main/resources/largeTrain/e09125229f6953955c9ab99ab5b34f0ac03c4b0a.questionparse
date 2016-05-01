@@ -1,0 +1,19 @@
+1	people	_	NOUN	NNS	_	7	nsubj	_	_
+2	on	_	ADP	IN	_	4	case	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	sliver	_	NOUN	NN	_	1	nmod	_	_
+5	of	_	ADP	IN	_	6	case	_	_
+6	land	_	NOUN	NN	_	4	nmod	_	_
+7	caught	_	VERB	VBD	_	0	root	_	_
+8	in	_	ADP	IN	_	12	case	_	_
+9	a	_	DET	DT	_	12	det	_	_
+10	Entity15	_	ADJ	JJ	_	12	amod	_	_
+11	time	_	NOUN	NN	_	12	compound	_	_
+12	warp	_	NOUN	NN	_	7	nmod	_	_
+13	long	_	ADV	RB	_	7	advmod	_	_
+14	to	_	PART	TO	_	16	mark	_	_
+15	be	_	VERB	VB	_	16	cop	_	_
+16	part	_	NOUN	NN	_	7	xcomp	_	_
+17	of	_	ADP	IN	_	18	case	_	_
+18	@placeholder	_	NOUN	NN	_	16	nmod	_	_
+

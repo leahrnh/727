@@ -1,0 +1,17 @@
+1	a	_	DET	DT	_	3	det	_	_
+2	robotic	_	ADJ	JJ	_	3	amod	_	_
+3	probe	_	NOUN	NN	_	9	nsubj	_	_
+4	into	_	ADP	IN	_	8	case	_	_
+5	the	_	DET	DT	_	8	det	_	_
+6	@placeholder	_	ADJ	JJ	_	8	amod	_	_
+7	nuclear	_	ADJ	JJ	_	8	amod	_	_
+8	plant	_	NOUN	NN	_	3	nmod	_	_
+9	released	_	VERB	VBD	_	0	root	_	_
+10	crucial	_	ADJ	JJ	_	11	amod	_	_
+11	information	_	NOUN	NN	_	9	dobj	_	_
+12	on	_	ADP	IN	_	13	case	_	_
+13	conditions	_	NOUN	NNS	_	9	nmod	_	_
+14	inside	_	ADP	IN	_	16	case	_	_
+15	the	_	DET	DT	_	16	det	_	_
+16	reactor	_	NOUN	NN	_	13	nmod	_	_
+

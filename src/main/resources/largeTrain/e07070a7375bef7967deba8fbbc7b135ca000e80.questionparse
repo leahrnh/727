@@ -1,0 +1,23 @@
+1	the	_	DET	DT	_	4	det	_	_
+2	Entity53	_	ADJ	JJ	_	4	amod	_	_
+3	super	_	ADJ	JJ	_	4	amod	_	_
+4	pac	_	NOUN	NN	_	7	nsubj	_	_
+5	is	_	AUX	VBZ	_	7	aux	_	_
+6	now	_	ADV	RB	_	7	advmod	_	_
+7	using	_	VERB	VBG	_	0	root	_	_
+8	that	_	DET	DT	_	9	det	_	_
+9	image	_	NOUN	NN	_	7	dobj	_	_
+10	to	_	PART	TO	_	11	mark	_	_
+11	raise	_	VERB	VB	_	9	acl	_	_
+12	money	_	NOUN	NN	_	11	dobj	_	_
+13	for	_	ADP	IN	_	15	case	_	_
+14	their	_	PRON	PRP$	_	15	nmod:poss	_	_
+15	efforts	_	NOUN	NNS	_	11	nmod	_	_
+16	to	_	PART	TO	_	17	mark	_	_
+17	urge	_	VERB	VB	_	15	acl	_	_
+18	@placeholder	_	NOUN	NN	_	17	dobj	_	_
+19	to	_	PART	TO	_	20	mark	_	_
+20	run	_	VERB	VB	_	17	xcomp	_	_
+21	for	_	ADP	IN	_	22	case	_	_
+22	president	_	NOUN	NN	_	20	nmod	_	_
+

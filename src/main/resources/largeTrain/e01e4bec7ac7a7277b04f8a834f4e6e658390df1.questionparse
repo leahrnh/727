@@ -1,0 +1,13 @@
+1	that	_	DET	WDT	_	2	det	_	_
+2	movie	_	NOUN	NN	_	3	nsubj	_	_
+3	spurred	_	VERB	VBD	_	0	root	_	_
+4	virulent	_	ADJ	JJ	_	6	amod	_	_
+5	Entity99	_	ADJ	JJ	_	6	amod	_	_
+6	protests	_	NOUN	NNS	_	3	dobj	_	_
+7	in	_	ADP	IN	_	8	case	_	_
+8	nations	_	NOUN	NNS	_	3	nmod	_	_
+9	around	_	ADP	IN	_	12	case	_	_
+10	the	_	DET	DT	_	12	det	_	_
+11	@placeholder	_	NOUN	NN	_	12	compound	_	_
+12	world	_	NOUN	NN	_	8	nmod	_	_
+

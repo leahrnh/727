@@ -1,0 +1,17 @@
+1	an	_	DET	DT	_	3	det	_	_
+2	outside	_	ADJ	JJ	_	3	amod	_	_
+3	review	_	NOUN	NN	_	4	nsubj	_	_
+4	found	_	VERB	VBD	_	0	root	_	_
+5	that	_	SCONJ	IN	_	15	mark	_	_
+6	a	_	DET	DT	_	8	det	_	_
+7	@placeholder	_	NOUN	NN	_	8	compound	_	_
+8	article	_	NOUN	NN	_	15	nsubj	_	_
+9	about	_	ADP	IN	_	11	case	_	_
+10	campus	_	NOUN	NN	_	11	compound	_	_
+11	rape	_	NOUN	NN	_	8	nmod	_	_
+12	was	_	VERB	VBD	_	15	cop	_	_
+13	''	_	PUNCT	''	_	0	erased	_	_
+14	deeply	_	ADV	RB	_	15	advmod	_	_
+15	flawed	_	ADJ	JJ	_	4	ccomp	_	_
+16	''	_	PUNCT	''	_	0	erased	_	_
+

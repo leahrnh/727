@@ -1,0 +1,26 @@
+1	he	_	PRON	PRP	_	2	nsubj	_	_
+2	says	_	VERB	VBZ	_	0	root	_	_
+3	without	_	ADP	IN	_	5	case	_	_
+4	smoking	_	NOUN	NN	_	5	compound	_	_
+5	gun	_	NOUN	NN	_	9	nmod	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	it	_	PRON	PRP	_	9	nsubj	_	_
+8	's	_	VERB	VBZ	_	9	cop	_	_
+9	likely	_	ADJ	JJ	_	2	ccomp	_	_
+10	not	_	ADV	RB	_	12	dep	_	_
+11	election	_	NOUN	NN	_	12	compound	_	_
+12	deal	_	NOUN	NN	_	9	dep	_	_
+13	-	_	PUNCT	:	_	0	erased	_	_
+14	breaker	_	NOUN	NN	_	12	dep	_	_
+15	for	_	ADP	IN	_	25	case	_	_
+16	@placeholder	_	ADJ	JJ	_	25	amod	_	_
+17	worried	_	ADJ	JJ	_	25	amod	_	_
+18	about	_	ADP	IN	_	19	case	_	_
+19	issues	_	NOUN	NNS	_	17	nmod	_	_
+20	like	_	ADP	IN	_	21	case	_	_
+21	economy	_	NOUN	NN	_	19	nmod	_	_
+22	,	_	PUNCT	,	_	0	erased	_	_
+23	jobs	_	NOUN	NNS	_	21	appos	_	_
+24	,	_	PUNCT	,	_	0	erased	_	_
+25	schools	_	NOUN	NNS	_	14	nmod	_	_
+

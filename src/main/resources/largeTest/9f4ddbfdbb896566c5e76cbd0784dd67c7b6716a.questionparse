@@ -1,0 +1,13 @@
+1	his	_	PRON	PRP$	_	2	nmod:poss	_	_
+2	memo	_	NOUN	NN	_	3	nsubj	_	_
+3	comes	_	VERB	VBZ	_	0	root	_	_
+4	weeks	_	NOUN	NNS	_	3	nmod:tmod	_	_
+5	after	_	ADP	IN	_	7	case	_	_
+6	a	_	DET	DT	_	7	det	_	_
+7	report	_	NOUN	NN	_	3	nmod	_	_
+8	involving	_	VERB	VBG	_	10	case	_	_
+9	@placeholder	_	NOUN	NN	_	10	compound	_	_
+10	agents	_	NOUN	NNS	_	7	nmod	_	_
+11	and	_	CONJ	CC	_	10	cc	_	_
+12	prostitutes	_	NOUN	NNS	_	10	conj	_	_
+

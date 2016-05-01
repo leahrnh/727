@@ -1,0 +1,12 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	Entity1	_	NOUN	NNS	_	5	nsubjpass	_	_
+3	will	_	AUX	MD	_	5	aux	_	_
+4	be	_	AUX	VB	_	5	auxpass	_	_
+5	used	_	VERB	VBN	_	0	root	_	_
+6	in	_	ADP	IN	_	7	case	_	_
+7	service	_	NOUN	NN	_	5	nmod	_	_
+8	between	_	ADP	IN	_	9	case	_	_
+9	Entity4	_	NOUN	NNS	_	7	nmod	_	_
+10	and	_	CONJ	CC	_	9	cc	_	_
+11	@placeholder	_	NOUN	NN	_	9	conj	_	_
+

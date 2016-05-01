@@ -1,0 +1,13 @@
+1	Entity10	_	PROPN	NNP	_	3	nmod:poss	_	_
+2	's	_	PART	POS	_	1	case	_	_
+3	@placeholder	_	NOUN	NN	_	6	nsubj	_	_
+4	is	_	VERB	VBZ	_	6	cop	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	longest	_	ADJ	JJS	_	0	root	_	_
+7	continuously	_	ADV	RB	_	8	advmod	_	_
+8	produced	_	VERB	VBN	_	6	acl	_	_
+9	military	_	ADJ	JJ	_	10	amod	_	_
+10	plane	_	NOUN	NN	_	8	dobj	_	_
+11	in	_	ADP	IN	_	12	case	_	_
+12	history	_	NOUN	NN	_	10	nmod	_	_
+

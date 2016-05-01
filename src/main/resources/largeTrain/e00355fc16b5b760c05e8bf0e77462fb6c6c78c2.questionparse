@@ -1,0 +1,16 @@
+1	new	_	ADJ	JJ	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	''	_	ADV	RB	_	1	amod	_	_
+4	we	_	PRON	PRP	_	5	nsubj	_	_
+5	acknowledge	_	VERB	VBP	_	3	ccomp	_	_
+6	there	_	PRON	EX	_	9	expl	_	_
+7	is	_	VERB	VBZ	_	9	cop	_	_
+8	a	_	DET	DT	_	9	det	_	_
+9	problem	_	NOUN	NN	_	5	ccomp	_	_
+10	''	_	PUNCT	''	_	0	erased	_	_
+11	with	_	ADP	IN	_	12	case	_	_
+12	gases	_	NOUN	NNS	_	9	nmod	_	_
+13	,	_	PUNCT	,	_	0	erased	_	_
+14	@placeholder	_	CONJ	CC	_	9	cc	_	_
+15	says	_	VERB	VBZ	_	9	conj	_	_
+

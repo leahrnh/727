@@ -1,0 +1,18 @@
+1	there	_	PRON	EX	_	6	expl	_	_
+2	's	_	AUX	VBZ	_	6	auxpass	_	_
+3	been	_	VERB	VBN	_	6	cop	_	_
+4	''	_	PUNCT	''	_	0	erased	_	_
+5	some	_	DET	DT	_	6	det	_	_
+6	progress	_	NOUN	NN	_	0	root	_	_
+7	''	_	PUNCT	''	_	0	erased	_	_
+8	driving	_	VERB	VBG	_	6	xcomp	_	_
+9	back	_	ADP	RP	_	8	compound:prt	_	_
+10	Entity1	_	NOUN	NNS	_	8	dobj	_	_
+11	from	_	ADP	IN	_	14	case	_	_
+12	Entity4	_	PROPN	NNP	_	14	nmod:poss	_	_
+13	's	_	PART	POS	_	12	case	_	_
+14	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+15	,	_	PUNCT	,	_	0	erased	_	_
+16	Entity143	_	NOUN	NNS	_	14	appos	_	_
+17	adds	_	VERB	VBZ	_	16	dep	_	_
+

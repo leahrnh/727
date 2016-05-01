@@ -1,0 +1,14 @@
+1	Entity28	_	ADJ	JJ	_	3	amod	_	_
+2	legend	_	NOUN	NN	_	3	compound	_	_
+3	Entity30	_	NOUN	NNS	_	4	nsubj	_	_
+4	win	_	VERB	VBP	_	0	root	_	_
+5	the	_	DET	DT	_	7	det	_	_
+6	first	_	ADJ	JJ	_	7	amod	_	_
+7	tournament	_	NOUN	NN	_	4	dobj	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	beating	_	VERB	VBG	_	10	amod	_	_
+10	@placeholder	_	NOUN	NN	_	7	appos	_	_
+11	in	_	ADP	IN	_	13	case	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	final	_	ADJ	JJ	_	10	nmod	_	_
+

@@ -1,0 +1,12 @@
+1	Entity8	_	VERB	VB	_	0	root	_	_
+2	left	_	VERB	VBN	_	1	dep	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	Entity9	_	NOUN	NNS	_	2	dobj	_	_
+5	voluntarily	_	ADV	RB	_	2	advmod	_	_
+6	in	_	ADP	IN	_	7	case	_	_
+7	2006	_	NUM	CD	_	2	nmod	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	source	_	NOUN	NN	_	2	dobj	_	_
+10	tells	_	VERB	VBZ	_	9	acl:relcl	_	_
+11	@placeholder	_	NOUN	NN	_	10	dobj	_	_
+

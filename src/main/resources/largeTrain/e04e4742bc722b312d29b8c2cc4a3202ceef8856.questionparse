@@ -1,0 +1,12 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	says	_	VERB	VBZ	_	0	root	_	_
+3	Entity64	_	NOUN	NNS	_	6	nsubjpass	_	_
+4	must	_	AUX	MD	_	6	aux	_	_
+5	be	_	AUX	VB	_	6	auxpass	_	_
+6	involved	_	VERB	VBN	_	2	ccomp	_	_
+7	before	_	SCONJ	IN	_	11	mark	_	_
+8	direct	_	ADJ	JJ	_	9	amod	_	_
+9	talks	_	NOUN	NNS	_	11	nsubj	_	_
+10	can	_	AUX	MD	_	11	aux	_	_
+11	begin	_	VERB	VB	_	6	advcl	_	_
+

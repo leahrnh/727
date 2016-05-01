@@ -1,0 +1,15 @@
+1	@placeholder	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	Entity1	_	NOUN	NNS	_	4	nsubj	_	_
+4	need	_	VERB	VBP	_	1	appos	_	_
+5	a	_	DET	DT	_	8	det	_	_
+6	bold	_	ADJ	JJ	_	8	amod	_	_
+7	budget	_	NOUN	NN	_	8	compound	_	_
+8	plan	_	NOUN	NN	_	4	dobj	_	_
+9	that	_	DET	WDT	_	10	nsubj	_	_
+10	relies	_	VERB	VBZ	_	8	acl:relcl	_	_
+11	more	_	ADJ	JJR	_	10	dobj	_	_
+12	on	_	ADP	IN	_	14	case	_	_
+13	spending	_	VERB	VBG	_	14	amod	_	_
+14	cuts	_	NOUN	NNS	_	10	nmod	_	_
+

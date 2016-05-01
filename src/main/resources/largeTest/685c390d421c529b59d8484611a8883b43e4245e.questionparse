@@ -1,0 +1,16 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	says	_	VERB	VBZ	_	0	root	_	_
+3	it	_	PRON	PRP	_	5	nsubj	_	_
+4	will	_	AUX	MD	_	5	aux	_	_
+5	begin	_	VERB	VB	_	2	ccomp	_	_
+6	exporting	_	VERB	VBG	_	7	amod	_	_
+7	Entity2	_	NOUN	NNS	_	5	dobj	_	_
+8	-	_	PUNCT	:	_	0	erased	_	_
+9	built	_	VERB	VBN	_	15	csubj	_	_
+10	cars	_	NOUN	NNS	_	9	dobj	_	_
+11	to	_	ADP	TO	_	13	case	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	Entity6	_	NOUN	NNS	_	9	nmod	_	_
+14	in	_	ADP	IN	_	13	case	_	_
+15	may	_	AUX	MD	_	2	parataxis	_	_
+

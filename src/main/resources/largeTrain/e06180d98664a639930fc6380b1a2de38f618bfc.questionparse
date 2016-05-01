@@ -1,0 +1,11 @@
+1	Entity2	_	ADV	RB	_	2	advmod	_	_
+2	warned	_	VERB	VBD	_	0	root	_	_
+3	@placeholder	_	NOUN	NN	_	2	dobj	_	_
+4	about	_	ADP	IN	_	6	case	_	_
+5	potential	_	ADJ	JJ	_	6	amod	_	_
+6	Entity6	_	NOUN	NNS	_	2	nmod	_	_
+7	attack	_	NOUN	NN	_	2	nsubj	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	source	_	NOUN	NN	_	7	appos	_	_
+10	says	_	VERB	VBZ	_	9	dep	_	_
+

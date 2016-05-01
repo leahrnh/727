@@ -1,0 +1,17 @@
+1	Entity46	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	domestic	_	ADJ	JJ	_	4	amod	_	_
+4	violence	_	NOUN	NN	_	5	nsubj	_	_
+5	goes	_	VERB	VBZ	_	1	parataxis	_	_
+6	against	_	ADP	IN	_	8	case	_	_
+7	@placeholder	_	NOUN	NN	_	8	compound	_	_
+8	teachings	_	NOUN	NNS	_	5	nmod	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	but	_	ADP	IN	_	12	case	_	_
+11	''	_	PUNCT	''	_	0	erased	_	_
+12	denial	_	NOUN	NN	_	5	nmod	_	_
+13	''	_	PUNCT	''	_	0	erased	_	_
+14	is	_	VERB	VBZ	_	16	cop	_	_
+15	a	_	DET	DT	_	16	det	_	_
+16	problem	_	NOUN	NN	_	12	acl:relcl	_	_
+

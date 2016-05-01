@@ -1,0 +1,18 @@
+1	a	_	DET	DT	_	2	det	_	_
+2	selection	_	NOUN	NN	_	9	nsubj	_	_
+3	of	_	ADP	IN	_	4	case	_	_
+4	notes	_	NOUN	NNS	_	2	nmod	_	_
+5	from	_	ADP	IN	_	7	case	_	_
+6	Entity11	_	ADJ	JJ	_	7	amod	_	_
+7	artist	_	NOUN	NN	_	4	nmod	_	_
+8	's	_	VERB	VBZ	_	9	cop	_	_
+9	1,500	_	NUM	CD	_	0	root	_	_
+10	-	_	PUNCT	:	_	0	erased	_	_
+11	note	_	NOUN	NN	_	12	compound	_	_
+12	collection	_	NOUN	NN	_	13	nsubj	_	_
+13	goes	_	VERB	VBZ	_	9	parataxis	_	_
+14	on	_	ADP	IN	_	15	case	_	_
+15	display	_	NOUN	NN	_	13	nmod	_	_
+16	in	_	ADP	IN	_	17	case	_	_
+17	@placeholder	_	NOUN	NN	_	15	nmod	_	_
+

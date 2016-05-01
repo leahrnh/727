@@ -1,0 +1,11 @@
+1	captain	_	NOUN	NN	_	2	compound	_	_
+2	@placeholder	_	NOUN	NN	_	4	nsubjpass	_	_
+3	is	_	AUX	VBZ	_	4	auxpass	_	_
+4	injured	_	VERB	VBN	_	0	root	_	_
+5	while	_	SCONJ	IN	_	10	mark	_	_
+6	defensive	_	ADJ	JJ	_	8	amod	_	_
+7	partner	_	NOUN	NN	_	8	compound	_	_
+8	Entity7	_	NOUN	NNS	_	10	nsubjpass	_	_
+9	is	_	AUX	VBZ	_	10	auxpass	_	_
+10	suspended	_	VERB	VBN	_	4	advcl	_	_
+

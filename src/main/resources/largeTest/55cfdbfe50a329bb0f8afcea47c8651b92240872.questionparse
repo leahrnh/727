@@ -1,0 +1,15 @@
+1	wave	_	NOUN	NN	_	7	nsubj	_	_
+2	of	_	ADP	IN	_	5	case	_	_
+3	deadly	_	ADJ	JJ	_	5	amod	_	_
+4	anti-immigrant	_	ADJ	JJ	_	5	amod	_	_
+5	violence	_	NOUN	NN	_	1	nmod	_	_
+6	has	_	AUX	VBZ	_	7	aux	_	_
+7	caused	_	VERB	VBN	_	0	root	_	_
+8	thousands	_	NOUN	NNS	_	7	dobj	_	_
+9	to	_	PART	TO	_	10	mark	_	_
+10	flee	_	VERB	VB	_	7	advcl	_	_
+11	their	_	PRON	PRP$	_	12	nmod:poss	_	_
+12	homes	_	NOUN	NNS	_	10	dobj	_	_
+13	in	_	ADP	IN	_	14	case	_	_
+14	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+

@@ -1,0 +1,17 @@
+1	Entity4	_	ADJ	JJ	_	2	amod	_	_
+2	Entity266	_	NOUN	NNS	_	0	root	_	_
+3	says	_	VERB	VBZ	_	2	dep	_	_
+4	arrests	_	NOUN	NNS	_	3	dobj	_	_
+5	are	_	VERB	VBP	_	7	cop	_	_
+6	''	_	PUNCT	''	_	0	erased	_	_
+7	regrettable	_	NOUN	NN	_	4	acl:relcl	_	_
+8	''	_	PUNCT	''	_	0	erased	_	_
+9	against	_	ADP	IN	_	10	case	_	_
+10	background	_	NOUN	NN	_	4	nmod	_	_
+11	of	_	ADP	IN	_	13	case	_	_
+12	renewed	_	VERB	VBN	_	13	amod	_	_
+13	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+14	-	_	PUNCT	:	_	0	erased	_	_
+15	Entity4	_	NOUN	NNS	_	2	dep	_	_
+16	relations	_	NOUN	NNS	_	15	dep	_	_
+

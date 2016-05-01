@@ -1,0 +1,13 @@
+1	allegations	_	ADV	RB	_	3	advmod	_	_
+2	that	_	DET	DT	_	3	det	_	_
+3	@placeholder	_	NOUN	NN	_	0	root	_	_
+4	/	_	PUNCT	:	_	0	erased	_	_
+5	Entity116	_	ADJ	JJ	_	7	amod	_	_
+6	crash	_	NOUN	NN	_	7	compound	_	_
+7	probe	_	NOUN	NN	_	9	nsubjpass	_	_
+8	was	_	AUX	VBD	_	9	auxpass	_	_
+9	flawed	_	VERB	VBN	_	3	parataxis	_	_
+10	fuels	_	ADJ	JJ	_	12	amod	_	_
+11	conspiracy	_	NOUN	NN	_	12	compound	_	_
+12	theories	_	NOUN	NNS	_	9	dobj	_	_
+

@@ -1,0 +1,10 @@
+1	despite	_	ADP	IN	_	5	case	_	_
+2	@placeholder	_	NOUN	NN	_	5	nmod:poss	_	_
+3	's	_	PART	POS	_	2	case	_	_
+4	depressed	_	ADJ	JJ	_	5	amod	_	_
+5	economy	_	NOUN	NN	_	9	nmod	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	sales	_	NOUN	NNS	_	9	nsubj	_	_
+8	were	_	VERB	VBD	_	9	cop	_	_
+9	brisk	_	ADJ	JJ	_	0	root	_	_
+

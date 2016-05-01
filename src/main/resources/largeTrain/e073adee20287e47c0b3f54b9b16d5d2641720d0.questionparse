@@ -1,0 +1,17 @@
+1	Entity9	_	PROPN	NNP	_	0	root	_	_
+2	finish	_	VERB	VBP	_	1	dep	_	_
+3	three	_	NUM	CD	_	4	nummod	_	_
+4	points	_	NOUN	NNS	_	2	dobj	_	_
+5	behind	_	ADP	RP	_	2	compound:prt	_	_
+6	in	_	ADP	IN	_	8	case	_	_
+7	second	_	ADJ	JJ	_	8	amod	_	_
+8	place	_	NOUN	NN	_	2	nmod	_	_
+9	after	_	ADP	IN	_	11	case	_	_
+10	a	_	DET	DT	_	11	det	_	_
+11	1	_	NUM	CD	_	2	nmod	_	_
+12	-	_	PUNCT	:	_	0	erased	_	_
+13	1	_	NUM	CD	_	14	nummod	_	_
+14	draw	_	NOUN	NN	_	1	dep	_	_
+15	at	_	ADP	IN	_	16	case	_	_
+16	@placeholder	_	NOUN	NN	_	14	nmod	_	_
+

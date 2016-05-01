@@ -1,0 +1,14 @@
+1	the	_	DET	DT	_	3	det	_	_
+2	death	_	NOUN	NN	_	3	compound	_	_
+3	toll	_	NOUN	NN	_	13	nsubj	_	_
+4	in	_	ADP	IN	_	6	case	_	_
+5	@placeholder	_	NOUN	NN	_	6	compound	_	_
+6	rises	_	NOUN	NNS	_	3	nmod	_	_
+7	to	_	ADP	TO	_	8	case	_	_
+8	3,218	_	NUM	CD	_	6	nmod	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	a	_	DET	DT	_	12	det	_	_
+11	government	_	NOUN	NN	_	12	compound	_	_
+12	official	_	NOUN	NN	_	8	appos	_	_
+13	says	_	VERB	VBZ	_	0	root	_	_
+

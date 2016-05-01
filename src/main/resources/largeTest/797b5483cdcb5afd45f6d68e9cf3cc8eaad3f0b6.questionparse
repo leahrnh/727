@@ -1,0 +1,30 @@
+1	she	_	PRON	PRP	_	2	nsubj	_	_
+2	says	_	VERB	VBZ	_	0	root	_	_
+3	especially	_	ADV	RB	_	2	advmod	_	_
+4	in	_	ADP	IN	_	6	case	_	_
+5	global	_	ADJ	JJ	_	6	amod	_	_
+6	context	_	NOUN	NN	_	2	nmod	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	trust	_	NOUN	NN	_	6	appos	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	respect	_	VERB	VB	_	2	ccomp	_	_
+11	important	_	ADJ	JJ	_	10	xcomp	_	_
+12	for	_	ADP	IN	_	15	case	_	_
+13	the	_	DET	DT	_	15	det	_	_
+14	potential	_	ADJ	JJ	_	15	amod	_	_
+15	leader	_	NOUN	NN	_	10	nmod	_	_
+16	of	_	ADP	IN	_	18	case	_	_
+17	free	_	ADJ	JJ	_	18	amod	_	_
+18	world	_	NOUN	NN	_	15	nmod	_	_
+19	,	_	PUNCT	,	_	0	erased	_	_
+20	not	_	PART	RB	_	10	dep	_	_
+21	familiarity	_	ADJ	JJ	_	20	dep	_	_
+22	.	_	PUNCT	.	_	0	erased	_	_
+
+1	just	_	ADV	RB	_	3	advmod	_	_
+2	'	_	PUNCT	``	_	0	erased	_	_
+3	@placeholder	_	VERB	VBP	_	0	root	_	_
+4	'	_	PUNCT	''	_	0	erased	_	_
+5	not	_	ADV	RB	_	6	neg	_	_
+6	appropriate	_	ADJ	JJ	_	3	advcl	_	_
+

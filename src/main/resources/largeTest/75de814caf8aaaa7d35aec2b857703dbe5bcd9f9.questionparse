@@ -1,0 +1,26 @@
+1	Entity251	_	VERB	VBG	_	12	advcl	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	@placeholder	_	NOUN	NN	_	4	nsubj	_	_
+4	see	_	VERB	VB	_	1	ccomp	_	_
+5	their	_	PRON	PRP$	_	6	nmod:poss	_	_
+6	community	_	NOUN	NN	_	4	dobj	_	_
+7	besieged	_	VERB	VBN	_	6	acl	_	_
+8	around	_	ADP	IN	_	9	case	_	_
+9	world	_	NOUN	NN	_	7	nmod	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	some	_	DET	DT	_	12	nsubj	_	_
+12	think	_	VERB	VBP	_	0	root	_	_
+13	solution	_	NOUN	NN	_	15	nsubj	_	_
+14	is	_	VERB	VBZ	_	15	cop	_	_
+15	violence	_	NOUN	NN	_	12	ccomp	_	_
+16	.	_	PUNCT	.	_	0	erased	_	_
+
+1	they	_	PRON	PRP	_	4	nsubjpass	_	_
+2	must	_	AUX	MD	_	4	aux	_	_
+3	be	_	AUX	VB	_	4	auxpass	_	_
+4	shown	_	VERB	VBN	_	0	root	_	_
+5	other	_	ADJ	JJ	_	6	amod	_	_
+6	way	_	NOUN	NN	_	4	dobj	_	_
+7	to	_	PART	TO	_	8	mark	_	_
+8	help	_	VERB	VB	_	4	advcl	_	_
+

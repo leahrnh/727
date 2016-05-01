@@ -1,0 +1,14 @@
+1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+2	designers	_	NOUN	NNS	_	0	root	_	_
+3	raising	_	NOUN	NN	_	4	compound	_	_
+4	profiles	_	NOUN	NNS	_	2	dep	_	_
+5	in	_	ADP	IN	_	9	case	_	_
+6	the	_	DET	DT	_	9	det	_	_
+7	traditional	_	ADJ	JJ	_	9	amod	_	_
+8	style	_	NOUN	NN	_	9	compound	_	_
+9	capitals	_	NOUN	NN	_	4	nmod	_	_
+10	like	_	ADP	IN	_	11	case	_	_
+11	Entity0	_	NOUN	NNS	_	9	nmod	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	Entity28	_	NOUN	NNS	_	11	appos	_	_
+

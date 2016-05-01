@@ -1,0 +1,11 @@
+1	Entity126	_	ADJ	JJ	_	3	amod	_	_
+2	edge	_	NOUN	NN	_	3	compound	_	_
+3	@placeholder	_	NOUN	NN	_	0	root	_	_
+4	1	_	NUM	CD	_	3	dep	_	_
+5	-	_	PUNCT	:	_	0	erased	_	_
+6	0	_	NUM	CD	_	3	dep	_	_
+7	in	_	ADP	IN	_	8	case	_	_
+8	Entity129	_	NOUN	NNS	_	6	nmod	_	_
+9	in	_	ADP	IN	_	10	case	_	_
+10	Entity123	_	NOUN	NNS	_	8	nmod	_	_
+

@@ -1,0 +1,11 @@
+1	Entity97	_	PROPN	NNP	_	2	nsubj	_	_
+2	closes	_	VERB	VBZ	_	0	root	_	_
+3	gap	_	NOUN	NN	_	2	dobj	_	_
+4	on	_	ADP	IN	_	5	case	_	_
+5	@placeholder	_	NOUN	NN	_	2	nmod	_	_
+6	in	_	ADP	IN	_	7	case	_	_
+7	Entity130	_	NOUN	NNS	_	5	nmod	_	_
+8	to	_	ADP	TO	_	10	case	_	_
+9	seven	_	NUM	CD	_	10	nummod	_	_
+10	points	_	NOUN	NNS	_	7	nmod	_	_
+

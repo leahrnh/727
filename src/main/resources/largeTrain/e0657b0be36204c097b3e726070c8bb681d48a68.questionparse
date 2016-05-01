@@ -1,0 +1,11 @@
+1	Entity10	_	ADJ	JJ	_	2	amod	_	_
+2	notes	_	NOUN	NNS	_	0	root	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	lack	_	NOUN	NN	_	2	dep	_	_
+5	of	_	ADP	IN	_	6	case	_	_
+6	charges	_	NOUN	NNS	_	4	nmod	_	_
+7	in	_	ADP	IN	_	10	case	_	_
+8	the	_	DET	DT	_	10	det	_	_
+9	@placeholder	_	NOUN	NN	_	10	compound	_	_
+10	case	_	NOUN	NN	_	6	nmod	_	_
+

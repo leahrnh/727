@@ -1,0 +1,17 @@
+1	Entity133	_	PROPN	NNP	_	7	nsubj	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	28	_	NUM	CD	_	1	amod	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	of	_	ADP	IN	_	6	case	_	_
+6	@placeholder	_	NOUN	NN	_	1	nmod	_	_
+7	accused	_	VERB	VBD	_	0	root	_	_
+8	of	_	SCONJ	IN	_	9	mark	_	_
+9	knowing	_	VERB	VBG	_	7	advcl	_	_
+10	about	_	ADP	IN	_	12	case	_	_
+11	bomb	_	NOUN	NN	_	12	compound	_	_
+12	plot	_	NOUN	NN	_	9	nmod	_	_
+13	but	_	CONJ	CC	_	14	cc	_	_
+14	not	_	ADV	RB	_	9	cc	_	_
+15	contacting	_	VERB	VBG	_	9	conj	_	_
+16	authorities	_	NOUN	NNS	_	15	dobj	_	_
+

@@ -1,0 +1,8 @@
+1	host	_	NOUN	NN	_	2	compound	_	_
+2	@placeholder	_	NOUN	NN	_	3	nsubj	_	_
+3	thought	_	VERB	VBD	_	0	root	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	error	_	NOUN	NN	_	7	nsubj	_	_
+6	was	_	VERB	VBD	_	7	cop	_	_
+7	hilarious	_	ADJ	JJ	_	3	ccomp	_	_
+

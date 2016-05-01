@@ -1,0 +1,12 @@
+1	@placeholder	_	NOUN	NN	_	3	nmod:poss	_	_
+2	's	_	PART	POS	_	1	case	_	_
+3	family	_	NOUN	NN	_	4	nsubj	_	_
+4	sought	_	VERB	VBD	_	0	root	_	_
+5	shelter	_	NOUN	NN	_	4	dobj	_	_
+6	in	_	ADP	IN	_	8	case	_	_
+7	a	_	DET	DT	_	8	det	_	_
+8	mosque	_	NOUN	NN	_	4	nmod	_	_
+9	before	_	SCONJ	IN	_	10	mark	_	_
+10	fleeing	_	VERB	VBG	_	4	advcl	_	_
+11	Entity14	_	NOUN	NNS	_	10	dobj	_	_
+

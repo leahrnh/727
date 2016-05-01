@@ -1,0 +1,11 @@
+1	Entity2	_	PROPN	NNP	_	2	nsubj	_	_
+2	studied	_	VERB	VBN	_	0	root	_	_
+3	at	_	ADP	IN	_	4	case	_	_
+4	@placeholder	_	NOUN	NN	_	2	nmod	_	_
+5	but	_	CONJ	CC	_	2	cc	_	_
+6	left	_	VERB	VBD	_	2	conj	_	_
+7	in	_	ADP	IN	_	8	case	_	_
+8	cloud	_	NOUN	NN	_	6	nmod	_	_
+9	of	_	ADP	IN	_	10	case	_	_
+10	controversy	_	NOUN	NN	_	8	nmod	_	_
+

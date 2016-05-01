@@ -1,0 +1,13 @@
+1	@placeholder	_	NOUN	NN	_	4	nsubj	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	wife	_	NOUN	NN	_	1	conj	_	_
+4	pleaded	_	VERB	VBD	_	0	root	_	_
+5	guilty	_	ADJ	JJ	_	4	xcomp	_	_
+6	to	_	ADP	TO	_	7	case	_	_
+7	charges	_	NOUN	NNS	_	5	nmod	_	_
+8	in	_	ADP	IN	_	12	case	_	_
+9	''	_	PUNCT	''	_	0	erased	_	_
+10	Entity7	_	NOUN	NN	_	12	compound	_	_
+11	''	_	PUNCT	''	_	0	erased	_	_
+12	hoax	_	NOUN	NN	_	4	nmod	_	_
+

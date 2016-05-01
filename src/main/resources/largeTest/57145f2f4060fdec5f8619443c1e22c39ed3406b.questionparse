@@ -1,0 +1,13 @@
+1	Entity9	_	NOUN	NN	_	5	nsubj	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	@placeholder	_	NOUN	NN	_	1	conj	_	_
+4	are	_	VERB	VBP	_	5	cop	_	_
+5	members	_	NOUN	NNS	_	0	root	_	_
+6	of	_	ADP	IN	_	7	case	_	_
+7	the	_	DET	DT	_	5	nmod	_	_
+8	''	_	PUNCT	''	_	0	erased	_	_
+9	Entity7	_	VERB	VBG	_	5	dep	_	_
+10	''	_	PUNCT	''	_	0	erased	_	_
+11	drug	_	NOUN	NN	_	12	compound	_	_
+12	syndicate	_	NOUN	NN	_	9	dobj	_	_
+

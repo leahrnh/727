@@ -1,0 +1,19 @@
+1	''	_	ADJ	JJ	_	2	amod	_	_
+2	@placeholder	_	NOUN	NN	_	7	nsubj	_	_
+3	may	_	AUX	MD	_	7	aux	_	_
+4	be	_	VERB	VB	_	7	cop	_	_
+5	a	_	DET	DT	_	7	det	_	_
+6	little	_	ADJ	JJ	_	7	amod	_	_
+7	crude	_	NOUN	NN	_	0	root	_	_
+8	but	_	CONJ	CC	_	12	cc	_	_
+9	his	_	PRON	PRP$	_	10	nmod:poss	_	_
+10	heart	_	NOUN	NN	_	12	nsubj	_	_
+11	is	_	VERB	VBZ	_	12	cop	_	_
+12	good	_	ADJ	JJ	_	7	dep	_	_
+13	,	_	PUNCT	,	_	0	erased	_	_
+14	''	_	PUNCT	''	_	0	erased	_	_
+15	Entity300	_	NOUN	NNS	_	16	nsubj	_	_
+16	says	_	VERB	VBZ	_	12	parataxis	_	_
+17	on	_	ADP	IN	_	18	case	_	_
+18	Entity25	_	NOUN	NNS	_	12	nmod	_	_
+

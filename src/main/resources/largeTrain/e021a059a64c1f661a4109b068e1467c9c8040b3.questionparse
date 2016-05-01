@@ -1,0 +1,13 @@
+1	his	_	PRON	PRP$	_	2	nmod:poss	_	_
+2	tv	_	NOUN	NN	_	9	nsubj	_	_
+3	series	_	NOUN	NN	_	2	dep	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	''	_	PUNCT	''	_	0	erased	_	_
+6	@placeholder	_	NOUN	NN	_	2	dep	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	''	_	PUNCT	''	_	0	erased	_	_
+9	airs	_	VERB	VBZ	_	0	root	_	_
+10	on	_	ADP	IN	_	12	case	_	_
+11	Entity195	_	ADJ	JJ	_	12	amod	_	_
+12	stations	_	NOUN	NNS	_	9	nmod	_	_
+

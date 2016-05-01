@@ -1,0 +1,23 @@
+1	@placeholder	_	NOUN	NN	_	3	nsubj	_	_
+2	should	_	AUX	MD	_	3	aux	_	_
+3	say	_	VERB	VB	_	0	root	_	_
+4	that	_	SCONJ	IN	_	10	mark	_	_
+5	if	_	SCONJ	IN	_	6	mark	_	_
+6	elected	_	VERB	VBN	_	10	advcl	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	she	_	PRON	PRP	_	10	nsubj	_	_
+9	will	_	AUX	MD	_	10	aux	_	_
+10	take	_	VERB	VB	_	3	ccomp	_	_
+11	a	_	DET	DT	_	14	det	_	_
+12	23	_	NUM	CD	_	13	compound	_	_
+13	%	_	SYM	NN	_	14	amod	_	_
+14	pay	_	NOUN	NN	_	10	dobj	_	_
+15	cut	_	VERB	VBN	_	14	acl	_	_
+16	to	_	PART	TO	_	17	mark	_	_
+17	stand	_	VERB	VB	_	15	xcomp	_	_
+18	in	_	ADP	IN	_	19	case	_	_
+19	solidarity	_	NOUN	NN	_	17	nmod	_	_
+20	with	_	ADP	IN	_	22	case	_	_
+21	working	_	VERB	VBG	_	22	amod	_	_
+22	women	_	NOUN	NNS	_	17	nmod	_	_
+

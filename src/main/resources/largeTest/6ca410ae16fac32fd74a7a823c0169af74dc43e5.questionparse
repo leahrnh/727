@@ -1,0 +1,15 @@
+1	Entity177	_	PROPN	NNP	_	2	nsubj	_	_
+2	died	_	VERB	VBD	_	0	root	_	_
+3	five	_	NUM	CD	_	4	nummod	_	_
+4	days	_	NOUN	NNS	_	2	nmod:tmod	_	_
+5	after	_	SCONJ	IN	_	8	mark	_	_
+6	he	_	PRON	PRP	_	8	nsubjpass	_	_
+7	was	_	AUX	VBD	_	8	auxpass	_	_
+8	beaten	_	VERB	VBN	_	2	advcl	_	_
+9	by	_	ADP	IN	_	10	case	_	_
+10	police	_	NOUN	NNS	_	8	nmod	_	_
+11	in	_	ADP	IN	_	12	case	_	_
+12	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+13	,	_	PUNCT	,	_	0	erased	_	_
+14	Entity169	_	NOUN	NNS	_	12	appos	_	_
+

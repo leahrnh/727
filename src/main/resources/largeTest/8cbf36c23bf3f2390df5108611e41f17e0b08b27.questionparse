@@ -1,0 +1,16 @@
+1	@placeholder	_	NOUN	NN	_	5	nsubj	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	Entity3	_	NOUN	NNS	_	1	conj	_	_
+4	-	_	PUNCT	:	_	0	erased	_	_
+5	led	_	VERB	VBD	_	0	root	_	_
+6	coalition	_	NOUN	NN	_	7	compound	_	_
+7	forces	_	NOUN	NNS	_	8	nsubj	_	_
+8	say	_	VERB	VBP	_	5	ccomp	_	_
+9	they	_	PRON	PRP	_	10	nsubj	_	_
+10	retook	_	VERB	VBP	_	8	ccomp	_	_
+11	a	_	DET	DT	_	13	det	_	_
+12	key	_	ADJ	JJ	_	13	amod	_	_
+13	refinery	_	NOUN	NN	_	10	dobj	_	_
+14	from	_	ADP	IN	_	15	case	_	_
+15	Entity5	_	NOUN	NNS	_	10	nmod	_	_
+

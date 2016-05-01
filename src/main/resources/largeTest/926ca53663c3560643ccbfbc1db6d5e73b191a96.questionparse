@@ -1,0 +1,13 @@
+1	cars	_	NOUN	NNS	_	7	nsubj	_	_
+2	are	_	VERB	VBP	_	7	cop	_	_
+3	no	_	ADV	RB	_	4	neg	_	_
+4	longer	_	ADV	RB	_	7	advmod	_	_
+5	the	_	DET	DT	_	7	det	_	_
+6	status	_	NOUN	NN	_	7	compound	_	_
+7	symbol	_	NOUN	NN	_	0	root	_	_
+8	they	_	PRON	PRP	_	12	nsubj	_	_
+9	once	_	ADV	RB	_	12	advmod	_	_
+10	were	_	VERB	VBD	_	12	cop	_	_
+11	in	_	ADP	IN	_	12	case	_	_
+12	@placeholder	_	NOUN	NN	_	7	acl:relcl	_	_
+

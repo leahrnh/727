@@ -1,0 +1,17 @@
+1	@placeholder	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	report	_	NOUN	NN	_	5	nsubj	_	_
+4	should	_	AUX	MD	_	5	aux	_	_
+5	end	_	VERB	VB	_	1	appos	_	_
+6	mass	_	ADJ	JJ	_	7	amod	_	_
+7	screenings	_	NOUN	NNS	_	5	dobj	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	but	_	CONJ	CC	_	5	cc	_	_
+10	it	_	PRON	PRP	_	13	nsubj	_	_
+11	will	_	AUX	MD	_	13	aux	_	_
+12	be	_	VERB	VB	_	13	cop	_	_
+13	tough	_	ADJ	JJ	_	5	conj	_	_
+14	to	_	PART	TO	_	15	mark	_	_
+15	slow	_	VERB	VB	_	13	xcomp	_	_
+16	industry	_	NOUN	NN	_	15	dobj	_	_
+

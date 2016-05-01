@@ -1,0 +1,12 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	months	_	NOUN	NNS	_	0	root	_	_
+3	-	_	PUNCT	:	_	0	erased	_	_
+4	long	_	ADJ	JJ	_	6	amod	_	_
+5	murder	_	NOUN	NN	_	6	compound	_	_
+6	trial	_	NOUN	NN	_	9	nsubj	_	_
+7	of	_	ADP	IN	_	8	case	_	_
+8	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+9	brought	_	VERB	VBD	_	2	parataxis	_	_
+10	jurors	_	NOUN	NNS	_	9	dobj	_	_
+11	together	_	ADV	RB	_	9	advmod	_	_
+

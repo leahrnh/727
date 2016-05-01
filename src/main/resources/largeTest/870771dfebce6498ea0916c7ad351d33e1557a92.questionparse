@@ -1,0 +1,14 @@
+1	no	_	ADV	RB	_	3	advmod	_	_
+2	''	_	PUNCT	''	_	0	erased	_	_
+3	dangerous	_	VERB	VBN	_	12	advcl	_	_
+4	''	_	PUNCT	''	_	0	erased	_	_
+5	substances	_	NOUN	NNS	_	3	dobj	_	_
+6	on	_	ADP	IN	_	8	case	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	submarine	_	NOUN	NN	_	3	nmod	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	shipyard	_	NOUN	NN	_	11	compound	_	_
+11	spokesman	_	NOUN	NN	_	12	nsubj	_	_
+12	told	_	VERB	VBD	_	0	root	_	_
+13	@placeholder	_	NOUN	NN	_	12	dobj	_	_
+

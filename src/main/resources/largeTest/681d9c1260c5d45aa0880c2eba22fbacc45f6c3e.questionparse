@@ -1,0 +1,13 @@
+1	@placeholder	_	ADV	RB	_	3	advmod	_	_
+2	was	_	AUX	VBD	_	3	auxpass	_	_
+3	freed	_	VERB	VBN	_	0	root	_	_
+4	apri	_	NOUN	NNS	_	3	dobj	_	_
+5	3	_	NUM	CD	_	3	nsubjpass	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	decades	_	NOUN	NNS	_	5	appos	_	_
+8	after	_	ADP	IN	_	9	case	_	_
+9	conviction	_	NOUN	NN	_	7	nmod	_	_
+10	for	_	ADP	IN	_	12	case	_	_
+11	two	_	NUM	CD	_	12	nummod	_	_
+12	murders	_	NOUN	NNS	_	9	nmod	_	_
+

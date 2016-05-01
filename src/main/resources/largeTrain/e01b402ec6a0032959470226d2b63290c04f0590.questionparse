@@ -1,0 +1,14 @@
+1	at	_	ADP	IN	_	5	case	_	_
+2	@placeholder	_	NOUN	NN	_	5	nmod:poss	_	_
+3	's	_	PART	POS	_	2	case	_	_
+4	50th	_	ADJ	JJ	_	5	amod	_	_
+5	anniversary	_	NOUN	NN	_	13	nmod	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	50,000	_	NUM	CD	_	8	nummod	_	_
+8	Entity3	_	NOUN	NNS	_	5	appos	_	_
+9	and	_	CONJ	CC	_	8	cc	_	_
+10	Entity15	_	ADJ	JJ	_	11	amod	_	_
+11	veterans	_	NOUN	NNS	_	8	conj	_	_
+12	re-enacted	_	ADJ	JJ	_	13	amod	_	_
+13	battle	_	NOUN	NN	_	0	root	_	_
+

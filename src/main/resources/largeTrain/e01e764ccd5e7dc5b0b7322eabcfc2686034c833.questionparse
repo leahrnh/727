@@ -1,0 +1,16 @@
+1	Entity139	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	justice	_	NOUN	NN	_	5	compound	_	_
+4	@placeholder	_	NOUN	NN	_	5	compound	_	_
+5	rules	_	NOUN	NNS	_	9	nsubj	_	_
+6	federal	_	ADJ	JJ	_	7	amod	_	_
+7	ban	_	NOUN	NN	_	8	nmod:npmod	_	_
+8	unfairly	_	ADV	RB	_	9	advmod	_	_
+9	treats	_	VERB	VBZ	_	1	parataxis	_	_
+10	children	_	NOUN	NNS	_	9	dobj	_	_
+11	of	_	ADP	IN	_	15	case	_	_
+12	same	_	ADJ	JJ	_	15	amod	_	_
+13	-	_	ADJ	JJ	_	15	amod	_	_
+14	sex	_	NOUN	NN	_	15	compound	_	_
+15	couples	_	NOUN	NNS	_	10	nmod	_	_
+

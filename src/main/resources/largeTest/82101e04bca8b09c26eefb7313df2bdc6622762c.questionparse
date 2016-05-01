@@ -1,0 +1,13 @@
+1	Entity1	_	PROPN	NNP	_	2	nsubj	_	_
+2	opposes	_	VERB	VBZ	_	0	root	_	_
+3	Entity4	_	PROPN	NNP	_	5	nmod:poss	_	_
+4	's	_	PART	POS	_	3	case	_	_
+5	plans	_	NOUN	NNS	_	2	dobj	_	_
+6	to	_	PART	TO	_	7	mark	_	_
+7	drill	_	VERB	VB	_	5	acl	_	_
+8	for	_	ADP	IN	_	9	case	_	_
+9	oil	_	NOUN	NN	_	7	nmod	_	_
+10	in	_	ADP	IN	_	12	case	_	_
+11	the	_	DET	DT	_	12	det	_	_
+12	@placeholder	_	NOUN	NN	_	9	nmod	_	_
+

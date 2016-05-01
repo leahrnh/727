@@ -1,0 +1,15 @@
+1	@placeholder	_	NOUN	NN	_	3	nmod:poss	_	_
+2	's	_	PART	POS	_	1	case	_	_
+3	attack	_	NOUN	NN	_	8	nsubj	_	_
+4	on	_	ADP	IN	_	5	case	_	_
+5	Entity2	_	NOUN	NNS	_	3	nmod	_	_
+6	is	_	VERB	VBZ	_	8	cop	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	group	_	NOUN	NN	_	0	root	_	_
+9	's	_	PART	POS	_	8	case	_	_
+10	deadliest	_	ADJ	JJS	_	8	amod	_	_
+11	so	_	ADV	RB	_	12	advmod	_	_
+12	far	_	ADV	RB	_	8	advmod	_	_
+13	in	_	ADP	IN	_	14	case	_	_
+14	Entity5	_	NOUN	NNS	_	12	nmod	_	_
+

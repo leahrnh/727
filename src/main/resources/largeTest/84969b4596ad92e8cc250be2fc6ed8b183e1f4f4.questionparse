@@ -1,0 +1,14 @@
+1	@placeholder	_	NOUN	NN	_	4	nmod:poss	_	_
+2	's	_	PART	POS	_	1	case	_	_
+3	district	_	NOUN	NN	_	4	compound	_	_
+4	attorney	_	NOUN	NN	_	5	nsubj	_	_
+5	banned	_	VERB	VBD	_	0	root	_	_
+6	prosecutors	_	NOUN	NNS	_	5	dobj	_	_
+7	from	_	SCONJ	IN	_	8	mark	_	_
+8	offering	_	VERB	VBG	_	5	advcl	_	_
+9	female	_	ADJ	JJ	_	10	amod	_	_
+10	sterilization	_	NOUN	NN	_	8	dobj	_	_
+11	in	_	ADP	IN	_	13	case	_	_
+12	plea	_	NOUN	NN	_	13	compound	_	_
+13	deals	_	NOUN	NNS	_	8	nmod	_	_
+

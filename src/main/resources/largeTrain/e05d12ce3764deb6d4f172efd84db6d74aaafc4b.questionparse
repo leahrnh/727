@@ -1,0 +1,15 @@
+1	@placeholder	_	VERB	VB	_	0	root	_	_
+2	holed	_	VERB	VBN	_	1	dep	_	_
+3	a	_	DET	DT	_	6	det	_	_
+4	53	_	NUM	CD	_	6	nummod	_	_
+5	foot	_	NOUN	NN	_	6	compound	_	_
+6	putt	_	NOUN	NN	_	2	dobj	_	_
+7	on	_	ADP	IN	_	9	case	_	_
+8	his	_	PRON	PRP$	_	9	nmod:poss	_	_
+9	way	_	NOUN	NN	_	6	nmod	_	_
+10	to	_	ADP	TO	_	12	case	_	_
+11	a	_	DET	DT	_	12	det	_	_
+12	round	_	NOUN	NN	_	2	nmod	_	_
+13	of	_	ADP	IN	_	14	case	_	_
+14	72	_	NUM	CD	_	12	nmod	_	_
+

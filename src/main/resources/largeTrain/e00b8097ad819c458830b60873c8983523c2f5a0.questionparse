@@ -1,0 +1,17 @@
+1	children	_	NOUN	NNS	_	16	nsubj	_	_
+2	stolen	_	VERB	VBN	_	1	acl	_	_
+3	for	_	ADP	IN	_	4	case	_	_
+4	adoption	_	NOUN	NN	_	2	nmod	_	_
+5	in	_	ADP	IN	_	7	case	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	Entity15	_	ADJ	JJ	_	2	nmod	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	Entity16	_	ADJ	JJ	_	7	amod	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	@placeholder	_	NOUN	NN	_	7	conj	_	_
+12	and	_	CONJ	CC	_	7	cc	_	_
+13	Entity18	_	NOUN	NNS	_	7	conj	_	_
+14	,	_	PUNCT	,	_	0	erased	_	_
+15	report	_	NOUN	NN	_	7	appos	_	_
+16	says	_	VERB	VBZ	_	0	root	_	_
+

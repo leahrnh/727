@@ -1,0 +1,17 @@
+1	Entity164	_	VERB	VB	_	0	root	_	_
+2	.	_	PUNCT	.	_	0	erased	_	_
+
+1	an	_	DET	DT	_	2	det	_	_
+2	article	_	NOUN	NN	_	3	nsubj	_	_
+3	depicted	_	VERB	VBN	_	0	root	_	_
+4	@placeholder	_	NOUN	NN	_	5	compound	_	_
+5	culture	_	NOUN	NN	_	3	dobj	_	_
+6	of	_	ADP	IN	_	8	case	_	_
+7	female	_	ADJ	JJ	_	8	amod	_	_
+8	students	_	NOUN	NNS	_	5	nmod	_	_
+9	casually	_	ADV	RB	_	3	advmod	_	_
+10	''	_	PUNCT	''	_	0	erased	_	_
+11	hooking	_	VERB	VBG	_	3	xcomp	_	_
+12	up	_	ADV	RB	_	11	advmod	_	_
+13	''	_	PUNCT	''	_	0	erased	_	_
+

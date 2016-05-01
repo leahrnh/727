@@ -1,0 +1,13 @@
+1	''	_	NUM	CD	_	3	nummod	_	_
+2	significant	_	ADJ	JJ	_	3	amod	_	_
+3	delays	_	NOUN	NNS	_	0	root	_	_
+4	''	_	PUNCT	''	_	0	erased	_	_
+5	at	_	ADP	IN	_	6	case	_	_
+6	Entity78	_	NOUN	NNS	_	3	nmod	_	_
+7	;	_	PUNCT	:	_	0	erased	_	_
+8	@placeholder	_	NOUN	NN	_	3	dep	_	_
+9	;	_	PUNCT	:	_	0	erased	_	_
+10	Entity79	_	NOUN	NNS	_	8	dep	_	_
+11	,	_	PUNCT	,	_	0	erased	_	_
+12	Entity80	_	NOUN	NNS	_	10	appos	_	_
+

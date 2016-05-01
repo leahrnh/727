@@ -1,0 +1,18 @@
+1	a	_	DET	DT	_	2	det	_	_
+2	businesswoman	_	NOUN	NN	_	3	nsubj	_	_
+3	worries	_	VERB	VBZ	_	0	root	_	_
+4	that	_	SCONJ	IN	_	13	mark	_	_
+5	if	_	SCONJ	IN	_	7	mark	_	_
+6	@placeholder	_	NOUN	NN	_	7	nsubj	_	_
+7	becomes	_	VERB	VBZ	_	13	advcl	_	_
+8	president	_	NOUN	NN	_	7	xcomp	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	her	_	PRON	PRP$	_	11	nmod:poss	_	_
+11	hormones	_	NOUN	NNS	_	13	nsubj	_	_
+12	will	_	AUX	MD	_	13	aux	_	_
+13	make	_	VERB	VB	_	3	ccomp	_	_
+14	her	_	PRON	PRP	_	15	nsubj	_	_
+15	go	_	VERB	VB	_	13	ccomp	_	_
+16	to	_	ADP	TO	_	17	case	_	_
+17	war	_	NOUN	NN	_	15	nmod	_	_
+

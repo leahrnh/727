@@ -1,0 +1,20 @@
+1	Entity13	_	PROPN	NNP	_	2	nsubj	_	_
+2	says	_	VERB	VBZ	_	0	root	_	_
+3	he	_	PRON	PRP	_	5	nsubjpass	_	_
+4	's	_	AUX	VBZ	_	5	auxpass	_	_
+5	known	_	VERB	VBN	_	2	ccomp	_	_
+6	as	_	ADP	IN	_	8	case	_	_
+7	''	_	PUNCT	''	_	0	erased	_	_
+8	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	''	_	PUNCT	''	_	0	erased	_	_
+11	a	_	DET	DT	_	12	det	_	_
+12	nickname	_	NOUN	NN	_	8	dep	_	_
+13	for	_	ADP	IN	_	18	case	_	_
+14	the	_	DET	DT	_	18	det	_	_
+15	Entity17	_	ADJ	JJ	_	18	amod	_	_
+16	name	_	NOUN	NN	_	18	compound	_	_
+17	''	_	PUNCT	''	_	0	erased	_	_
+18	Entity81	_	NOUN	NNS	_	12	nmod	_	_
+19	''	_	PUNCT	''	_	0	erased	_	_
+

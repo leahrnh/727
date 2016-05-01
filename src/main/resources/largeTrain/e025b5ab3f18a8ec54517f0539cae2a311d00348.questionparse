@@ -1,0 +1,14 @@
+1	new	_	ADJ	JJ	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	Entity3	_	ADJ	JJ	_	5	amod	_	_
+4	prime	_	ADJ	JJ	_	5	amod	_	_
+5	minister	_	NOUN	NN	_	1	dep	_	_
+6	says	_	VERB	VBZ	_	5	acl:relcl	_	_
+7	Entity64	_	ADJ	JJ	_	9	amod	_	_
+8	militants	_	NOUN	NNS	_	9	compound	_	_
+9	enemy	_	NOUN	NN	_	6	dobj	_	_
+10	of	_	ADP	IN	_	11	case	_	_
+11	Entity3	_	NOUN	NNS	_	9	nmod	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	@placeholder	_	NOUN	NN	_	11	appos	_	_
+

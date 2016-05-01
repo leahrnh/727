@@ -1,0 +1,11 @@
+1	''	_	PUNCT	''	_	0	erased	_	_
+2	Entity17	_	NOUN	NNS	_	5	nsubj	_	_
+3	''	_	PUNCT	''	_	0	erased	_	_
+4	are	_	AUX	VBP	_	5	aux	_	_
+5	Entity39	_	VERB	VBG	_	10	ccomp	_	_
+6	's	_	PRON	PRP	_	5	dobj	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+9	and	_	CONJ	CC	_	10	advmod	_	_
+10	Entity40	_	VERB	VBZ	_	0	root	_	_
+

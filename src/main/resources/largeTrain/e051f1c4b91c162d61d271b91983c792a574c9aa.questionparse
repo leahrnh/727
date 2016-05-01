@@ -1,0 +1,14 @@
+1	regulations	_	NOUN	NNS	_	3	nsubj	_	_
+2	are	_	VERB	VBP	_	3	cop	_	_
+3	response	_	NOUN	NN	_	0	root	_	_
+4	to	_	ADP	TO	_	6	case	_	_
+5	recent	_	ADJ	JJ	_	6	amod	_	_
+6	case	_	NOUN	NN	_	3	nmod	_	_
+7	of	_	ADP	IN	_	9	case	_	_
+8	@placeholder	_	NOUN	NN	_	9	compound	_	_
+9	teenager	_	NOUN	NN	_	6	nmod	_	_
+10	defacing	_	VERB	VBG	_	9	acl	_	_
+11	an	_	DET	DT	_	13	det	_	_
+12	Entity29	_	ADJ	JJ	_	13	amod	_	_
+13	sculpture	_	NOUN	NN	_	10	dobj	_	_
+

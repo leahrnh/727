@@ -1,0 +1,19 @@
+1	@placeholder	_	NOUN	NN	_	3	compound	_	_
+2	sniper	_	NOUN	NN	_	3	compound	_	_
+3	Entity27	_	NOUN	NNS	_	5	nsubjpass	_	_
+4	is	_	AUX	VBZ	_	5	auxpass	_	_
+5	sentenced	_	VERB	VBN	_	0	root	_	_
+6	to	_	ADP	TO	_	7	case	_	_
+7	life	_	NOUN	NN	_	5	nmod	_	_
+8	in	_	ADP	IN	_	9	case	_	_
+9	prison	_	NOUN	NN	_	5	nmod	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	mandatory	_	ADJ	JJ	_	9	appos	_	_
+12	for	_	ADP	IN	_	14	case	_	_
+13	his	_	PRON	PRP$	_	14	nmod:poss	_	_
+14	first	_	ADJ	JJ	_	11	nmod	_	_
+15	-	_	PUNCT	:	_	0	erased	_	_
+16	degree	_	NOUN	NN	_	18	compound	_	_
+17	murder	_	NOUN	NN	_	18	compound	_	_
+18	conviction	_	NOUN	NN	_	11	dep	_	_
+

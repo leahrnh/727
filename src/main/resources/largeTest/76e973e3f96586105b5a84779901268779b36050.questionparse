@@ -1,0 +1,15 @@
+1	''	_	PUNCT	''	_	0	erased	_	_
+2	@placeholder	_	NOUN	NN	_	3	compound	_	_
+3	v.	_	NOUN	NNS	_	14	nsubj	_	_
+4	Entity2	_	ADV	RB	_	14	advmod	_	_
+5	:	_	PUNCT	:	_	0	erased	_	_
+6	Entity5	_	VERB	VBG	_	14	parataxis	_	_
+7	''	_	PUNCT	''	_	0	erased	_	_
+8	trailer	_	NOUN	NN	_	9	nsubj	_	_
+9	leaked	_	VERB	VBD	_	14	parataxis	_	_
+10	thursday	_	PROPN	NNP	_	9	nmod:tmod	_	_
+11	before	_	ADV	RB	_	12	advmod	_	_
+12	being	_	ADJ	JJ	_	14	nsubj	_	_
+13	yanked	_	ADV	RB	_	14	advmod	_	_
+14	offline	_	VERB	VBP	_	0	root	_	_
+

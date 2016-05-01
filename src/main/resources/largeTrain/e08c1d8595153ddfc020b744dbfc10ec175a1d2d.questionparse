@@ -1,0 +1,12 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	@placeholder	_	NOUN	NN	_	3	nsubj	_	_
+3	used	_	VERB	VBD	_	0	root	_	_
+4	waterboarding	_	VERB	VBG	_	3	xcomp	_	_
+5	as	_	ADP	IN	_	8	case	_	_
+6	an	_	DET	DT	_	8	det	_	_
+7	interrogation	_	NOUN	NN	_	8	compound	_	_
+8	technique	_	NOUN	NN	_	4	nmod	_	_
+9	in	_	ADP	IN	_	11	case	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	past	_	NOUN	NN	_	8	nmod	_	_
+

@@ -1,0 +1,12 @@
+1	@placeholder	_	VERB	VB	_	8	csubj	_	_
+2	sen.	_	NOUN	NN	_	3	compound	_	_
+3	Entity28	_	NOUN	NNS	_	1	dobj	_	_
+4	:	_	PUNCT	:	_	0	erased	_	_
+5	''	_	PUNCT	''	_	0	erased	_	_
+6	i	_	PROPN	NNP	_	1	dep	_	_
+7	am	_	VERB	VBP	_	8	cop	_	_
+8	astounded	_	ADJ	JJ	_	0	root	_	_
+9	''	_	PUNCT	''	_	0	erased	_	_
+10	by	_	ADP	IN	_	11	case	_	_
+11	comments	_	NOUN	NNS	_	8	nmod	_	_
+

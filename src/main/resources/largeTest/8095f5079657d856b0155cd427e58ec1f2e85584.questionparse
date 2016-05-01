@@ -1,0 +1,12 @@
+1	Entity175	_	ADJ	JJ	_	3	amod	_	_
+2	economic	_	ADJ	JJ	_	3	amod	_	_
+3	powerhouse	_	NOUN	NN	_	0	root	_	_
+4	valued	_	VERB	VBN	_	3	acl	_	_
+5	at	_	ADP	IN	_	6	case	_	_
+6	$	_	SYM	$	_	4	nmod	_	_
+7	24	_	NUM	CD	_	8	compound	_	_
+8	trillion	_	NUM	CD	_	6	nummod	_	_
+9	:	_	PUNCT	:	_	0	erased	_	_
+10	@placeholder	_	NOUN	NN	_	3	dep	_	_
+11	report	_	NOUN	NN	_	10	dep	_	_
+

@@ -1,0 +1,13 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	calls	_	VERB	VBZ	_	0	root	_	_
+3	for	_	ADP	IN	_	4	case	_	_
+4	probe	_	NOUN	NN	_	2	nmod	_	_
+5	of	_	ADP	IN	_	8	case	_	_
+6	Entity7	_	ADJ	JJ	_	8	amod	_	_
+7	police	_	NOUN	NN	_	8	compound	_	_
+8	shooting	_	NOUN	NN	_	4	nmod	_	_
+9	of	_	ADP	IN	_	12	case	_	_
+10	20	_	NUM	CD	_	12	nummod	_	_
+11	suspected	_	VERB	VBN	_	12	amod	_	_
+12	smugglers	_	NOUN	NNS	_	8	nmod	_	_
+

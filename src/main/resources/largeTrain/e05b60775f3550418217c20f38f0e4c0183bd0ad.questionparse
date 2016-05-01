@@ -1,0 +1,15 @@
+1	@placeholder	_	NOUN	NN	_	3	nsubj	_	_
+2	traditionally	_	ADV	RB	_	3	advmod	_	_
+3	uses	_	VERB	VBZ	_	0	root	_	_
+4	Entity14	_	NOUN	NNS	_	5	nsubj	_	_
+5	follow	_	VERB	VB	_	3	ccomp	_	_
+6	-	_	PUNCT	:	_	0	erased	_	_
+7	up	_	ADP	IN	_	8	amod	_	_
+8	event	_	NOUN	NN	_	9	nmod:npmod	_	_
+9	as	_	ADV	RB	_	10	advmod	_	_
+10	warm	_	VERB	VB	_	3	parataxis	_	_
+11	-	_	PUNCT	:	_	0	erased	_	_
+12	up	_	ADV	RB	_	10	advmod	_	_
+13	for	_	ADP	IN	_	14	case	_	_
+14	Entity16	_	NOUN	NNS	_	12	nmod	_	_
+

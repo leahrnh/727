@@ -1,0 +1,13 @@
+1	@placeholder	_	NOUN	NN	_	3	compound	_	_
+2	secretary	_	NOUN	NN	_	3	compound	_	_
+3	general	_	NOUN	NN	_	4	nsubj	_	_
+4	attends	_	VERB	VBZ	_	0	root	_	_
+5	summit	_	NOUN	NN	_	4	dobj	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	but	_	CONJ	CC	_	4	cc	_	_
+8	avoids	_	VERB	VBZ	_	4	conj	_	_
+9	any	_	DET	DT	_	10	det	_	_
+10	confrontation	_	NOUN	NN	_	8	dobj	_	_
+11	with	_	ADP	IN	_	12	case	_	_
+12	Entity1	_	NOUN	NNS	_	8	nmod	_	_
+

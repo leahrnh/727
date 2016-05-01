@@ -1,0 +1,14 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	stay	_	VERB	VBP	_	0	root	_	_
+3	four	_	NUM	CD	_	4	nummod	_	_
+4	points	_	NOUN	NNS	_	5	nmod:npmod	_	_
+5	clear	_	ADJ	JJ	_	2	xcomp	_	_
+6	of	_	ADP	IN	_	8	case	_	_
+7	champions	_	NOUN	NNS	_	8	compound	_	_
+8	Entity6	_	NOUN	NNS	_	5	nmod	_	_
+9	in	_	ADP	IN	_	13	case	_	_
+10	the	_	DET	DT	_	13	det	_	_
+11	Entity3	_	ADJ	JJ	_	13	amod	_	_
+12	title	_	NOUN	NN	_	13	compound	_	_
+13	race	_	NOUN	NN	_	2	nmod	_	_
+

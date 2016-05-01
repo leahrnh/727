@@ -1,0 +1,22 @@
+1	new	_	ADJ	JJ	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	former	_	ADJ	JJ	_	5	amod	_	_
+4	@placeholder	_	NOUN	NN	_	5	compound	_	_
+5	leader	_	NOUN	NN	_	1	dep	_	_
+6	and	_	CONJ	CC	_	5	cc	_	_
+7	wife	_	NOUN	NN	_	9	compound	_	_
+8	fined	_	NOUN	NN	_	9	compound	_	_
+9	total	_	NOUN	NN	_	5	conj	_	_
+10	of	_	ADP	IN	_	15	case	_	_
+11	370	_	NUM	CD	_	12	compound	_	_
+12	million	_	NUM	CD	_	15	nummod	_	_
+13	new	_	ADJ	JJ	_	15	amod	_	_
+14	taiwan	_	NOUN	NN	_	15	compound	_	_
+15	dollars	_	NOUN	NNS	_	5	nmod	_	_
+16	-LRB-	_	PUNCT	-LRB-	_	0	erased	_	_
+17	Entity14	_	PROPN	NNP	_	15	appos	_	_
+18	$	_	SYM	$	_	17	nummod	_	_
+19	11.5	_	NUM	CD	_	20	compound	_	_
+20	million	_	NUM	CD	_	18	nummod	_	_
+21	-RRB-	_	PUNCT	-RRB-	_	0	erased	_	_
+

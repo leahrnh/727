@@ -1,0 +1,14 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	remained	_	VERB	VBD	_	0	root	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	bishop	_	NOUN	NN	_	2	xcomp	_	_
+5	after	_	ADP	IN	_	8	case	_	_
+6	a	_	DET	DT	_	8	det	_	_
+7	2012	_	NUM	CD	_	8	nummod	_	_
+8	conviction	_	NOUN	NN	_	2	nmod	_	_
+9	for	_	ADP	IN	_	10	case	_	_
+10	failure	_	NOUN	NN	_	8	nmod	_	_
+11	to	_	PART	TO	_	12	mark	_	_
+12	report	_	VERB	VB	_	2	advcl	_	_
+13	abuse	_	NOUN	NN	_	12	dobj	_	_
+

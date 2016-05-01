@@ -1,0 +1,13 @@
+1	Entity2	_	ADJ	JJ	_	2	amod	_	_
+2	Entity20	_	NOUN	NNS	_	3	nsubj	_	_
+3	says	_	VERB	VBZ	_	0	root	_	_
+4	it	_	PRON	PRP	_	6	nsubj	_	_
+5	's	_	AUX	VBZ	_	6	aux	_	_
+6	joining	_	VERB	VBG	_	3	ccomp	_	_
+7	forces	_	NOUN	NNS	_	6	dobj	_	_
+8	with	_	ADP	IN	_	12	case	_	_
+9	fellow	_	ADJ	JJ	_	12	amod	_	_
+10	militant	_	ADJ	JJ	_	12	amod	_	_
+11	group	_	NOUN	NN	_	12	compound	_	_
+12	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+

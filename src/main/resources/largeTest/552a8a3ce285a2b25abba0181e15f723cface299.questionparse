@@ -1,0 +1,11 @@
+1	Entity212	_	ADV	RB	_	2	advmod	_	_
+2	moves	_	VERB	VBZ	_	0	root	_	_
+3	aircraft	_	NOUN	NN	_	4	compound	_	_
+4	carrier	_	NOUN	NN	_	2	nsubj	_	_
+5	,	_	PUNCT	,	_	0	erased	_	_
+6	cruiser	_	NOUN	NN	_	4	appos	_	_
+7	to	_	ADP	TO	_	8	case	_	_
+8	waters	_	NOUN	NNS	_	6	nmod	_	_
+9	near	_	ADP	IN	_	10	case	_	_
+10	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+

@@ -1,0 +1,20 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	had	_	VERB	VBD	_	0	root	_	_
+3	many	_	ADJ	JJ	_	4	amod	_	_
+4	tv	_	NOUN	NN	_	2	dobj	_	_
+5	and	_	CONJ	CC	_	4	cc	_	_
+6	film	_	NOUN	NN	_	7	compound	_	_
+7	roles	_	NOUN	NNS	_	4	conj	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	including	_	VERB	VBG	_	4	appos	_	_
+10	spots	_	VERB	VBN	_	9	dep	_	_
+11	in	_	ADP	RP	_	10	compound:prt	_	_
+12	''	_	PUNCT	''	_	0	erased	_	_
+13	being	_	VERB	VBG	_	10	xcomp	_	_
+14	there	_	ADV	RB	_	13	advmod	_	_
+15	''	_	PUNCT	''	_	0	erased	_	_
+16	and	_	CONJ	CC	_	10	cc	_	_
+17	''	_	PUNCT	''	_	0	erased	_	_
+18	Entity96	_	NUM	CD	_	10	conj	_	_
+19	''	_	PUNCT	''	_	0	erased	_	_
+

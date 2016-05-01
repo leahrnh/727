@@ -1,0 +1,10 @@
+1	charge	_	NOUN	NN	_	4	nsubj	_	_
+2	against	_	ADP	IN	_	3	case	_	_
+3	@placeholder	_	NOUN	NN	_	1	nmod	_	_
+4	dropped	_	VERB	VBD	_	0	root	_	_
+5	;	_	PUNCT	:	_	0	erased	_	_
+6	her	_	PRON	PRP$	_	7	nmod:poss	_	_
+7	photographer	_	NOUN	NN	_	8	nsubj	_	_
+8	pleaded	_	VERB	VBD	_	4	parataxis	_	_
+9	guilty	_	ADJ	JJ	_	8	xcomp	_	_
+

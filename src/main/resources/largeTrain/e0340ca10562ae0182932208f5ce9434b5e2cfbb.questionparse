@@ -1,0 +1,22 @@
+1	new	_	ADJ	JJ	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	@placeholder	_	NOUN	NN	_	4	compound	_	_
+4	sec	_	NOUN	NN	_	1	dep	_	_
+5	.	_	PUNCT	.	_	0	erased	_	_
+
+1	Entity232	_	PROPN	NNP	_	2	nsubj	_	_
+2	says	_	VERB	VBZ	_	8	ccomp	_	_
+3	,	_	PUNCT	,	_	0	erased	_	_
+4	''	_	PUNCT	''	_	0	erased	_	_
+5	there	_	PRON	EX	_	8	expl	_	_
+6	can	_	AUX	MD	_	8	aux	_	_
+7	be	_	VERB	VB	_	8	cop	_	_
+8	no	_	DET	DT	_	0	root	_	_
+9	going	_	VERB	VBG	_	8	amod	_	_
+10	back	_	ADP	RP	_	8	dep	_	_
+11	on	_	ADP	IN	_	14	case	_	_
+12	the	_	DET	DT	_	14	det	_	_
+13	democratic	_	ADJ	JJ	_	14	amod	_	_
+14	transition	_	NOUN	NN	_	8	nmod	_	_
+15	''	_	PUNCT	''	_	0	erased	_	_
+

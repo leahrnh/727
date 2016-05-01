@@ -1,0 +1,16 @@
+1	it	_	PRON	PRP	_	3	nsubjpass	_	_
+2	's	_	AUX	VBZ	_	3	auxpass	_	_
+3	billed	_	VERB	VBN	_	0	root	_	_
+4	as	_	ADP	IN	_	5	case	_	_
+5	the	_	DET	DT	_	3	nmod	_	_
+6	''	_	PUNCT	''	_	0	erased	_	_
+7	largest	_	ADJ	JJS	_	8	amod	_	_
+8	gathering	_	NOUN	NN	_	5	nmod	_	_
+9	of	_	ADP	IN	_	8	case	_	_
+10	race	_	NOUN	NN	_	11	compound	_	_
+11	cars	_	NOUN	NNS	_	8	dep	_	_
+12	in	_	ADP	IN	_	14	case	_	_
+13	the	_	DET	DT	_	14	det	_	_
+14	@placeholder	_	NOUN	NN	_	11	nmod	_	_
+15	''	_	PUNCT	''	_	0	erased	_	_
+

@@ -1,0 +1,18 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	victim	_	NOUN	NN	_	7	nsubjpass	_	_
+3	in	_	ADP	IN	_	5	case	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	case	_	NOUN	NN	_	2	nmod	_	_
+6	is	_	AUX	VBZ	_	7	auxpass	_	_
+7	identified	_	VERB	VBN	_	0	root	_	_
+8	as	_	ADP	IN	_	9	case	_	_
+9	Entity47	_	NOUN	NNS	_	7	nmod	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	26	_	NUM	CD	_	9	amod	_	_
+12	;	_	PUNCT	:	_	0	erased	_	_
+13	authorities	_	NOUN	NNS	_	14	nsubj	_	_
+14	say	_	VERB	VBP	_	7	parataxis	_	_
+15	he	_	PRON	PRP	_	16	nsubj	_	_
+16	knew	_	VERB	VBD	_	14	ccomp	_	_
+17	@placeholder	_	NOUN	NN	_	16	dobj	_	_
+

@@ -1,0 +1,20 @@
+1	Entity180	_	VERB	VBZ	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	''	_	PUNCT	''	_	0	erased	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	@placeholder	_	ADJ	JJ	_	1	dep	_	_
+6	:	_	PUNCT	:	_	0	erased	_	_
+7	relaunched	_	PROPN	NNP	_	1	dobj	_	_
+8	''	_	PUNCT	''	_	0	erased	_	_
+9	is	_	VERB	VBZ	_	12	cop	_	_
+10	an	_	DET	DT	_	12	det	_	_
+11	important	_	ADJ	JJ	_	12	amod	_	_
+12	benchmark	_	NOUN	NN	_	7	acl:relcl	_	_
+13	of	_	ADP	IN	_	15	case	_	_
+14	the	_	DET	DT	_	15	det	_	_
+15	evolution	_	NOUN	NN	_	12	nmod	_	_
+16	of	_	ADP	IN	_	19	case	_	_
+17	sustainable	_	ADJ	JJ	_	19	amod	_	_
+18	food	_	NOUN	NN	_	19	compound	_	_
+19	movement	_	NOUN	NN	_	15	nmod	_	_
+

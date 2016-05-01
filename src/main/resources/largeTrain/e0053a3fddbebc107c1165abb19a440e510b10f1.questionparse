@@ -1,0 +1,13 @@
+1	Entity7	_	VERB	VBG	_	5	advcl	_	_
+2	collaborator	_	NOUN	NN	_	1	dobj	_	_
+3	,	_	PUNCT	,	_	0	erased	_	_
+4	Entity19	_	NOUN	NNS	_	5	nsubj	_	_
+5	remembers	_	VERB	VBZ	_	0	root	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	@placeholder	_	NOUN	NN	_	9	nmod:poss	_	_
+8	's	_	PART	POS	_	7	case	_	_
+9	contributions	_	NOUN	NNS	_	5	dobj	_	_
+10	to	_	ADP	TO	_	12	case	_	_
+11	marine	_	ADJ	JJ	_	12	amod	_	_
+12	exploration	_	NOUN	NN	_	5	nmod	_	_
+

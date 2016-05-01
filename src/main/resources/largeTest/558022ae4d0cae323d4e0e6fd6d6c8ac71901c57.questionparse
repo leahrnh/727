@@ -1,0 +1,24 @@
+1	Entity188	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	while	_	SCONJ	IN	_	6	mark	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	@placeholder	_	NOUN	NN	_	6	nsubj	_	_
+6	entangles	_	VERB	VBZ	_	15	advcl	_	_
+7	itself	_	PRON	PRP	_	6	dobj	_	_
+8	in	_	ADP	IN	_	11	case	_	_
+9	the	_	DET	DT	_	11	det	_	_
+10	nuclear	_	ADJ	JJ	_	11	amod	_	_
+11	negotiations	_	NOUN	NNS	_	6	nmod	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	Entity3	_	NOUN	NNS	_	15	nsubj	_	_
+14	is	_	AUX	VBZ	_	15	aux	_	_
+15	gaining	_	VERB	VBG	_	1	parataxis	_	_
+16	a	_	DET	DT	_	18	det	_	_
+17	freer	_	ADJ	JJR	_	18	amod	_	_
+18	hand	_	NOUN	NN	_	15	dobj	_	_
+19	to	_	PART	TO	_	20	mark	_	_
+20	assert	_	VERB	VB	_	15	advcl	_	_
+21	its	_	PRON	PRP$	_	23	nmod:poss	_	_
+22	regional	_	ADJ	JJ	_	23	amod	_	_
+23	influence	_	NOUN	NN	_	20	dobj	_	_
+

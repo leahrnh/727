@@ -1,0 +1,14 @@
+1	three	_	NUM	CD	_	2	nummod	_	_
+2	rabbis	_	NOUN	NNS	_	0	root	_	_
+3	found	_	VERB	VBN	_	2	acl	_	_
+4	guilty	_	ADJ	JJ	_	3	xcomp	_	_
+5	of	_	ADP	IN	_	6	case	_	_
+6	conspiracy	_	NOUN	NN	_	2	nmod	_	_
+7	to	_	PART	TO	_	8	mark	_	_
+8	commit	_	VERB	VB	_	6	acl	_	_
+9	kidnapping	_	NOUN	NN	_	8	dobj	_	_
+10	in	_	ADP	IN	_	13	case	_	_
+11	@placeholder	_	ADJ	JJ	_	13	amod	_	_
+12	federal	_	ADJ	JJ	_	13	amod	_	_
+13	court	_	NOUN	NN	_	8	nmod	_	_
+

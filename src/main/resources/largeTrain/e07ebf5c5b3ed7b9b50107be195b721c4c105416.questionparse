@@ -1,0 +1,17 @@
+1	@placeholder	_	NOUN	NN	_	5	nsubj	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	56	_	NUM	CD	_	1	amod	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	says	_	VERB	VBZ	_	0	root	_	_
+6	he	_	PRON	PRP	_	7	nsubj	_	_
+7	regrets	_	VERB	VBZ	_	5	ccomp	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	crime	_	NOUN	NN	_	7	dobj	_	_
+10	and	_	CONJ	CC	_	7	cc	_	_
+11	wants	_	VERB	VBZ	_	7	conj	_	_
+12	to	_	PART	TO	_	16	mark	_	_
+13	be	_	VERB	VB	_	16	cop	_	_
+14	with	_	ADP	IN	_	16	case	_	_
+15	his	_	PRON	PRP$	_	16	nmod:poss	_	_
+16	family	_	NOUN	NN	_	11	xcomp	_	_
+

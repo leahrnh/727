@@ -1,0 +1,20 @@
+1	two	_	NUM	CD	_	4	nummod	_	_
+2	Entity13	_	ADJ	JJ	_	4	amod	_	_
+3	drug	_	NOUN	NN	_	4	compound	_	_
+4	smugglers	_	NOUN	NNS	_	11	nsubj	_	_
+5	,	_	PUNCT	,	_	0	erased	_	_
+6	part	_	NOUN	NN	_	4	appos	_	_
+7	of	_	ADP	IN	_	9	case	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	await	_	VERB	VBP	_	0	root	_	_
+12	word	_	NOUN	NN	_	11	dobj	_	_
+13	whether	_	SCONJ	IN	_	16	mark	_	_
+14	they	_	PRON	PRP	_	16	nsubj	_	_
+15	'll	_	AUX	MD	_	16	aux	_	_
+16	face	_	VERB	VB	_	11	ccomp	_	_
+17	a	_	DET	DT	_	19	det	_	_
+18	firing	_	NOUN	NN	_	19	compound	_	_
+19	squad	_	NOUN	NN	_	16	dobj	_	_
+

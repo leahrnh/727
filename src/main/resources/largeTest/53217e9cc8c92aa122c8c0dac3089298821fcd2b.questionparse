@@ -1,0 +1,13 @@
+1	country	_	NOUN	NN	_	3	compound	_	_
+2	band	_	NOUN	NN	_	3	compound	_	_
+3	Entity2	_	NOUN	NNS	_	5	nmod:poss	_	_
+4	's	_	PART	POS	_	3	case	_	_
+5	bus	_	NOUN	NN	_	6	nsubj	_	_
+6	caught	_	VERB	VBD	_	0	root	_	_
+7	fire	_	NOUN	NN	_	6	dobj	_	_
+8	thursday	_	PROPN	NNP	_	6	nmod:tmod	_	_
+9	on	_	ADP	IN	_	12	case	_	_
+10	a	_	DET	DT	_	12	det	_	_
+11	@placeholder	_	NOUN	NN	_	12	compound	_	_
+12	freeway	_	NOUN	NN	_	6	nmod	_	_
+

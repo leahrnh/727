@@ -1,0 +1,12 @@
+1	temples	_	NOUN	NNS	_	5	nsubj	_	_
+2	in	_	ADP	IN	_	3	case	_	_
+3	@placeholder	_	NOUN	NN	_	1	nmod	_	_
+4	typically	_	ADV	RB	_	3	advmod	_	_
+5	have	_	VERB	VBP	_	0	root	_	_
+6	morticians	_	NOUN	NNS	_	5	dobj	_	_
+7	who	_	PRON	WP	_	8	nsubj	_	_
+8	prepare	_	VERB	VBP	_	6	acl:relcl	_	_
+9	bodies	_	NOUN	NNS	_	8	dobj	_	_
+10	for	_	ADP	IN	_	11	case	_	_
+11	cremation	_	NOUN	NN	_	9	nmod	_	_
+

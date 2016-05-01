@@ -1,0 +1,16 @@
+1	some	_	DET	DT	_	2	det	_	_
+2	@placeholder	_	NOUN	NN	_	4	nsubj	_	_
+3	have	_	AUX	VBP	_	4	aux	_	_
+4	questioned	_	VERB	VBN	_	0	root	_	_
+5	why	_	ADV	WRB	_	8	advmod	_	_
+6	police	_	NOUN	NNS	_	8	nsubj	_	_
+7	are	_	AUX	VBP	_	8	aux	_	_
+8	resorting	_	VERB	VBG	_	4	advcl	_	_
+9	to	_	ADP	IN	_	14	case	_	_
+10	''	_	PUNCT	''	_	0	erased	_	_
+11	authoritarian	_	ADJ	JJ	_	14	amod	_	_
+12	and	_	CONJ	CC	_	11	cc	_	_
+13	forceful	_	ADJ	JJ	_	11	conj	_	_
+14	methods	_	NOUN	NNS	_	8	nmod	_	_
+15	''	_	PUNCT	''	_	0	erased	_	_
+

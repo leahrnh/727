@@ -1,0 +1,18 @@
+1	Entity254	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	the	_	DET	DT	_	5	det	_	_
+4	unfortunate	_	ADJ	JJ	_	5	amod	_	_
+5	reality	_	NOUN	NN	_	6	nsubj	_	_
+6	is	_	VERB	VBZ	_	1	parataxis	_	_
+7	that	_	SCONJ	IN	_	10	mark	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+10	leads	_	VERB	VBZ	_	6	ccomp	_	_
+11	the	_	DET	DT	_	12	det	_	_
+12	world	_	NOUN	NN	_	10	dobj	_	_
+13	in	_	ADP	IN	_	14	case	_	_
+14	incarceration	_	NOUN	NN	_	12	nmod	_	_
+15	,	_	PUNCT	,	_	0	erased	_	_
+16	not	_	ADV	RB	_	17	neg	_	_
+17	education	_	NOUN	NN	_	14	appos	_	_
+

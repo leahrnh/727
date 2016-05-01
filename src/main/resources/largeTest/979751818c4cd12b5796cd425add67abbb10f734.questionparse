@@ -1,0 +1,17 @@
+1	sudden	_	VERB	VBG	_	0	root	_	_
+2	''	_	PUNCT	''	_	0	erased	_	_
+3	insights	_	NOUN	NNS	_	1	dobj	_	_
+4	''	_	PUNCT	''	_	0	erased	_	_
+5	are	_	AUX	VBP	_	7	auxpass	_	_
+6	otherwise	_	ADV	RB	_	7	advmod	_	_
+7	known	_	VERB	VBN	_	3	acl:relcl	_	_
+8	as	_	ADP	IN	_	10	case	_	_
+9	''	_	PUNCT	''	_	0	erased	_	_
+10	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+11	''	_	PUNCT	''	_	0	erased	_	_
+12	or	_	CONJ	CC	_	7	advmod	_	_
+13	''	_	PUNCT	''	_	0	erased	_	_
+14	Entity17	_	VERB	VBG	_	7	xcomp	_	_
+15	''	_	PUNCT	''	_	0	erased	_	_
+16	moments	_	NOUN	NNS	_	14	dobj	_	_
+

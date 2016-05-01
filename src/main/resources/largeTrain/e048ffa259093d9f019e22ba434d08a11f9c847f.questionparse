@@ -1,0 +1,14 @@
+1	he	_	PRON	PRP	_	2	nsubj	_	_
+2	says	_	VERB	VBZ	_	0	root	_	_
+3	@placeholder	_	NOUN	NN	_	4	compound	_	_
+4	rivals	_	NOUN	NNS	_	6	nsubj	_	_
+5	deride	_	ADJ	JJ	_	6	dep	_	_
+6	Entity28	_	VERB	VBG	_	2	xcomp	_	_
+7	as	_	ADV	RB	_	8	advmod	_	_
+8	a	_	DET	DT	_	6	dobj	_	_
+9	''	_	PUNCT	''	_	0	erased	_	_
+10	mushy	_	ADJ	JJ	_	12	amod	_	_
+11	''	_	PUNCT	''	_	0	erased	_	_
+12	Entity33	_	NOUN	NNS	_	6	dobj	_	_
+13	moderate	_	ADJ	JJ	_	12	amod	_	_
+

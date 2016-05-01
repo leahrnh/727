@@ -1,0 +1,12 @@
+1	it	_	PRON	PRP	_	2	nsubj	_	_
+2	spread	_	VERB	VBD	_	0	root	_	_
+3	after	_	SCONJ	IN	_	8	mark	_	_
+4	a	_	DET	DT	_	7	det	_	_
+5	Entity3	_	ADJ	JJ	_	7	amod	_	_
+6	television	_	NOUN	NN	_	7	compound	_	_
+7	host	_	NOUN	NN	_	8	nsubj	_	_
+8	posted	_	VERB	VBD	_	2	advcl	_	_
+9	it	_	PRON	PRP	_	8	dobj	_	_
+10	to	_	ADP	TO	_	11	case	_	_
+11	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+

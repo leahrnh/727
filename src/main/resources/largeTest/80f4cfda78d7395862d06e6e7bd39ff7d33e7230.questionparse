@@ -1,0 +1,14 @@
+1	federal	_	ADJ	JJ	_	4	amod	_	_
+2	education	_	NOUN	NN	_	4	compound	_	_
+3	minister	_	NOUN	NN	_	4	compound	_	_
+4	Entity13	_	NOUN	NNS	_	5	nsubj	_	_
+5	visited	_	VERB	VBD	_	12	ccomp	_	_
+6	a	_	DET	DT	_	8	det	_	_
+7	Entity15	_	ADJ	JJ	_	8	amod	_	_
+8	store	_	NOUN	NN	_	5	dobj	_	_
+9	in	_	ADP	IN	_	10	case	_	_
+10	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+11	,	_	PUNCT	,	_	0	erased	_	_
+12	saw	_	VERB	VBD	_	0	root	_	_
+13	cameras	_	NOUN	NNS	_	12	nsubj	_	_
+

@@ -1,0 +1,19 @@
+1	Entity4	_	PROPN	NNP	_	2	nsubj	_	_
+2	saw	_	VERB	VBD	_	0	root	_	_
+3	the	_	DET	DT	_	5	det	_	_
+4	federal	_	ADJ	JJ	_	5	amod	_	_
+5	government	_	NOUN	NN	_	2	dobj	_	_
+6	as	_	ADP	IN	_	7	case	_	_
+7	pre-eminent	_	PROPN	NNP	_	2	nmod	_	_
+8	and	_	CONJ	CC	_	2	cc	_	_
+9	believed	_	VERB	VBD	_	2	conj	_	_
+10	there	_	PRON	EX	_	11	expl	_	_
+11	was	_	VERB	VBD	_	9	ccomp	_	_
+12	no	_	DET	DT	_	14	neg	_	_
+13	logical	_	ADJ	JJ	_	14	amod	_	_
+14	border	_	NOUN	NN	_	11	nsubj	_	_
+15	for	_	SCONJ	IN	_	16	mark	_	_
+16	dividing	_	VERB	VBG	_	14	acl	_	_
+17	the	_	DET	DT	_	18	det	_	_
+18	@placeholder	_	NOUN	NN	_	16	dobj	_	_
+

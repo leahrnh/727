@@ -1,0 +1,17 @@
+1	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	even	_	ADV	RB	_	4	advmod	_	_
+4	when	_	ADV	WRB	_	1	dep	_	_
+5	on	_	ADP	IN	_	6	case	_	_
+6	trial	_	NOUN	NN	_	4	nmod	_	_
+7	for	_	ADP	IN	_	8	case	_	_
+8	murder	_	NOUN	NN	_	6	nmod	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	keeps	_	VERB	VBZ	_	0	root	_	_
+11	that	_	DET	DT	_	13	det	_	_
+12	certain	_	ADJ	JJ	_	13	amod	_	_
+13	bounce	_	NOUN	NN	_	10	dobj	_	_
+14	in	_	ADP	IN	_	16	case	_	_
+15	his	_	PRON	PRP$	_	16	nmod:poss	_	_
+16	step	_	NOUN	NN	_	13	nmod	_	_
+

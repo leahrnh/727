@@ -1,0 +1,20 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	nonprofit	_	ADJ	JJ	_	14	nsubj	_	_
+3	has	_	AUX	VBZ	_	4	aux	_	_
+4	traveled	_	VERB	VBN	_	2	acl:relcl	_	_
+5	to	_	ADP	TO	_	6	case	_	_
+6	Entity68	_	NOUN	NNS	_	4	nmod	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	Entity86	_	NOUN	NNS	_	6	conj	_	_
+9	and	_	CONJ	CC	_	6	cc	_	_
+10	Entity71	_	NOUN	NNS	_	6	conj	_	_
+11	,	_	PUNCT	,	_	0	erased	_	_
+12	will	_	AUX	MD	_	14	aux	_	_
+13	be	_	AUX	VB	_	14	aux	_	_
+14	going	_	VERB	VBG	_	0	root	_	_
+15	to	_	PART	TO	_	16	mark	_	_
+16	@placeholder	_	VERB	VB	_	14	xcomp	_	_
+17	later	_	ADV	RBR	_	19	advmod	_	_
+18	this	_	DET	DT	_	19	det	_	_
+19	year	_	NOUN	NN	_	16	nmod:tmod	_	_
+

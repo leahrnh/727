@@ -1,0 +1,16 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	said	_	VERB	VBD	_	0	root	_	_
+3	to	_	PART	TO	_	4	mark	_	_
+4	account	_	VERB	VB	_	2	xcomp	_	_
+5	for	_	ADP	IN	_	6	case	_	_
+6	$	_	SYM	$	_	4	nmod	_	_
+7	59	_	NUM	CD	_	8	compound	_	_
+8	billion	_	NUM	CD	_	6	nummod	_	_
+9	of	_	ADP	IN	_	15	case	_	_
+10	Entity213	_	PROPN	NNP	_	15	nmod:poss	_	_
+11	's	_	PART	POS	_	10	case	_	_
+12	$	_	SYM	$	_	15	amod	_	_
+13	80	_	NUM	CD	_	14	compound	_	_
+14	billion	_	NUM	CD	_	12	nummod	_	_
+15	debt	_	NOUN	NN	_	6	nmod	_	_
+

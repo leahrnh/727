@@ -1,0 +1,21 @@
+1	Entity166	_	VERB	VB	_	0	root	_	_
+2	Entity164	_	NOUN	NNS	_	1	dobj	_	_
+3	:	_	PUNCT	:	_	0	erased	_	_
+4	why	_	ADV	WRB	_	9	advmod	_	_
+5	does	_	AUX	VBZ	_	9	aux	_	_
+6	crisis	_	NOUN	NN	_	9	nsubj	_	_
+7	in	_	ADP	IN	_	8	case	_	_
+8	Entity69	_	NOUN	NNS	_	6	nmod	_	_
+9	get	_	VERB	VB	_	2	dep	_	_
+10	extensive	_	ADJ	JJ	_	12	amod	_	_
+11	media	_	NOUN	NNS	_	12	compound	_	_
+12	coverage	_	NOUN	NN	_	9	dobj	_	_
+13	,	_	PUNCT	,	_	0	erased	_	_
+14	but	_	CONJ	CC	_	15	cc	_	_
+15	not	_	ADV	RB	_	12	cc	_	_
+16	the	_	DET	DT	_	17	det	_	_
+17	killing	_	NOUN	NN	_	12	conj	_	_
+18	in	_	ADP	IN	_	19	case	_	_
+19	@placeholder	_	NOUN	NN	_	17	nmod	_	_
+20	?	_	PUNCT	.	_	0	erased	_	_
+

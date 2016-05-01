@@ -1,0 +1,13 @@
+1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+2	lawmakers	_	NOUN	NNS	_	5	nsubjpass	_	_
+3	have	_	AUX	VBP	_	5	aux	_	_
+4	been	_	AUX	VBN	_	5	auxpass	_	_
+5	accused	_	VERB	VBN	_	0	root	_	_
+6	of	_	SCONJ	IN	_	7	mark	_	_
+7	over-milking	_	VERB	VBG	_	5	advcl	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	system	_	NOUN	NN	_	7	dobj	_	_
+10	for	_	SCONJ	IN	_	11	mark	_	_
+11	claiming	_	VERB	VBG	_	7	advcl	_	_
+12	expenses	_	NOUN	NNS	_	11	dobj	_	_
+

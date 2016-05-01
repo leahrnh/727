@@ -1,0 +1,20 @@
+1	@placeholder	_	VERB	VB	_	0	root	_	_
+2	life	_	NOUN	NN	_	1	dobj	_	_
+3	that	_	DET	WDT	_	4	nsubj	_	_
+4	likes	_	VERB	VBZ	_	2	acl:relcl	_	_
+5	cooler	_	ADJ	JJR	_	6	amod	_	_
+6	water	_	NOUN	NN	_	8	nsubj	_	_
+7	has	_	AUX	VBZ	_	8	aux	_	_
+8	moved	_	VERB	VBN	_	4	ccomp	_	_
+9	and	_	CONJ	CC	_	2	cc	_	_
+10	others	_	NOUN	NNS	_	2	conj	_	_
+11	that	_	DET	WDT	_	16	nsubjpass	_	_
+12	like	_	ADP	IN	_	14	case	_	_
+13	warm	_	ADJ	JJ	_	14	amod	_	_
+14	seas	_	NOUN	NNS	_	16	nmod	_	_
+15	are	_	AUX	VBP	_	16	auxpass	_	_
+16	seen	_	VERB	VBN	_	10	acl:relcl	_	_
+17	in	_	ADP	IN	_	19	case	_	_
+18	new	_	ADJ	JJ	_	19	amod	_	_
+19	places	_	NOUN	NNS	_	16	nmod	_	_
+

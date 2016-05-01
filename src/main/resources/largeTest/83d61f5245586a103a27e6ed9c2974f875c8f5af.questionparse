@@ -1,0 +1,13 @@
+1	Entity3	_	PROPN	NNP	_	2	nsubj	_	_
+2	says	_	VERB	VBZ	_	0	root	_	_
+3	it	_	PRON	PRP	_	6	nsubj	_	_
+4	had	_	AUX	VBD	_	6	aux	_	_
+5	transponder	_	ADV	RB	_	6	advmod	_	_
+6	turned	_	VERB	VBN	_	2	ccomp	_	_
+7	off	_	ADP	RP	_	6	compound:prt	_	_
+8	and	_	CONJ	CC	_	2	cc	_	_
+9	was	_	AUX	VBD	_	10	aux	_	_
+10	flying	_	VERB	VBG	_	2	conj	_	_
+11	toward	_	ADP	IN	_	12	case	_	_
+12	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+

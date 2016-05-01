@@ -1,0 +1,13 @@
+1	new	_	ADJ	JJ	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	@placeholder	_	NOUN	NN	_	4	compound	_	_
+4	Entity6	_	NOUN	NNS	_	1	dep	_	_
+5	says	_	VERB	VBZ	_	4	acl:relcl	_	_
+6	horsemeat	_	NOUN	NN	_	12	nsubj	_	_
+7	in	_	ADP	IN	_	9	case	_	_
+8	lasagna	_	NOUN	NN	_	9	compound	_	_
+9	product	_	NOUN	NN	_	6	nmod	_	_
+10	may	_	AUX	MD	_	12	aux	_	_
+11	be	_	VERB	VB	_	12	cop	_	_
+12	intentional	_	ADJ	JJ	_	5	ccomp	_	_
+

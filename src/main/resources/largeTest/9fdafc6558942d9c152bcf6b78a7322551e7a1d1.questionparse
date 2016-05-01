@@ -1,0 +1,13 @@
+1	''	_	PUNCT	''	_	0	erased	_	_
+2	we	_	PRON	PRP	_	4	nsubj	_	_
+3	can	_	AUX	MD	_	4	aux	_	_
+4	cooperate	_	VERB	VB	_	12	ccomp	_	_
+5	with	_	ADP	IN	_	7	case	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	world	_	NOUN	NN	_	4	nmod	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	''	_	PUNCT	''	_	0	erased	_	_
+10	president	_	NOUN	NN	_	12	nsubj	_	_
+11	@placeholder	_	ADV	RB	_	12	advmod	_	_
+12	insists	_	VERB	VBZ	_	0	root	_	_
+

@@ -1,0 +1,9 @@
+1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+2	forces	_	NOUN	NNS	_	4	nsubj	_	_
+3	also	_	ADV	RB	_	4	advmod	_	_
+4	report	_	VERB	VBP	_	0	root	_	_
+5	retaking	_	VERB	VBG	_	4	xcomp	_	_
+6	terrain	_	NOUN	NN	_	5	dobj	_	_
+7	from	_	ADP	IN	_	8	case	_	_
+8	Entity5	_	NOUN	NNS	_	5	nmod	_	_
+

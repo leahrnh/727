@@ -1,0 +1,20 @@
+1	her	_	PRON	PRP$	_	2	nmod:poss	_	_
+2	husband	_	NOUN	NN	_	7	nsubjpass	_	_
+3	,	_	PUNCT	,	_	0	erased	_	_
+4	@placeholder	_	NOUN	NN	_	2	appos	_	_
+5	,	_	PUNCT	,	_	0	erased	_	_
+6	was	_	AUX	VBD	_	7	auxpass	_	_
+7	diagnosed	_	VERB	VBN	_	0	root	_	_
+8	with	_	ADP	IN	_	11	case	_	_
+9	Entity77	_	PROPN	NNP	_	11	nmod:poss	_	_
+10	's	_	PART	POS	_	9	case	_	_
+11	lymphoma	_	NOUN	NN	_	7	nmod	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	which	_	DET	WDT	_	19	nsubj	_	_
+14	had	_	AUX	VBD	_	19	aux	_	_
+15	been	_	VERB	VBN	_	19	cop	_	_
+16	in	_	ADP	IN	_	17	case	_	_
+17	remission	_	NOUN	NN	_	19	nmod	_	_
+18	15	_	NUM	CD	_	19	nummod	_	_
+19	years	_	NOUN	NNS	_	11	acl:relcl	_	_
+

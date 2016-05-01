@@ -1,0 +1,26 @@
+1	Entity215	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	Entity7	_	ADJ	JJ	_	4	amod	_	_
+4	rioting	_	NOUN	NN	_	1	dep	_	_
+5	caused	_	VERB	VBN	_	4	acl	_	_
+6	postponement	_	NOUN	NN	_	5	dobj	_	_
+7	of	_	ADP	IN	_	9	case	_	_
+8	two	_	NUM	CD	_	9	nummod	_	_
+9	Entity15	_	NOUN	NNS	_	6	nmod	_	_
+10	-	_	PUNCT	:	_	0	erased	_	_
+11	@placeholder	_	NOUN	NN	_	12	compound	_	_
+12	games	_	NOUN	NNS	_	6	dep	_	_
+13	.	_	PUNCT	.	_	0	erased	_	_
+
+1	now	_	ADV	RB	_	3	advmod	_	_
+2	third	_	ADJ	JJ	_	3	amod	_	_
+3	game	_	NOUN	NN	_	8	nsubjpass	_	_
+4	of	_	ADP	IN	_	5	case	_	_
+5	series	_	NOUN	NN	_	3	nmod	_	_
+6	will	_	AUX	MD	_	8	aux	_	_
+7	be	_	AUX	VB	_	8	auxpass	_	_
+8	played	_	VERB	VBN	_	0	root	_	_
+9	to	_	ADP	TO	_	11	case	_	_
+10	empty	_	ADJ	JJ	_	11	amod	_	_
+11	stadium	_	NOUN	NN	_	8	nmod	_	_
+

@@ -1,0 +1,13 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	taught	_	VERB	VBD	_	0	root	_	_
+3	them	_	PRON	PRP	_	2	dobj	_	_
+4	how	_	ADV	WRB	_	12	advmod	_	_
+5	to	_	PART	TO	_	8	mark	_	_
+6	be	_	VERB	VB	_	8	cop	_	_
+7	a	_	DET	DT	_	8	det	_	_
+8	family	_	NOUN	NN	_	12	advcl	_	_
+9	again	_	ADV	RB	_	8	advmod	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	Entity215	_	NOUN	NNS	_	12	nsubj	_	_
+12	writes	_	VERB	VBZ	_	2	dep	_	_
+

@@ -1,0 +1,18 @@
+1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+2	player	_	NOUN	NN	_	0	root	_	_
+3	mutters	_	VERB	VBZ	_	2	dep	_	_
+4	n	_	NOUN	NN	_	3	dobj	_	_
+5	-	_	PUNCT	:	_	0	erased	_	_
+6	word	_	NOUN	NN	_	2	dep	_	_
+7	under	_	ADP	IN	_	9	case	_	_
+8	his	_	PRON	PRP$	_	9	nmod:poss	_	_
+9	breath	_	NOUN	NN	_	6	nmod	_	_
+10	about	_	ADP	IN	_	13	case	_	_
+11	a	_	DET	DT	_	13	det	_	_
+12	Entity9	_	ADJ	JJ	_	13	amod	_	_
+13	player	_	NOUN	NN	_	9	nmod	_	_
+14	at	_	ADP	IN	_	17	case	_	_
+15	postgame	_	ADJ	JJ	_	17	amod	_	_
+16	news	_	NOUN	NN	_	17	compound	_	_
+17	conference	_	NOUN	NN	_	13	nmod	_	_
+

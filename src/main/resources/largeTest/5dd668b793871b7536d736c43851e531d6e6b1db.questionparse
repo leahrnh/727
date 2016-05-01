@@ -1,0 +1,11 @@
+1	chief	_	ADJ	JJ	_	2	amod	_	_
+2	justice	_	NOUN	NN	_	3	nsubj	_	_
+3	disappointed	_	VERB	VBD	_	0	root	_	_
+4	conservatives	_	NOUN	NNS	_	3	dobj	_	_
+5	earlier	_	ADV	RBR	_	4	advmod	_	_
+6	when	_	ADV	WRB	_	8	advmod	_	_
+7	he	_	PRON	PRP	_	8	nsubj	_	_
+8	helped	_	VERB	VBD	_	3	advcl	_	_
+9	uphold	_	VERB	VB	_	8	xcomp	_	_
+10	@placeholder	_	NOUN	NN	_	9	dobj	_	_
+

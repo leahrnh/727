@@ -1,0 +1,17 @@
+1	the	_	DET	DT	_	4	det	_	_
+2	second	_	ADJ	JJ	_	4	amod	_	_
+3	audio	_	ADJ	JJ	_	4	amod	_	_
+4	captures	_	NOUN	NNS	_	16	nsubj	_	_
+5	a	_	DET	DT	_	7	det	_	_
+6	phone	_	NOUN	NN	_	7	compound	_	_
+7	call	_	NOUN	NN	_	13	nsubj	_	_
+8	between	_	ADP	IN	_	12	case	_	_
+9	@placeholder	_	NOUN	NN	_	12	compound	_	_
+10	and	_	CONJ	CC	_	9	cc	_	_
+11	someone	_	NOUN	NN	_	9	conj	_	_
+12	Entity0	_	NOUN	NNS	_	7	nmod	_	_
+13	believes	_	VERB	VBZ	_	4	acl:relcl	_	_
+14	is	_	VERB	VBZ	_	16	cop	_	_
+15	his	_	PRON	PRP$	_	16	nmod:poss	_	_
+16	wife	_	NOUN	NN	_	0	root	_	_
+

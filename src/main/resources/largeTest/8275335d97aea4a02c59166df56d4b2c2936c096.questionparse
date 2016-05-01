@@ -1,0 +1,17 @@
+1	Entity36	_	PROPN	NNP	_	0	root	_	_
+2	-	_	PUNCT	:	_	0	erased	_	_
+3	jiigae	_	NOUN	NN	_	6	nsubj	_	_
+4	is	_	VERB	VBZ	_	6	cop	_	_
+5	a	_	DET	DT	_	6	det	_	_
+6	stew	_	NOUN	NN	_	1	parataxis	_	_
+7	made	_	VERB	VBN	_	6	acl	_	_
+8	with	_	ADP	IN	_	10	case	_	_
+9	all	_	DET	DT	_	10	det	_	_
+10	sorts	_	NOUN	NNS	_	7	nmod	_	_
+11	of	_	ADP	IN	_	13	case	_	_
+12	canned	_	ADJ	JJ	_	13	amod	_	_
+13	meat	_	NOUN	NN	_	10	nmod	_	_
+14	,	_	PUNCT	,	_	0	erased	_	_
+15	including	_	VERB	VBG	_	16	case	_	_
+16	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+

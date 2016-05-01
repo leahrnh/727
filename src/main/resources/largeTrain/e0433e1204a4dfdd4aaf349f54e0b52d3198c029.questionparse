@@ -1,0 +1,15 @@
+1	Entity3	_	PROPN	NNP	_	6	nsubj	_	_
+2	is	_	VERB	VBZ	_	6	cop	_	_
+3	the	_	DET	DT	_	6	det	_	_
+4	first	_	ADJ	JJ	_	6	amod	_	_
+5	@placeholder	_	NOUN	NN	_	6	compound	_	_
+6	driver	_	NOUN	NN	_	0	root	_	_
+7	to	_	PART	TO	_	8	mark	_	_
+8	win	_	VERB	VB	_	6	acl	_	_
+9	title	_	NOUN	NN	_	8	dobj	_	_
+10	at	_	ADP	IN	_	12	case	_	_
+11	home	_	NOUN	NN	_	12	compound	_	_
+12	circuit	_	NOUN	NN	_	8	nmod	_	_
+13	of	_	ADP	IN	_	14	case	_	_
+14	Entity23	_	NOUN	NNS	_	12	nmod	_	_
+

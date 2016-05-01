@@ -1,0 +1,15 @@
+1	but	_	CONJ	CC	_	3	cc	_	_
+2	critics	_	NOUN	NNS	_	3	nsubj	_	_
+3	argue	_	VERB	VBP	_	0	root	_	_
+4	Entity2	_	NOUN	NNS	_	3	dobj	_	_
+5	himself	_	PRON	PRP	_	6	nsubj	_	_
+6	is	_	VERB	VBZ	_	4	acl:relcl	_	_
+7	to	_	PART	TO	_	8	mark	_	_
+8	blame	_	VERB	VB	_	6	xcomp	_	_
+9	for	_	ADP	IN	_	10	case	_	_
+10	many	_	ADJ	JJ	_	8	nmod	_	_
+11	of	_	ADP	IN	_	14	case	_	_
+12	@placeholder	_	NOUN	NN	_	14	nmod:poss	_	_
+13	's	_	PART	POS	_	12	case	_	_
+14	problems	_	NOUN	NNS	_	10	nmod	_	_
+

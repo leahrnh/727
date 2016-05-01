@@ -1,0 +1,16 @@
+1	Entity1	_	PROPN	NNP	_	0	root	_	_
+2	is	_	VERB	VBZ	_	4	cop	_	_
+3	on	_	ADP	IN	_	4	case	_	_
+4	eight	_	NUM	CD	_	1	dep	_	_
+5	-	_	PUNCT	:	_	0	erased	_	_
+6	day	_	NOUN	NN	_	7	compound	_	_
+7	trip	_	NOUN	NN	_	1	dep	_	_
+8	through	_	ADP	IN	_	9	case	_	_
+9	Entity45	_	NOUN	NNS	_	7	nmod	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	Entity96	_	NOUN	NNS	_	9	conj	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	@placeholder	_	NOUN	NNS	_	9	conj	_	_
+14	and	_	CONJ	CC	_	9	cc	_	_
+15	Entity46	_	NOUN	NNS	_	9	conj	_	_
+

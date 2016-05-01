@@ -1,0 +1,15 @@
+1	lawsuit	_	NOUN	NN	_	3	compound	_	_
+2	claims	_	NOUN	NNS	_	3	compound	_	_
+3	students	_	NOUN	NNS	_	6	nsubj	_	_
+4	did	_	AUX	VBD	_	6	aux	_	_
+5	n't	_	PART	RB	_	6	neg	_	_
+6	get	_	VERB	VB	_	0	root	_	_
+7	an	_	DET	DT	_	8	det	_	_
+8	education	_	NOUN	NN	_	6	dobj	_	_
+9	because	_	ADV	RB	_	12	case	_	_
+10	of	_	ADP	IN	_	9	mwe	_	_
+11	academic	_	ADJ	JJ	_	12	amod	_	_
+12	fraud	_	NOUN	NN	_	8	nmod	_	_
+13	at	_	ADP	IN	_	14	case	_	_
+14	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+

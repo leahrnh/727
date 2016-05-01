@@ -1,0 +1,16 @@
+1	scholar	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	films	_	NOUN	NNS	_	4	nsubj	_	_
+4	show	_	VERB	VBP	_	1	appos	_	_
+5	how	_	ADV	WRB	_	7	advmod	_	_
+6	Entity52	_	NOUN	NNS	_	7	nsubj	_	_
+7	tried	_	VERB	VBD	_	4	ccomp	_	_
+8	to	_	PART	TO	_	9	mark	_	_
+9	figure	_	VERB	VB	_	7	xcomp	_	_
+10	out	_	ADP	RP	_	9	compound:prt	_	_
+11	where	_	ADV	WRB	_	13	advmod	_	_
+12	@placeholder	_	NOUN	NN	_	13	nsubj	_	_
+13	fit	_	VERB	VBP	_	9	advcl	_	_
+14	in	_	ADP	IN	_	15	case	_	_
+15	culture	_	NOUN	NN	_	13	nmod	_	_
+

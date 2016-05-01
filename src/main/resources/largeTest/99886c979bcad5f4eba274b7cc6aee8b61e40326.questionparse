@@ -1,0 +1,15 @@
+1	''	_	PUNCT	''	_	0	erased	_	_
+2	we	_	PRON	PRP	_	4	nsubjpass	_	_
+3	are	_	AUX	VBP	_	4	auxpass	_	_
+4	heartbroken	_	VERB	VBN	_	14	ccomp	_	_
+5	about	_	ADP	IN	_	7	case	_	_
+6	this	_	DET	DT	_	7	det	_	_
+7	situation	_	NOUN	NN	_	4	nmod	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	''	_	PUNCT	''	_	0	erased	_	_
+10	@placeholder	_	NOUN	NN	_	14	nsubj	_	_
+11	ceo	_	ADV	RB	_	12	advmod	_	_
+12	and	_	PROPN	NNP	_	13	advmod	_	_
+13	president	_	NOUN	NN	_	14	advmod	_	_
+14	says	_	VERB	VBZ	_	0	root	_	_
+

@@ -1,0 +1,14 @@
+1	some	_	DET	DT	_	2	det	_	_
+2	lawmakers	_	NOUN	NNS	_	0	root	_	_
+3	pushing	_	VERB	VBG	_	2	acl	_	_
+4	for	_	ADP	IN	_	6	case	_	_
+5	new	_	ADJ	JJ	_	6	amod	_	_
+6	round	_	NOUN	NN	_	3	nmod	_	_
+7	of	_	ADP	IN	_	8	case	_	_
+8	sanctions	_	NOUN	NNS	_	2	nmod	_	_
+9	to	_	PART	TO	_	10	mark	_	_
+10	force	_	VERB	VB	_	8	acl	_	_
+11	@placeholder	_	NOUN	NN	_	13	nmod:poss	_	_
+12	's	_	PART	POS	_	11	case	_	_
+13	hand	_	NOUN	NN	_	10	dobj	_	_
+

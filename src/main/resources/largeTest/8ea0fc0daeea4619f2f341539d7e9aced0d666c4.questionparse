@@ -1,0 +1,15 @@
+1	it	_	PRON	PRP	_	2	nsubj	_	_
+2	claimed	_	VERB	VBD	_	0	root	_	_
+3	responsibility	_	NOUN	NN	_	2	dobj	_	_
+4	for	_	ADP	IN	_	7	case	_	_
+5	the	_	DET	DT	_	7	det	_	_
+6	deadly	_	ADJ	JJ	_	7	amod	_	_
+7	attack	_	NOUN	NN	_	2	nmod	_	_
+8	at	_	ADP	IN	_	11	case	_	_
+9	a	_	DET	DT	_	11	det	_	_
+10	@placeholder	_	NOUN	NN	_	11	compound	_	_
+11	mall	_	NOUN	NN	_	2	nmod	_	_
+12	in	_	ADP	IN	_	13	case	_	_
+13	september	_	PROPN	NNP	_	11	nmod	_	_
+14	2013	_	NUM	CD	_	13	nummod	_	_
+

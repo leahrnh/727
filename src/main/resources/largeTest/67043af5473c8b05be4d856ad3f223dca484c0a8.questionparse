@@ -1,0 +1,19 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	left	_	VERB	VBD	_	0	root	_	_
+3	''	_	PUNCT	''	_	0	erased	_	_
+4	bloody	_	ADJ	JJ	_	5	amod	_	_
+5	trail	_	NOUN	NN	_	2	dobj	_	_
+6	of	_	ADP	IN	_	7	case	_	_
+7	handprints	_	NOUN	NNS	_	2	nmod	_	_
+8	''	_	PUNCT	''	_	0	erased	_	_
+9	as	_	SCONJ	IN	_	11	mark	_	_
+10	he	_	PRON	PRP	_	11	nsubj	_	_
+11	returned	_	VERB	VBD	_	18	advcl	_	_
+12	to	_	ADP	TO	_	13	case	_	_
+13	club	_	NOUN	NN	_	11	nmod	_	_
+14	seeking	_	VERB	VBG	_	11	xcomp	_	_
+15	help	_	NOUN	NN	_	14	dobj	_	_
+16	,	_	PUNCT	,	_	0	erased	_	_
+17	club	_	NOUN	NN	_	18	nsubj	_	_
+18	says	_	VERB	VBZ	_	7	acl:relcl	_	_
+

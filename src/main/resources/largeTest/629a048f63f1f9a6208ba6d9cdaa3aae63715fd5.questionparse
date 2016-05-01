@@ -1,0 +1,12 @@
+1	he	_	PRON	PRP	_	3	nsubj	_	_
+2	once	_	ADV	RB	_	3	advmod	_	_
+3	participated	_	VERB	VBD	_	0	root	_	_
+4	in	_	ADP	IN	_	6	case	_	_
+5	a	_	DET	DT	_	6	det	_	_
+6	takeover	_	NOUN	NN	_	3	nmod	_	_
+7	of	_	ADP	IN	_	9	case	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	Entity111	_	NOUN	NNS	_	6	nmod	_	_
+10	in	_	ADP	IN	_	11	case	_	_
+11	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+

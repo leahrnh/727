@@ -1,0 +1,16 @@
+1	Entity169	_	PROPN	NNP	_	2	nsubj	_	_
+2	calls	_	VERB	VBZ	_	0	root	_	_
+3	for	_	ADP	IN	_	4	case	_	_
+4	@placeholder	_	NOUN	NN	_	2	nmod	_	_
+5	,	_	PUNCT	,	_	0	erased	_	_
+6	Entity1	_	ADJ	JJ	_	7	amod	_	_
+7	leaders	_	NOUN	NNS	_	2	dobj	_	_
+8	to	_	PART	TO	_	9	mark	_	_
+9	meet	_	VERB	VB	_	2	xcomp	_	_
+10	often	_	ADV	RB	_	11	advmod	_	_
+11	on	_	ADV	RB	_	9	advmod	_	_
+12	''	_	PUNCT	''	_	0	erased	_	_
+13	pending	_	ADJ	JJ	_	14	amod	_	_
+14	issues	_	NOUN	NNS	_	9	dobj	_	_
+15	''	_	PUNCT	''	_	0	erased	_	_
+

@@ -1,0 +1,11 @@
+1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+2	administration	_	NOUN	NN	_	0	root	_	_
+3	taking	_	VERB	VBG	_	2	dep	_	_
+4	down	_	ADP	RP	_	3	compound:prt	_	_
+5	Entity1	_	NOUN	NNS	_	3	dobj	_	_
+6	from	_	ADP	IN	_	7	case	_	_
+7	friday	_	PROPN	NNP	_	3	nmod	_	_
+8	night	_	NOUN	NN	_	3	nmod:tmod	_	_
+9	through	_	ADP	IN	_	10	case	_	_
+10	overnight	_	ADJ	JJ	_	3	nmod	_	_
+

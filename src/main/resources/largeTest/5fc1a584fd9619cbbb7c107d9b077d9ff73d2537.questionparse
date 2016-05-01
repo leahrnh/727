@@ -1,0 +1,16 @@
+1	some	_	DET	DT	_	2	nsubj	_	_
+2	vow	_	VERB	VBZ	_	0	root	_	_
+3	to	_	PART	TO	_	4	mark	_	_
+4	honor	_	VERB	VB	_	2	xcomp	_	_
+5	it	_	PRON	PRP	_	4	dobj	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	but	_	CONJ	CC	_	2	cc	_	_
+8	others	_	NOUN	NNS	_	9	nsubj	_	_
+9	say	_	VERB	VBP	_	2	conj	_	_
+10	they	_	PRON	PRP	_	13	nsubj	_	_
+11	'll	_	AUX	MD	_	13	aux	_	_
+12	still	_	ADV	RB	_	13	advmod	_	_
+13	vote	_	VERB	VB	_	9	ccomp	_	_
+14	for	_	ADP	IN	_	15	case	_	_
+15	@placeholder	_	NOUN	NN	_	13	nmod	_	_
+

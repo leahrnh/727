@@ -1,0 +1,18 @@
+1	Entity201	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	@placeholder	_	NOUN	NN	_	7	compound	_	_
+4	and	_	CONJ	CC	_	3	cc	_	_
+5	Entity3	_	ADJ	JJ	_	3	conj	_	_
+6	scrubbed	_	NOUN	NN	_	7	compound	_	_
+7	segment	_	NOUN	NN	_	1	dep	_	_
+8	about	_	ADP	IN	_	11	case	_	_
+9	Entity10	_	PROPN	NNP	_	11	nmod:poss	_	_
+10	's	_	PART	POS	_	9	case	_	_
+11	slave	_	NOUN	NN	_	7	nmod	_	_
+12	-	_	PUNCT	:	_	0	erased	_	_
+13	owning	_	VERB	VBN	_	1	dep	_	_
+14	ancestors	_	NOUN	NNS	_	13	dobj	_	_
+15	from	_	ADP	IN	_	17	case	_	_
+16	tv	_	NOUN	NN	_	17	compound	_	_
+17	show	_	NOUN	NN	_	13	nmod	_	_
+

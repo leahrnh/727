@@ -1,0 +1,15 @@
+1	Entity1	_	PROPN	NNP	_	0	root	_	_
+2	/	_	PUNCT	:	_	0	erased	_	_
+3	Entity12	_	ADJ	JJ	_	4	amod	_	_
+4	survey	_	NOUN	NN	_	11	nsubj	_	_
+5	:	_	PUNCT	:	_	0	erased	_	_
+6	only	_	ADV	RB	_	7	advmod	_	_
+7	1	_	NUM	CD	_	4	dep	_	_
+8	in	_	ADP	IN	_	10	case	_	_
+9	5	_	NUM	CD	_	10	nummod	_	_
+10	@placeholder	_	NOUN	NN	_	4	nmod	_	_
+11	oppose	_	VERB	VBP	_	1	parataxis	_	_
+12	negotiations	_	NOUN	NNS	_	11	dobj	_	_
+13	with	_	ADP	IN	_	14	case	_	_
+14	Entity14	_	NOUN	NNS	_	11	nmod	_	_
+

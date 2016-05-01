@@ -1,0 +1,13 @@
+1	case	_	NOUN	NN	_	2	nsubj	_	_
+2	sparked	_	VERB	VBD	_	0	root	_	_
+3	worldwide	_	ADJ	JJ	_	4	amod	_	_
+4	interest	_	NOUN	NN	_	2	dobj	_	_
+5	;	_	PUNCT	:	_	0	erased	_	_
+6	sightings	_	NOUN	NNS	_	9	nsubj	_	_
+7	of	_	ADP	IN	_	8	case	_	_
+8	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+9	reported	_	VERB	VBD	_	2	parataxis	_	_
+10	across	_	ADP	IN	_	12	case	_	_
+11	the	_	DET	DT	_	12	det	_	_
+12	globe	_	NOUN	NN	_	9	nmod	_	_
+

@@ -1,0 +1,10 @@
+1	Entity3	_	ADJ	JJ	_	3	amod	_	_
+2	police	_	NOUN	NN	_	3	compound	_	_
+3	detain	_	NOUN	NN	_	0	root	_	_
+4	ethnic	_	ADJ	JJ	_	6	amod	_	_
+5	@placeholder	_	NOUN	NN	_	6	compound	_	_
+6	monk	_	NOUN	NN	_	3	dep	_	_
+7	and	_	CONJ	CC	_	6	cc	_	_
+8	his	_	PRON	PRP$	_	9	nmod:poss	_	_
+9	nephew	_	NOUN	NN	_	6	conj	_	_
+

@@ -1,0 +1,19 @@
+1	Entity219	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	Entity3	_	PROPN	NNP	_	6	nmod:poss	_	_
+4	's	_	PART	POS	_	3	case	_	_
+5	colonial	_	ADJ	JJ	_	6	amod	_	_
+6	past	_	NOUN	NN	_	7	nsubj	_	_
+7	plays	_	VERB	VBZ	_	1	parataxis	_	_
+8	a	_	DET	DT	_	10	det	_	_
+9	key	_	ADJ	JJ	_	10	amod	_	_
+10	role	_	NOUN	NN	_	7	dobj	_	_
+11	in	_	ADP	IN	_	15	case	_	_
+12	the	_	DET	DT	_	15	det	_	_
+13	migrant	_	ADJ	JJ	_	15	amod	_	_
+14	humanitarian	_	ADJ	JJ	_	15	amod	_	_
+15	disaster	_	NOUN	NN	_	10	nmod	_	_
+16	in	_	ADP	IN	_	18	case	_	_
+17	the	_	DET	DT	_	18	det	_	_
+18	@placeholder	_	NOUN	NN	_	15	nmod	_	_
+

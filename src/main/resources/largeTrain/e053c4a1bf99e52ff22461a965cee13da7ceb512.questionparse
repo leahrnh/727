@@ -1,0 +1,12 @@
+1	Entity2	_	PROPN	NNP	_	7	nsubj	_	_
+2	is	_	VERB	VBZ	_	7	cop	_	_
+3	a	_	DET	DT	_	7	det	_	_
+4	critically	_	ADV	RB	_	5	advmod	_	_
+5	acclaimed	_	ADJ	JJ	_	7	amod	_	_
+6	film	_	NOUN	NN	_	7	compound	_	_
+7	star	_	NOUN	NN	_	0	root	_	_
+8	from	_	ADP	IN	_	9	case	_	_
+9	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	Entity14	_	NOUN	NNS	_	9	appos	_	_
+

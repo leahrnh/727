@@ -1,0 +1,17 @@
+1	Entity42	_	PROPN	NNP	_	8	nsubj	_	_
+2	are	_	VERB	VBP	_	8	cop	_	_
+3	up	_	ADV	RB	_	8	advmod	_	_
+4	to	_	ADP	TO	_	6	case	_	_
+5	third	_	ADJ	JJ	_	6	amod	_	_
+6	place	_	NOUN	NN	_	3	nmod	_	_
+7	in	_	ADP	IN	_	8	case	_	_
+8	@placeholder	_	NOUN	NN	_	0	root	_	_
+9	after	_	ADP	IN	_	11	case	_	_
+10	a	_	DET	DT	_	11	det	_	_
+11	2	_	NUM	CD	_	8	nmod	_	_
+12	-	_	PUNCT	:	_	0	erased	_	_
+13	1	_	NUM	CD	_	14	nsubj	_	_
+14	win	_	VERB	VBP	_	8	parataxis	_	_
+15	over	_	ADP	IN	_	16	case	_	_
+16	Entity45	_	NOUN	NNS	_	14	nmod	_	_
+

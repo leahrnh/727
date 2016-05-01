@@ -1,0 +1,18 @@
+1	by	_	ADP	IN	_	2	case	_	_
+2	1972	_	NUM	CD	_	6	nmod	_	_
+3	,	_	PUNCT	,	_	0	erased	_	_
+4	he	_	PRON	PRP	_	6	nsubj	_	_
+5	was	_	AUX	VBD	_	6	aux	_	_
+6	urging	_	VERB	VBG	_	0	root	_	_
+7	muslims	_	NOUN	NNS	_	6	dobj	_	_
+8	to	_	PART	TO	_	9	mark	_	_
+9	fight	_	VERB	VB	_	6	xcomp	_	_
+10	@placeholder	_	NOUN	NN	_	11	compound	_	_
+11	powers	_	NOUN	NNS	_	9	dobj	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	including	_	VERB	VBG	_	15	case	_	_
+14	the	_	DET	DT	_	15	det	_	_
+15	Entity206	_	NOUN	NNS	_	11	nmod	_	_
+16	and	_	CONJ	CC	_	15	cc	_	_
+17	Entity61	_	NOUN	NNS	_	15	conj	_	_
+

@@ -1,0 +1,12 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	headed	_	VERB	VBD	_	0	root	_	_
+3	goal	_	NOUN	NN	_	4	nsubj	_	_
+4	earns	_	VERB	VBZ	_	2	ccomp	_	_
+5	Entity3	_	ADJ	JJ	_	7	amod	_	_
+6	second	_	ADJ	JJ	_	7	amod	_	_
+7	Entity10	_	NOUN	NNS	_	8	nsubj	_	_
+8	win	_	VERB	VB	_	4	ccomp	_	_
+9	in	_	ADP	IN	_	11	case	_	_
+10	five	_	NUM	CD	_	11	nummod	_	_
+11	days	_	NOUN	NNS	_	8	nmod	_	_
+

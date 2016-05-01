@@ -1,0 +1,15 @@
+1	veteran	_	ADJ	JJ	_	4	amod	_	_
+2	Entity2	_	ADJ	JJ	_	4	amod	_	_
+3	@placeholder	_	NOUN	NN	_	4	compound	_	_
+4	cards	_	NOUN	NNS	_	0	root	_	_
+5	a	_	DET	DT	_	6	det	_	_
+6	12	_	NUM	CD	_	4	dep	_	_
+7	-	_	PUNCT	:	_	0	erased	_	_
+8	under	_	ADP	IN	_	6	dep	_	_
+9	-	_	PUNCT	:	_	0	erased	_	_
+10	par	_	NOUN	NN	_	4	dep	_	_
+11	59	_	NUM	CD	_	10	nummod	_	_
+12	in	_	ADP	IN	_	14	case	_	_
+13	the	_	DET	DT	_	14	det	_	_
+14	Entity8	_	NOUN	NNS	_	10	nmod	_	_
+

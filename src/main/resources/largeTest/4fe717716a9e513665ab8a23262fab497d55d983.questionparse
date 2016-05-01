@@ -1,0 +1,18 @@
+1	Entity69	_	ADJ	JJ	_	2	amod	_	_
+2	warships	_	NOUN	NNS	_	4	nsubj	_	_
+3	are	_	AUX	VBP	_	4	aux	_	_
+4	patrolling	_	VERB	VBG	_	0	root	_	_
+5	off	_	ADP	RP	_	4	compound:prt	_	_
+6	Entity2	_	NOUN	NNS	_	4	dobj	_	_
+7	in	_	ADP	IN	_	8	case	_	_
+8	search	_	NOUN	NN	_	4	nmod	_	_
+9	of	_	ADP	IN	_	11	case	_	_
+10	suspicious	_	ADJ	JJ	_	11	amod	_	_
+11	shipping	_	NOUN	NN	_	8	nmod	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	a	_	DET	DT	_	16	det	_	_
+14	@placeholder	_	NOUN	NN	_	16	compound	_	_
+15	defense	_	NOUN	NN	_	16	compound	_	_
+16	official	_	NOUN	NN	_	11	appos	_	_
+17	says	_	VERB	VBZ	_	16	dep	_	_
+

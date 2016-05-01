@@ -1,0 +1,18 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	has	_	VERB	VBZ	_	0	root	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	presence	_	NOUN	NN	_	2	dobj	_	_
+5	in	_	ADP	IN	_	6	case	_	_
+6	Entity2	_	NOUN	NNS	_	4	nmod	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	but	_	CONJ	CC	_	2	cc	_	_
+9	it	_	PRON	PRP	_	14	nsubj	_	_
+10	has	_	AUX	VBZ	_	14	aux	_	_
+11	been	_	VERB	VBN	_	14	cop	_	_
+12	on	_	ADP	IN	_	14	case	_	_
+13	the	_	DET	DT	_	14	det	_	_
+14	decline	_	NOUN	NN	_	17	ccomp	_	_
+15	,	_	PUNCT	,	_	0	erased	_	_
+16	he	_	PRON	PRP	_	17	nsubj	_	_
+17	says	_	VERB	VBZ	_	2	conj	_	_
+

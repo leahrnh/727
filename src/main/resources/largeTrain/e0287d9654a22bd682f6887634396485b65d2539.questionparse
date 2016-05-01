@@ -1,0 +1,12 @@
+1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+2	government	_	NOUN	NN	_	3	nsubj	_	_
+3	believes	_	VERB	VBZ	_	0	root	_	_
+4	n.	_	ADJ	JJ	_	6	amod	_	_
+5	Entity42	_	ADJ	JJ	_	6	amod	_	_
+6	hackers	_	NOUN	NNS	_	8	nsubj	_	_
+7	are	_	AUX	VBP	_	8	aux	_	_
+8	launching	_	VERB	VBG	_	3	ccomp	_	_
+9	attacks	_	NOUN	NNS	_	8	dobj	_	_
+10	from	_	ADP	IN	_	11	case	_	_
+11	Entity3	_	NOUN	NNS	_	8	nmod	_	_
+

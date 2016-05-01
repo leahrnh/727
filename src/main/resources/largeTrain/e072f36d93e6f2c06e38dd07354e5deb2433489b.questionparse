@@ -1,0 +1,13 @@
+1	Entity243	_	PROPN	NNP	_	2	nsubj	_	_
+2	says	_	VERB	VBZ	_	0	root	_	_
+3	@placeholder	_	NOUN	NN	_	5	nmod:poss	_	_
+4	's	_	PART	POS	_	3	case	_	_
+5	comments	_	NOUN	NNS	_	8	nsubj	_	_
+6	on	_	ADP	IN	_	7	case	_	_
+7	wealth	_	NOUN	NN	_	5	nmod	_	_
+8	came	_	VERB	VBD	_	2	ccomp	_	_
+9	across	_	ADP	RP	_	8	compound:prt	_	_
+10	as	_	ADP	IN	_	12	case	_	_
+11	tone	_	NOUN	NN	_	12	compound	_	_
+12	deaf	_	NOUN	NNS	_	8	nmod	_	_
+

@@ -1,0 +1,11 @@
+1	@placeholder	_	NOUN	NN	_	3	nmod:poss	_	_
+2	's	_	PART	POS	_	1	case	_	_
+3	attorney	_	NOUN	NN	_	4	nsubj	_	_
+4	says	_	VERB	VBZ	_	0	root	_	_
+5	she	_	PRON	PRP	_	8	nsubj	_	_
+6	does	_	AUX	VBZ	_	8	aux	_	_
+7	not	_	PART	RB	_	8	neg	_	_
+8	know	_	VERB	VB	_	4	ccomp	_	_
+9	specific	_	ADJ	JJ	_	10	amod	_	_
+10	accusations	_	NOUN	NNS	_	8	dobj	_	_
+

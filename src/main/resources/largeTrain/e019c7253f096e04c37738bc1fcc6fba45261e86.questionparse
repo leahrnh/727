@@ -1,0 +1,14 @@
+1	@placeholder	_	NOUN	NN	_	3	nsubj	_	_
+2	narrowly	_	ADV	RB	_	3	advmod	_	_
+3	won	_	VERB	VBD	_	0	root	_	_
+4	the	_	DET	DT	_	6	det	_	_
+5	presidential	_	ADJ	JJ	_	6	amod	_	_
+6	poll	_	NOUN	NN	_	3	dobj	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	clinching	_	VERB	VBG	_	3	advcl	_	_
+9	50.07	_	NUM	CD	_	10	nummod	_	_
+10	%	_	SYM	NN	_	8	dobj	_	_
+11	of	_	ADP	IN	_	13	case	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	vote	_	NOUN	NN	_	10	nmod	_	_
+

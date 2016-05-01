@@ -1,0 +1,16 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	song	_	NOUN	NN	_	4	nsubjpass	_	_
+3	is	_	AUX	VBZ	_	4	auxpass	_	_
+4	dense	_	VERB	VBN	_	0	root	_	_
+5	with	_	ADP	IN	_	6	case	_	_
+6	symbolism	_	NOUN	NN	_	4	nmod	_	_
+7	;	_	PUNCT	:	_	0	erased	_	_
+8	@placeholder	_	NOUN	NN	_	9	nsubj	_	_
+9	says	_	VERB	VBZ	_	14	ccomp	_	_
+10	lyrics	_	NOUN	NNS	_	9	dobj	_	_
+11	,	_	PUNCT	,	_	0	erased	_	_
+12	notes	_	NOUN	NNS	_	14	nsubj	_	_
+13	will	_	AUX	MD	_	14	aux	_	_
+14	reveal	_	VERB	VB	_	4	parataxis	_	_
+15	meaning	_	NOUN	NN	_	14	dobj	_	_
+

@@ -1,0 +1,18 @@
+1	Entity12	_	ADV	RB	_	2	advmod	_	_
+2	worked	_	VERB	VBN	_	17	advcl	_	_
+3	in	_	ADP	IN	_	6	case	_	_
+4	an	_	DET	DT	_	6	det	_	_
+5	administrative	_	ADJ	JJ	_	6	amod	_	_
+6	capacity	_	NOUN	NN	_	2	nmod	_	_
+7	and	_	CONJ	CC	_	2	cc	_	_
+8	did	_	AUX	VBD	_	10	aux	_	_
+9	n't	_	PART	RB	_	10	neg	_	_
+10	do	_	VERB	VB	_	2	conj	_	_
+11	public	_	ADJ	JJ	_	13	amod	_	_
+12	security	_	NOUN	NN	_	13	compound	_	_
+13	screenings	_	NOUN	NNS	_	10	dobj	_	_
+14	,	_	PUNCT	,	_	0	erased	_	_
+15	@placeholder	_	NOUN	NN	_	16	compound	_	_
+16	official	_	NOUN	NN	_	17	nsubj	_	_
+17	says	_	VERB	VBZ	_	0	root	_	_
+

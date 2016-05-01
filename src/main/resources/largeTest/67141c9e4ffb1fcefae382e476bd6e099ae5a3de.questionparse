@@ -1,0 +1,12 @@
+1	foremost	_	ADV	RB	_	4	advmod	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	he	_	PRON	PRP	_	4	nsubj	_	_
+4	asks	_	VERB	VBZ	_	0	root	_	_
+5	that	_	DET	DT	_	7	det	_	_
+6	bloodshed	_	ADJ	JJ	_	7	amod	_	_
+7	end	_	NOUN	NN	_	4	dobj	_	_
+8	in	_	ADP	IN	_	9	case	_	_
+9	Entity19	_	NOUN	NNS	_	7	nmod	_	_
+10	and	_	CONJ	CC	_	9	cc	_	_
+11	@placeholder	_	NOUN	NN	_	9	conj	_	_
+

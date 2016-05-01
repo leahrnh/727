@@ -1,0 +1,14 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	says	_	VERB	VBZ	_	0	root	_	_
+3	3	_	NUM	CD	_	4	nummod	_	_
+4	people	_	NOUN	NNS	_	2	dobj	_	_
+5	died	_	VERB	VBN	_	4	acl	_	_
+6	from	_	ADP	IN	_	7	case	_	_
+7	bacteria	_	NOUN	NNS	_	5	nmod	_	_
+8	believed	_	VERB	VBN	_	7	acl	_	_
+9	to	_	PART	TO	_	11	mark	_	_
+10	have	_	AUX	VB	_	11	aux	_	_
+11	come	_	VERB	VBN	_	8	xcomp	_	_
+12	from	_	ADP	IN	_	13	case	_	_
+13	Entity1	_	NOUN	NNS	_	11	nmod	_	_
+

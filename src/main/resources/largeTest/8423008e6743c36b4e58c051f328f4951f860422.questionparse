@@ -1,0 +1,20 @@
+1	Entity12	_	VERB	VB	_	0	root	_	_
+2	's	_	PRON	PRP	_	1	dobj	_	_
+3	''	_	PUNCT	''	_	0	erased	_	_
+4	@placeholder	_	NOUN	NN	_	6	compound	_	_
+5	''	_	PUNCT	''	_	0	erased	_	_
+6	mission	_	NOUN	NN	_	12	nsubj	_	_
+7	to	_	ADP	TO	_	8	case	_	_
+8	rescue	_	NOUN	NN	_	6	nmod	_	_
+9	would	_	AUX	MD	_	12	aux	_	_
+10	-	_	PUNCT	:	_	0	erased	_	_
+11	be	_	VERB	VB	_	12	cop	_	_
+12	migrants	_	ADJ	JJ	_	1	dep	_	_
+13	in	_	ADP	IN	_	14	case	_	_
+14	peril	_	NOUN	NN	_	12	nmod	_	_
+15	rescued	_	VERB	VBD	_	14	acl	_	_
+16	an	_	DET	DT	_	19	det	_	_
+17	estimated	_	VERB	VBN	_	19	amod	_	_
+18	100,000	_	NUM	CD	_	19	nummod	_	_
+19	people	_	NOUN	NNS	_	15	dobj	_	_
+

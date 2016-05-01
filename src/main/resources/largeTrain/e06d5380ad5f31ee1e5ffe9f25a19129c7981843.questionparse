@@ -1,0 +1,13 @@
+1	former	_	ADJ	JJ	_	2	amod	_	_
+2	Entity1	_	NOUN	NNS	_	12	nsubjpass	_	_
+3	coach	_	NOUN	NN	_	4	compound	_	_
+4	@placeholder	_	NOUN	NN	_	5	nsubj	_	_
+5	says	_	VERB	VBZ	_	2	acl:relcl	_	_
+6	his	_	PRON	PRP$	_	7	nmod:poss	_	_
+7	comments	_	NOUN	NNS	_	5	dobj	_	_
+8	on	_	ADP	IN	_	10	case	_	_
+9	black	_	ADJ	JJ	_	10	amod	_	_
+10	players	_	NOUN	NNS	_	5	nmod	_	_
+11	were	_	VERB	VBD	_	12	auxpass	_	_
+12	misunderstood	_	VERB	VBN	_	0	root	_	_
+

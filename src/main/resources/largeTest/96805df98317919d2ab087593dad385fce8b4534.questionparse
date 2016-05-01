@@ -1,0 +1,13 @@
+1	head	_	NOUN	NN	_	5	nsubj	_	_
+2	of	_	ADP	IN	_	4	case	_	_
+3	Entity11	_	ADJ	JJ	_	4	amod	_	_
+4	army	_	NOUN	NN	_	1	nmod	_	_
+5	tells	_	VERB	VBZ	_	0	root	_	_
+6	@placeholder	_	NOUN	NN	_	8	compound	_	_
+7	Entity11	_	NOUN	NNS	_	8	compound	_	_
+8	authorities	_	NOUN	NNS	_	12	nsubjpass	_	_
+9	have	_	AUX	VBP	_	12	aux	_	_
+10	not	_	PART	RB	_	12	neg	_	_
+11	been	_	AUX	VBN	_	12	auxpass	_	_
+12	consulted	_	VERB	VBN	_	5	ccomp	_	_
+

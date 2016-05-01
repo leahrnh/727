@@ -1,0 +1,14 @@
+1	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	charged	_	VERB	VBN	_	1	acl	_	_
+4	with	_	ADP	IN	_	5	case	_	_
+5	first	_	ADJ	JJ	_	3	nmod	_	_
+6	-	_	PUNCT	:	_	0	erased	_	_
+7	degree	_	NOUN	NN	_	8	compound	_	_
+8	murder	_	NOUN	NN	_	5	dep	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	swears	_	VERB	VBZ	_	0	root	_	_
+11	at	_	ADP	IN	_	13	case	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	judge	_	NOUN	NN	_	10	nmod	_	_
+

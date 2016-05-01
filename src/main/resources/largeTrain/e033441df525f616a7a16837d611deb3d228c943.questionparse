@@ -1,0 +1,12 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	says	_	VERB	VBZ	_	0	root	_	_
+3	she	_	PRON	PRP	_	5	nsubj	_	_
+4	is	_	VERB	VBZ	_	5	cop	_	_
+5	willing	_	ADJ	JJ	_	2	ccomp	_	_
+6	to	_	PART	TO	_	7	mark	_	_
+7	forgive	_	VERB	VB	_	5	xcomp	_	_
+8	her	_	PRON	PRP$	_	9	nmod:poss	_	_
+9	husband	_	NOUN	NN	_	7	dobj	_	_
+10	and	_	CONJ	CC	_	7	cc	_	_
+11	reconcile	_	VERB	VB	_	7	conj	_	_
+

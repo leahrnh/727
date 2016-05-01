@@ -1,0 +1,15 @@
+1	Entity256	_	ADJ	JJ	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	Entity0	_	PROPN	NNP	_	6	nmod:poss	_	_
+4	's	_	PART	POS	_	3	case	_	_
+5	''	_	PUNCT	''	_	0	erased	_	_
+6	civil	_	NOUN	NN	_	1	dep	_	_
+7	society	_	VERB	VBN	_	6	acl	_	_
+8	''	_	PUNCT	''	_	0	erased	_	_
+9	keeping	_	VERB	VBG	_	7	xcomp	_	_
+10	tabs	_	NOUN	NNS	_	9	dobj	_	_
+11	on	_	SCONJ	IN	_	12	mark	_	_
+12	upcoming	_	VERB	VBG	_	9	advcl	_	_
+13	@placeholder	_	NOUN	NN	_	14	compound	_	_
+14	election	_	NOUN	NN	_	12	dobj	_	_
+

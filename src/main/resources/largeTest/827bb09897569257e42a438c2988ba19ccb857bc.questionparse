@@ -1,0 +1,14 @@
+1	protests	_	NOUN	NNS	_	2	nsubj	_	_
+2	spread	_	VERB	VBN	_	0	root	_	_
+3	to	_	ADP	TO	_	4	case	_	_
+4	@placeholder	_	NOUN	NN	_	2	nmod	_	_
+5	and	_	CONJ	CC	_	4	cc	_	_
+6	Entity25	_	NOUN	NNS	_	4	conj	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	with	_	ADP	IN	_	9	case	_	_
+9	more	_	ADJ	JJR	_	2	nmod	_	_
+10	scheduled	_	VERB	VBN	_	9	acl	_	_
+11	for	_	ADP	IN	_	13	case	_	_
+12	other	_	ADJ	JJ	_	13	amod	_	_
+13	cities	_	NOUN	NNS	_	10	nmod	_	_
+

@@ -1,0 +1,15 @@
+1	Entity2	_	PROPN	NNP	_	5	nsubj	_	_
+2	's	_	AUX	VBZ	_	5	aux	_	_
+3	been	_	VERB	VBN	_	5	cop	_	_
+4	in	_	ADP	IN	_	5	case	_	_
+5	turmoil	_	NOUN	NN	_	0	root	_	_
+6	since	_	ADP	IN	_	10	case	_	_
+7	the	_	DET	DT	_	10	det	_	_
+8	military	_	ADJ	JJ	_	10	amod	_	_
+9	ousted	_	ADJ	JJ	_	10	amod	_	_
+10	Entity5	_	NOUN	NNS	_	5	nmod	_	_
+11	-	_	PUNCT	:	_	0	erased	_	_
+12	backed	_	VERB	VBN	_	5	dep	_	_
+13	president	_	NOUN	NN	_	14	compound	_	_
+14	@placeholder	_	NOUN	NN	_	5	dobj	_	_
+

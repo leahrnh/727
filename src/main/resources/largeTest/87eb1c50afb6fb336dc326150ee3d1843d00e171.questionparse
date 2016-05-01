@@ -1,0 +1,19 @@
+1	Entity1	_	PROPN	NNP	_	4	nmod:poss	_	_
+2	's	_	PART	POS	_	1	case	_	_
+3	elite	_	ADJ	JJ	_	4	amod	_	_
+4	Entity26	_	NOUN	NNS	_	5	nsubj	_	_
+5	is	_	VERB	VBZ	_	0	root	_	_
+6	training	_	VERB	VBG	_	5	xcomp	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	advising	_	VERB	VBG	_	6	conj	_	_
+9	and	_	CONJ	CC	_	6	cc	_	_
+10	supporting	_	VERB	VBG	_	6	conj	_	_
+11	@placeholder	_	NOUN	NN	_	12	compound	_	_
+12	militias	_	NOUN	NNS	_	6	dobj	_	_
+13	in	_	ADP	IN	_	15	case	_	_
+14	their	_	PRON	PRP$	_	15	nmod:poss	_	_
+15	fight	_	NOUN	NN	_	6	nmod	_	_
+16	against	_	ADP	IN	_	17	case	_	_
+17	Entity14	_	NOUN	NNS	_	15	nmod	_	_
+18	.	_	PUNCT	.	_	0	erased	_	_
+

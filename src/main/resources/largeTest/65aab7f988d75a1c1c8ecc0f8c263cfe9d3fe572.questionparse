@@ -1,0 +1,15 @@
+1	Entity332	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	@placeholder	_	NOUN	NN	_	4	nsubj	_	_
+4	has	_	VERB	VBZ	_	1	parataxis	_	_
+5	a	_	DET	DT	_	7	det	_	_
+6	strong	_	ADJ	JJ	_	7	amod	_	_
+7	argument	_	NOUN	NN	_	4	dobj	_	_
+8	that	_	SCONJ	IN	_	13	mark	_	_
+9	it	_	PRON	PRP	_	13	nsubjpass	_	_
+10	should	_	AUX	MD	_	13	aux	_	_
+11	n't	_	PART	RB	_	13	neg	_	_
+12	be	_	AUX	VB	_	13	auxpass	_	_
+13	held	_	VERB	VBN	_	7	dep	_	_
+14	responsible	_	ADJ	JJ	_	13	xcomp	_	_
+

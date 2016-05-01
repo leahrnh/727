@@ -1,0 +1,18 @@
+1	official	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	two	_	NUM	CD	_	4	nummod	_	_
+4	sides	_	NOUN	NNS	_	7	nsubj	_	_
+5	are	_	VERB	VBP	_	7	cop	_	_
+6	''	_	PUNCT	''	_	0	erased	_	_
+7	closer	_	ADJ	JJR	_	1	appos	_	_
+8	to	_	ADP	TO	_	9	case	_	_
+9	agreement	_	NOUN	NN	_	7	nmod	_	_
+10	''	_	PUNCT	''	_	0	erased	_	_
+11	on	_	ADP	IN	_	12	case	_	_
+12	scope	_	NOUN	NN	_	9	nmod	_	_
+13	of	_	ADP	IN	_	17	case	_	_
+14	@placeholder	_	NOUN	NN	_	17	nmod:poss	_	_
+15	's	_	PART	POS	_	14	case	_	_
+16	chemical	_	NOUN	NN	_	17	compound	_	_
+17	weapons	_	NOUN	NNS	_	12	nmod	_	_
+

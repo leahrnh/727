@@ -1,0 +1,21 @@
+1	calls	_	NOUN	NNS	_	8	nsubj	_	_
+2	for	_	ADP	IN	_	3	case	_	_
+3	Entity0	_	NOUN	NNS	_	1	nmod	_	_
+4	-	_	PUNCT	:	_	0	erased	_	_
+5	koo	_	NOUN	NN	_	3	dep	_	_
+6	to	_	PART	TO	_	7	mark	_	_
+7	resign	_	VERB	VB	_	5	acl	_	_
+8	began	_	VERB	VBD	_	0	root	_	_
+9	after	_	SCONJ	IN	_	14	mark	_	_
+10	Entity1	_	ADJ	JJ	_	12	amod	_	_
+11	tycoon	_	NOUN	NN	_	12	compound	_	_
+12	Entity18	_	NOUN	NNS	_	14	nsubjpass	_	_
+13	was	_	AUX	VBD	_	14	auxpass	_	_
+14	found	_	VERB	VBN	_	8	advcl	_	_
+15	hanging	_	VERB	VBG	_	14	xcomp	_	_
+16	from	_	ADP	IN	_	18	case	_	_
+17	a	_	DET	DT	_	18	det	_	_
+18	tree	_	NOUN	NN	_	15	nmod	_	_
+19	in	_	ADP	IN	_	20	case	_	_
+20	@placeholder	_	NOUN	NN	_	18	nmod	_	_
+

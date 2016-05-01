@@ -1,0 +1,14 @@
+1	@placeholder	_	NOUN	NN	_	3	compound	_	_
+2	journalist	_	NOUN	NN	_	3	compound	_	_
+3	Entity14	_	NOUN	NNS	_	4	nsubj	_	_
+4	embedded	_	VERB	VBN	_	0	root	_	_
+5	with	_	ADP	IN	_	9	case	_	_
+6	the	_	DET	DT	_	9	det	_	_
+7	Entity3	_	ADJ	JJ	_	9	amod	_	_
+8	last	_	ADJ	JJ	_	9	amod	_	_
+9	year	_	NOUN	NN	_	4	nmod	_	_
+10	to	_	PART	TO	_	11	mark	_	_
+11	capture	_	VERB	VB	_	4	xcomp	_	_
+12	daily	_	ADJ	JJ	_	13	amod	_	_
+13	life	_	NOUN	NN	_	11	dobj	_	_
+

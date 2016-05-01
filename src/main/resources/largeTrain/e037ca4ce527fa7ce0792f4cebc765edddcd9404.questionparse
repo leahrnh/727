@@ -1,0 +1,18 @@
+1	she	_	PRON	PRP	_	5	nsubj	_	_
+2	was	_	VERB	VBD	_	5	cop	_	_
+3	on	_	ADP	IN	_	5	case	_	_
+4	''	_	PUNCT	''	_	0	erased	_	_
+5	Entity6	_	NOUN	NNS	_	0	root	_	_
+6	''	_	PUNCT	''	_	0	erased	_	_
+7	and	_	CONJ	CC	_	5	cc	_	_
+8	won	_	VERB	VBD	_	5	conj	_	_
+9	2	_	NUM	CD	_	10	nummod	_	_
+10	emmys	_	NOUN	NNS	_	8	dobj	_	_
+11	for	_	ADP	IN	_	13	case	_	_
+12	her	_	PRON	PRP$	_	13	nmod:poss	_	_
+13	role	_	NOUN	NN	_	8	nmod	_	_
+14	on	_	ADP	IN	_	16	case	_	_
+15	''	_	PUNCT	''	_	0	erased	_	_
+16	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+17	''	_	PUNCT	''	_	0	erased	_	_
+

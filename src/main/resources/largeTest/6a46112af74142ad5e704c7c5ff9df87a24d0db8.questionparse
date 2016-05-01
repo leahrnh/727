@@ -1,0 +1,19 @@
+1	he	_	PRON	PRP	_	2	nsubj	_	_
+2	says	_	VERB	VBZ	_	0	root	_	_
+3	@placeholder	_	NOUN	NN	_	5	nsubj	_	_
+4	has	_	AUX	VBZ	_	5	aux	_	_
+5	gone	_	VERB	VBN	_	2	ccomp	_	_
+6	from	_	ADP	IN	_	9	case	_	_
+7	a	_	DET	DT	_	9	det	_	_
+8	budget	_	NOUN	NN	_	9	compound	_	_
+9	deficit	_	NOUN	NN	_	5	nmod	_	_
+10	to	_	ADP	TO	_	11	case	_	_
+11	surplus	_	NOUN	NN	_	5	nmod	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	from	_	SCONJ	IN	_	14	mark	_	_
+14	losing	_	VERB	VBG	_	5	advcl	_	_
+15	jobs	_	NOUN	NNS	_	14	dobj	_	_
+16	to	_	ADP	TO	_	17	mark	_	_
+17	creating	_	VERB	VBG	_	14	advcl	_	_
+18	them	_	PRON	PRP	_	17	dobj	_	_
+

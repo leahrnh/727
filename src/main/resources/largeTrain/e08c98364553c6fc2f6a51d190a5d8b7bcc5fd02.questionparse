@@ -1,0 +1,14 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	disappeared	_	VERB	VBD	_	0	root	_	_
+3	during	_	ADP	IN	_	5	case	_	_
+4	senior	_	ADJ	JJ	_	5	amod	_	_
+5	trip	_	NOUN	NN	_	2	nmod	_	_
+6	to	_	ADP	TO	_	7	case	_	_
+7	Entity3	_	NOUN	NNS	_	2	nmod	_	_
+8	in	_	ADP	IN	_	9	case	_	_
+9	2005	_	NUM	CD	_	7	nmod	_	_
+10	;	_	PUNCT	:	_	0	erased	_	_
+11	no	_	DET	DT	_	12	neg	_	_
+12	arrests	_	NOUN	NNS	_	13	nsubj	_	_
+13	made	_	VERB	VBD	_	2	parataxis	_	_
+

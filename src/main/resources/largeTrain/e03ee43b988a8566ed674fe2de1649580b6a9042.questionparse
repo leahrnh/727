@@ -1,0 +1,9 @@
+1	2007	_	NUM	CD	_	2	nummod	_	_
+2	movie	_	NOUN	NN	_	3	nsubj	_	_
+3	depicted	_	VERB	VBN	_	0	root	_	_
+4	his	_	PRON	PRP$	_	5	nmod:poss	_	_
+5	efforts	_	NOUN	NNS	_	3	dobj	_	_
+6	to	_	ADP	TO	_	8	case	_	_
+7	arm	_	NOUN	NN	_	8	compound	_	_
+8	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+

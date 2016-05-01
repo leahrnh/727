@@ -1,0 +1,12 @@
+1	Entity146	_	ADV	RB	_	2	advmod	_	_
+2	says	_	VERB	VBZ	_	0	root	_	_
+3	scientists	_	NOUN	NNS	_	2	dobj	_	_
+4	infected	_	ADJ	JJ	_	5	amod	_	_
+5	hundreds	_	NOUN	NNS	_	2	nsubj	_	_
+6	of	_	ADP	IN	_	7	case	_	_
+7	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+8	with	_	ADP	IN	_	11	case	_	_
+9	sexually	_	ADV	RB	_	11	advmod	_	_
+10	transmitted	_	ADJ	JJ	_	11	amod	_	_
+11	diseases	_	NOUN	NNS	_	7	nmod	_	_
+

@@ -1,0 +1,15 @@
+1	new	_	ADJ	JJ	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	@placeholder	_	NOUN	NN	_	4	compound	_	_
+4	community	_	NOUN	NN	_	1	dep	_	_
+5	to	_	PART	TO	_	6	mark	_	_
+6	honor	_	VERB	VB	_	4	acl	_	_
+7	deputies	_	NOUN	NNS	_	6	dobj	_	_
+8	killed	_	VERB	VBN	_	7	acl	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	wounded	_	VERB	VBN	_	7	acl	_	_
+11	in	_	ADP	IN	_	12	case	_	_
+12	line	_	NOUN	NN	_	10	nmod	_	_
+13	of	_	ADP	IN	_	14	case	_	_
+14	duty	_	NOUN	NN	_	12	nmod	_	_
+

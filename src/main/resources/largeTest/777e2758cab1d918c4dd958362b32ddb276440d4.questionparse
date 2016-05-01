@@ -1,0 +1,18 @@
+1	she	_	PRON	PRP	_	3	nsubjpass	_	_
+2	was	_	AUX	VBD	_	3	auxpass	_	_
+3	forced	_	VERB	VBN	_	0	root	_	_
+4	off	_	ADP	RP	_	3	compound:prt	_	_
+5	a	_	DET	DT	_	6	det	_	_
+6	flight	_	NOUN	NN	_	3	dobj	_	_
+7	in	_	ADP	IN	_	8	case	_	_
+8	Entity14	_	NOUN	NNS	_	6	nmod	_	_
+9	and	_	CONJ	CC	_	3	cc	_	_
+10	told	_	VERB	VBD	_	3	conj	_	_
+11	she	_	PRON	PRP	_	14	nsubj	_	_
+12	could	_	AUX	MD	_	14	aux	_	_
+13	n't	_	PART	RB	_	14	neg	_	_
+14	head	_	VERB	VB	_	10	ccomp	_	_
+15	home	_	NOUN	NN	_	14	dobj	_	_
+16	to	_	ADP	TO	_	17	case	_	_
+17	@placeholder	_	NOUN	NN	_	14	nmod	_	_
+

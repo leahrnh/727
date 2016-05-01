@@ -1,0 +1,10 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	@placeholder	_	NOUN	NN	_	3	nsubj	_	_
+3	begins	_	VERB	VBZ	_	0	root	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	criminal	_	ADJ	JJ	_	6	amod	_	_
+6	investigation	_	NOUN	NN	_	3	dobj	_	_
+7	into	_	ADP	IN	_	9	case	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	matter	_	NOUN	NN	_	3	nmod	_	_
+

@@ -1,0 +1,11 @@
+1	@placeholder	_	NOUN	NN	_	4	nmod:poss	_	_
+2	's	_	PART	POS	_	1	case	_	_
+3	brothers	_	ADJ	JJ	_	4	amod	_	_
+4	Entity16	_	NOUN	NNS	_	8	nsubjpass	_	_
+5	and	_	CONJ	CC	_	4	cc	_	_
+6	Entity13	_	NOUN	NNS	_	4	conj	_	_
+7	were	_	AUX	VBD	_	8	auxpass	_	_
+8	inspired	_	VERB	VBN	_	0	root	_	_
+9	to	_	PART	TO	_	10	mark	_	_
+10	enlist	_	VERB	VB	_	8	xcomp	_	_
+

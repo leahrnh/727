@@ -1,0 +1,18 @@
+1	''	_	PUNCT	''	_	0	erased	_	_
+2	we	_	PRON	PRP	_	17	nsubj	_	_
+3	can	_	NOUN	NN	_	4	nmod:npmod	_	_
+4	only	_	ADV	RB	_	17	advmod	_	_
+5	trust	_	NOUN	NN	_	7	nsubj	_	_
+6	in	_	ADV	RB	_	7	advmod	_	_
+7	@placeholder	_	VERB	VBP	_	17	parataxis	_	_
+8	for	_	ADP	IN	_	9	amod	_	_
+9	a	_	DET	DT	_	17	nsubj	_	_
+10	miracle	_	ADV	RB	_	17	advmod	_	_
+11	at	_	ADP	IN	_	13	case	_	_
+12	this	_	DET	DT	_	13	det	_	_
+13	time	_	NOUN	NN	_	10	nmod	_	_
+14	,	_	PUNCT	,	_	0	erased	_	_
+15	''	_	PUNCT	''	_	0	erased	_	_
+16	Entity8	_	NOUN	NNS	_	13	dep	_	_
+17	says	_	VERB	VBZ	_	0	root	_	_
+

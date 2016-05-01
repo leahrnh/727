@@ -1,0 +1,18 @@
+1	1	_	NUM	CD	_	0	root	_	_
+2	-	_	PUNCT	:	_	0	erased	_	_
+3	0	_	NUM	CD	_	4	nummod	_	_
+4	win	_	NOUN	NN	_	1	dep	_	_
+5	over	_	ADP	IN	_	6	case	_	_
+6	sixth	_	ADJ	JJ	_	4	nmod	_	_
+7	-	_	PUNCT	:	_	0	erased	_	_
+8	placed	_	VERB	VBN	_	1	dep	_	_
+9	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+10	sees	_	VERB	VBZ	_	8	ccomp	_	_
+11	Entity1	_	NOUN	NNS	_	12	nsubj	_	_
+12	go	_	VERB	VB	_	10	ccomp	_	_
+13	five	_	NUM	CD	_	14	nummod	_	_
+14	points	_	NOUN	NNS	_	15	nmod:npmod	_	_
+15	clear	_	ADJ	JJ	_	12	xcomp	_	_
+16	in	_	ADP	IN	_	17	case	_	_
+17	Entity4	_	NOUN	NNS	_	15	nmod	_	_
+

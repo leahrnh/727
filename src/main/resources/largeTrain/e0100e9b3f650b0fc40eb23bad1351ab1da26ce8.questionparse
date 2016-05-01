@@ -1,0 +1,15 @@
+1	source	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	Entity178	_	NOUN	NNS	_	4	nsubj	_	_
+4	considered	_	VERB	VBD	_	1	appos	_	_
+5	a	_	DET	DT	_	7	det	_	_
+6	suicide	_	NOUN	NN	_	7	compound	_	_
+7	attack	_	NOUN	NN	_	13	nsubj	_	_
+8	on	_	ADP	IN	_	9	case	_	_
+9	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	the	_	DET	DT	_	12	det	_	_
+12	suspect	_	NOUN	NN	_	9	appos	_	_
+13	told	_	VERB	VBD	_	4	ccomp	_	_
+14	investigators	_	NOUN	NNS	_	13	dobj	_	_
+

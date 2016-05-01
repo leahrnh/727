@@ -1,0 +1,12 @@
+1	Entity7	_	ADJ	JJ	_	3	amod	_	_
+2	governor	_	NOUN	NN	_	3	compound	_	_
+3	signs	_	NOUN	NNS	_	0	root	_	_
+4	extradition	_	NOUN	NN	_	5	compound	_	_
+5	order	_	NOUN	NN	_	3	dep	_	_
+6	for	_	ADP	IN	_	7	case	_	_
+7	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	the	_	DET	DT	_	11	det	_	_
+10	biological	_	ADJ	JJ	_	11	amod	_	_
+11	father	_	NOUN	NN	_	7	appos	_	_
+

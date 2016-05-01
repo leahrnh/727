@@ -1,0 +1,15 @@
+1	more	_	ADJ	JJR	_	4	advmod	_	_
+2	than	_	ADP	IN	_	1	mwe	_	_
+3	1.5	_	NUM	CD	_	4	compound	_	_
+4	million	_	NUM	CD	_	5	nummod	_	_
+5	people	_	NOUN	NNS	_	7	nsubjpass	_	_
+6	are	_	AUX	VBP	_	7	auxpass	_	_
+7	displaced	_	VERB	VBN	_	0	root	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	including	_	VERB	VBG	_	11	case	_	_
+10	800,000	_	NUM	CD	_	11	nummod	_	_
+11	children	_	NOUN	NNS	_	7	nmod	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	@placeholder	_	NOUN	NN	_	11	appos	_	_
+14	says	_	VERB	VBZ	_	13	dep	_	_
+

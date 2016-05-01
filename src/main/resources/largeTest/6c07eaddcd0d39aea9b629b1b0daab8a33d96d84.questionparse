@@ -1,0 +1,16 @@
+1	in	_	ADP	IN	_	4	case	_	_
+2	the	_	DET	DT	_	4	det	_	_
+3	murder	_	NOUN	NN	_	4	compound	_	_
+4	trial	_	NOUN	NN	_	15	nmod	_	_
+5	of	_	ADP	IN	_	6	case	_	_
+6	@placeholder	_	NOUN	NN	_	4	nmod	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	12	_	NUM	CD	_	9	nummod	_	_
+9	jurors	_	NOUN	NNS	_	15	nsubjpass	_	_
+10	and	_	CONJ	CC	_	9	cc	_	_
+11	12	_	NUM	CD	_	12	nummod	_	_
+12	alternates	_	NOUN	NNS	_	9	conj	_	_
+13	have	_	AUX	VBP	_	15	aux	_	_
+14	been	_	AUX	VBN	_	15	auxpass	_	_
+15	selected	_	VERB	VBN	_	0	root	_	_
+

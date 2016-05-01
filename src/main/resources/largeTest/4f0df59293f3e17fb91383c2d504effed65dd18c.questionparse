@@ -1,0 +1,20 @@
+1	Entity20	_	PROPN	NNP	_	8	nsubj	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	@placeholder	_	ADV	RB	_	8	advmod	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	police	_	NOUN	NN	_	7	compound	_	_
+6	chief	_	NOUN	NN	_	7	compound	_	_
+7	Entity37	_	NOUN	NNS	_	8	nsubj	_	_
+8	resigns	_	VERB	VBZ	_	0	root	_	_
+9	in	_	ADP	IN	_	11	case	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	wake	_	NOUN	NN	_	8	nmod	_	_
+12	of	_	ADP	IN	_	13	case	_	_
+13	charges	_	NOUN	NNS	_	11	nmod	_	_
+14	against	_	ADP	IN	_	15	case	_	_
+15	one	_	NUM	CD	_	13	nmod	_	_
+16	of	_	ADP	IN	_	19	case	_	_
+17	her	_	PRON	PRP$	_	19	nmod:poss	_	_
+18	former	_	ADJ	JJ	_	19	amod	_	_
+19	officers	_	NOUN	NNS	_	15	nmod	_	_
+

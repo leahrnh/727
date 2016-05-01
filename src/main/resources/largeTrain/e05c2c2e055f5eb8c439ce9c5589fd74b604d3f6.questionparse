@@ -1,0 +1,16 @@
+1	''	_	PUNCT	''	_	0	erased	_	_
+2	self	_	VERB	VBG	_	3	case	_	_
+3	investigation	_	NOUN	NN	_	15	nmod	_	_
+4	process	_	NOUN	NN	_	6	nsubj	_	_
+5	is	_	VERB	VBZ	_	6	cop	_	_
+6	neither	_	DET	DT	_	15	parataxis	_	_
+7	valid	_	ADJ	JJ	_	12	ccomp	_	_
+8	nor	_	CONJ	CC	_	7	cc	_	_
+9	credible	_	ADJ	JJ	_	7	conj	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	''	_	PUNCT	''	_	0	erased	_	_
+12	says	_	VERB	VBZ	_	6	acl:relcl	_	_
+13	one	_	PRON	PRP	_	15	nsubj	_	_
+14	@placeholder	_	ADV	RB	_	15	advmod	_	_
+15	reformer	_	VERB	VBZ	_	0	root	_	_
+

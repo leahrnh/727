@@ -1,0 +1,19 @@
+1	activists	_	NOUN	NNS	_	2	nsubj	_	_
+2	welcome	_	VERB	VBP	_	0	root	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	decision	_	NOUN	NN	_	6	nsubj	_	_
+5	;	_	PUNCT	:	_	0	erased	_	_
+6	hope	_	VERB	VBP	_	2	ccomp	_	_
+7	that	_	SCONJ	IN	_	10	mark	_	_
+8	it	_	PRON	PRP	_	10	nsubj	_	_
+9	will	_	AUX	MD	_	10	aux	_	_
+10	lead	_	VERB	VB	_	6	ccomp	_	_
+11	to	_	ADP	TO	_	13	case	_	_
+12	greater	_	ADJ	JJR	_	13	amod	_	_
+13	equality	_	NOUN	NN	_	10	nmod	_	_
+14	for	_	ADP	IN	_	16	case	_	_
+15	Entity57	_	ADJ	JJ	_	16	amod	_	_
+16	people	_	NOUN	NNS	_	13	nmod	_	_
+17	in	_	ADP	IN	_	18	case	_	_
+18	@placeholder	_	NOUN	NN	_	16	nmod	_	_
+

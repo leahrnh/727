@@ -1,0 +1,15 @@
+1	Entity191	_	VERB	VB	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	50	_	NUM	CD	_	4	nummod	_	_
+4	years	_	NOUN	NNS	_	5	nmod:npmod	_	_
+5	later	_	ADV	RBR	_	1	advmod	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	president	_	NOUN	NN	_	8	compound	_	_
+8	@placeholder	_	NOUN	NN	_	9	nsubj	_	_
+9	said	_	VERB	VBD	_	5	dep	_	_
+10	team	_	NOUN	NN	_	11	compound	_	_
+11	name	_	NOUN	NN	_	14	nsubjpass	_	_
+12	should	_	AUX	MD	_	14	aux	_	_
+13	be	_	AUX	VB	_	14	auxpass	_	_
+14	changed	_	VERB	VBN	_	9	ccomp	_	_
+

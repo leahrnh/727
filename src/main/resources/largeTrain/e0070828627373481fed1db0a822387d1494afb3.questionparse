@@ -1,0 +1,15 @@
+1	newcomer	_	NOUN	NN	_	2	compound	_	_
+2	Entity62	_	NOUN	NNS	_	5	nsubj	_	_
+3	is	_	AUX	VBZ	_	5	aux	_	_
+4	now	_	ADV	RB	_	5	advmod	_	_
+5	partnering	_	VERB	VBG	_	0	root	_	_
+6	with	_	ADP	IN	_	7	case	_	_
+7	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+8	to	_	PART	TO	_	9	mark	_	_
+9	provide	_	VERB	VB	_	5	xcomp	_	_
+10	shopping	_	NOUN	NN	_	11	nsubj	_	_
+11	pick	_	VERB	VB	_	9	ccomp	_	_
+12	-	_	PUNCT	:	_	0	erased	_	_
+13	up	_	ADV	RB	_	11	advmod	_	_
+14	spots	_	NOUN	NNS	_	13	nmod:npmod	_	_
+

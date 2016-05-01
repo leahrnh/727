@@ -1,0 +1,17 @@
+1	@placeholder	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	Entity37	_	NOUN	NNS	_	5	nsubj	_	_
+4	reportedly	_	ADV	RB	_	5	advmod	_	_
+5	raised	_	VERB	VBD	_	1	appos	_	_
+6	$	_	SYM	$	_	5	dobj	_	_
+7	181	_	NUM	CD	_	8	compound	_	_
+8	million	_	NUM	CD	_	6	nummod	_	_
+9	in	_	ADP	IN	_	11	case	_	_
+10	two	_	NUM	CD	_	11	nummod	_	_
+11	years	_	NOUN	NNS	_	5	nmod	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	half	_	NOUN	NN	_	11	appos	_	_
+14	from	_	ADP	IN	_	16	case	_	_
+15	200	_	NUM	CD	_	16	nummod	_	_
+16	people	_	NOUN	NNS	_	5	nmod	_	_
+

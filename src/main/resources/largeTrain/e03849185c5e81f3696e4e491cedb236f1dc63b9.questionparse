@@ -1,0 +1,12 @@
+1	Entity21	_	ADJ	JJ	_	4	amod	_	_
+2	staff	_	NOUN	NN	_	4	compound	_	_
+3	sgt.	_	NOUN	NN	_	4	compound	_	_
+4	@placeholder	_	NOUN	NN	_	6	nsubjpass	_	_
+5	is	_	AUX	VBZ	_	6	auxpass	_	_
+6	accused	_	VERB	VBN	_	0	root	_	_
+7	of	_	SCONJ	IN	_	8	mark	_	_
+8	killing	_	VERB	VBG	_	6	advcl	_	_
+9	16	_	NUM	CD	_	11	nummod	_	_
+10	Entity6	_	ADJ	JJ	_	11	amod	_	_
+11	villagers	_	NOUN	NNS	_	8	dobj	_	_
+

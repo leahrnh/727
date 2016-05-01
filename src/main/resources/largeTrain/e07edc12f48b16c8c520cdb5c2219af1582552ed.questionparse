@@ -1,0 +1,14 @@
+1	all	_	DET	PDT	_	3	det:predet	_	_
+2	the	_	DET	DT	_	3	det	_	_
+3	sketches	_	NOUN	NNS	_	5	nsubjpass	_	_
+4	are	_	AUX	VBP	_	5	auxpass	_	_
+5	signed	_	VERB	VBN	_	0	root	_	_
+6	and	_	CONJ	CC	_	5	cc	_	_
+7	some	_	DET	DT	_	9	nsubj	_	_
+8	even	_	ADV	RB	_	9	advmod	_	_
+9	have	_	VERB	VBP	_	5	conj	_	_
+10	Entity6	_	PROPN	NNP	_	13	nmod:poss	_	_
+11	's	_	PART	POS	_	10	case	_	_
+12	@placeholder	_	NOUN	NN	_	13	compound	_	_
+13	address	_	NOUN	NN	_	9	dobj	_	_
+

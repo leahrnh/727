@@ -1,0 +1,15 @@
+1	video	_	NOUN	NN	_	2	nsubj	_	_
+2	makes	_	VERB	VBZ	_	0	root	_	_
+3	numerous	_	ADJ	JJ	_	4	amod	_	_
+4	references	_	NOUN	NNS	_	2	dobj	_	_
+5	to	_	ADP	TO	_	6	case	_	_
+6	@placeholder	_	NOUN	NN	_	2	nmod	_	_
+7	failing	_	VERB	VBG	_	6	acl	_	_
+8	to	_	PART	TO	_	9	mark	_	_
+9	pay	_	VERB	VB	_	7	xcomp	_	_
+10	tax	_	NOUN	NN	_	9	dobj	_	_
+11	or	_	CONJ	CC	_	10	cc	_	_
+12	tribute	_	NOUN	NN	_	10	conj	_	_
+13	to	_	ADP	TO	_	14	case	_	_
+14	Entity46	_	NOUN	NNS	_	9	nmod	_	_
+

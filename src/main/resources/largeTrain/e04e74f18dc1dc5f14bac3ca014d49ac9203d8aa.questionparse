@@ -1,0 +1,13 @@
+1	@placeholder	_	NOUN	NN	_	6	nsubj	_	_
+2	is	_	VERB	VBZ	_	6	cop	_	_
+3	now	_	ADV	RB	_	6	advmod	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	prominent	_	ADJ	JJ	_	6	amod	_	_
+6	politician	_	NOUN	NN	_	0	root	_	_
+7	who	_	PRON	WP	_	8	nsubj	_	_
+8	helped	_	VERB	VBD	_	6	acl:relcl	_	_
+9	broker	_	NOUN	NN	_	10	compound	_	_
+10	peace	_	NOUN	NN	_	8	dobj	_	_
+11	in	_	ADP	IN	_	12	case	_	_
+12	Entity2	_	NOUN	NNS	_	8	nmod	_	_
+

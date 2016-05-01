@@ -1,0 +1,16 @@
+1	Entity2	_	PROPN	NNP	_	3	nmod:poss	_	_
+2	's	_	PART	POS	_	1	case	_	_
+3	role	_	NOUN	NN	_	10	dep	_	_
+4	as	_	ADP	IN	_	7	case	_	_
+5	@placeholder	_	NOUN	NN	_	7	compound	_	_
+6	soccer	_	NOUN	NN	_	7	compound	_	_
+7	captain	_	NOUN	NN	_	3	nmod	_	_
+8	in	_	ADP	IN	_	9	case	_	_
+9	jeopardy	_	NOUN	NN	_	7	nmod	_	_
+10	due	_	ADJ	JJ	_	0	root	_	_
+11	to	_	ADP	TO	_	15	case	_	_
+12	his	_	PRON	PRP$	_	15	nmod:poss	_	_
+13	alleged	_	ADJ	JJ	_	15	amod	_	_
+14	marital	_	ADJ	JJ	_	15	amod	_	_
+15	infidelity	_	NOUN	NN	_	10	nmod	_	_
+

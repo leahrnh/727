@@ -1,0 +1,15 @@
+1	skipper	_	NOUN	NN	_	2	compound	_	_
+2	@placeholder	_	NOUN	NN	_	7	nsubj	_	_
+3	is	_	VERB	VBZ	_	7	cop	_	_
+4	a	_	DET	DT	_	7	det	_	_
+5	three	_	NUM	CD	_	7	nummod	_	_
+6	time	_	NOUN	NN	_	7	compound	_	_
+7	Entity92	_	NOUN	NNS	_	0	root	_	_
+8	Entity91	_	ADJ	JJ	_	9	amod	_	_
+9	champion	_	NOUN	NN	_	7	dep	_	_
+10	and	_	CONJ	CC	_	7	cc	_	_
+11	two	_	NUM	CD	_	12	compound	_	_
+12	times	_	NOUN	NNS	_	7	conj	_	_
+13	Entity89	_	ADJ	JJ	_	14	amod	_	_
+14	winner	_	NOUN	NN	_	12	dep	_	_
+

@@ -1,0 +1,18 @@
+1	@placeholder	_	NOUN	NN	_	8	nsubj	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	who	_	PRON	WP	_	4	nsubj	_	_
+4	died	_	VERB	VBD	_	1	acl:relcl	_	_
+5	friday	_	PROPN	NNP	_	4	nmod:tmod	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	was	_	VERB	VBD	_	8	cop	_	_
+8	active	_	ADJ	JJ	_	0	root	_	_
+9	in	_	ADP	IN	_	10	case	_	_
+10	philanthropy	_	NOUN	NN	_	8	nmod	_	_
+11	and	_	CONJ	CC	_	10	cc	_	_
+12	worth	_	ADP	IN	_	15	case	_	_
+13	an	_	DET	DT	_	15	det	_	_
+14	estimated	_	VERB	VBN	_	15	dep	_	_
+15	$	_	SYM	$	_	10	conj	_	_
+16	3.1	_	NUM	CD	_	17	compound	_	_
+17	billion	_	NUM	CD	_	15	nummod	_	_
+

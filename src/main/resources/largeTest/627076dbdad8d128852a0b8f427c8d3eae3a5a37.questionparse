@@ -1,0 +1,9 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	died	_	VERB	VBD	_	0	root	_	_
+3	tuesday	_	PROPN	NNP	_	4	compound	_	_
+4	morning	_	NOUN	NN	_	2	nmod:tmod	_	_
+5	in	_	ADP	IN	_	6	case	_	_
+6	Entity7	_	NOUN	NNS	_	2	nmod	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	Entity8	_	NOUN	NNS	_	6	appos	_	_
+

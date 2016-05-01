@@ -1,0 +1,19 @@
+1	@placeholder	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	most	_	ADJ	JJS	_	4	amod	_	_
+4	people	_	NOUN	NNS	_	5	nsubj	_	_
+5	killed	_	VERB	VBD	_	1	appos	_	_
+6	by	_	ADP	IN	_	7	case	_	_
+7	guns	_	NOUN	NNS	_	5	nmod	_	_
+8	in	_	ADP	IN	_	9	case	_	_
+9	suicides	_	NOUN	NNS	_	7	nmod	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	then	_	ADV	RB	_	5	advcl	_	_
+12	in	_	ADP	IN	_	13	case	_	_
+13	murders	_	NOUN	NNS	_	11	nmod	_	_
+14	,	_	PUNCT	,	_	0	erased	_	_
+15	not	_	ADV	RB	_	18	neg	_	_
+16	in	_	ADP	IN	_	18	case	_	_
+17	mass	_	ADJ	JJ	_	18	amod	_	_
+18	shootings	_	NOUN	NNS	_	11	nmod	_	_
+

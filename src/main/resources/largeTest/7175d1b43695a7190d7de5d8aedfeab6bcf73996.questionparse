@@ -1,0 +1,16 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	@placeholder	_	NOUN	NN	_	4	nsubjpass	_	_
+3	was	_	AUX	VBD	_	4	auxpass	_	_
+4	engraved	_	VERB	VBN	_	14	ccomp	_	_
+5	with	_	ADP	IN	_	7	case	_	_
+6	''	_	PUNCT	''	_	0	erased	_	_
+7	Entity15	_	NOUN	NNS	_	4	nmod	_	_
+8	''	_	PUNCT	''	_	0	erased	_	_
+9	and	_	CONJ	CC	_	4	cc	_	_
+10	''	_	PUNCT	''	_	0	erased	_	_
+11	Entity16	_	NUM	CD	_	4	conj	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	march	_	NOUN	NN	_	14	nsubj	_	_
+14	2013	_	VERB	VBZ	_	0	root	_	_
+15	''	_	PUNCT	''	_	0	erased	_	_
+

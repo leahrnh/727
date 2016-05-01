@@ -1,0 +1,15 @@
+1	@placeholder	_	NOUN	NN	_	5	nsubj	_	_
+2	is	_	VERB	VBZ	_	5	cop	_	_
+3	now	_	ADV	RB	_	5	advmod	_	_
+4	in	_	ADP	IN	_	5	case	_	_
+5	remission	_	NOUN	NN	_	0	root	_	_
+6	and	_	CONJ	CC	_	5	cc	_	_
+7	is	_	VERB	VBZ	_	10	auxpass	_	_
+8	no	_	ADV	RB	_	9	neg	_	_
+9	longer	_	ADV	RBR	_	10	advmod	_	_
+10	opposed	_	VERB	VBN	_	5	conj	_	_
+11	to	_	ADP	TO	_	14	case	_	_
+12	the	_	DET	DT	_	14	det	_	_
+13	chemotherapy	_	ADJ	JJ	_	14	amod	_	_
+14	treatments	_	NOUN	NNS	_	10	nmod	_	_
+

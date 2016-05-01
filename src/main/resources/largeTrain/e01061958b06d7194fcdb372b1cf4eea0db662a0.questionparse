@@ -1,0 +1,12 @@
+1	some	_	DET	DT	_	2	det	_	_
+2	newspapers	_	NOUN	NNS	_	3	nsubj	_	_
+3	suggest	_	VERB	VBP	_	0	root	_	_
+4	@placeholder	_	NOUN	NN	_	6	nsubj	_	_
+5	will	_	AUX	MD	_	6	aux	_	_
+6	invite	_	VERB	VB	_	3	ccomp	_	_
+7	middletons	_	NOUN	NNS	_	6	dobj	_	_
+8	to	_	ADP	TO	_	9	case	_	_
+9	Entity3	_	NOUN	NNS	_	6	nmod	_	_
+10	for	_	ADP	IN	_	11	case	_	_
+11	Entity4	_	NOUN	NNS	_	9	nmod	_	_
+

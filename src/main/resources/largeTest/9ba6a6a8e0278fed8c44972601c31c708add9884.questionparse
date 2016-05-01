@@ -1,0 +1,19 @@
+1	it	_	PRON	PRP	_	3	nsubj	_	_
+2	was	_	AUX	VBD	_	3	aux	_	_
+3	labeled	_	VERB	VBN	_	0	root	_	_
+4	a	_	SYM	SYM	_	7	compound	_	_
+5	''	_	PUNCT	''	_	0	erased	_	_
+6	ghost	_	NOUN	NN	_	7	compound	_	_
+7	mall	_	NOUN	NN	_	3	xcomp	_	_
+8	''	_	PUNCT	''	_	0	erased	_	_
+9	--	_	PUNCT	:	_	0	erased	_	_
+10	symbol	_	VERB	VBN	_	3	dep	_	_
+11	of	_	ADP	IN	_	15	case	_	_
+12	@placeholder	_	NOUN	NN	_	15	nmod:poss	_	_
+13	's	_	PART	POS	_	12	case	_	_
+14	runaway	_	ADJ	JJ	_	15	amod	_	_
+15	speculation	_	NOUN	NN	_	10	nmod	_	_
+16	on	_	ADP	IN	_	18	case	_	_
+17	real	_	ADJ	JJ	_	18	amod	_	_
+18	estate	_	NOUN	NN	_	3	nmod	_	_
+

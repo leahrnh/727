@@ -1,0 +1,8 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	campaign	_	NOUN	NN	_	4	nsubjpass	_	_
+3	is	_	AUX	VBZ	_	4	auxpass	_	_
+4	called	_	VERB	VBN	_	0	root	_	_
+5	''	_	PUNCT	''	_	0	erased	_	_
+6	@placeholder	_	NOUN	NN	_	4	dobj	_	_
+7	''	_	PUNCT	''	_	0	erased	_	_
+

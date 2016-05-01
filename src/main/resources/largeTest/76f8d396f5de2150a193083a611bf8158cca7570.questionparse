@@ -1,0 +1,12 @@
+1	new	_	ADJ	JJ	_	2	amod	_	_
+2	neighborhood	_	NOUN	NN	_	3	nsubj	_	_
+3	named	_	VERB	VBD	_	0	root	_	_
+4	@placeholder	_	NOUN	NN	_	3	dobj	_	_
+5	set	_	VERB	VBN	_	4	acl	_	_
+6	to	_	PART	TO	_	7	mark	_	_
+7	emerge	_	VERB	VB	_	5	xcomp	_	_
+8	in	_	ADP	IN	_	9	case	_	_
+9	Entity6	_	NOUN	NNS	_	7	nmod	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	Entity2	_	NOUN	NNS	_	9	appos	_	_
+

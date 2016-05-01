@@ -1,0 +1,11 @@
+1	the	_	DET	DT	_	4	det	_	_
+2	special	_	ADJ	JJ	_	4	amod	_	_
+3	Entity3	_	ADJ	JJ	_	4	amod	_	_
+4	court	_	NOUN	NN	_	7	nsubj	_	_
+5	in	_	ADP	IN	_	6	case	_	_
+6	Entity4	_	NOUN	NNS	_	4	nmod	_	_
+7	decides	_	VERB	VBZ	_	0	root	_	_
+8	@placeholder	_	NOUN	NN	_	9	nsubj	_	_
+9	has	_	VERB	VBZ	_	7	ccomp	_	_
+10	dementia	_	NOUN	NN	_	9	dobj	_	_
+

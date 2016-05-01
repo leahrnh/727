@@ -1,0 +1,16 @@
+1	Entity3	_	ADJ	JJ	_	4	amod	_	_
+2	prime	_	ADJ	JJ	_	4	amod	_	_
+3	minister	_	NOUN	NN	_	4	compound	_	_
+4	Entity9	_	NOUN	NNS	_	9	nsubj	_	_
+5	and	_	CONJ	CC	_	4	cc	_	_
+6	many	_	ADJ	JJ	_	8	amod	_	_
+7	Entity11	_	ADJ	JJ	_	8	amod	_	_
+8	republicans	_	NOUN	NNS	_	4	conj	_	_
+9	warn	_	VERB	VBP	_	0	root	_	_
+10	that	_	SCONJ	IN	_	15	mark	_	_
+11	@placeholder	_	NOUN	NN	_	15	nsubjpass	_	_
+12	can	_	AUX	MD	_	15	aux	_	_
+13	not	_	PART	RB	_	15	neg	_	_
+14	be	_	AUX	VB	_	15	auxpass	_	_
+15	trusted	_	VERB	VBN	_	9	ccomp	_	_
+

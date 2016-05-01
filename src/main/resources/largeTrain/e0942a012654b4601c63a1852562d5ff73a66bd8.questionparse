@@ -1,0 +1,14 @@
+1	two	_	NUM	CD	_	3	nummod	_	_
+2	separate	_	ADJ	JJ	_	3	amod	_	_
+3	surveys	_	NOUN	NNS	_	4	nsubj	_	_
+4	highlight	_	VERB	VB	_	0	root	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	@placeholder	_	NOUN	NN	_	9	nmod:poss	_	_
+7	's	_	PART	POS	_	6	case	_	_
+8	complicated	_	ADJ	JJ	_	9	amod	_	_
+9	relationship	_	NOUN	NN	_	4	dobj	_	_
+10	with	_	ADP	IN	_	12	case	_	_
+11	its	_	PRON	PRP$	_	12	nmod:poss	_	_
+12	media	_	NOUN	NNS	_	9	nmod	_	_
+13	.	_	PUNCT	.	_	0	erased	_	_
+

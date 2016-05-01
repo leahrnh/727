@@ -1,0 +1,14 @@
+1	new	_	ADJ	JJ	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	@placeholder	_	NOUN	NN	_	1	dep	_	_
+4	emphasized	_	VERB	VBN	_	3	acl	_	_
+5	Entity10	_	PROPN	NNP	_	7	dep	_	_
+6	's	_	PART	POS	_	5	case	_	_
+7	moral	_	ADJ	JJ	_	4	dobj	_	_
+8	and	_	CONJ	CC	_	7	cc	_	_
+9	legal	_	ADJ	JJ	_	10	amod	_	_
+10	obligations	_	NOUN	NNS	_	7	conj	_	_
+11	to	_	ADP	TO	_	13	case	_	_
+12	Entity6	_	ADJ	JJ	_	13	amod	_	_
+13	residents	_	NOUN	NNS	_	4	nmod	_	_
+

@@ -1,0 +1,17 @@
+1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+2	founder	_	NOUN	NN	_	0	root	_	_
+3	Entity15	_	VERB	VBZ	_	2	acl:relcl	_	_
+4	:	_	PUNCT	:	_	0	erased	_	_
+5	''	_	PUNCT	''	_	0	erased	_	_
+6	Entity18	_	ADJ	JJ	_	7	amod	_	_
+7	landed	_	PROPN	NNP	_	3	dep	_	_
+8	on	_	ADP	IN	_	9	case	_	_
+9	droneship	_	NOUN	NN	_	3	nmod	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	but	_	CONJ	CC	_	2	cc	_	_
+12	too	_	ADV	RB	_	13	advmod	_	_
+13	hard	_	ADJ	JJ	_	2	conj	_	_
+14	for	_	ADP	IN	_	15	case	_	_
+15	survival	_	NOUN	NN	_	13	nmod	_	_
+16	''	_	PUNCT	''	_	0	erased	_	_
+

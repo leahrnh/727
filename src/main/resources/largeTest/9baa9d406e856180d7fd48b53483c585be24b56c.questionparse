@@ -1,0 +1,20 @@
+1	''	_	PUNCT	''	_	0	erased	_	_
+2	all	_	DET	PDT	_	5	det:predet	_	_
+3	the	_	DET	DT	_	5	det	_	_
+4	police	_	NOUN	NN	_	5	compound	_	_
+5	investigators	_	NOUN	NNS	_	7	nsubj	_	_
+6	have	_	AUX	VBP	_	7	aux	_	_
+7	left	_	VERB	VBN	_	19	ccomp	_	_
+8	the	_	DET	DT	_	13	det	_	_
+9	-LRB-	_	PUNCT	-LRB-	_	0	erased	_	_
+10	@placeholder	_	NOUN	NN	_	13	compound	_	_
+11	-RRB-	_	PUNCT	-RRB-	_	0	erased	_	_
+12	crash	_	NOUN	NN	_	13	compound	_	_
+13	site	_	NOUN	NN	_	7	xcomp	_	_
+14	,	_	PUNCT	,	_	0	erased	_	_
+15	''	_	PUNCT	''	_	0	erased	_	_
+16	a	_	SYM	SYM	_	19	nsubj	_	_
+17	police	_	ADV	RB	_	19	advmod	_	_
+18	official	_	NOUN	NN	_	17	nmod:npmod	_	_
+19	says	_	VERB	VBZ	_	0	root	_	_
+

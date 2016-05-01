@@ -1,0 +1,9 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	says	_	VERB	VBZ	_	0	root	_	_
+3	its	_	PRON	PRP$	_	4	nmod:poss	_	_
+4	research	_	NOUN	NN	_	5	nsubj	_	_
+5	shows	_	VERB	VBZ	_	2	ccomp	_	_
+6	Entity7	_	NOUN	NNS	_	8	nsubj	_	_
+7	is	_	VERB	VBZ	_	8	cop	_	_
+8	safe	_	ADJ	JJ	_	5	ccomp	_	_
+

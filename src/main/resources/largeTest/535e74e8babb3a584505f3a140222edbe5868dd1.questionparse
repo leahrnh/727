@@ -1,0 +1,14 @@
+1	Entity42	_	ADJ	JJ	_	2	amod	_	_
+2	Entity11	_	NOUN	NNS	_	7	nsubj	_	_
+3	showjumping	_	VERB	VBG	_	2	acl	_	_
+4	champion	_	NOUN	NN	_	5	compound	_	_
+5	Entity41	_	NOUN	NNS	_	3	dobj	_	_
+6	finally	_	ADV	RB	_	3	advmod	_	_
+7	wins	_	VERB	VBZ	_	0	root	_	_
+8	@placeholder	_	NOUN	NN	_	7	dobj	_	_
+9	jumping	_	VERB	VBG	_	8	acl	_	_
+10	title	_	NOUN	NN	_	9	dobj	_	_
+11	at	_	ADP	IN	_	13	case	_	_
+12	10th	_	ADJ	JJ	_	13	amod	_	_
+13	attempt	_	NOUN	NN	_	9	nmod	_	_
+

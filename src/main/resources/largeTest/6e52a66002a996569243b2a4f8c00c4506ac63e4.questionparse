@@ -1,0 +1,16 @@
+1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+2	thanks	_	NOUN	NNS	_	8	nsubj	_	_
+3	Entity0	_	VERB	VBZ	_	2	acl:relcl	_	_
+4	and	_	CONJ	CC	_	3	cc	_	_
+5	says	_	VERB	VBZ	_	3	conj	_	_
+6	he	_	PRON	PRP	_	3	dobj	_	_
+7	''	_	PUNCT	''	_	0	erased	_	_
+8	got	_	VERB	VBD	_	0	root	_	_
+9	to	_	PART	TO	_	10	mark	_	_
+10	make	_	VERB	VB	_	8	xcomp	_	_
+11	out	_	ADP	RP	_	10	compound:prt	_	_
+12	with	_	ADP	IN	_	14	case	_	_
+13	the	_	DET	DT	_	14	det	_	_
+14	queen	_	NOUN	NN	_	10	nmod	_	_
+15	''	_	PUNCT	''	_	0	erased	_	_
+

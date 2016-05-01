@@ -1,0 +1,15 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	asked	_	VERB	VBD	_	0	root	_	_
+3	some	_	DET	DT	_	5	det	_	_
+4	yacht	_	NOUN	NN	_	5	compound	_	_
+5	designers	_	NOUN	NNS	_	2	dobj	_	_
+6	what	_	PRON	WP	_	9	dobj	_	_
+7	they	_	PRON	PRP	_	9	nsubj	_	_
+8	would	_	AUX	MD	_	9	aux	_	_
+9	do	_	VERB	VB	_	5	acl:relcl	_	_
+10	if	_	SCONJ	IN	_	12	mark	_	_
+11	they	_	PRON	PRP	_	12	nsubj	_	_
+12	received	_	VERB	VBD	_	9	advcl	_	_
+13	the	_	DET	DT	_	14	det	_	_
+14	commission	_	NOUN	NN	_	12	dobj	_	_
+

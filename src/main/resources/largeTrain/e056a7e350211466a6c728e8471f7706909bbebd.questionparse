@@ -1,0 +1,10 @@
+1	both	_	DET	DT	_	2	det	_	_
+2	leaders	_	NOUN	NNS	_	3	nsubj	_	_
+3	expected	_	VERB	VBD	_	0	root	_	_
+4	to	_	PART	TO	_	5	mark	_	_
+5	meet	_	VERB	VB	_	3	xcomp	_	_
+6	with	_	ADP	IN	_	9	case	_	_
+7	@placeholder	_	NOUN	NN	_	9	compound	_	_
+8	president	_	NOUN	NN	_	9	compound	_	_
+9	Entity5	_	NOUN	NNS	_	5	nmod	_	_
+

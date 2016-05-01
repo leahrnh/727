@@ -1,0 +1,21 @@
+1	Entity200	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	Entity201	_	NOUN	NNS	_	4	nsubj	_	_
+4	upholds	_	VERB	VBZ	_	1	parataxis	_	_
+5	a	_	DET	DT	_	7	det	_	_
+6	trademark	_	NOUN	NN	_	7	compound	_	_
+7	denial	_	NOUN	NN	_	4	dobj	_	_
+8	for	_	ADP	IN	_	9	case	_	_
+9	Entity19	_	NOUN	NNS	_	4	nmod	_	_
+10	-	_	PUNCT	:	_	0	erased	_	_
+11	@placeholder	_	NOUN	NN	_	13	compound	_	_
+12	band	_	NOUN	NN	_	13	compound	_	_
+13	Entity13	_	NOUN	NNS	_	9	dep	_	_
+14	on	_	ADP	IN	_	16	case	_	_
+15	the	_	DET	DT	_	16	det	_	_
+16	grounds	_	NOUN	NNS	_	13	nmod	_	_
+17	that	_	SCONJ	IN	_	20	mark	_	_
+18	name	_	NOUN	NN	_	20	nsubj	_	_
+19	was	_	AUX	VBD	_	20	aux	_	_
+20	disparaging	_	VERB	VBG	_	4	ccomp	_	_
+

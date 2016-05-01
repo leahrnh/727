@@ -1,0 +1,17 @@
+1	the	_	DET	DT	_	4	det	_	_
+2	resulting	_	VERB	VBG	_	4	amod	_	_
+3	digital	_	ADJ	JJ	_	4	amod	_	_
+4	file	_	NOUN	NN	_	8	nsubjpass	_	_
+5	can	_	AUX	MD	_	8	aux	_	_
+6	then	_	ADV	RB	_	8	advmod	_	_
+7	be	_	AUX	VB	_	8	auxpass	_	_
+8	used	_	VERB	VBN	_	0	root	_	_
+9	to	_	PART	TO	_	10	mark	_	_
+10	print	_	VERB	VB	_	8	xcomp	_	_
+11	a	_	DET	DT	_	13	det	_	_
+12	@placeholder	_	NOUN	NN	_	13	compound	_	_
+13	replica	_	NOUN	NN	_	10	dobj	_	_
+14	of	_	ADP	IN	_	16	case	_	_
+15	the	_	DET	DT	_	16	det	_	_
+16	object	_	NOUN	NN	_	13	nmod	_	_
+

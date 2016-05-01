@@ -1,0 +1,14 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	confirms	_	VERB	VBZ	_	0	root	_	_
+3	that	_	SCONJ	IN	_	9	mark	_	_
+4	two	_	NUM	CD	_	9	nsubjpass	_	_
+5	of	_	ADP	IN	_	7	case	_	_
+6	its	_	PRON	PRP$	_	7	nmod:poss	_	_
+7	leaders	_	NOUN	NNS	_	4	nmod	_	_
+8	were	_	AUX	VBD	_	9	auxpass	_	_
+9	killed	_	VERB	VBN	_	2	ccomp	_	_
+10	in	_	ADP	IN	_	13	case	_	_
+11	january	_	PROPN	NNP	_	13	compound	_	_
+12	drone	_	NOUN	NN	_	13	compound	_	_
+13	strikes	_	NOUN	NNS	_	9	nmod	_	_
+

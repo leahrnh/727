@@ -1,0 +1,11 @@
+1	Entity80	_	ADJ	JJ	_	2	amod	_	_
+2	premieres	_	NOUN	NNS	_	9	nsubj	_	_
+3	its	_	PRON	PRP$	_	6	nmod:poss	_	_
+4	first	_	ADJ	JJ	_	6	amod	_	_
+5	Entity79	_	ADJ	JJ	_	6	amod	_	_
+6	series	_	NOUN	NN	_	2	dep	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	''	_	PUNCT	''	_	0	erased	_	_
+9	@placeholder	_	VERB	VBP	_	0	root	_	_
+10	''	_	PUNCT	''	_	0	erased	_	_
+

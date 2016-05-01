@@ -1,0 +1,13 @@
+1	scholars	_	NOUN	NNS	_	0	root	_	_
+2	call	_	VERB	VB	_	1	dep	_	_
+3	it	_	PRON	PRP	_	6	dep	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	new	_	ADJ	JJ	_	6	amod	_	_
+6	version	_	NOUN	NN	_	2	dobj	_	_
+7	of	_	ADP	IN	_	8	case	_	_
+8	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+9	's	_	PART	POS	_	8	case	_	_
+10	''	_	PUNCT	''	_	0	erased	_	_
+11	Entity3	_	NOUN	NNS	_	2	dobj	_	_
+12	''	_	PUNCT	''	_	0	erased	_	_
+

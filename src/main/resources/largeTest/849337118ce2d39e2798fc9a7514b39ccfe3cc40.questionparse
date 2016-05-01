@@ -1,0 +1,11 @@
+1	they	_	PRON	PRP	_	2	nsubj	_	_
+2	include	_	VERB	VBP	_	0	root	_	_
+3	Entity24	_	ADJ	JJ	_	5	amod	_	_
+4	maid	_	NOUN	NN	_	5	compound	_	_
+5	Entity145	_	NOUN	NNS	_	2	dobj	_	_
+6	and	_	CONJ	CC	_	5	cc	_	_
+7	@placeholder	_	NOUN	NN	_	8	compound	_	_
+8	Entity53	_	NOUN	NNS	_	5	conj	_	_
+9	and	_	CONJ	CC	_	5	cc	_	_
+10	Entity54	_	NOUN	NNS	_	5	conj	_	_
+

@@ -1,0 +1,13 @@
+1	@placeholder	_	VERB	VB	_	0	root	_	_
+2	special	_	ADJ	JJ	_	3	amod	_	_
+3	forces	_	NOUN	NNS	_	1	dobj	_	_
+4	helicopter	_	NOUN	NN	_	3	dep	_	_
+5	30	_	NUM	CD	_	4	nummod	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	including	_	VERB	VBG	_	9	case	_	_
+8	3	_	NUM	CD	_	9	nummod	_	_
+9	Entity37	_	NOUN	NNS	_	3	nmod	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	to	_	ADP	TO	_	12	case	_	_
+12	safety	_	NOUN	NN	_	9	nmod	_	_
+

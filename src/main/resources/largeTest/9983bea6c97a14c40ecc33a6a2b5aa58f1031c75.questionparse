@@ -1,0 +1,8 @@
+1	second	_	ADJ	JJ	_	2	amod	_	_
+2	win	_	NOUN	NN	_	0	root	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	row	_	NOUN	NN	_	2	dep	_	_
+5	for	_	ADP	IN	_	7	case	_	_
+6	jockey	_	NOUN	NN	_	7	compound	_	_
+7	@placeholder	_	NOUN	NN	_	4	nmod	_	_
+

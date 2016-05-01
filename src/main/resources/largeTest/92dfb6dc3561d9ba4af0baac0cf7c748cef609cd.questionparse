@@ -1,0 +1,17 @@
+1	Entity241	_	PROPN	NNP	_	2	nsubj	_	_
+2	says	_	VERB	VBZ	_	0	root	_	_
+3	@placeholder	_	NOUN	NN	_	6	compound	_	_
+4	and	_	CONJ	CC	_	3	cc	_	_
+5	challenger	_	NOUN	NN	_	3	conj	_	_
+6	Entity16	_	NOUN	NNS	_	7	nsubj	_	_
+7	did	_	VERB	VBD	_	2	dep	_	_
+8	well	_	ADV	RB	_	7	advmod	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	but	_	CONJ	CC	_	7	cc	_	_
+11	there	_	PRON	EX	_	12	expl	_	_
+12	was	_	VERB	VBD	_	7	conj	_	_
+13	little	_	ADV	RB	_	14	advmod	_	_
+14	insight	_	ADJ	JJ	_	12	xcomp	_	_
+15	for	_	ADP	IN	_	16	case	_	_
+16	voters	_	NOUN	NNS	_	12	nmod	_	_
+

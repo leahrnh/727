@@ -1,0 +1,19 @@
+1	@placeholder	_	NOUN	NN	_	6	nsubj	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	55	_	NUM	CD	_	1	amod	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	is	_	VERB	VBZ	_	6	cop	_	_
+6	unconscious	_	ADJ	JJ	_	0	root	_	_
+7	but	_	CONJ	CC	_	6	cc	_	_
+8	is	_	AUX	VBZ	_	9	auxpass	_	_
+9	expected	_	VERB	VBN	_	6	conj	_	_
+10	to	_	PART	TO	_	11	mark	_	_
+11	survive	_	VERB	VB	_	9	xcomp	_	_
+12	after	_	SCONJ	IN	_	18	mark	_	_
+13	being	_	AUX	VBG	_	14	auxpass	_	_
+14	shot	_	VERB	VBN	_	18	advcl	_	_
+15	thursday	_	PROPN	NNP	_	14	nmod:tmod	_	_
+16	,	_	PUNCT	,	_	0	erased	_	_
+17	police	_	NOUN	NNS	_	18	nsubj	_	_
+18	say	_	VERB	VBP	_	11	advcl	_	_
+

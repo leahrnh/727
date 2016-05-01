@@ -1,0 +1,16 @@
+1	Entity5	_	ADJ	JJ	_	3	amod	_	_
+2	terrorism	_	NOUN	NN	_	3	compound	_	_
+3	researcher	_	NOUN	NN	_	0	root	_	_
+4	:	_	PUNCT	:	_	0	erased	_	_
+5	couple	_	NOUN	NN	_	3	dep	_	_
+6	accused	_	VERB	VBN	_	5	acl	_	_
+7	of	_	SCONJ	IN	_	8	mark	_	_
+8	planning	_	VERB	VBG	_	6	advcl	_	_
+9	bomb	_	NOUN	NN	_	10	compound	_	_
+10	attack	_	NOUN	NN	_	8	dobj	_	_
+11	on	_	ADP	IN	_	13	case	_	_
+12	bicycle	_	NOUN	NN	_	13	compound	_	_
+13	race	_	NOUN	NN	_	8	nmod	_	_
+14	near	_	ADP	IN	_	15	case	_	_
+15	@placeholder	_	NOUN	NN	_	13	nmod	_	_
+

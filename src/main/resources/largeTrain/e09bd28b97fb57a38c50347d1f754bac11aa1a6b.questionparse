@@ -1,0 +1,13 @@
+1	Entity199	_	PROPN	NNP	_	2	compound	_	_
+2	collective	_	PROPN	NNP	_	4	nsubj	_	_
+3	is	_	AUX	VBZ	_	4	aux	_	_
+4	demanding	_	VERB	VBG	_	0	root	_	_
+5	an	_	DET	DT	_	6	det	_	_
+6	investigation	_	NOUN	NN	_	4	dobj	_	_
+7	into	_	ADP	IN	_	8	case	_	_
+8	handling	_	NOUN	NN	_	4	nmod	_	_
+9	of	_	ADP	IN	_	12	case	_	_
+10	@placeholder	_	NOUN	NN	_	12	compound	_	_
+11	rape	_	NOUN	NN	_	12	compound	_	_
+12	case	_	NOUN	NN	_	8	nmod	_	_
+

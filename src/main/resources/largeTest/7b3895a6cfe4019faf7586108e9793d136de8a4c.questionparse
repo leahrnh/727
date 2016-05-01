@@ -1,0 +1,17 @@
+1	death	_	NOUN	NN	_	2	compound	_	_
+2	toll	_	NOUN	NN	_	5	nsubj	_	_
+3	in	_	ADP	IN	_	4	case	_	_
+4	@placeholder	_	NOUN	NN	_	2	nmod	_	_
+5	climbs	_	VERB	VBZ	_	0	root	_	_
+6	above	_	ADP	IN	_	7	case	_	_
+7	4,600	_	PROPN	NNP	_	5	nmod	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	officials	_	NOUN	NNS	_	10	nsubj	_	_
+10	say	_	VERB	VBP	_	5	parataxis	_	_
+11	,	_	PUNCT	,	_	0	erased	_	_
+12	with	_	ADP	IN	_	16	case	_	_
+13	more	_	ADJ	JJR	_	15	advmod	_	_
+14	than	_	ADP	IN	_	13	mwe	_	_
+15	9,000	_	NUM	CD	_	16	nummod	_	_
+16	injured	_	ADJ	JJ	_	5	nmod	_	_
+

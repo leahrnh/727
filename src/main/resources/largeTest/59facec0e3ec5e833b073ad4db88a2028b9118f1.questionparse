@@ -1,0 +1,10 @@
+1	Entity16	_	PROPN	NNP	_	2	nsubj	_	_
+2	went	_	VERB	VBD	_	0	root	_	_
+3	missing	_	VERB	VBG	_	9	advcl	_	_
+4	somewhere	_	ADV	RB	_	3	advmod	_	_
+5	at	_	ADP	IN	_	6	case	_	_
+6	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	airline	_	NOUN	NN	_	9	nsubj	_	_
+9	says	_	VERB	VBZ	_	2	ccomp	_	_
+

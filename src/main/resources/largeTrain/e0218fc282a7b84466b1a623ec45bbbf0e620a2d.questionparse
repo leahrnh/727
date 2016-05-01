@@ -1,0 +1,11 @@
+1	@placeholder	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	special	_	ADJ	JJ	_	4	amod	_	_
+4	prayers	_	NOUN	NNS	_	5	nsubj	_	_
+5	mark	_	VERB	VBP	_	1	appos	_	_
+6	one	_	NUM	CD	_	7	nummod	_	_
+7	year	_	NOUN	NN	_	5	dobj	_	_
+8	after	_	ADP	IN	_	10	case	_	_
+9	marathon	_	NOUN	NN	_	10	compound	_	_
+10	bombings	_	NOUN	NNS	_	7	nmod	_	_
+

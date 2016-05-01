@@ -1,0 +1,16 @@
+1	police	_	NOUN	NNS	_	12	nsubj	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	some	_	DET	DT	_	4	det	_	_
+4	suspects	_	NOUN	NNS	_	1	dep	_	_
+5	involved	_	VERB	VBN	_	4	acl	_	_
+6	in	_	ADP	IN	_	8	case	_	_
+7	@placeholder	_	NOUN	NN	_	8	compound	_	_
+8	blast	_	NOUN	NN	_	5	nmod	_	_
+9	that	_	DET	WDT	_	10	nsubj	_	_
+10	killed	_	VERB	VBD	_	8	acl:relcl	_	_
+11	,	_	PUNCT	,	_	0	erased	_	_
+12	injured	_	VERB	VBD	_	0	root	_	_
+13	more	_	ADJ	JJR	_	15	advmod	_	_
+14	than	_	ADP	IN	_	13	mwe	_	_
+15	300	_	NUM	CD	_	12	dobj	_	_
+

@@ -1,0 +1,20 @@
+1	about	_	ADV	RB	_	3	advmod	_	_
+2	a	_	DET	DT	_	3	det	_	_
+3	year	_	NOUN	NN	_	19	nmod:tmod	_	_
+4	after	_	SCONJ	IN	_	6	mark	_	_
+5	Entity0	_	NOUN	NNS	_	6	nsubj	_	_
+6	took	_	VERB	VBD	_	19	advcl	_	_
+7	Entity4	_	ADJ	JJ	_	8	amod	_	_
+8	hostage	_	NOUN	NN	_	6	dobj	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	his	_	PRON	PRP$	_	11	nmod:poss	_	_
+11	family	_	NOUN	NN	_	8	appos	_	_
+12	paid	_	VERB	VBN	_	11	acl	_	_
+13	a	_	DET	DT	_	14	det	_	_
+14	ransom	_	NOUN	NN	_	12	dobj	_	_
+15	,	_	PUNCT	,	_	0	erased	_	_
+16	a	_	DET	DT	_	18	det	_	_
+17	@placeholder	_	NOUN	NN	_	18	compound	_	_
+18	source	_	NOUN	NN	_	19	nsubj	_	_
+19	says	_	VERB	VBZ	_	0	root	_	_
+

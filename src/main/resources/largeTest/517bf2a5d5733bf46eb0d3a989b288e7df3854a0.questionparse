@@ -1,0 +1,10 @@
+1	gov.	_	NOUN	NN	_	2	compound	_	_
+2	@placeholder	_	NOUN	NN	_	3	nsubj	_	_
+3	extends	_	VERB	VBZ	_	0	root	_	_
+4	public	_	ADJ	JJ	_	6	amod	_	_
+5	health	_	NOUN	NN	_	6	compound	_	_
+6	emergency	_	NOUN	NN	_	3	dobj	_	_
+7	by	_	ADP	IN	_	9	case	_	_
+8	30	_	NUM	CD	_	9	nummod	_	_
+9	days	_	NOUN	NNS	_	3	nmod	_	_
+

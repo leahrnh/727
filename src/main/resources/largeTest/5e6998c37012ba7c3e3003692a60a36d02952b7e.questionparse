@@ -1,0 +1,12 @@
+1	Entity2	_	VERB	VBN	_	0	root	_	_
+2	in	_	ADP	IN	_	3	case	_	_
+3	Entity173	_	NOUN	NNS	_	1	nmod	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	@placeholder	_	NOUN	NN	_	3	appos	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	offers	_	VERB	VBZ	_	1	dep	_	_
+8	a	_	DET	DT	_	11	det	_	_
+9	blended	_	ADJ	JJ	_	11	amod	_	_
+10	learning	_	NOUN	NN	_	11	compound	_	_
+11	program	_	NOUN	NN	_	1	nsubj	_	_
+

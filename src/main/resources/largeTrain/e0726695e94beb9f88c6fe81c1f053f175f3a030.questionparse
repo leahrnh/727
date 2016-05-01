@@ -1,0 +1,14 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	37	_	NUM	CD	_	8	nsubj	_	_
+3	-	_	PUNCT	:	_	0	erased	_	_
+4	year	_	NOUN	NN	_	2	dep	_	_
+5	-	_	PUNCT	:	_	0	erased	_	_
+6	old	_	ADJ	JJ	_	2	amod	_	_
+7	was	_	AUX	VBD	_	8	aux	_	_
+8	Entity182	_	VERB	VBG	_	0	root	_	_
+9	''	_	PUNCT	''	_	0	erased	_	_
+10	@placeholder	_	NOUN	NN	_	8	dobj	_	_
+11	''	_	PUNCT	''	_	0	erased	_	_
+12	in	_	ADP	IN	_	13	case	_	_
+13	2012	_	NUM	CD	_	8	nmod	_	_
+

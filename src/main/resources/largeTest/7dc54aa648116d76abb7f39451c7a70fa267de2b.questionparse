@@ -1,0 +1,11 @@
+1	best	_	ADJ	JJS	_	2	amod	_	_
+2	moments	_	NOUN	NNS	_	0	root	_	_
+3	:	_	PUNCT	:	_	0	erased	_	_
+4	@placeholder	_	NOUN	NN	_	2	dep	_	_
+5	,	_	PUNCT	,	_	0	erased	_	_
+6	Entity39	_	NOUN	NNS	_	4	appos	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	Entity48	_	PROPN	NNP	_	10	nmod:poss	_	_
+9	's	_	PART	POS	_	8	case	_	_
+10	mom	_	NOUN	NN	_	6	appos	_	_
+

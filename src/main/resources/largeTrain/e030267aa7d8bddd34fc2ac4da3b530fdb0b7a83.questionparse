@@ -1,0 +1,12 @@
+1	Entity59	_	NOUN	NNS	_	6	nsubj	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	Entity60	_	NOUN	NNS	_	1	conj	_	_
+4	have	_	AUX	VBP	_	6	aux	_	_
+5	already	_	ADV	RB	_	6	advmod	_	_
+6	seen	_	VERB	VBN	_	0	root	_	_
+7	@placeholder	_	NOUN	NN	_	8	compound	_	_
+8	violence	_	NOUN	NN	_	6	dobj	_	_
+9	crossing	_	VERB	VBG	_	8	acl	_	_
+10	over	_	ADP	IN	_	11	case	_	_
+11	borders	_	NOUN	NNS	_	9	nmod	_	_
+

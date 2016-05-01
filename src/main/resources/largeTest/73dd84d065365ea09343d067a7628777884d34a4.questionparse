@@ -1,0 +1,19 @@
+1	royal	_	ADJ	JJ	_	3	amod	_	_
+2	expert	_	NOUN	NN	_	3	compound	_	_
+3	Entity188	_	NOUN	NNS	_	4	nsubj	_	_
+4	argues	_	VERB	VBZ	_	0	root	_	_
+5	that	_	SCONJ	IN	_	13	mark	_	_
+6	naming	_	VERB	VBG	_	13	csubj	_	_
+7	a	_	DET	DT	_	9	det	_	_
+8	newborn	_	ADJ	JJ	_	9	amod	_	_
+9	princess	_	NOUN	NNS	_	6	dobj	_	_
+10	after	_	ADP	IN	_	11	case	_	_
+11	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+12	would	_	AUX	MD	_	13	aux	_	_
+13	put	_	VERB	VB	_	4	ccomp	_	_
+14	too	_	ADV	RB	_	15	advmod	_	_
+15	much	_	ADJ	JJ	_	16	amod	_	_
+16	pressure	_	NOUN	NN	_	13	dobj	_	_
+17	on	_	ADP	IN	_	18	case	_	_
+18	her	_	PRON	PRP	_	13	nmod	_	_
+

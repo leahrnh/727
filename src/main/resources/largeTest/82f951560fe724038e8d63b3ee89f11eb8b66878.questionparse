@@ -1,0 +1,21 @@
+1	Entity33	_	PROPN	NNP	_	9	nsubj	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	the	_	DET	DT	_	5	det	_	_
+4	first	_	ADJ	JJ	_	5	amod	_	_
+5	president	_	NOUN	NN	_	1	appos	_	_
+6	of	_	ADP	IN	_	7	case	_	_
+7	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	tells	_	VERB	VBZ	_	19	dep	_	_
+10	Entity1	_	NOUN	NNS	_	9	dobj	_	_
+11	that	_	SCONJ	IN	_	17	mark	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	country	_	NOUN	NN	_	17	nsubjpass	_	_
+14	will	_	AUX	MD	_	17	aux	_	_
+15	be	_	AUX	VB	_	17	auxpass	_	_
+16	formally	_	ADV	RB	_	17	advmod	_	_
+17	founded	_	VERB	VBN	_	9	ccomp	_	_
+18	on	_	ADP	IN	_	17	nmod	_	_
+19	may	_	AUX	MD	_	0	root	_	_
+20	1	_	NUM	CD	_	19	nsubj	_	_
+

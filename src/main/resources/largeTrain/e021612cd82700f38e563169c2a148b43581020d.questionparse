@@ -1,0 +1,15 @@
+1	peacekeepers	_	NOUN	NNS	_	3	nsubjpass	_	_
+2	were	_	AUX	VBD	_	3	auxpass	_	_
+3	taken	_	VERB	VBN	_	0	root	_	_
+4	wednesday	_	PROPN	NNP	_	3	nmod:tmod	_	_
+5	from	_	ADP	IN	_	6	case	_	_
+6	area	_	NOUN	NN	_	3	nmod	_	_
+7	near	_	ADP	IN	_	9	case	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	Entity8	_	NOUN	NNS	_	6	nmod	_	_
+10	;	_	PUNCT	:	_	0	erased	_	_
+11	@placeholder	_	NOUN	NN	_	12	nsubj	_	_
+12	demands	_	VERB	VBZ	_	3	parataxis	_	_
+13	their	_	PRON	PRP$	_	14	nmod:poss	_	_
+14	release	_	NOUN	NN	_	12	dobj	_	_
+

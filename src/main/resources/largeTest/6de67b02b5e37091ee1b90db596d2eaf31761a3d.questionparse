@@ -1,0 +1,12 @@
+1	@placeholder	_	NOUN	NN	_	3	nsubj	_	_
+2	recently	_	ADV	RB	_	3	advmod	_	_
+3	explained	_	VERB	VBD	_	0	root	_	_
+4	Entity3	_	ADJ	JJ	_	7	amod	_	_
+5	foreign	_	ADJ	JJ	_	7	amod	_	_
+6	policy	_	NOUN	NN	_	7	compound	_	_
+7	moves	_	NOUN	NNS	_	3	dobj	_	_
+8	on	_	ADP	IN	_	9	case	_	_
+9	Entity11	_	NOUN	NNS	_	3	nmod	_	_
+10	and	_	CONJ	CC	_	9	cc	_	_
+11	Entity12	_	NOUN	NNS	_	9	conj	_	_
+

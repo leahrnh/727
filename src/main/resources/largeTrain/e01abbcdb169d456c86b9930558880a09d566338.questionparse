@@ -1,0 +1,14 @@
+1	the	_	DET	DT	_	3	det	_	_
+2	beautiful	_	ADJ	JJ	_	3	amod	_	_
+3	Entity4	_	NOUN	NNS	_	7	nsubj	_	_
+4	has	_	AUX	VBZ	_	7	aux	_	_
+5	been	_	VERB	VBN	_	7	cop	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	scene	_	NOUN	NN	_	0	root	_	_
+8	of	_	ADP	IN	_	10	case	_	_
+9	ferocious	_	ADJ	JJ	_	10	amod	_	_
+10	fighting	_	NOUN	NN	_	7	nmod	_	_
+11	against	_	ADP	IN	_	13	case	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+

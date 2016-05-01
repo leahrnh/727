@@ -1,0 +1,21 @@
+1	Entity20	_	ADV	RB	_	3	advmod	_	_
+2	will	_	AUX	MD	_	3	aux	_	_
+3	play	_	VERB	VB	_	0	root	_	_
+4	Entity1	_	NOUN	NNS	_	3	dobj	_	_
+5	after	_	SCONJ	IN	_	6	mark	_	_
+6	beating	_	VERB	VBG	_	3	advcl	_	_
+7	@placeholder	_	NOUN	NN	_	6	dobj	_	_
+8	7	_	NUM	CD	_	10	nummod	_	_
+9	-	_	PUNCT	:	_	0	erased	_	_
+10	6	_	NUM	CD	_	3	nsubj	_	_
+11	-LRB-	_	PUNCT	-LRB-	_	0	erased	_	_
+12	5	_	NUM	CD	_	10	appos	_	_
+13	-RRB-	_	PUNCT	-RRB-	_	0	erased	_	_
+14	,	_	PUNCT	,	_	0	erased	_	_
+15	7	_	NUM	CD	_	17	nummod	_	_
+16	-	_	PUNCT	:	_	0	erased	_	_
+17	6	_	NUM	CD	_	10	appos	_	_
+18	-LRB-	_	PUNCT	-LRB-	_	0	erased	_	_
+19	6	_	NUM	CD	_	17	appos	_	_
+20	-RRB-	_	PUNCT	-RRB-	_	0	erased	_	_
+

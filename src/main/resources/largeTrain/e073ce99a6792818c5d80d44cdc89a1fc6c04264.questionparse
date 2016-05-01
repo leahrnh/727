@@ -1,0 +1,15 @@
+1	Entity11	_	PROPN	NNP	_	6	nsubj	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	35	_	NUM	CD	_	1	amod	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	initially	_	ADV	RB	_	6	advmod	_	_
+6	told	_	VERB	VBD	_	0	root	_	_
+7	@placeholder	_	NOUN	NN	_	6	dobj	_	_
+8	her	_	PRON	PRP$	_	9	nmod:poss	_	_
+9	husband	_	NOUN	NN	_	10	nsubj	_	_
+10	sent	_	VERB	VBD	_	7	acl:relcl	_	_
+11	ricin	_	NOUN	NN	_	10	dobj	_	_
+12	-	_	PUNCT	:	_	0	erased	_	_
+13	tainted	_	ADJ	JJ	_	14	amod	_	_
+14	letters	_	NOUN	NNS	_	11	dep	_	_
+

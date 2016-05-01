@@ -1,0 +1,16 @@
+1	some	_	DET	DT	_	9	nsubj	_	_
+2	of	_	ADP	IN	_	7	case	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	world	_	NOUN	NN	_	7	nmod:poss	_	_
+5	's	_	PART	POS	_	4	case	_	_
+6	leading	_	VERB	VBG	_	7	amod	_	_
+7	players	_	NOUN	NNS	_	1	nmod	_	_
+8	have	_	AUX	VBP	_	9	aux	_	_
+9	appeared	_	VERB	VBN	_	0	root	_	_
+10	at	_	ADP	IN	_	15	case	_	_
+11	Entity14	_	PROPN	NNP	_	15	nmod:poss	_	_
+12	's	_	PART	POS	_	11	case	_	_
+13	@placeholder	_	NOUN	NN	_	15	compound	_	_
+14	youth	_	NOUN	NN	_	15	compound	_	_
+15	tournament	_	NOUN	NN	_	9	nmod	_	_
+

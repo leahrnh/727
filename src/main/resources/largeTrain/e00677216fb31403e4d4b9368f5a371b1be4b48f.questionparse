@@ -1,0 +1,18 @@
+1	he	_	PRON	PRP	_	4	nsubj	_	_
+2	was	_	VERB	VBD	_	4	cop	_	_
+3	among	_	ADP	IN	_	4	case	_	_
+4	those	_	PRON	DT	_	0	root	_	_
+5	on	_	ADP	IN	_	7	case	_	_
+6	a	_	DET	DT	_	7	det	_	_
+7	list	_	NOUN	NN	_	4	nmod	_	_
+8	of	_	ADP	IN	_	10	case	_	_
+9	232	_	NUM	CD	_	10	nummod	_	_
+10	people	_	NOUN	NNS	_	7	nmod	_	_
+11	in	_	ADP	IN	_	12	case	_	_
+12	@placeholder	_	NOUN	NN	_	4	nmod	_	_
+13	who	_	PRON	WP	_	16	nsubjpass	_	_
+14	'd	_	AUX	VBD	_	16	aux	_	_
+15	been	_	AUX	VBN	_	16	auxpass	_	_
+16	reported	_	VERB	VBN	_	12	acl:relcl	_	_
+17	missing	_	VERB	VBG	_	16	xcomp	_	_
+

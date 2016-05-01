@@ -1,0 +1,13 @@
+1	Entity3	_	ADJ	JJ	_	2	amod	_	_
+2	@placeholder	_	NOUN	NN	_	3	nsubj	_	_
+3	says	_	VERB	VBZ	_	0	root	_	_
+4	it	_	PRON	PRP	_	6	nsubj	_	_
+5	is	_	AUX	VBZ	_	6	aux	_	_
+6	trying	_	VERB	VBG	_	3	ccomp	_	_
+7	to	_	PART	TO	_	8	mark	_	_
+8	get	_	VERB	VB	_	6	xcomp	_	_
+9	information	_	NOUN	NN	_	8	dobj	_	_
+10	from	_	ADP	IN	_	12	case	_	_
+11	Entity1	_	ADJ	JJ	_	12	amod	_	_
+12	officials	_	NOUN	NNS	_	8	nmod	_	_
+

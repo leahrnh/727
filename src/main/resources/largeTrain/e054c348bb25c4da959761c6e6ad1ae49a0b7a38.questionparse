@@ -1,0 +1,11 @@
+1	crew	_	NOUN	NN	_	2	compound	_	_
+2	members	_	NOUN	NNS	_	4	nsubjpass	_	_
+3	were	_	AUX	VBD	_	4	auxpass	_	_
+4	freed	_	VERB	VBN	_	0	root	_	_
+5	sunday	_	PROPN	NNP	_	4	nmod:tmod	_	_
+6	and	_	CONJ	CC	_	4	cc	_	_
+7	are	_	AUX	VBP	_	8	aux	_	_
+8	sailing	_	VERB	VBG	_	4	conj	_	_
+9	to	_	PART	TO	_	10	mark	_	_
+10	@placeholder	_	VERB	VB	_	8	xcomp	_	_
+

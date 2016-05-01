@@ -1,0 +1,15 @@
+1	Entity217	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	Entity0	_	NOUN	NNS	_	5	nsubjpass	_	_
+4	was	_	AUX	VBD	_	5	auxpass	_	_
+5	defiant	_	VERB	VBN	_	1	parataxis	_	_
+6	about	_	ADP	IN	_	7	case	_	_
+7	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	but	_	CONJ	CC	_	5	cc	_	_
+10	Entity13	_	NOUN	NNS	_	14	nsubj	_	_
+11	likely	_	ADV	RB	_	14	advmod	_	_
+12	wo	_	AUX	MD	_	14	aux	_	_
+13	n't	_	PART	RB	_	14	neg	_	_
+14	be	_	VERB	VB	_	5	conj	_	_
+

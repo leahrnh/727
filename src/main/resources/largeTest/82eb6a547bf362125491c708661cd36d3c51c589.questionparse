@@ -1,0 +1,19 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	releases	_	VERB	VBZ	_	0	root	_	_
+3	its	_	PRON	PRP$	_	5	nmod:poss	_	_
+4	annual	_	ADJ	JJ	_	5	amod	_	_
+5	review	_	NOUN	NN	_	2	dobj	_	_
+6	of	_	ADP	IN	_	9	case	_	_
+7	the	_	DET	DT	_	9	det	_	_
+8	death	_	NOUN	NN	_	9	compound	_	_
+9	penalty	_	NOUN	NN	_	5	nmod	_	_
+10	worldwide	_	ADV	RB	_	2	advmod	_	_
+11	;	_	PUNCT	:	_	0	erased	_	_
+12	much	_	ADV	RB	_	15	nsubj	_	_
+13	of	_	ADP	IN	_	14	case	_	_
+14	it	_	PRON	PRP	_	12	nmod	_	_
+15	makes	_	VERB	VBZ	_	2	parataxis	_	_
+16	for	_	ADP	IN	_	18	case	_	_
+17	grim	_	ADJ	JJ	_	18	amod	_	_
+18	reading	_	NOUN	NN	_	15	nmod	_	_
+

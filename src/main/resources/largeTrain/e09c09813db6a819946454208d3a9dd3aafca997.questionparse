@@ -1,0 +1,13 @@
+1	@placeholder	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	Entity2	_	NOUN	NNS	_	5	nsubjpass	_	_
+4	is	_	VERB	VBZ	_	5	auxpass	_	_
+5	entitled	_	VERB	VBN	_	1	appos	_	_
+6	to	_	ADP	TO	_	8	case	_	_
+7	his	_	PRON	PRP$	_	8	nmod:poss	_	_
+8	views	_	NOUN	NNS	_	5	nmod	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	why	_	ADV	WRB	_	11	advmod	_	_
+11	apologize	_	VERB	VB	_	5	advcl	_	_
+12	?	_	PUNCT	.	_	0	erased	_	_
+

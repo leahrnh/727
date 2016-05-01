@@ -1,0 +1,10 @@
+1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+2	gunmen	_	NOUN	NNS	_	3	nsubj	_	_
+3	opened	_	VERB	VBD	_	0	root	_	_
+4	fire	_	NOUN	NN	_	3	dobj	_	_
+5	,	_	PUNCT	,	_	0	erased	_	_
+6	and	_	CONJ	CC	_	3	cc	_	_
+7	147	_	NUM	CD	_	8	nummod	_	_
+8	people	_	NOUN	NNS	_	9	nsubj	_	_
+9	died	_	VERB	VBD	_	3	conj	_	_
+

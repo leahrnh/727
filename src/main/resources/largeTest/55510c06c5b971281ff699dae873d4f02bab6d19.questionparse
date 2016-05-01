@@ -1,0 +1,12 @@
+1	Entity11	_	PROPN	NNP	_	8	nsubjpass	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	charged	_	VERB	VBN	_	1	acl	_	_
+4	with	_	ADP	IN	_	5	case	_	_
+5	murder	_	NOUN	NN	_	3	nmod	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	was	_	AUX	VBD	_	8	auxpass	_	_
+8	fired	_	VERB	VBN	_	0	root	_	_
+9	from	_	ADP	IN	_	11	case	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+

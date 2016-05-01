@@ -1,0 +1,19 @@
+1	nevertheless	_	ADV	RB	_	8	advmod	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	''	_	PUNCT	''	_	0	erased	_	_
+4	this	_	PRON	DT	_	8	nsubj	_	_
+5	is	_	VERB	VBZ	_	8	cop	_	_
+6	a	_	DET	DT	_	8	det	_	_
+7	great	_	ADJ	JJ	_	8	amod	_	_
+8	moment	_	NOUN	NN	_	13	ccomp	_	_
+9	in	_	ADP	IN	_	10	case	_	_
+10	history	_	NOUN	NN	_	8	nmod	_	_
+11	,	_	PUNCT	,	_	0	erased	_	_
+12	''	_	PUNCT	''	_	0	erased	_	_
+13	says	_	VERB	VBZ	_	0	root	_	_
+14	a	_	DET	DT	_	15	det	_	_
+15	@placeholder	_	NOUN	NN	_	13	nsubj	_	_
+16	-	_	PUNCT	:	_	0	erased	_	_
+17	allied	_	ADJ	JJ	_	18	amod	_	_
+18	lawmaker	_	NOUN	NN	_	15	dep	_	_
+

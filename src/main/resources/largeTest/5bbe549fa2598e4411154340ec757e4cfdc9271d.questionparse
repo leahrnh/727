@@ -1,0 +1,20 @@
+1	Entity0	_	PROPN	NNP	_	14	nsubj	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	the	_	DET	DT	_	5	det	_	_
+4	reclusive	_	ADJ	JJ	_	5	amod	_	_
+5	founder	_	NOUN	NN	_	1	appos	_	_
+6	of	_	ADP	IN	_	9	case	_	_
+7	the	_	DET	DT	_	9	det	_	_
+8	@placeholder	_	NOUN	NN	_	9	compound	_	_
+9	Entity3	_	NOUN	NNS	_	5	nmod	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	is	_	VERB	VBZ	_	14	cop	_	_
+12	still	_	ADV	RB	_	14	advmod	_	_
+13	in	_	ADP	IN	_	14	case	_	_
+14	charge	_	NOUN	NN	_	0	root	_	_
+15	,	_	PUNCT	,	_	0	erased	_	_
+16	a	_	DET	DT	_	19	det	_	_
+17	new	_	ADJ	JJ	_	19	amod	_	_
+18	biography	_	NOUN	NN	_	19	compound	_	_
+19	claims	_	NOUN	NNS	_	14	appos	_	_
+

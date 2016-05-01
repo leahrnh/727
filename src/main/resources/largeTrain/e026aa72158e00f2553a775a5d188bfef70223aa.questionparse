@@ -1,0 +1,7 @@
+1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+2	chairman	_	NOUN	NN	_	3	nsubj	_	_
+3	praises	_	VERB	VBP	_	0	root	_	_
+4	''	_	PUNCT	''	_	0	erased	_	_
+5	dialogue	_	NOUN	NN	_	3	dobj	_	_
+6	''	_	PUNCT	''	_	0	erased	_	_
+

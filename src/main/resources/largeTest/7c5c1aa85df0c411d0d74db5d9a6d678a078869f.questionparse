@@ -1,0 +1,18 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	became	_	VERB	VBD	_	0	root	_	_
+3	involved	_	VERB	VBN	_	2	xcomp	_	_
+4	in	_	ADP	IN	_	5	case	_	_
+5	campaigns	_	NOUN	NNS	_	3	nmod	_	_
+6	against	_	ADP	IN	_	8	case	_	_
+7	gun	_	NOUN	NN	_	8	compound	_	_
+8	violence	_	NOUN	NN	_	5	nmod	_	_
+9	after	_	ADP	IN	_	11	case	_	_
+10	her	_	PRON	PRP$	_	11	nmod:poss	_	_
+11	son	_	NOUN	NN	_	3	nmod	_	_
+12	to	_	PART	TO	_	13	mark	_	_
+13	picked	_	VERB	VB	_	11	acl	_	_
+14	up	_	ADP	RP	_	13	compound:prt	_	_
+15	a	_	DET	DT	_	17	det	_	_
+16	loaded	_	ADJ	JJ	_	17	amod	_	_
+17	gun	_	NOUN	NN	_	13	dobj	_	_
+

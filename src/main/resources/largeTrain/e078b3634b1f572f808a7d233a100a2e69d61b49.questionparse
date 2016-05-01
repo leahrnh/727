@@ -1,0 +1,9 @@
+1	Entity125	_	PROPN	NNP	_	4	nsubj	_	_
+2	in	_	ADP	IN	_	3	case	_	_
+3	@placeholder	_	NOUN	NN	_	1	nmod	_	_
+4	describe	_	VERB	VBP	_	0	root	_	_
+5	scenes	_	NOUN	NNS	_	4	dobj	_	_
+6	of	_	ADP	IN	_	8	case	_	_
+7	deadly	_	ADJ	JJ	_	8	amod	_	_
+8	attacks	_	NOUN	NNS	_	5	nmod	_	_
+

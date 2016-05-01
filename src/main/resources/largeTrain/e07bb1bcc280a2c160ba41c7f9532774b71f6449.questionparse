@@ -1,0 +1,18 @@
+1	since	_	ADP	IN	_	2	case	_	_
+2	2000	_	NUM	CD	_	6	nmod	_	_
+3	,	_	PUNCT	,	_	0	erased	_	_
+4	Entity8	_	NOUN	NNS	_	6	nsubj	_	_
+5	has	_	AUX	VBZ	_	6	aux	_	_
+6	funded	_	VERB	VBN	_	0	root	_	_
+7	anti-drug	_	ADJ	JJ	_	10	amod	_	_
+8	initiative	_	NOUN	NN	_	10	compound	_	_
+9	''	_	PUNCT	''	_	0	erased	_	_
+10	@placeholder	_	NOUN	NNS	_	6	dobj	_	_
+11	''	_	PUNCT	''	_	0	erased	_	_
+12	at	_	ADP	IN	_	13	case	_	_
+13	cost	_	NOUN	NN	_	6	nmod	_	_
+14	of	_	ADP	IN	_	15	case	_	_
+15	$	_	SYM	$	_	13	nmod	_	_
+16	7	_	NUM	CD	_	17	compound	_	_
+17	billion	_	NUM	CD	_	15	nummod	_	_
+

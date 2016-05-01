@@ -1,0 +1,9 @@
+1	trial	_	NOUN	NN	_	7	nsubj	_	_
+2	for	_	ADP	IN	_	4	case	_	_
+3	@placeholder	_	NOUN	NN	_	4	compound	_	_
+4	theater	_	NOUN	NN	_	1	nmod	_	_
+5	shooting	_	VERB	VBG	_	4	acl	_	_
+6	suspect	_	ADJ	JJ	_	5	xcomp	_	_
+7	begins	_	VERB	VBZ	_	0	root	_	_
+8	monday	_	PROPN	NNP	_	7	nmod:tmod	_	_
+

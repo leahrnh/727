@@ -1,0 +1,15 @@
+1	greeks	_	NOUN	NNS	_	2	nsubj	_	_
+2	believe	_	VERB	VBP	_	13	ccomp	_	_
+3	@placeholder	_	NOUN	NN	_	4	nsubj	_	_
+4	has	_	VERB	VBZ	_	2	ccomp	_	_
+5	no	_	DET	DT	_	6	neg	_	_
+6	sway	_	NOUN	NN	_	4	dobj	_	_
+7	over	_	ADP	IN	_	11	case	_	_
+8	Entity112	_	PROPN	NNP	_	11	nmod:poss	_	_
+9	's	_	PART	POS	_	8	case	_	_
+10	economic	_	ADJ	JJ	_	11	amod	_	_
+11	crisis	_	NOUN	NN	_	6	nmod	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	says	_	VERB	VBZ	_	0	root	_	_
+14	Entity214	_	NOUN	NNS	_	13	nsubj	_	_
+

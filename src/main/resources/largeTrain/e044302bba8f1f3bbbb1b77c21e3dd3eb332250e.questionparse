@@ -1,0 +1,16 @@
+1	@placeholder	_	NOUN	NN	_	6	nsubjpass	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	35	_	NUM	CD	_	1	amod	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	was	_	AUX	VBD	_	6	auxpass	_	_
+6	adopted	_	VERB	VBN	_	0	root	_	_
+7	at	_	ADP	IN	_	8	case	_	_
+8	age	_	NOUN	NN	_	6	nmod	_	_
+9	4	_	NUM	CD	_	8	nummod	_	_
+10	from	_	ADP	IN	_	12	case	_	_
+11	an	_	DET	DT	_	12	det	_	_
+12	orphanage	_	NOUN	NN	_	6	nmod	_	_
+13	in	_	ADP	IN	_	14	case	_	_
+14	Entity10	_	NOUN	NNS	_	12	nmod	_	_
+15	.	_	PUNCT	.	_	0	erased	_	_
+

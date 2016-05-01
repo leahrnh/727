@@ -1,0 +1,12 @@
+1	a	_	DET	DT	_	4	det	_	_
+2	new	_	ADJ	JJ	_	4	amod	_	_
+3	@placeholder	_	NOUN	NN	_	4	compound	_	_
+4	report	_	NOUN	NN	_	5	nsubj	_	_
+5	advises	_	VERB	VBZ	_	0	root	_	_
+6	against	_	ADP	IN	_	8	case	_	_
+7	full	_	ADJ	JJ	_	8	amod	_	_
+8	screening	_	NOUN	NN	_	5	nmod	_	_
+9	of	_	ADP	IN	_	11	case	_	_
+10	airport	_	NOUN	NN	_	11	compound	_	_
+11	workers	_	NOUN	NNS	_	8	nmod	_	_
+

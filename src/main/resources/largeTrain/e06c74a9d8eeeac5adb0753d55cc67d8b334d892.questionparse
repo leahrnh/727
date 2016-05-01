@@ -1,0 +1,17 @@
+1	@placeholder	_	NOUN	NN	_	8	nsubj	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	Entity28	_	ADV	RB	_	8	advmod	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	other	_	ADJ	JJ	_	7	amod	_	_
+6	donor	_	NOUN	NN	_	7	compound	_	_
+7	governments	_	NOUN	NNS	_	8	nsubj	_	_
+8	criticize	_	VERB	VBP	_	0	root	_	_
+9	corruption	_	NOUN	NN	_	12	compound	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	slow	_	ADJ	JJ	_	12	amod	_	_
+12	pace	_	NOUN	NN	_	8	dobj	_	_
+13	of	_	ADP	IN	_	14	case	_	_
+14	reform	_	NOUN	NN	_	12	nmod	_	_
+15	in	_	ADP	IN	_	16	case	_	_
+16	Entity1	_	NOUN	NNS	_	14	nmod	_	_
+

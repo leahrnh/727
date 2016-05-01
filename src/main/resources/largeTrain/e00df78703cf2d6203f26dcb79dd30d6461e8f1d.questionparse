@@ -1,0 +1,11 @@
+1	Entity56	_	PROPN	NNP	_	2	nsubj	_	_
+2	arrested	_	VERB	VBN	_	0	root	_	_
+3	in	_	ADP	IN	_	4	case	_	_
+4	village	_	NOUN	NN	_	2	nmod	_	_
+5	near	_	ADP	IN	_	6	case	_	_
+6	@placeholder	_	NOUN	NN	_	4	nmod	_	_
+7	in	_	ADP	IN	_	10	case	_	_
+8	ongoing	_	ADJ	JJ	_	10	amod	_	_
+9	security	_	NOUN	NN	_	10	compound	_	_
+10	operations	_	NOUN	NNS	_	6	nmod	_	_
+

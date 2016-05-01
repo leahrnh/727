@@ -1,0 +1,16 @@
+1	Entity242	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	Entity3	_	NOUN	NNS	_	5	nsubj	_	_
+4	should	_	AUX	MD	_	5	aux	_	_
+5	support	_	VERB	VB	_	1	parataxis	_	_
+6	@placeholder	_	NOUN	NN	_	7	compound	_	_
+7	plan	_	NOUN	NN	_	5	dobj	_	_
+8	--	_	PUNCT	:	_	0	erased	_	_
+9	best	_	ADJ	JJS	_	7	dep	_	_
+10	and	_	CONJ	CC	_	9	cc	_	_
+11	last	_	ADJ	JJ	_	12	amod	_	_
+12	chance	_	NOUN	NN	_	9	conj	_	_
+13	for	_	ADP	IN	_	15	case	_	_
+14	regional	_	ADJ	JJ	_	15	amod	_	_
+15	peace	_	NOUN	NN	_	5	nmod	_	_
+

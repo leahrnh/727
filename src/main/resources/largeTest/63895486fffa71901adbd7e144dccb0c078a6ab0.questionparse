@@ -1,0 +1,14 @@
+1	a	_	DET	DT	_	4	det	_	_
+2	@placeholder	_	NOUN	NN	_	4	compound	_	_
+3	rescue	_	NOUN	NN	_	4	compound	_	_
+4	team	_	NOUN	NN	_	5	nsubj	_	_
+5	finds	_	VERB	VBZ	_	0	root	_	_
+6	Entity14	_	NOUN	NNS	_	5	dobj	_	_
+7	more	_	ADJ	JJR	_	9	advmod	_	_
+8	than	_	ADP	IN	_	7	mwe	_	_
+9	three	_	NUM	CD	_	10	nummod	_	_
+10	days	_	NOUN	NNS	_	5	nmod	_	_
+11	after	_	ADP	IN	_	10	case	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	quake	_	NOUN	NN	_	10	dep	_	_
+

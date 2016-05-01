@@ -1,0 +1,16 @@
+1	Entity2	_	PROPN	NNP	_	6	nsubj	_	_
+2	is	_	VERB	VBZ	_	6	cop	_	_
+3	the	_	DET	DT	_	6	det	_	_
+4	most	_	ADV	RBS	_	5	advmod	_	_
+5	populous	_	ADJ	JJ	_	6	amod	_	_
+6	country	_	NOUN	NN	_	0	root	_	_
+7	in	_	ADP	IN	_	8	case	_	_
+8	Entity37	_	NOUN	NNS	_	6	nmod	_	_
+9	and	_	CONJ	CC	_	6	cc	_	_
+10	is	_	AUX	VBZ	_	11	aux	_	_
+11	grappling	_	VERB	VBG	_	6	conj	_	_
+12	with	_	ADP	IN	_	15	case	_	_
+13	violent	_	ADJ	JJ	_	15	amod	_	_
+14	@placeholder	_	NOUN	NN	_	15	compound	_	_
+15	extremists	_	NOUN	NNS	_	11	nmod	_	_
+

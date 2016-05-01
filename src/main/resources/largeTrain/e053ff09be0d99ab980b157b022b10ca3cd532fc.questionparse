@@ -1,0 +1,15 @@
+1	defending	_	VERB	VBG	_	0	root	_	_
+2	champion	_	NOUN	NN	_	3	compound	_	_
+3	Entity76	_	NOUN	NNS	_	1	dobj	_	_
+4	claims	_	VERB	VBZ	_	1	dep	_	_
+5	a	_	DET	DT	_	6	det	_	_
+6	one	_	NOUN	NN	_	1	nsubj	_	_
+7	-	_	PUNCT	:	_	0	erased	_	_
+8	shot	_	NOUN	NN	_	9	compound	_	_
+9	lead	_	NOUN	NN	_	6	dep	_	_
+10	at	_	ADP	IN	_	14	case	_	_
+11	@placeholder	_	NOUN	NN	_	14	nmod:poss	_	_
+12	's	_	PART	POS	_	11	case	_	_
+13	opening	_	VERB	VBG	_	14	amod	_	_
+14	event	_	NOUN	NN	_	9	nmod	_	_
+

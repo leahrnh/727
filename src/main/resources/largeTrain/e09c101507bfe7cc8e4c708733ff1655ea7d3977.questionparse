@@ -1,0 +1,18 @@
+1	users	_	NOUN	NNS	_	0	root	_	_
+2	can	_	AUX	MD	_	3	aux	_	_
+3	bring	_	VERB	VB	_	1	dep	_	_
+4	charger	_	NOUN	NN	_	3	dobj	_	_
+5	into	_	ADP	IN	_	7	case	_	_
+6	an	_	DET	DT	_	7	det	_	_
+7	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+8	and	_	CONJ	CC	_	3	cc	_	_
+9	get	_	VERB	VB	_	3	conj	_	_
+10	an	_	DET	DT	_	11	det	_	_
+11	Entity1	_	NOUN	NNS	_	9	dobj	_	_
+12	-	_	PUNCT	:	_	0	erased	_	_
+13	branded	_	ADJ	JJ	_	14	amod	_	_
+14	adapter	_	NOUN	NN	_	1	dep	_	_
+15	for	_	ADP	IN	_	17	case	_	_
+16	$	_	SYM	$	_	17	dep	_	_
+17	10	_	NUM	CD	_	14	nmod	_	_
+

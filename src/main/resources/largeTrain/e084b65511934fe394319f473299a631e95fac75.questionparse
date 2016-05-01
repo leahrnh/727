@@ -1,0 +1,13 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	asks	_	VERB	VBZ	_	0	root	_	_
+3	conference	_	NOUN	NN	_	4	compound	_	_
+4	attendees	_	NOUN	NNS	_	2	dobj	_	_
+5	to	_	PART	TO	_	6	mark	_	_
+6	get	_	VERB	VB	_	2	xcomp	_	_
+7	off	_	ADP	RP	_	6	compound:prt	_	_
+8	network	_	NOUN	NN	_	6	dobj	_	_
+9	so	_	SCONJ	IN	_	12	mark	_	_
+10	he	_	PRON	PRP	_	12	nsubj	_	_
+11	can	_	AUX	MD	_	12	aux	_	_
+12	continue	_	VERB	VB	_	6	advcl	_	_
+

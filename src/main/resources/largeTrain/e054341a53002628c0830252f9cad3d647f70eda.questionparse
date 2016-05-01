@@ -1,0 +1,17 @@
+1	new	_	ADJ	JJ	_	13	nsubj	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	Entity2	_	NOUN	NNS	_	1	dep	_	_
+4	was	_	AUX	VBD	_	7	aux	_	_
+5	''	_	PUNCT	''	_	0	erased	_	_
+6	a	_	DET	DT	_	7	det	_	_
+7	remarkable	_	ADJ	JJ	_	3	acl:relcl	_	_
+8	and	_	CONJ	CC	_	3	cc	_	_
+9	gifted	_	ADJ	JJ	_	10	amod	_	_
+10	leader	_	NOUN	NN	_	3	conj	_	_
+11	,	_	PUNCT	,	_	0	erased	_	_
+12	''	_	PUNCT	''	_	0	erased	_	_
+13	says	_	VERB	VBZ	_	0	root	_	_
+14	archbishop	_	NOUN	NN	_	13	dobj	_	_
+15	of	_	ADP	IN	_	16	case	_	_
+16	@placeholder	_	NOUN	NN	_	14	nmod	_	_
+

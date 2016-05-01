@@ -1,0 +1,19 @@
+1	twenty	_	NUM	CD	_	2	nummod	_	_
+2	years	_	NOUN	NNS	_	3	nmod:npmod	_	_
+3	ago	_	ADV	RB	_	12	advmod	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	on	_	ADP	IN	_	6	case	_	_
+6	april	_	PROPN	NNP	_	12	nmod	_	_
+7	19	_	NUM	CD	_	6	nummod	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	1995	_	NUM	CD	_	6	nummod	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	Entity0	_	NOUN	NNS	_	12	nsubj	_	_
+12	set	_	VERB	VBD	_	0	root	_	_
+13	off	_	ADP	RP	_	12	compound:prt	_	_
+14	a	_	DET	DT	_	16	det	_	_
+15	massive	_	ADJ	JJ	_	16	amod	_	_
+16	bomb	_	NOUN	NN	_	12	dobj	_	_
+17	in	_	ADP	IN	_	18	case	_	_
+18	@placeholder	_	NOUN	NN	_	16	nmod	_	_
+

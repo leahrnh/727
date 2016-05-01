@@ -1,0 +1,11 @@
+1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+2	organizers	_	NOUN	NNS	_	4	nsubj	_	_
+3	are	_	AUX	VBP	_	4	aux	_	_
+4	responding	_	VERB	VBG	_	10	ccomp	_	_
+5	to	_	ADP	TO	_	7	case	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	needs	_	NOUN	NNS	_	4	nmod	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	he	_	PRON	PRP	_	10	nsubj	_	_
+10	says	_	VERB	VBZ	_	0	root	_	_
+

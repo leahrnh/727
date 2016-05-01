@@ -1,0 +1,15 @@
+1	''	_	ADJ	JJ	_	2	amod	_	_
+2	pie	_	NOUN	NN	_	11	nsubj	_	_
+3	''	_	PUNCT	''	_	0	erased	_	_
+4	is	_	VERB	VBZ	_	8	cop	_	_
+5	@placeholder	_	NOUN	NN	_	8	nmod:poss	_	_
+6	's	_	PART	POS	_	5	case	_	_
+7	biggest	_	ADJ	JJS	_	8	amod	_	_
+8	hit	_	NOUN	NN	_	2	acl:relcl	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	was	_	VERB	VBD	_	11	cop	_	_
+11	no.	_	NOUN	NN	_	0	root	_	_
+12	1	_	NUM	CD	_	11	nummod	_	_
+13	in	_	ADP	IN	_	14	case	_	_
+14	1972	_	NUM	CD	_	11	nmod	_	_
+

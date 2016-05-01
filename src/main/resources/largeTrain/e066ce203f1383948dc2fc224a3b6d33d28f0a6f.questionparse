@@ -1,0 +1,16 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	defends	_	VERB	VBZ	_	0	root	_	_
+3	his	_	PRON	PRP$	_	5	nmod:poss	_	_
+4	angry	_	ADJ	JJ	_	5	amod	_	_
+5	response	_	NOUN	NN	_	2	dobj	_	_
+6	to	_	ADP	TO	_	8	case	_	_
+7	a	_	DET	DT	_	8	det	_	_
+8	heckler	_	NOUN	NN	_	2	nmod	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	saying	_	VERB	VBG	_	2	advcl	_	_
+11	it	_	PRON	PRP	_	15	nsubj	_	_
+12	's	_	VERB	VBZ	_	15	cop	_	_
+13	just	_	ADV	RB	_	15	advmod	_	_
+14	his	_	PRON	PRP$	_	15	nmod:poss	_	_
+15	style	_	NOUN	NN	_	10	ccomp	_	_
+

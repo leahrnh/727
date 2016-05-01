@@ -1,0 +1,16 @@
+1	police	_	NOUN	NNS	_	9	nsubj	_	_
+2	in	_	ADP	IN	_	3	case	_	_
+3	Entity9	_	NOUN	NNS	_	1	nmod	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	northern	_	ADJ	JJ	_	6	amod	_	_
+6	@placeholder	_	NOUN	NN	_	3	appos	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	have	_	AUX	VBP	_	9	aux	_	_
+9	bought	_	VERB	VBN	_	0	root	_	_
+10	four	_	NUM	CD	_	11	nummod	_	_
+11	drones	_	NOUN	NNS	_	9	dobj	_	_
+12	to	_	PART	TO	_	13	mark	_	_
+13	help	_	VERB	VB	_	9	advcl	_	_
+14	control	_	NOUN	NN	_	15	compound	_	_
+15	crowds	_	NOUN	NNS	_	13	dobj	_	_
+

@@ -1,0 +1,9 @@
+1	Entity1	_	ADJ	JJ	_	2	amod	_	_
+2	troops	_	NOUN	NNS	_	3	nsubj	_	_
+3	help	_	VERB	VBP	_	0	root	_	_
+4	police	_	NOUN	NN	_	6	compound	_	_
+5	conduct	_	NOUN	NN	_	6	compound	_	_
+6	raids	_	NOUN	NNS	_	3	dobj	_	_
+7	in	_	ADP	IN	_	8	case	_	_
+8	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+

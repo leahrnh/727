@@ -1,0 +1,10 @@
+1	Entity6	_	PROPN	NNP	_	3	nsubjpass	_	_
+2	was	_	AUX	VBD	_	3	auxpass	_	_
+3	kidnapped	_	VERB	VBN	_	0	root	_	_
+4	from	_	ADP	IN	_	7	case	_	_
+5	his	_	PRON	PRP$	_	7	nmod:poss	_	_
+6	family	_	NOUN	NN	_	7	compound	_	_
+7	home	_	NOUN	NN	_	3	nmod	_	_
+8	in	_	ADP	IN	_	9	case	_	_
+9	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+

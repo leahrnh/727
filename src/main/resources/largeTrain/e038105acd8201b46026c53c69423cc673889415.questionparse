@@ -1,0 +1,13 @@
+1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+2	reporter	_	NOUN	NN	_	3	nsubj	_	_
+3	says	_	VERB	VBZ	_	0	root	_	_
+4	he	_	PRON	PRP	_	8	nsubjpass	_	_
+5	's	_	AUX	VBZ	_	8	auxpass	_	_
+6	never	_	ADV	RB	_	8	neg	_	_
+7	been	_	AUX	VBN	_	8	auxpass	_	_
+8	treated	_	VERB	VBN	_	3	ccomp	_	_
+9	so	_	ADV	RB	_	10	advmod	_	_
+10	badly	_	ADV	RB	_	8	advmod	_	_
+11	by	_	ADP	IN	_	12	case	_	_
+12	police	_	NOUN	NN	_	8	nmod	_	_
+

@@ -1,0 +1,19 @@
+1	there	_	ADV	RB	_	4	advmod	_	_
+2	were	_	VERB	VBD	_	4	cop	_	_
+3	132	_	NUM	CD	_	4	nummod	_	_
+4	people	_	NOUN	NNS	_	0	root	_	_
+5	on	_	ADP	IN	_	6	case	_	_
+6	board	_	NOUN	NN	_	4	nmod	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	ship	_	NOUN	NN	_	4	nsubj	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	78	_	NUM	CD	_	8	appos	_	_
+11	of	_	ADP	IN	_	12	case	_	_
+12	them	_	PRON	PRP	_	10	nmod	_	_
+13	@placeholder	_	NOUN	NN	_	17	compound	_	_
+14	,	_	PUNCT	,	_	0	erased	_	_
+15	Entity7	_	ADJ	JJ	_	17	amod	_	_
+16	news	_	NOUN	NN	_	17	compound	_	_
+17	agency	_	NOUN	NN	_	18	nsubj	_	_
+18	says	_	VERB	VBZ	_	10	acl:relcl	_	_
+

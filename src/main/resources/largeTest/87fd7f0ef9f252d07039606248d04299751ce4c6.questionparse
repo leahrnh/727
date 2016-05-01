@@ -1,0 +1,14 @@
+1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+2	airstrikes	_	NOUN	NNS	_	0	root	_	_
+3	on	_	ADP	IN	_	6	case	_	_
+4	the	_	DET	DT	_	6	det	_	_
+5	capital	_	NOUN	NN	_	6	compound	_	_
+6	increase	_	NOUN	NN	_	2	nmod	_	_
+7	as	_	SCONJ	IN	_	9	mark	_	_
+8	jets	_	NOUN	NNS	_	9	nsubj	_	_
+9	hit	_	VERB	VBD	_	2	dep	_	_
+10	military	_	ADJ	JJ	_	11	amod	_	_
+11	facilities	_	NOUN	NNS	_	9	dobj	_	_
+12	in	_	ADP	IN	_	13	case	_	_
+13	Entity48	_	NOUN	NNS	_	9	nmod	_	_
+

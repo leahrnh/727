@@ -1,0 +1,17 @@
+1	Entity150	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	@placeholder	_	NOUN	NN	_	7	nmod:poss	_	_
+4	's	_	PART	POS	_	3	case	_	_
+5	new	_	ADJ	JJ	_	7	amod	_	_
+6	emoji	_	NOUN	NN	_	7	compound	_	_
+7	lineup	_	NOUN	NN	_	9	nsubj	_	_
+8	is	_	VERB	VBZ	_	9	cop	_	_
+9	diverse	_	ADJ	JJ	_	1	parataxis	_	_
+10	in	_	ADP	IN	_	16	case	_	_
+11	race	_	NOUN	NN	_	13	compound	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	ethnicity	_	NOUN	NN	_	16	compound	_	_
+14	and	_	CONJ	CC	_	13	cc	_	_
+15	sexual	_	ADJ	JJ	_	13	conj	_	_
+16	orientation	_	NOUN	NNS	_	9	nmod	_	_
+

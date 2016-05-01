@@ -1,0 +1,17 @@
+1	@placeholder	_	NOUN	NN	_	3	nsubjpass	_	_
+2	was	_	AUX	VBD	_	3	auxpass	_	_
+3	arrested	_	VERB	VBN	_	0	root	_	_
+4	on	_	ADP	IN	_	7	case	_	_
+5	a	_	DET	DT	_	7	det	_	_
+6	weapons	_	NOUN	NNS	_	7	compound	_	_
+7	charge	_	NOUN	NN	_	3	nmod	_	_
+8	april	_	PROPN	NNP	_	3	nmod:tmod	_	_
+9	12	_	NUM	CD	_	8	nummod	_	_
+10	;	_	PUNCT	:	_	0	erased	_	_
+11	he	_	PRON	PRP	_	13	nsubj	_	_
+12	was	_	VERB	VBD	_	13	cop	_	_
+13	dead	_	ADJ	JJ	_	3	parataxis	_	_
+14	seven	_	NUM	CD	_	15	nummod	_	_
+15	days	_	NOUN	NNS	_	13	nmod:tmod	_	_
+16	later	_	ADV	RB	_	15	advmod	_	_
+

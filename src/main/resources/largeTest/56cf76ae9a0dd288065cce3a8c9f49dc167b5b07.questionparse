@@ -1,0 +1,14 @@
+1	according	_	VERB	VBG	_	4	case	_	_
+2	to	_	ADP	TO	_	1	mwe	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	@placeholder	_	NOUN	NN	_	9	nmod	_	_
+5	,	_	PUNCT	,	_	0	erased	_	_
+6	two	_	NUM	CD	_	7	nummod	_	_
+7	women	_	NOUN	NNS	_	9	nsubjpass	_	_
+8	are	_	AUX	VBP	_	9	auxpass	_	_
+9	killed	_	VERB	VBN	_	0	root	_	_
+10	in	_	ADP	IN	_	11	case	_	_
+11	Entity4	_	NOUN	NNS	_	9	nmod	_	_
+12	every	_	DET	DT	_	13	det	_	_
+13	day	_	NOUN	NN	_	11	dep	_	_
+

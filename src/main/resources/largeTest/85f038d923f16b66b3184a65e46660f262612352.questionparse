@@ -1,0 +1,11 @@
+1	Entity0	_	PROPN	NNP	_	4	nmod:poss	_	_
+2	's	_	PART	POS	_	1	case	_	_
+3	messenger	_	NOUN	NN	_	4	compound	_	_
+4	probe	_	NOUN	NN	_	5	nsubj	_	_
+5	smashes	_	VERB	VBZ	_	0	root	_	_
+6	into	_	ADP	IN	_	7	case	_	_
+7	@placeholder	_	NOUN	NN	_	5	nmod	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	ending	_	VERB	VBG	_	5	xcomp	_	_
+10	mission	_	NOUN	NN	_	9	dobj	_	_
+

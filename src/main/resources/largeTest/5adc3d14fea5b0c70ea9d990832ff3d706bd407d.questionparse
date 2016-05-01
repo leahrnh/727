@@ -1,0 +1,9 @@
+1	the	_	DET	DT	_	3	det	_	_
+2	@placeholder	_	NOUN	NN	_	3	compound	_	_
+3	chief	_	NOUN	NN	_	5	nsubj	_	_
+4	will	_	AUX	MD	_	5	aux	_	_
+5	visit	_	VERB	VB	_	0	root	_	_
+6	Entity5	_	ADJ	JJ	_	7	amod	_	_
+7	camp	_	NOUN	NN	_	5	dobj	_	_
+8	saturday	_	PROPN	NNP	_	5	nmod:tmod	_	_
+

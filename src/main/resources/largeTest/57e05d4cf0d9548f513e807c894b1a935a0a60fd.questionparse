@@ -1,0 +1,16 @@
+1	archaeologists	_	NOUN	NNS	_	3	nsubj	_	_
+2	have	_	AUX	VBP	_	3	aux	_	_
+3	found	_	VERB	VBN	_	0	root	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	skeleton	_	NOUN	NN	_	3	dobj	_	_
+6	of	_	ADP	IN	_	8	case	_	_
+7	a	_	DET	DT	_	8	det	_	_
+8	camel	_	NOUN	NN	_	5	nmod	_	_
+9	below	_	ADP	IN	_	11	case	_	_
+10	a	_	DET	DT	_	11	det	_	_
+11	cellar	_	NOUN	NN	_	3	nmod	_	_
+12	in	_	ADP	IN	_	15	case	_	_
+13	an	_	DET	DT	_	15	det	_	_
+14	@placeholder	_	NOUN	NN	_	15	compound	_	_
+15	village	_	NOUN	NN	_	11	nmod	_	_
+

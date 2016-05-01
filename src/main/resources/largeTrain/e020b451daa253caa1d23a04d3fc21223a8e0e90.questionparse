@@ -1,0 +1,8 @@
+1	Entity156	_	PROPN	NNP	_	7	nsubj	_	_
+2	is	_	VERB	VBZ	_	7	cop	_	_
+3	@placeholder	_	NOUN	NN	_	7	nmod:poss	_	_
+4	's	_	PART	POS	_	3	case	_	_
+5	senior	_	ADJ	JJ	_	7	amod	_	_
+6	digital	_	ADJ	JJ	_	7	amod	_	_
+7	producer	_	NOUN	NN	_	0	root	_	_
+

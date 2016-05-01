@@ -1,0 +1,14 @@
+1	train	_	NOUN	NN	_	2	compound	_	_
+2	trip	_	NOUN	NN	_	3	nsubj	_	_
+3	began	_	VERB	VBD	_	0	root	_	_
+4	in	_	ADP	IN	_	5	case	_	_
+5	Entity40	_	NOUN	NNS	_	3	nmod	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	headed	_	VERB	VBN	_	5	acl	_	_
+8	to	_	ADP	TO	_	9	case	_	_
+9	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	Entity19	_	NOUN	NNS	_	9	appos	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	Entity3	_	NOUN	NNS	_	11	appos	_	_
+

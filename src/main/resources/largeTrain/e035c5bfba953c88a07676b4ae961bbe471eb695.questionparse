@@ -1,0 +1,8 @@
+1	@placeholder	_	NOUN	NN	_	3	nsubjpass	_	_
+2	is	_	AUX	VBZ	_	3	auxpass	_	_
+3	sworn	_	VERB	VBN	_	0	root	_	_
+4	in	_	ADP	IN	_	7	case	_	_
+5	as	_	ADP	IN	_	7	case	_	_
+6	prime	_	ADJ	JJ	_	7	amod	_	_
+7	minister	_	NOUN	NN	_	3	nmod	_	_
+

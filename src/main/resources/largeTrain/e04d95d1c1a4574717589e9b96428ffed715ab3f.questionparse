@@ -1,0 +1,16 @@
+1	retail	_	ADJ	JJ	_	2	amod	_	_
+2	division	_	NOUN	NN	_	0	root	_	_
+3	seeing	_	VERB	VBG	_	2	dep	_	_
+4	annual	_	ADJ	JJ	_	5	amod	_	_
+5	growth	_	NOUN	NN	_	3	dobj	_	_
+6	of	_	ADP	IN	_	8	case	_	_
+7	25	_	NUM	CD	_	8	nummod	_	_
+8	percent	_	NOUN	NN	_	5	nmod	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	up	_	ADV	RB	_	8	advmod	_	_
+11	to	_	ADP	TO	_	13	case	_	_
+12	30	_	NUM	CD	_	13	nummod	_	_
+13	percent	_	NOUN	NN	_	10	nmod	_	_
+14	in	_	ADP	IN	_	15	case	_	_
+15	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+

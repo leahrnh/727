@@ -1,0 +1,12 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	started	_	VERB	VBD	_	0	root	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	group	_	NOUN	NN	_	2	dobj	_	_
+5	that	_	DET	WDT	_	6	nsubj	_	_
+6	gives	_	VERB	VBZ	_	4	acl:relcl	_	_
+7	new	_	ADJ	JJ	_	8	amod	_	_
+8	shoes	_	NOUN	NNS	_	6	dobj	_	_
+9	to	_	ADP	TO	_	11	case	_	_
+10	homeless	_	ADJ	JJ	_	11	amod	_	_
+11	children	_	NOUN	NNS	_	6	nmod	_	_
+

@@ -1,0 +1,12 @@
+1	@placeholder	_	VERB	VBP	_	0	root	_	_
+2	discusses	_	ADJ	JJ	_	3	amod	_	_
+3	massacres	_	NOUN	NNS	_	1	dobj	_	_
+4	of	_	ADP	IN	_	5	case	_	_
+5	Entity7	_	NOUN	NNS	_	3	nmod	_	_
+6	a	_	DET	DT	_	7	det	_	_
+7	century	_	NOUN	NN	_	1	nsubj	_	_
+8	after	_	SCONJ	IN	_	10	mark	_	_
+9	they	_	PRON	PRP	_	10	nsubj	_	_
+10	took	_	VERB	VBD	_	1	dep	_	_
+11	place	_	NOUN	NN	_	10	dobj	_	_
+

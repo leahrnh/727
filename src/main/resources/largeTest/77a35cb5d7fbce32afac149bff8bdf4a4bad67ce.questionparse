@@ -1,0 +1,14 @@
+1	Entity17	_	ADJ	JJ	_	3	amod	_	_
+2	professor	_	NOUN	NN	_	3	compound	_	_
+3	@placeholder	_	NOUN	NN	_	5	nsubj	_	_
+4	is	_	AUX	VBZ	_	5	aux	_	_
+5	pioneering	_	VERB	VBG	_	0	root	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	use	_	NOUN	NN	_	5	dobj	_	_
+8	of	_	ADP	IN	_	9	case	_	_
+9	lasers	_	NOUN	NNS	_	7	nmod	_	_
+10	to	_	PART	TO	_	11	mark	_	_
+11	affect	_	VERB	VB	_	5	advcl	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	weather	_	NOUN	NN	_	11	dobj	_	_
+

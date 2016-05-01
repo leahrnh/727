@@ -1,0 +1,14 @@
+1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+2	civilians	_	NOUN	NNS	_	5	nsubjpass	_	_
+3	have	_	AUX	VBP	_	5	aux	_	_
+4	been	_	AUX	VBN	_	5	auxpass	_	_
+5	called	_	VERB	VBN	_	0	root	_	_
+6	to	_	PART	TO	_	7	mark	_	_
+7	testify	_	VERB	VB	_	5	xcomp	_	_
+8	about	_	SCONJ	IN	_	11	mark	_	_
+9	what	_	PRON	WP	_	11	dobj	_	_
+10	they	_	PRON	PRP	_	11	nsubj	_	_
+11	saw	_	VERB	VBD	_	7	advcl	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	survived	_	VERB	VBD	_	11	dep	_	_
+

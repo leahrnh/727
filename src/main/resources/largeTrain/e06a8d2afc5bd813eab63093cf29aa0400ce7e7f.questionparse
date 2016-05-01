@@ -1,0 +1,20 @@
+1	Entity239	_	VERB	VB	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	@placeholder	_	NOUN	NN	_	5	nmod:poss	_	_
+4	's	_	PART	POS	_	3	case	_	_
+5	uncle	_	NOUN	NN	_	7	nsubjpass	_	_
+6	was	_	AUX	VBD	_	7	auxpass	_	_
+7	accused	_	VERB	VBN	_	1	xcomp	_	_
+8	of	_	SCONJ	IN	_	9	mark	_	_
+9	living	_	VERB	VBG	_	7	advcl	_	_
+10	in	_	ADP	IN	_	11	case	_	_
+11	depravity	_	NOUN	NN	_	9	nmod	_	_
+12	;	_	PUNCT	:	_	0	erased	_	_
+13	now	_	ADV	RB	_	19	advmod	_	_
+14	,	_	PUNCT	,	_	0	erased	_	_
+15	the	_	DET	DT	_	16	det	_	_
+16	military	_	NOUN	NN	_	19	nsubj	_	_
+17	is	_	VERB	VBZ	_	19	cop	_	_
+18	in	_	ADP	IN	_	19	case	_	_
+19	charge	_	NOUN	NN	_	7	parataxis	_	_
+

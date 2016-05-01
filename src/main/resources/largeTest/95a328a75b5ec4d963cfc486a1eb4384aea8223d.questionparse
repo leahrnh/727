@@ -1,0 +1,13 @@
+1	Entity11	_	ADJ	JJ	_	2	amod	_	_
+2	muslims	_	NOUN	NNS	_	5	nsubjpass	_	_
+3	have	_	AUX	VBP	_	5	aux	_	_
+4	been	_	AUX	VBN	_	5	auxpass	_	_
+5	targeted	_	VERB	VBN	_	11	ccomp	_	_
+6	in	_	ADP	IN	_	7	case	_	_
+7	raids	_	NOUN	NNS	_	5	nmod	_	_
+8	and	_	CONJ	CC	_	5	cc	_	_
+9	robbed	_	VERB	VBN	_	5	conj	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	says	_	VERB	VBZ	_	0	root	_	_
+12	@placeholder	_	NOUN	NN	_	11	nsubj	_	_
+

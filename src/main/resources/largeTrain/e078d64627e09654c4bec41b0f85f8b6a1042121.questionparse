@@ -1,0 +1,15 @@
+1	22	_	NUM	CD	_	2	nummod	_	_
+2	people	_	NOUN	NNS	_	0	root	_	_
+3	were	_	AUX	VBD	_	5	aux	_	_
+4	aboard	_	ADP	IN	_	5	case	_	_
+5	bus	_	NOUN	NN	_	2	acl	_	_
+6	en	_	ADP	IN	_	7	case	_	_
+7	route	_	NOUN	NN	_	5	advmod	_	_
+8	to	_	ADP	TO	_	10	case	_	_
+9	@placeholder	_	NOUN	NN	_	10	compound	_	_
+10	casino	_	NOUN	NN	_	7	nmod	_	_
+11	;	_	PUNCT	:	_	0	erased	_	_
+12	only	_	ADV	RB	_	13	advmod	_	_
+13	one	_	NUM	CD	_	2	dep	_	_
+14	unhurt	_	ADJ	JJ	_	13	amod	_	_
+

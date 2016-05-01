@@ -1,0 +1,14 @@
+1	a	_	DET	DT	_	3	det	_	_
+2	@placeholder	_	NOUN	NN	_	3	compound	_	_
+3	family	_	NOUN	NN	_	4	nsubj	_	_
+4	becomes	_	VERB	VBZ	_	0	root	_	_
+5	ill	_	ADJ	JJ	_	4	xcomp	_	_
+6	at	_	ADP	IN	_	9	case	_	_
+7	the	_	DET	DT	_	9	det	_	_
+8	Entity19	_	ADJ	JJ	_	9	amod	_	_
+9	resort	_	NOUN	NN	_	5	nmod	_	_
+10	in	_	ADP	IN	_	13	case	_	_
+11	the	_	DET	DT	_	13	det	_	_
+12	Entity22	_	ADJ	JJ	_	13	amod	_	_
+13	Entity133	_	NOUN	NNS	_	9	nmod	_	_
+

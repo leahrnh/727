@@ -1,0 +1,16 @@
+1	skin	_	NOUN	NN	_	0	root	_	_
+2	-	_	PUNCT	:	_	0	erased	_	_
+3	bleaching	_	VERB	VBG	_	10	advcl	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	hair	_	NOUN	NN	_	10	nsubj	_	_
+6	-	_	PUNCT	:	_	0	erased	_	_
+7	growth	_	NOUN	NN	_	8	compound	_	_
+8	ointments	_	NOUN	NNS	_	5	dep	_	_
+9	also	_	ADV	RB	_	10	advmod	_	_
+10	found	_	VERB	VBD	_	1	appos	_	_
+11	day	_	NOUN	NN	_	10	nmod:tmod	_	_
+12	after	_	ADP	IN	_	15	case	_	_
+13	@placeholder	_	NOUN	NN	_	15	nmod:poss	_	_
+14	's	_	PART	POS	_	13	case	_	_
+15	death	_	NOUN	NN	_	10	nmod	_	_
+

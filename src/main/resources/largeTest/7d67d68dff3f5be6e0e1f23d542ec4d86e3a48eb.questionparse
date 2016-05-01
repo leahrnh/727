@@ -1,0 +1,11 @@
+1	Entity39	_	ADV	RB	_	2	advmod	_	_
+2	condemns	_	VERB	VBZ	_	0	root	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	attack	_	NOUN	NN	_	2	nsubj	_	_
+5	,	_	PUNCT	,	_	0	erased	_	_
+6	which	_	DET	WDT	_	8	nmod	_	_
+7	@placeholder	_	NOUN	NN	_	8	nsubj	_	_
+8	took	_	VERB	VBD	_	4	acl:relcl	_	_
+9	credit	_	NOUN	NN	_	8	dobj	_	_
+10	for	_	ADP	IN	_	6	case	_	_
+

@@ -1,0 +1,12 @@
+1	Entity33	_	ADJ	JJ	_	3	amod	_	_
+2	scores	_	NOUN	NNS	_	3	compound	_	_
+3	hat	_	NOUN	NN	_	0	root	_	_
+4	-	_	PUNCT	:	_	0	erased	_	_
+5	trick	_	NOUN	NN	_	3	dep	_	_
+6	as	_	SCONJ	IN	_	8	mark	_	_
+7	Entity27	_	NOUN	NNS	_	8	nsubj	_	_
+8	hit	_	VERB	VBD	_	3	dep	_	_
+9	seven	_	NUM	CD	_	8	dobj	_	_
+10	against	_	ADP	IN	_	11	case	_	_
+11	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+

@@ -1,0 +1,13 @@
+1	Entity32	_	ADJ	JJ	_	2	amod	_	_
+2	official	_	NOUN	NN	_	0	root	_	_
+3	:	_	PUNCT	:	_	0	erased	_	_
+4	small	_	ADJ	JJ	_	6	amod	_	_
+5	chance	_	NOUN	NN	_	6	compound	_	_
+6	@placeholder	_	NOUN	NN	_	12	nsubj	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	Entity21	_	NOUN	NNS	_	6	appos	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	Entity19	_	NOUN	NNS	_	8	appos	_	_
+11	will	_	AUX	MD	_	12	aux	_	_
+12	fight	_	VERB	VB	_	2	parataxis	_	_
+

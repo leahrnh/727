@@ -1,0 +1,15 @@
+1	@placeholder	_	NOUN	NN	_	3	compound	_	_
+2	tv	_	NOUN	NN	_	3	compound	_	_
+3	channel	_	NOUN	NN	_	4	nsubj	_	_
+4	feared	_	VERB	VBD	_	0	root	_	_
+5	airing	_	VERB	VBG	_	4	xcomp	_	_
+6	it	_	PRON	PRP	_	8	nsubj	_	_
+7	would	_	AUX	MD	_	8	aux	_	_
+8	break	_	VERB	VB	_	5	ccomp	_	_
+9	the	_	DET	DT	_	10	det	_	_
+10	country	_	NOUN	NN	_	14	nmod:poss	_	_
+11	's	_	PART	POS	_	10	case	_	_
+12	anti-gay	_	ADJ	JJ	_	14	amod	_	_
+13	propaganda	_	NOUN	NN	_	14	compound	_	_
+14	law	_	NOUN	NN	_	8	dobj	_	_
+

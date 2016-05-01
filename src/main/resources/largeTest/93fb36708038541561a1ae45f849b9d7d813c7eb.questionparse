@@ -1,0 +1,10 @@
+1	abandoned	_	VERB	VBN	_	0	root	_	_
+2	at	_	ADP	IN	_	3	case	_	_
+3	birth	_	NOUN	NN	_	1	nmod	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	Entity44	_	NOUN	NNS	_	3	conj	_	_
+6	and	_	CONJ	CC	_	3	cc	_	_
+7	Entity45	_	NOUN	NNS	_	3	conj	_	_
+8	adopted	_	VERB	VBD	_	1	dep	_	_
+9	@placeholder	_	NOUN	NN	_	1	nsubj	_	_
+

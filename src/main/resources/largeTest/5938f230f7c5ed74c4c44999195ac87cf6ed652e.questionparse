@@ -1,0 +1,18 @@
+1	april	_	PROPN	NNP	_	5	nsubj	_	_
+2	25	_	NUM	CD	_	1	nummod	_	_
+3	,	_	PUNCT	,	_	0	erased	_	_
+4	2015	_	NUM	CD	_	1	nummod	_	_
+5	marks	_	VERB	VBZ	_	0	root	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	centenary	_	NOUN	NN	_	5	dobj	_	_
+8	of	_	ADP	IN	_	10	case	_	_
+9	the	_	DET	DT	_	10	det	_	_
+10	start	_	NOUN	NN	_	7	nmod	_	_
+11	of	_	ADP	IN	_	13	case	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+14	in	_	ADP	IN	_	15	case	_	_
+15	Entity258	_	NOUN	NNS	_	13	nmod	_	_
+16	during	_	ADP	IN	_	17	case	_	_
+17	Entity74	_	NOUN	NNS	_	5	nmod	_	_
+

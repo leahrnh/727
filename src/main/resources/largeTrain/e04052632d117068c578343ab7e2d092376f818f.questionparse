@@ -1,0 +1,14 @@
+1	Entity203	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	@placeholder	_	NOUN	NN	_	9	nsubj	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	Entity38	_	NOUN	NNS	_	3	appos	_	_
+6	should	_	AUX	MD	_	7	aux	_	_
+7	cooperate	_	VERB	VB	_	5	acl:relcl	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	build	_	VERB	VBP	_	1	parataxis	_	_
+10	partnership	_	NOUN	NN	_	9	dobj	_	_
+11	for	_	ADP	IN	_	13	case	_	_
+12	economic	_	ADJ	JJ	_	13	amod	_	_
+13	growth	_	NOUN	NN	_	10	nmod	_	_
+

@@ -1,0 +1,7 @@
+1	strong	_	ADJ	JJ	_	2	amod	_	_
+2	starts	_	NOUN	NNS	_	0	root	_	_
+3	from	_	ADP	IN	_	4	case	_	_
+4	Entity13	_	NOUN	NNS	_	2	nmod	_	_
+5	and	_	CONJ	CC	_	4	cc	_	_
+6	@placeholder	_	NOUN	NN	_	4	conj	_	_
+

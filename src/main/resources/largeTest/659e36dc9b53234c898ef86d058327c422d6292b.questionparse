@@ -1,0 +1,20 @@
+1	Entity16	_	PROPN	NNP	_	8	nsubj	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	20	_	NUM	CD	_	1	amod	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	of	_	ADP	IN	_	6	case	_	_
+6	Entity17	_	NOUN	NNS	_	1	nmod	_	_
+7	had	_	AUX	VBD	_	8	aux	_	_
+8	acquired	_	VERB	VBN	_	0	root	_	_
+9	bomb	_	NOUN	NN	_	10	compound	_	_
+10	parts	_	NOUN	NNS	_	8	dobj	_	_
+11	and	_	CONJ	CC	_	8	cc	_	_
+12	made	_	VERB	VBN	_	8	conj	_	_
+13	a	_	DET	DT	_	15	det	_	_
+14	propaganda	_	NOUN	NN	_	15	compound	_	_
+15	video	_	NOUN	NN	_	12	dobj	_	_
+16	,	_	PUNCT	,	_	0	erased	_	_
+17	the	_	DET	DT	_	18	det	_	_
+18	@placeholder	_	NOUN	NN	_	15	appos	_	_
+19	says	_	VERB	VBZ	_	18	dep	_	_
+

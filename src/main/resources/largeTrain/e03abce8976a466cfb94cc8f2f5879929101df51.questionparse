@@ -1,0 +1,9 @@
+1	@placeholder	_	NOUN	NN	_	4	compound	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	wife	_	NOUN	NN	_	1	conj	_	_
+4	Entity28	_	NOUN	NNS	_	5	nsubj	_	_
+5	started	_	VERB	VBD	_	0	root	_	_
+6	organization	_	NOUN	NN	_	5	dobj	_	_
+7	in	_	ADP	IN	_	8	case	_	_
+8	1976	_	NUM	CD	_	5	nmod	_	_
+

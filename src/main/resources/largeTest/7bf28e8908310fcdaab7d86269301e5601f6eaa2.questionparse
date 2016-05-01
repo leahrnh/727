@@ -1,0 +1,10 @@
+1	people	_	NOUN	NNS	_	2	nsubj	_	_
+2	treated	_	VERB	VBN	_	0	root	_	_
+3	outside	_	ADP	IN	_	4	case	_	_
+4	hospitals	_	NOUN	NNS	_	2	nmod	_	_
+5	;	_	PUNCT	:	_	0	erased	_	_
+6	avalanches	_	NOUN	NNS	_	7	nsubj	_	_
+7	reported	_	VERB	VBD	_	2	parataxis	_	_
+8	on	_	ADP	IN	_	9	case	_	_
+9	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+

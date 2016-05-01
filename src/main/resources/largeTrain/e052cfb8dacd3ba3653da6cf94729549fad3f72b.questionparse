@@ -1,0 +1,16 @@
+1	alerts	_	NOUN	NNS	_	4	nsubj	_	_
+2	are	_	VERB	VBP	_	4	cop	_	_
+3	in	_	ADP	IN	_	4	case	_	_
+4	effect	_	NOUN	NN	_	0	root	_	_
+5	for	_	ADP	IN	_	7	case	_	_
+6	that	_	DET	DT	_	7	det	_	_
+7	volcano	_	NOUN	NN	_	4	nmod	_	_
+8	and	_	CONJ	CC	_	7	cc	_	_
+9	another	_	DET	DT	_	7	conj	_	_
+10	on	_	ADP	IN	_	13	case	_	_
+11	the	_	DET	DT	_	13	det	_	_
+12	Entity94	_	ADJ	JJ	_	13	amod	_	_
+13	range	_	NOUN	NN	_	4	nmod	_	_
+14	named	_	VERB	VBN	_	13	acl	_	_
+15	@placeholder	_	NOUN	NN	_	14	dobj	_	_
+

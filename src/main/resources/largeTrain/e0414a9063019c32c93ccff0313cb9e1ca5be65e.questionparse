@@ -1,0 +1,11 @@
+1	hurricanes	_	NOUN	NNS	_	7	nsubj	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	other	_	ADJ	JJ	_	5	amod	_	_
+4	tropical	_	ADJ	JJ	_	5	amod	_	_
+5	cyclones	_	NOUN	NNS	_	1	conj	_	_
+6	rarely	_	ADV	RB	_	7	advmod	_	_
+7	make	_	VERB	VBP	_	0	root	_	_
+8	landfall	_	NOUN	NN	_	7	dobj	_	_
+9	in	_	ADP	IN	_	10	case	_	_
+10	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+

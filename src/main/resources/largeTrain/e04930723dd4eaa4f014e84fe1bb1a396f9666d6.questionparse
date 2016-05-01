@@ -1,0 +1,18 @@
+1	some	_	DET	DT	_	3	det	_	_
+2	famous	_	ADJ	JJ	_	3	amod	_	_
+3	courses	_	NOUN	NNS	_	13	nsubj	_	_
+4	including	_	VERB	VBG	_	5	case	_	_
+5	Entity79	_	NOUN	NNS	_	3	nmod	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	host	_	NOUN	NN	_	5	appos	_	_
+8	of	_	ADP	IN	_	11	case	_	_
+9	the	_	DET	DT	_	11	det	_	_
+10	2013	_	NUM	CD	_	11	nummod	_	_
+11	@placeholder	_	NOUN	NN	_	7	nmod	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	remain	_	VERB	VBP	_	0	root	_	_
+14	single	_	ADJ	JJ	_	13	xcomp	_	_
+15	-	_	PUNCT	:	_	0	erased	_	_
+16	gender	_	NOUN	NN	_	17	compound	_	_
+17	clubs	_	NOUN	NNS	_	13	parataxis	_	_
+

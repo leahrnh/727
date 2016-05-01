@@ -1,0 +1,16 @@
+1	a	_	DET	DT	_	3	det	_	_
+2	court	_	NOUN	NN	_	3	compound	_	_
+3	filing	_	NOUN	NN	_	4	nsubj	_	_
+4	says	_	VERB	VBZ	_	0	root	_	_
+5	@placeholder	_	NOUN	NN	_	6	nsubj	_	_
+6	had	_	VERB	VBD	_	4	ccomp	_	_
+7	sex	_	NOUN	NN	_	6	dobj	_	_
+8	with	_	ADP	IN	_	9	case	_	_
+9	minors	_	NOUN	NNS	_	7	nmod	_	_
+10	via	_	ADP	IN	_	11	case	_	_
+11	Entity15	_	NOUN	NNS	_	9	nmod	_	_
+12	;	_	PUNCT	:	_	0	erased	_	_
+13	he	_	PRON	PRP	_	14	nsubj	_	_
+14	denies	_	VERB	VBZ	_	4	parataxis	_	_
+15	it	_	PRON	PRP	_	14	dobj	_	_
+

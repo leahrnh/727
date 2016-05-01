@@ -1,0 +1,15 @@
+1	the	_	DET	DT	_	3	det	_	_
+2	rev.	_	NOUN	NN	_	3	compound	_	_
+3	@placeholder	_	NOUN	NN	_	9	nsubjpass	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	88	_	NUM	CD	_	3	amod	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	had	_	AUX	VBD	_	9	aux	_	_
+8	been	_	AUX	VBN	_	9	auxpass	_	_
+9	diagnosed	_	VERB	VBN	_	0	root	_	_
+10	with	_	ADP	IN	_	12	case	_	_
+11	esophageal	_	ADJ	JJ	_	12	amod	_	_
+12	cancer	_	NOUN	NN	_	9	nmod	_	_
+13	in	_	ADP	IN	_	14	case	_	_
+14	2013	_	NUM	CD	_	12	nmod	_	_
+

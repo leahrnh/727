@@ -1,0 +1,13 @@
+1	''	_	VERB	VB	_	0	root	_	_
+2	@placeholder	_	NOUN	NN	_	1	dobj	_	_
+3	''	_	PUNCT	''	_	0	erased	_	_
+4	debuted	_	VERB	VBN	_	2	acl	_	_
+5	with	_	ADP	IN	_	7	case	_	_
+6	a	_	DET	DT	_	7	det	_	_
+7	weekend	_	NOUN	NN	_	4	nmod	_	_
+8	gross	_	ADJ	JJ	_	7	amod	_	_
+9	of	_	ADP	IN	_	10	case	_	_
+10	$	_	SYM	$	_	7	nmod	_	_
+11	31	_	NUM	CD	_	12	compound	_	_
+12	million	_	NUM	CD	_	10	nummod	_	_
+

@@ -1,0 +1,12 @@
+1	Entity1	_	PROPN	NNP	_	3	nsubj	_	_
+2	will	_	AUX	MD	_	3	aux	_	_
+3	play	_	VERB	VB	_	0	root	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	Entity2	_	NOUN	NNS	_	3	dobj	_	_
+6	in	_	ADP	IN	_	7	case	_	_
+7	2016	_	NUM	CD	_	3	nmod	_	_
+8	's	_	PART	POS	_	7	case	_	_
+9	''	_	PUNCT	''	_	0	erased	_	_
+10	@placeholder	_	NOUN	NN	_	3	dobj	_	_
+11	''	_	PUNCT	''	_	0	erased	_	_
+

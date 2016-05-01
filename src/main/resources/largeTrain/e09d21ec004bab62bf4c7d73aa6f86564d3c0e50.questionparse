@@ -1,0 +1,14 @@
+1	security	_	NOUN	NN	_	2	compound	_	_
+2	forces	_	NOUN	NNS	_	3	nsubj	_	_
+3	depart	_	VERB	VBD	_	0	root	_	_
+4	Entity6	_	NOUN	NNS	_	13	nsubj	_	_
+5	,	_	PUNCT	,	_	0	erased	_	_
+6	Entity3	_	ADJ	JJ	_	8	amod	_	_
+7	news	_	NOUN	NN	_	8	compound	_	_
+8	outlets	_	NOUN	NNS	_	4	conj	_	_
+9	and	_	CONJ	CC	_	4	cc	_	_
+10	a	_	DET	DT	_	12	det	_	_
+11	@placeholder	_	NOUN	NN	_	12	compound	_	_
+12	diplomat	_	NOUN	NN	_	4	conj	_	_
+13	say	_	VERB	VBP	_	3	ccomp	_	_
+

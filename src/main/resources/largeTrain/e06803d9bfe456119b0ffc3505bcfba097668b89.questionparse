@@ -1,0 +1,15 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	head	_	NOUN	NN	_	13	dep	_	_
+3	-	_	PUNCT	:	_	0	erased	_	_
+4	on	_	ADP	IN	_	5	case	_	_
+5	collision	_	NOUN	NN	_	2	nmod	_	_
+6	of	_	ADP	IN	_	9	case	_	_
+7	two	_	NUM	CD	_	9	nummod	_	_
+8	commuter	_	NOUN	NN	_	9	compound	_	_
+9	trains	_	NOUN	NNS	_	5	nmod	_	_
+10	in	_	ADP	IN	_	12	case	_	_
+11	western	_	ADJ	JJ	_	12	amod	_	_
+12	@placeholder	_	NOUN	NN	_	9	nmod	_	_
+13	happened	_	VERB	VBD	_	0	root	_	_
+14	monday	_	PROPN	NNP	_	13	nmod:tmod	_	_
+

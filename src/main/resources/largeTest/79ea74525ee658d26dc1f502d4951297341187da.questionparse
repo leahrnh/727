@@ -1,0 +1,12 @@
+1	Entity8	_	PROPN	NNP	_	2	nsubj	_	_
+2	left	_	VERB	VBD	_	0	root	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+5	voluntarily	_	ADV	RB	_	7	advmod	_	_
+6	in	_	ADP	IN	_	7	case	_	_
+7	2006	_	NUM	CD	_	4	nmod	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	source	_	NOUN	NN	_	7	appos	_	_
+10	tells	_	VERB	VBZ	_	2	ccomp	_	_
+11	Entity4	_	NOUN	NNS	_	10	dobj	_	_
+

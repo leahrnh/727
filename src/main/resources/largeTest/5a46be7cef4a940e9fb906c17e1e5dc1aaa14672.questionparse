@@ -1,0 +1,16 @@
+1	no	_	DET	DT	_	3	neg	_	_
+2	clear	_	ADJ	JJ	_	3	amod	_	_
+3	winner	_	NOUN	NN	_	0	root	_	_
+4	in	_	ADP	IN	_	6	case	_	_
+5	opinion	_	NOUN	NN	_	6	compound	_	_
+6	polls	_	NOUN	NNS	_	3	nmod	_	_
+7	after	_	ADP	IN	_	11	case	_	_
+8	first	_	ADJ	JJ	_	11	amod	_	_
+9	@placeholder	_	NOUN	NN	_	11	compound	_	_
+10	election	_	NOUN	NN	_	11	compound	_	_
+11	debate	_	NOUN	NN	_	3	nmod	_	_
+12	between	_	ADP	IN	_	15	case	_	_
+13	seven	_	NUM	CD	_	15	nummod	_	_
+14	party	_	NOUN	NN	_	15	compound	_	_
+15	leaders	_	NOUN	NNS	_	3	nmod	_	_
+

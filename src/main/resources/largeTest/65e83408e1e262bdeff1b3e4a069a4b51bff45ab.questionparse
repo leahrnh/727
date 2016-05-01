@@ -1,0 +1,11 @@
+1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+2	sheriff	_	NOUN	NN	_	3	nsubj	_	_
+3	says	_	VERB	VBZ	_	0	root	_	_
+4	10	_	NUM	CD	_	5	nummod	_	_
+5	deputies	_	NOUN	NNS	_	8	nsubjpass	_	_
+6	have	_	AUX	VBP	_	8	aux	_	_
+7	been	_	AUX	VBN	_	8	auxpass	_	_
+8	put	_	VERB	VBN	_	3	ccomp	_	_
+9	on	_	ADP	IN	_	10	case	_	_
+10	leave	_	NOUN	NN	_	8	nmod	_	_
+

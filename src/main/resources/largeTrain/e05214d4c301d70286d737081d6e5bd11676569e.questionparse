@@ -1,0 +1,13 @@
+1	Entity6	_	ADJ	JJ	_	2	amod	_	_
+2	ceo	_	NOUN	NN	_	0	root	_	_
+3	:	_	PUNCT	:	_	0	erased	_	_
+4	@placeholder	_	NOUN	NN	_	5	nsubj	_	_
+5	made	_	VERB	VBD	_	2	parataxis	_	_
+6	frequent	_	ADJ	JJ	_	7	amod	_	_
+7	recommendations	_	NOUN	NNS	_	5	dobj	_	_
+8	on	_	SCONJ	IN	_	11	mark	_	_
+9	how	_	ADV	WRB	_	11	advmod	_	_
+10	to	_	PART	TO	_	11	mark	_	_
+11	improve	_	VERB	VB	_	5	advcl	_	_
+12	guitars	_	NOUN	NNS	_	11	dobj	_	_
+

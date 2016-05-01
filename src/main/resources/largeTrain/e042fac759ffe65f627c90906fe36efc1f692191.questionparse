@@ -1,0 +1,13 @@
+1	all	_	DET	DT	_	0	root	_	_
+2	-	_	PUNCT	:	_	0	erased	_	_
+3	star	_	NOUN	NN	_	4	compound	_	_
+4	concert	_	NOUN	NN	_	12	dep	_	_
+5	and	_	CONJ	CC	_	4	cc	_	_
+6	fundraiser	_	NOUN	NN	_	7	compound	_	_
+7	benefits	_	NOUN	NNS	_	4	conj	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	@placeholder	_	NOUN	NN	_	12	nmod:poss	_	_
+10	's	_	PART	POS	_	9	case	_	_
+11	philanthropic	_	ADJ	JJ	_	12	amod	_	_
+12	arm	_	NOUN	NN	_	1	dep	_	_
+

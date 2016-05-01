@@ -1,0 +1,8 @@
+1	singer	_	NOUN	NN	_	0	root	_	_
+2	-	_	PUNCT	:	_	0	erased	_	_
+3	songwriter	_	NOUN	NN	_	4	compound	_	_
+4	@placeholder	_	NOUN	NN	_	7	nsubjpass	_	_
+5	is	_	AUX	VBZ	_	7	auxpass	_	_
+6	still	_	ADV	RB	_	7	advmod	_	_
+7	hospitalized	_	VERB	VBN	_	1	appos	_	_
+

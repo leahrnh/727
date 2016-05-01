@@ -1,0 +1,13 @@
+1	Entity2	_	PROPN	NNP	_	2	compound	_	_
+2	operative	_	PROPN	NNP	_	3	nsubj	_	_
+3	says	_	VERB	VBZ	_	0	root	_	_
+4	Entity1	_	NOUN	NNS	_	3	dobj	_	_
+5	violated	_	VERB	VBN	_	4	acl	_	_
+6	laws	_	NOUN	NNS	_	5	iobj	_	_
+7	governing	_	VERB	VBG	_	8	amod	_	_
+8	disclosure	_	NOUN	NN	_	5	dobj	_	_
+9	of	_	ADP	IN	_	12	case	_	_
+10	@placeholder	_	NOUN	NN	_	12	compound	_	_
+11	state	_	NOUN	NN	_	12	compound	_	_
+12	secrets	_	NOUN	NNS	_	8	nmod	_	_
+

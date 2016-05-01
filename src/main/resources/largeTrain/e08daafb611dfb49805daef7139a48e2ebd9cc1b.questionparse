@@ -1,0 +1,11 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	suggest	_	VERB	VBP	_	0	root	_	_
+3	Entity93	_	NOUN	NNS	_	5	nsubj	_	_
+4	can	_	AUX	MD	_	5	aux	_	_
+5	guide	_	VERB	VB	_	2	ccomp	_	_
+6	Entity37	_	NOUN	NNS	_	5	dobj	_	_
+7	into	_	ADP	IN	_	10	case	_	_
+8	the	_	DET	DT	_	10	det	_	_
+9	latter	_	ADJ	JJ	_	10	amod	_	_
+10	stages	_	NOUN	NNS	_	5	nmod	_	_
+

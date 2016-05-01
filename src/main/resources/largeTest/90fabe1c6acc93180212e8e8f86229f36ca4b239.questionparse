@@ -1,0 +1,11 @@
+1	helicopter	_	NOUN	NN	_	2	compound	_	_
+2	rescues	_	NOUN	NNS	_	4	nsubj	_	_
+3	are	_	VERB	VBP	_	4	cop	_	_
+4	underway	_	ADJ	JJ	_	0	root	_	_
+5	to	_	PART	TO	_	6	mark	_	_
+6	retrieve	_	VERB	VB	_	4	xcomp	_	_
+7	climbers	_	NOUN	NNS	_	6	dobj	_	_
+8	stranded	_	VERB	VBN	_	7	acl	_	_
+9	on	_	ADP	IN	_	10	case	_	_
+10	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+

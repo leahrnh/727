@@ -1,0 +1,17 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	@placeholder	_	NOUN	NN	_	3	nsubj	_	_
+3	says	_	VERB	VBZ	_	0	root	_	_
+4	it	_	PRON	PRP	_	7	nsubj	_	_
+5	does	_	AUX	VBZ	_	7	aux	_	_
+6	not	_	PART	RB	_	7	neg	_	_
+7	permit	_	VERB	VB	_	3	dep	_	_
+8	racial	_	ADJ	JJ	_	9	amod	_	_
+9	profile	_	NOUN	NN	_	7	dobj	_	_
+10	and	_	CONJ	CC	_	7	cc	_	_
+11	its	_	PRON	PRP$	_	12	nmod:poss	_	_
+12	policies	_	NOUN	NNS	_	15	nsubj	_	_
+13	were	_	VERB	VBD	_	15	cop	_	_
+14	''	_	PUNCT	''	_	0	erased	_	_
+15	overstepped	_	NOUN	NN	_	7	conj	_	_
+16	''	_	PUNCT	''	_	0	erased	_	_
+

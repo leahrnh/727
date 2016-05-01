@@ -1,0 +1,19 @@
+1	new	_	ADJ	JJ	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	at	_	ADP	IN	_	4	case	_	_
+4	least	_	ADJ	JJS	_	5	nmod:npmod	_	_
+5	four	_	NUM	CD	_	6	nummod	_	_
+6	people	_	NOUN	NNS	_	1	dep	_	_
+7	are	_	AUX	VBP	_	8	auxpass	_	_
+8	killed	_	VERB	VBN	_	6	acl:relcl	_	_
+9	and	_	CONJ	CC	_	6	cc	_	_
+10	14	_	NUM	CD	_	6	conj	_	_
+11	injured	_	VERB	VBN	_	10	acl	_	_
+12	in	_	ADP	IN	_	16	case	_	_
+13	two	_	NUM	CD	_	16	nummod	_	_
+14	car	_	NOUN	NN	_	16	compound	_	_
+15	bomb	_	NOUN	NN	_	16	compound	_	_
+16	attacks	_	NOUN	NNS	_	11	nmod	_	_
+17	in	_	ADP	IN	_	18	case	_	_
+18	@placeholder	_	NOUN	NN	_	16	nmod	_	_
+

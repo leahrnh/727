@@ -1,0 +1,11 @@
+1	@placeholder	_	NOUN	NN	_	3	nsubjpass	_	_
+2	was	_	AUX	VBD	_	3	auxpass	_	_
+3	diagnosed	_	VERB	VBN	_	0	root	_	_
+4	at	_	ADP	IN	_	5	case	_	_
+5	30	_	NUM	CD	_	3	nmod	_	_
+6	with	_	ADP	IN	_	10	case	_	_
+7	rare	_	ADJ	JJ	_	8	amod	_	_
+8	inoperable	_	ADJ	JJ	_	10	amod	_	_
+9	brain	_	NOUN	NN	_	10	compound	_	_
+10	cancer	_	NOUN	NN	_	3	nmod	_	_
+

@@ -1,0 +1,13 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	city	_	NOUN	NN	_	3	nsubj	_	_
+3	settled	_	VERB	VBD	_	0	root	_	_
+4	the	_	DET	DT	_	5	det	_	_
+5	lawsuit	_	NOUN	NN	_	3	dobj	_	_
+6	while	_	SCONJ	IN	_	10	mark	_	_
+7	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+8	and	_	CONJ	CC	_	7	cc	_	_
+9	others	_	NOUN	NNS	_	7	conj	_	_
+10	admitted	_	VERB	VBD	_	3	advcl	_	_
+11	no	_	DET	DT	_	12	neg	_	_
+12	guilt	_	NOUN	NN	_	10	dobj	_	_
+

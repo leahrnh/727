@@ -1,0 +1,12 @@
+1	officials	_	NOUN	NNS	_	0	root	_	_
+2	there	_	PRON	EX	_	3	expl	_	_
+3	say	_	VERB	VBP	_	1	acl:relcl	_	_
+4	the	_	DET	DT	_	6	det	_	_
+5	@placeholder	_	NOUN	NN	_	6	compound	_	_
+6	government	_	NOUN	NN	_	8	nsubj	_	_
+7	is	_	AUX	VBZ	_	8	aux	_	_
+8	failing	_	VERB	VBG	_	3	ccomp	_	_
+9	to	_	PART	TO	_	10	mark	_	_
+10	protect	_	VERB	VB	_	8	xcomp	_	_
+11	them	_	PRON	PRP	_	10	dobj	_	_
+

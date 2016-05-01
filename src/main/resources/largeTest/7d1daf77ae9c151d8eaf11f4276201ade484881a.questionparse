@@ -1,0 +1,11 @@
+1	Entity19	_	PROPN	NNP	_	2	nsubj	_	_
+2	raided	_	VERB	VBD	_	0	root	_	_
+3	@placeholder	_	NOUN	NN	_	5	compound	_	_
+4	refugee	_	NOUN	NN	_	5	compound	_	_
+5	camp	_	NOUN	NN	_	2	dobj	_	_
+6	near	_	ADP	IN	_	7	case	_	_
+7	Entity13	_	NOUN	NNS	_	5	nmod	_	_
+8	on	_	ADP	IN	_	9	case	_	_
+9	april	_	PROPN	NNP	_	2	nmod	_	_
+10	1	_	NUM	CD	_	9	nummod	_	_
+

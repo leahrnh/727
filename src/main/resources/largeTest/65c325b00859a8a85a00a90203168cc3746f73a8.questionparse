@@ -1,0 +1,20 @@
+1	journalists	_	NOUN	NNS	_	9	nsubj	_	_
+2	at	_	ADP	IN	_	3	case	_	_
+3	@placeholder	_	NOUN	NN	_	1	nmod	_	_
+4	and	_	CONJ	CC	_	3	cc	_	_
+5	Entity21	_	NOUN	NNS	_	3	conj	_	_
+6	are	_	VERB	VBP	_	9	cop	_	_
+7	''	_	PUNCT	''	_	0	erased	_	_
+8	very	_	ADV	RB	_	9	advmod	_	_
+9	confident	_	ADJ	JJ	_	15	dep	_	_
+10	''	_	PUNCT	''	_	0	erased	_	_
+11	the	_	DET	DT	_	13	det	_	_
+12	video	_	ADJ	JJ	_	13	amod	_	_
+13	clip	_	NOUN	NN	_	15	nsubj	_	_
+14	is	_	VERB	VBZ	_	15	cop	_	_
+15	real	_	ADJ	JJ	_	19	ccomp	_	_
+16	,	_	PUNCT	,	_	0	erased	_	_
+17	an	_	DET	DT	_	18	det	_	_
+18	editor	_	NOUN	NN	_	19	nsubj	_	_
+19	says	_	VERB	VBZ	_	0	root	_	_
+

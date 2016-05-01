@@ -1,0 +1,12 @@
+1	exports	_	NOUN	NNS	_	2	nsubj	_	_
+2	made	_	VERB	VBD	_	0	root	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	difference	_	NOUN	NN	_	2	dobj	_	_
+5	with	_	ADP	IN	_	6	case	_	_
+6	companies	_	NOUN	NNS	_	2	nmod	_	_
+7	like	_	ADP	IN	_	8	case	_	_
+8	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+9	posting	_	VERB	VBG	_	2	xcomp	_	_
+10	impressive	_	ADJ	JJ	_	11	amod	_	_
+11	numbers	_	NOUN	NNS	_	9	dobj	_	_
+

@@ -1,0 +1,12 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	latest	_	ADJ	JJS	_	0	root	_	_
+3	:	_	PUNCT	:	_	0	erased	_	_
+4	@placeholder	_	NOUN	NN	_	8	nmod:poss	_	_
+5	's	_	PART	POS	_	4	case	_	_
+6	pouty	_	NOUN	NN	_	8	compound	_	_
+7	lips	_	NOUN	NNS	_	8	compound	_	_
+8	spark	_	NOUN	NN	_	2	dep	_	_
+9	the	_	DET	DT	_	11	det	_	_
+10	#	_	SYM	#	_	11	compound	_	_
+11	Entity28	_	NUM	CD	_	8	dep	_	_
+

@@ -1,0 +1,22 @@
+1	gov.	_	NOUN	NN	_	2	compound	_	_
+2	@placeholder	_	NOUN	NN	_	4	nsubj	_	_
+3	is	_	AUX	VBZ	_	4	aux	_	_
+4	making	_	VERB	VBG	_	0	root	_	_
+5	the	_	DET	DT	_	7	det	_	_
+6	right	_	ADJ	JJ	_	7	amod	_	_
+7	call	_	NOUN	NN	_	4	dobj	_	_
+8	to	_	PART	TO	_	9	mark	_	_
+9	fix	_	VERB	VB	_	4	advcl	_	_
+10	Entity1	_	PROPN	NNP	_	14	nmod:poss	_	_
+11	's	_	PART	POS	_	10	case	_	_
+12	religious	_	ADJ	JJ	_	14	amod	_	_
+13	freedom	_	NOUN	NN	_	14	compound	_	_
+14	law	_	NOUN	NN	_	9	dobj	_	_
+15	,	_	PUNCT	,	_	0	erased	_	_
+16	which	_	DET	WDT	_	19	nsubjpass	_	_
+17	can	_	AUX	MD	_	19	aux	_	_
+18	be	_	AUX	VB	_	19	auxpass	_	_
+19	used	_	VERB	VBN	_	14	acl:relcl	_	_
+20	for	_	ADP	IN	_	21	case	_	_
+21	discrimination	_	NOUN	NN	_	19	nmod	_	_
+

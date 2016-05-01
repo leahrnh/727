@@ -1,0 +1,14 @@
+1	Entity2	_	ADJ	JJ	_	2	amod	_	_
+2	investigators	_	NOUN	NNS	_	0	root	_	_
+3	:	_	PUNCT	:	_	0	erased	_	_
+4	flight	_	NOUN	NN	_	6	compound	_	_
+5	data	_	NOUN	NN	_	6	compound	_	_
+6	recorder	_	NOUN	NN	_	7	nsubj	_	_
+7	reveals	_	VERB	VBZ	_	2	parataxis	_	_
+8	@placeholder	_	NOUN	NN	_	9	nsubj	_	_
+9	acted	_	VERB	VBD	_	7	ccomp	_	_
+10	deliberately	_	ADV	RB	_	9	advmod	_	_
+11	to	_	ADP	TO	_	13	case	_	_
+12	crash	_	NOUN	NN	_	13	compound	_	_
+13	plane	_	NOUN	NN	_	9	nmod	_	_
+

@@ -1,0 +1,255 @@
+1	-LRB-	_	PUNCT	-LRB-	_	0	erased	_	_
+2	Entity0	_	PROPN	NNP	_	0	root	_	_
+3	-RRB-	_	PUNCT	-RRB-	_	0	erased	_	_
+4	--	_	PUNCT	:	_	0	erased	_	_
+5	may	_	AUX	MD	_	2	parataxis	_	_
+6	18	_	NUM	CD	_	5	dep	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	2012	_	NUM	CD	_	11	nummod	_	_
+9	media	_	NOUN	NNS	_	11	compound	_	_
+10	literacy	_	NOUN	NN	_	11	compound	_	_
+11	question	_	NOUN	NN	_	6	appos	_	_
+12	of	_	ADP	IN	_	14	case	_	_
+13	the	_	DET	DT	_	14	det	_	_
+14	day	_	NOUN	NN	_	11	nmod	_	_
+15	what	_	PRON	WP	_	16	nsubj	_	_
+16	do	_	VERB	VBP	_	6	acl:relcl	_	_
+17	you	_	PRON	PRP	_	18	nsubj	_	_
+18	think	_	VERB	VBP	_	16	ccomp	_	_
+19	that	_	SCONJ	IN	_	21	mark	_	_
+20	viewers	_	NOUN	NNS	_	21	nsubj	_	_
+21	learn	_	VERB	VBP	_	18	ccomp	_	_
+22	from	_	ADP	IN	_	23	case	_	_
+23	stories	_	NOUN	NNS	_	21	nmod	_	_
+24	about	_	ADV	RB	_	25	advmod	_	_
+25	graduates	_	NOUN	NNS	_	5	dep	_	_
+26	who	_	PRON	WP	_	28	nsubj	_	_
+27	have	_	AUX	VBP	_	28	aux	_	_
+28	overcome	_	VERB	VBN	_	25	acl:relcl	_	_
+29	adversity	_	ADV	RB	_	28	advmod	_	_
+
+1	*	_	SYM	SYM	_	3	dep	_	_
+2	*	_	PROPN	NNP	_	3	nsubj	_	_
+3	know	_	VERB	VBP	_	0	root	_	_
+4	your	_	PRON	PRP$	_	5	nmod:poss	_	_
+5	news	_	NOUN	NN	_	3	dobj	_	_
+6	--	_	PUNCT	:	_	0	erased	_	_
+7	the	_	DET	DT	_	9	det	_	_
+8	following	_	ADJ	JJ	_	9	amod	_	_
+9	questions	_	NOUN	NNS	_	10	nsubj	_	_
+10	relate	_	VERB	VBP	_	3	parataxis	_	_
+11	to	_	ADP	TO	_	12	case	_	_
+12	events	_	NOUN	NNS	_	10	nmod	_	_
+13	that	_	DET	WDT	_	15	nsubjpass	_	_
+14	were	_	AUX	VBD	_	15	auxpass	_	_
+15	covered	_	VERB	VBN	_	12	acl:relcl	_	_
+16	this	_	DET	DT	_	17	det	_	_
+17	week	_	NOUN	NN	_	15	nmod:tmod	_	_
+18	on	_	ADP	IN	_	19	case	_	_
+19	Entity0	_	NOUN	NNS	_	15	nmod	_	_
+
+1	write	_	VERB	VB	_	0	root	_	_
+2	your	_	PRON	PRP$	_	3	nmod:poss	_	_
+3	answers	_	NOUN	NNS	_	1	dobj	_	_
+4	in	_	ADP	IN	_	6	case	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	space	_	NOUN	NN	_	1	nmod	_	_
+7	provided	_	VERB	VBN	_	6	acl	_	_
+
+1	click	_	VERB	VB	_	0	root	_	_
+2	here	_	ADV	RB	_	1	advmod	_	_
+3	for	_	ADP	IN	_	6	case	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	Entity15	_	ADJ	JJ	_	6	amod	_	_
+6	version	_	NOUN	NN	_	1	nmod	_	_
+7	of	_	ADP	IN	_	9	case	_	_
+8	this	_	DET	DT	_	9	det	_	_
+9	Entity16	_	NOUN	NNS	_	6	nmod	_	_
+
+1	1	_	NUM	CD	_	0	root	_	_
+
+1	what	_	PRON	WP	_	4	dobj	_	_
+2	insect	_	NOUN	NN	_	4	nsubj	_	_
+3	is	_	AUX	VBZ	_	4	aux	_	_
+4	disappearing	_	VERB	VBG	_	0	root	_	_
+5	in	_	SCONJ	IN	_	8	mark	_	_
+6	what	_	PRON	WP	_	8	dobj	_	_
+7	scientists	_	NOUN	NNS	_	8	nsubj	_	_
+8	call	_	VERB	VBP	_	4	advcl	_	_
+9	''	_	PUNCT	''	_	0	erased	_	_
+10	colony	_	NOUN	NN	_	12	compound	_	_
+11	collapse	_	NOUN	NN	_	12	compound	_	_
+12	disorder	_	NOUN	NN	_	8	dobj	_	_
+13	''	_	PUNCT	''	_	0	erased	_	_
+
+1	*	_	SYM	SYM	_	3	dep	_	_
+2	*	_	NUM	CD	_	3	nummod	_	_
+3	2	_	NUM	CD	_	0	root	_	_
+
+1	which	_	DET	WDT	_	6	dobj	_	_
+2	Entity22	_	ADJ	JJ	_	3	amod	_	_
+3	candidate	_	NOUN	NN	_	6	nsubj	_	_
+4	for	_	ADP	IN	_	5	case	_	_
+5	president	_	NOUN	NN	_	3	nmod	_	_
+6	won	_	VERB	VBD	_	0	root	_	_
+7	both	_	DET	PDT	_	9	cc:preconj	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	Entity25	_	NOUN	NN	_	6	dobj	_	_
+10	and	_	CONJ	CC	_	9	cc	_	_
+11	Entity26	_	NOUN	NNS	_	12	compound	_	_
+12	primaries	_	NOUN	NNS	_	9	conj	_	_
+13	this	_	DET	DT	_	14	det	_	_
+14	week	_	NOUN	NN	_	6	nmod:tmod	_	_
+
+1	*	_	SYM	SYM	_	3	dep	_	_
+2	*	_	NUM	CD	_	3	nummod	_	_
+3	3	_	NUM	CD	_	0	root	_	_
+
+1	on	_	ADP	IN	_	3	case	_	_
+2	what	_	DET	WDT	_	3	det	_	_
+3	date	_	NOUN	NN	_	10	nmod	_	_
+4	does	_	AUX	VBZ	_	10	aux	_	_
+5	the	_	DET	DT	_	9	det	_	_
+6	eastern	_	ADJ	JJ	_	9	amod	_	_
+7	Entity28	_	ADJ	JJ	_	9	amod	_	_
+8	hurricane	_	NOUN	NN	_	9	compound	_	_
+9	season	_	NOUN	NN	_	10	nsubj	_	_
+10	begin	_	VERB	VB	_	0	root	_	_
+
+1	*	_	SYM	SYM	_	3	dep	_	_
+2	*	_	NUM	CD	_	3	nummod	_	_
+3	4	_	NUM	CD	_	0	root	_	_
+
+1	what	_	PRON	WP	_	4	dobj	_	_
+2	bank	_	NOUN	NN	_	4	nsubj	_	_
+3	recently	_	ADV	RB	_	4	advmod	_	_
+4	announced	_	VERB	VBD	_	0	root	_	_
+5	that	_	SCONJ	IN	_	11	mark	_	_
+6	one	_	NUM	CD	_	11	nsubj	_	_
+7	of	_	ADP	IN	_	9	case	_	_
+8	its	_	PRON	PRP$	_	9	nmod:poss	_	_
+9	units	_	NOUN	NNS	_	6	nmod	_	_
+10	had	_	AUX	VBD	_	11	aux	_	_
+11	lost	_	VERB	VBN	_	4	ccomp	_	_
+12	$	_	SYM	$	_	11	dobj	_	_
+13	2	_	NUM	CD	_	14	compound	_	_
+14	billion	_	NUM	CD	_	12	nummod	_	_
+
+1	*	_	SYM	SYM	_	3	dep	_	_
+2	*	_	NUM	CD	_	3	nummod	_	_
+3	5	_	NUM	CD	_	0	root	_	_
+
+1	what	_	DET	WDT	_	3	det	_	_
+2	Entity36	_	ADJ	JJ	_	3	amod	_	_
+3	country	_	NOUN	NN	_	8	dobj	_	_
+4	did	_	AUX	VBD	_	8	aux	_	_
+5	Entity34	_	ADJ	JJ	_	7	amod	_	_
+6	president	_	NOUN	NN	_	7	compound	_	_
+7	Entity33	_	NOUN	NN	_	8	nsubj	_	_
+8	visit	_	VERB	VB	_	0	root	_	_
+9	immediately	_	ADV	RB	_	8	advmod	_	_
+10	after	_	ADP	IN	_	12	case	_	_
+11	his	_	PRON	PRP$	_	12	nmod:poss	_	_
+12	inauguration	_	NOUN	NN	_	8	nmod	_	_
+
+1	*	_	SYM	SYM	_	3	dep	_	_
+2	*	_	NUM	CD	_	3	nummod	_	_
+3	6	_	NUM	CD	_	0	root	_	_
+
+1	what	_	PRON	WP	_	8	dobj	_	_
+2	social	_	ADJ	JJ	_	4	amod	_	_
+3	media	_	NOUN	NN	_	4	compound	_	_
+4	site	_	NOUN	NN	_	6	nsubjpass	_	_
+5	is	_	AUX	VBZ	_	6	auxpass	_	_
+6	scheduled	_	VERB	VBN	_	0	root	_	_
+7	to	_	PART	TO	_	8	mark	_	_
+8	launch	_	VERB	VB	_	6	xcomp	_	_
+9	its	_	PRON	PRP$	_	10	nmod:poss	_	_
+10	ipo	_	NOUN	NN	_	8	dobj	_	_
+11	on	_	ADP	IN	_	12	case	_	_
+12	friday	_	PROPN	NNP	_	8	nmod	_	_
+
+1	*	_	SYM	SYM	_	3	dep	_	_
+2	*	_	NUM	CD	_	3	nummod	_	_
+3	7	_	NUM	CD	_	0	root	_	_
+
+1	what	_	PRON	WP	_	2	nsubj	_	_
+2	word	_	VERB	VBN	_	0	root	_	_
+3	means	_	NOUN	NNS	_	2	dobj	_	_
+4	''	_	PUNCT	''	_	0	erased	_	_
+5	beginning	_	VERB	VBG	_	3	acl	_	_
+6	''	_	PUNCT	''	_	0	erased	_	_
+7	or	_	CONJ	CC	_	2	cc	_	_
+8	''	_	PUNCT	''	_	0	erased	_	_
+9	start	_	NOUN	NN	_	2	conj	_	_
+10	''	_	PUNCT	''	_	0	erased	_	_
+11	and	_	CONJ	CC	_	2	cc	_	_
+12	refers	_	VERB	VBZ	_	2	conj	_	_
+13	to	_	ADP	TO	_	16	case	_	_
+14	a	_	DET	DT	_	16	det	_	_
+15	graduation	_	NOUN	NN	_	16	compound	_	_
+16	ceremony	_	NOUN	NN	_	12	nmod	_	_
+
+1	*	_	SYM	SYM	_	3	dep	_	_
+2	*	_	NUM	CD	_	3	nummod	_	_
+3	8	_	NUM	CD	_	0	root	_	_
+
+1	in	_	ADP	IN	_	2	case	_	_
+2	what	_	PRON	WP	_	10	nmod	_	_
+3	Entity44	_	ADJ	JJ	_	4	amod	_	_
+4	country	_	NOUN	NN	_	2	dep	_	_
+5	did	_	AUX	VBD	_	10	aux	_	_
+6	an	_	DET	DT	_	8	det	_	_
+7	oil	_	NOUN	NN	_	8	compound	_	_
+8	worker	_	NOUN	NN	_	10	nsubj	_	_
+9	recently	_	ADV	RB	_	10	advmod	_	_
+10	discover	_	VERB	VB	_	0	root	_	_
+11	the	_	DET	DT	_	12	det	_	_
+12	wreckage	_	NOUN	NN	_	10	dobj	_	_
+13	of	_	ADP	IN	_	16	case	_	_
+14	a	_	DET	DT	_	16	det	_	_
+15	Entity47	_	ADJ	JJ	_	16	amod	_	_
+16	plane	_	NOUN	NN	_	12	nmod	_	_
+17	that	_	DET	WDT	_	18	nsubj	_	_
+18	went	_	VERB	VBD	_	16	acl:relcl	_	_
+19	down	_	ADP	RP	_	18	compound:prt	_	_
+20	in	_	ADP	IN	_	21	case	_	_
+21	Entity48	_	NOUN	NNS	_	18	nmod	_	_
+
+1	*	_	SYM	SYM	_	3	dep	_	_
+2	*	_	NUM	CD	_	3	nummod	_	_
+3	9	_	NUM	CD	_	0	root	_	_
+
+1	what	_	DET	WDT	_	2	det	_	_
+2	country	_	NOUN	NN	_	3	nsubj	_	_
+3	operates	_	VERB	VBZ	_	0	root	_	_
+4	the	_	DET	DT	_	6	det	_	_
+5	Entity51	_	ADJ	JJ	_	6	amod	_	_
+6	spacecraft	_	NOUN	NN	_	3	dobj	_	_
+
+1	*	_	SYM	SYM	_	3	dep	_	_
+2	*	_	NUM	CD	_	3	nummod	_	_
+3	10	_	NUM	CD	_	0	root	_	_
+
+1	what	_	PRON	WP	_	6	dep	_	_
+2	Entity36	_	ADJ	JJ	_	3	amod	_	_
+3	nation	_	NOUN	NN	_	6	nmod:poss	_	_
+4	's	_	PART	POS	_	3	case	_	_
+5	political	_	ADJ	JJ	_	6	amod	_	_
+6	parties	_	NOUN	NNS	_	0	root	_	_
+7	failed	_	VERB	VBN	_	6	dep	_	_
+8	to	_	PART	TO	_	9	mark	_	_
+9	form	_	VERB	VB	_	7	xcomp	_	_
+10	a	_	DET	DT	_	11	det	_	_
+11	coalition	_	NOUN	NN	_	9	dobj	_	_
+12	and	_	CONJ	CC	_	7	cc	_	_
+13	scheduled	_	VERB	VBN	_	7	conj	_	_
+14	new	_	ADJ	JJ	_	15	amod	_	_
+15	elections	_	NOUN	NNS	_	13	dobj	_	_
+16	for	_	ADP	IN	_	18	case	_	_
+17	next	_	ADJ	JJ	_	18	amod	_	_
+18	month	_	NOUN	NN	_	15	nmod	_	_
+
+1	*	_	SYM	SYM	_	2	dep	_	_
+2	*	_	PROPN	NNP	_	0	root	_	_
+

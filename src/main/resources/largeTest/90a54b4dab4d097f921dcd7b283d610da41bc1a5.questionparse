@@ -1,0 +1,21 @@
+1	rarely	_	ADV	RB	_	8	advmod	_	_
+2	since	_	SCONJ	IN	_	8	mark	_	_
+3	the	_	DET	DT	_	5	det	_	_
+4	first	_	ADJ	JJ	_	5	amod	_	_
+5	century	_	NOUN	NN	_	8	nsubj	_	_
+6	have	_	AUX	VBP	_	8	aux	_	_
+7	@placeholder	_	ADV	RB	_	8	advmod	_	_
+8	faced	_	VERB	VBN	_	14	dep	_	_
+9	persecution	_	NOUN	NN	_	8	dobj	_	_
+10	on	_	ADP	IN	_	12	case	_	_
+11	this	_	DET	DT	_	12	det	_	_
+12	scale	_	NOUN	NN	_	8	nmod	_	_
+13	,	_	PUNCT	,	_	0	erased	_	_
+14	say	_	VERB	VB	_	0	root	_	_
+15	Entity169	_	NOUN	NNS	_	14	dobj	_	_
+16	,	_	PUNCT	,	_	0	erased	_	_
+17	Entity170	_	NOUN	NNS	_	15	conj	_	_
+18	and	_	CONJ	CC	_	15	cc	_	_
+19	Entity171	_	NOUN	NNS	_	15	conj	_	_
+20	.	_	PUNCT	.	_	0	erased	_	_
+

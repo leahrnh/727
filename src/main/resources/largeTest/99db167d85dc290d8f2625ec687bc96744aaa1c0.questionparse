@@ -1,0 +1,13 @@
+1	a	_	DET	DT	_	3	det	_	_
+2	random	_	ADJ	JJ	_	3	amod	_	_
+3	sample	_	NOUN	NN	_	8	nsubj	_	_
+4	from	_	ADP	IN	_	7	case	_	_
+5	a	_	DET	DT	_	7	det	_	_
+6	Entity14	_	ADJ	JJ	_	7	amod	_	_
+7	store	_	NOUN	NN	_	3	nmod	_	_
+8	tested	_	VERB	VBD	_	0	root	_	_
+9	positive	_	ADJ	JJ	_	8	xcomp	_	_
+10	for	_	ADP	IN	_	12	case	_	_
+11	@placeholder	_	NOUN	NN	_	12	compound	_	_
+12	monocytogenes	_	NOUN	NNS	_	8	nmod	_	_
+

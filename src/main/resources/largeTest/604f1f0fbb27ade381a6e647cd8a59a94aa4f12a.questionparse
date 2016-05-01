@@ -1,0 +1,19 @@
+1	he	_	PRON	PRP	_	2	nsubj	_	_
+2	went	_	VERB	VBD	_	0	root	_	_
+3	to	_	ADP	TO	_	4	case	_	_
+4	Entity5	_	NOUN	NNS	_	2	nmod	_	_
+5	in	_	ADP	IN	_	6	case	_	_
+6	february	_	PROPN	NNP	_	4	nmod	_	_
+7	in	_	ADP	IN	_	8	case	_	_
+8	hopes	_	NOUN	NNS	_	2	nmod	_	_
+9	of	_	SCONJ	IN	_	10	mark	_	_
+10	bringing	_	VERB	VBG	_	8	acl	_	_
+11	his	_	PRON	PRP$	_	12	nmod:poss	_	_
+12	wife	_	NOUN	NN	_	10	dobj	_	_
+13	and	_	CONJ	CC	_	12	cc	_	_
+14	baby	_	NOUN	NN	_	12	conj	_	_
+15	back	_	ADP	RP	_	10	compound:prt	_	_
+16	to	_	ADP	TO	_	18	case	_	_
+17	the	_	DET	DT	_	18	det	_	_
+18	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+

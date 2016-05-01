@@ -1,0 +1,16 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	working	_	NOUN	NN	_	0	root	_	_
+3	-	_	PUNCT	:	_	0	erased	_	_
+4	man	_	NOUN	NN	_	2	dep	_	_
+5	paean	_	VERB	VBN	_	4	acl	_	_
+6	''	_	PUNCT	''	_	0	erased	_	_
+7	@placeholder	_	ADJ	JJ	_	9	amod	_	_
+8	''	_	PUNCT	''	_	0	erased	_	_
+9	recalls	_	NOUN	NNS	_	5	dobj	_	_
+10	''	_	PUNCT	''	_	0	erased	_	_
+11	born	_	VERB	VBN	_	9	acl	_	_
+12	in	_	ADP	IN	_	14	case	_	_
+13	the	_	DET	DT	_	14	det	_	_
+14	Entity15	_	NOUN	NNS	_	5	nmod	_	_
+15	''	_	PUNCT	''	_	0	erased	_	_
+

@@ -1,0 +1,17 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	says	_	VERB	VBZ	_	0	root	_	_
+3	there	_	PRON	EX	_	4	expl	_	_
+4	's	_	VERB	VBZ	_	2	ccomp	_	_
+5	no	_	DET	DT	_	6	neg	_	_
+6	plan	_	NOUN	NN	_	4	nsubj	_	_
+7	to	_	PART	TO	_	8	mark	_	_
+8	kill	_	VERB	VB	_	6	acl	_	_
+9	one	_	NUM	CD	_	8	dobj	_	_
+10	of	_	ADP	IN	_	13	case	_	_
+11	its	_	PRON	PRP$	_	13	nmod:poss	_	_
+12	male	_	ADJ	JJ	_	13	amod	_	_
+13	giraffes	_	NOUN	NNS	_	9	nmod	_	_
+14	,	_	PUNCT	,	_	0	erased	_	_
+15	named	_	VERB	VBN	_	9	acl	_	_
+16	Entity26	_	NOUN	NNS	_	15	dobj	_	_
+

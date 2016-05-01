@@ -1,0 +1,9 @@
+1	her	_	PRON	PRP$	_	2	nmod:poss	_	_
+2	father	_	NOUN	NN	_	8	nsubj	_	_
+3	is	_	VERB	VBZ	_	8	cop	_	_
+4	@placeholder	_	NOUN	NN	_	8	compound	_	_
+5	,	_	PUNCT	,	_	0	erased	_	_
+6	former	_	ADJ	JJ	_	8	amod	_	_
+7	Entity6	_	NOUN	NNS	_	8	compound	_	_
+8	president	_	NOUN	NN	_	0	root	_	_
+

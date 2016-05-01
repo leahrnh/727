@@ -1,0 +1,16 @@
+1	bodies	_	NOUN	NNS	_	15	nsubjpass	_	_
+2	of	_	ADP	IN	_	3	case	_	_
+3	@placeholder	_	NOUN	NN	_	1	nmod	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	7	_	NUM	CD	_	3	conj	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	and	_	CONJ	CC	_	3	cc	_	_
+8	man	_	NOUN	NN	_	3	conj	_	_
+9	suspected	_	VERB	VBN	_	1	acl	_	_
+10	of	_	SCONJ	IN	_	11	mark	_	_
+11	killing	_	VERB	VBG	_	9	advcl	_	_
+12	her	_	PRON	PRP$	_	13	nmod:poss	_	_
+13	mother	_	NOUN	NN	_	11	dobj	_	_
+14	are	_	AUX	VBP	_	15	auxpass	_	_
+15	identified	_	VERB	VBN	_	0	root	_	_
+

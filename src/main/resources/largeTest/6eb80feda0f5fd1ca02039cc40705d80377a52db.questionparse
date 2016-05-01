@@ -1,0 +1,13 @@
+1	framework	_	NOUN	NN	_	2	compound	_	_
+2	agreement	_	NOUN	NN	_	10	nsubjpass	_	_
+3	with	_	ADP	IN	_	4	case	_	_
+4	@placeholder	_	NOUN	NN	_	2	nmod	_	_
+5	over	_	ADP	IN	_	8	case	_	_
+6	its	_	PRON	PRP$	_	8	nmod:poss	_	_
+7	nuclear	_	ADJ	JJ	_	8	amod	_	_
+8	program	_	NOUN	NN	_	4	nmod	_	_
+9	was	_	AUX	VBD	_	10	auxpass	_	_
+10	reached	_	VERB	VBN	_	0	root	_	_
+11	this	_	DET	DT	_	12	det	_	_
+12	month	_	NOUN	NN	_	10	nmod:tmod	_	_
+

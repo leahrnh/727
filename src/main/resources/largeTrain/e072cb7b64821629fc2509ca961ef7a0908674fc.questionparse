@@ -1,0 +1,11 @@
+1	top	_	VERB	VB	_	0	root	_	_
+2	@placeholder	_	NOUN	NN	_	5	compound	_	_
+3	commander	_	NOUN	NN	_	5	compound	_	_
+4	issues	_	NOUN	NNS	_	5	compound	_	_
+5	threat	_	NOUN	NN	_	1	dobj	_	_
+6	to	_	PART	TO	_	7	mark	_	_
+7	execute	_	VERB	VB	_	1	xcomp	_	_
+8	foreign	_	ADJ	JJ	_	10	amod	_	_
+9	aid	_	NOUN	NN	_	10	compound	_	_
+10	workers	_	NOUN	NNS	_	7	dobj	_	_
+

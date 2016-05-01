@@ -1,0 +1,13 @@
+1	report	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	@placeholder	_	NOUN	NN	_	7	nsubj	_	_
+4	and	_	CONJ	CC	_	3	cc	_	_
+5	Entity4	_	NOUN	NNS	_	3	conj	_	_
+6	are	_	AUX	VBP	_	7	aux	_	_
+7	negotiating	_	VERB	VBG	_	1	appos	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	length	_	NOUN	NN	_	7	dobj	_	_
+10	of	_	ADP	IN	_	12	case	_	_
+11	a	_	DET	DT	_	12	det	_	_
+12	suspension	_	NOUN	NN	_	9	nmod	_	_
+

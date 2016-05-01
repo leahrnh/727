@@ -1,0 +1,8 @@
+1	golf	_	NOUN	NN	_	3	compound	_	_
+2	legend	_	NOUN	NN	_	3	compound	_	_
+3	Entity36	_	NOUN	NNS	_	4	nsubj	_	_
+4	captains	_	VERB	VBZ	_	0	root	_	_
+5	the	_	DET	DT	_	7	det	_	_
+6	@placeholder	_	NOUN	NN	_	7	compound	_	_
+7	team	_	NOUN	NN	_	4	dobj	_	_
+

@@ -1,0 +1,16 @@
+1	Entity169	_	PROPN	NNP	_	2	nsubj	_	_
+2	says	_	VERB	VBZ	_	0	root	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	deal	_	NOUN	NN	_	6	nsubj	_	_
+5	would	_	AUX	MD	_	6	aux	_	_
+6	pave	_	VERB	VB	_	2	ccomp	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	way	_	NOUN	NN	_	6	dobj	_	_
+9	for	_	ADP	IN	_	10	case	_	_
+10	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+11	to	_	PART	TO	_	12	mark	_	_
+12	get	_	VERB	VB	_	6	advcl	_	_
+13	a	_	DET	DT	_	15	det	_	_
+14	nuclear	_	ADJ	JJ	_	15	amod	_	_
+15	bomb	_	NOUN	NN	_	12	dobj	_	_
+

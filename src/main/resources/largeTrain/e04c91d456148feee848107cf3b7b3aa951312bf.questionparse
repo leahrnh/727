@@ -1,0 +1,12 @@
+1	the	_	DET	DT	_	3	det	_	_
+2	@placeholder	_	NOUN	NN	_	3	compound	_	_
+3	teenager	_	NOUN	NN	_	6	nsubj	_	_
+4	was	_	VERB	VBD	_	6	cop	_	_
+5	spotted	_	ADJ	JJ	_	6	amod	_	_
+6	spray	_	NOUN	NN	_	0	root	_	_
+7	-	_	PUNCT	:	_	0	erased	_	_
+8	painting	_	VERB	VBG	_	6	dep	_	_
+9	a	_	DET	DT	_	11	det	_	_
+10	vacant	_	ADJ	JJ	_	11	amod	_	_
+11	building	_	NOUN	NN	_	8	dobj	_	_
+

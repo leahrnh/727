@@ -1,0 +1,11 @@
+1	@placeholder	_	NOUN	NN	_	3	compound	_	_
+2	maid	_	NOUN	NN	_	3	compound	_	_
+3	Entity8	_	NOUN	NNS	_	5	nsubj	_	_
+4	has	_	AUX	VBZ	_	5	aux	_	_
+5	won	_	VERB	VBN	_	0	root	_	_
+6	a	_	DET	DT	_	8	det	_	_
+7	photography	_	NOUN	NN	_	8	compound	_	_
+8	fellowship	_	NOUN	NN	_	5	dobj	_	_
+9	in	_	ADP	IN	_	10	case	_	_
+10	Entity7	_	NOUN	NNS	_	8	nmod	_	_
+

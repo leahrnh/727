@@ -1,0 +1,8 @@
+1	@placeholder	_	VERB	VB	_	0	root	_	_
+2	unveil	_	VERB	VB	_	1	xcomp	_	_
+3	latest	_	ADJ	JJS	_	5	amod	_	_
+4	signing	_	NOUN	NN	_	5	compound	_	_
+5	Entity39	_	NOUN	NNS	_	2	dobj	_	_
+6	from	_	ADP	IN	_	7	case	_	_
+7	Entity47	_	NOUN	NNS	_	2	nmod	_	_
+

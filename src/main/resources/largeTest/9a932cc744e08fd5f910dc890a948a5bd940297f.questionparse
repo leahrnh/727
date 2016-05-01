@@ -1,0 +1,12 @@
+1	'	_	PART	POS	_	2	nsubj	_	_
+2	@placeholder	_	VERB	VBP	_	0	root	_	_
+3	'	_	PART	POS	_	5	nsubjpass	_	_
+4	was	_	AUX	VBD	_	5	auxpass	_	_
+5	diagnosed	_	VERB	VBN	_	2	ccomp	_	_
+6	with	_	ADP	IN	_	9	case	_	_
+7	Entity5	_	PROPN	NNP	_	9	nmod:poss	_	_
+8	's	_	PART	POS	_	7	case	_	_
+9	lymphoma	_	NOUN	NN	_	5	nmod	_	_
+10	in	_	ADP	IN	_	11	case	_	_
+11	september	_	PROPN	NNP	_	9	nmod	_	_
+

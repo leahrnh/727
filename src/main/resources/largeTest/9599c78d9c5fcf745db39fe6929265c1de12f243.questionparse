@@ -1,0 +1,17 @@
+1	Entity180	_	VERB	VB	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	why	_	ADV	WRB	_	7	advmod	_	_
+4	does	_	AUX	VBZ	_	7	aux	_	_
+5	president	_	NOUN	NN	_	6	compound	_	_
+6	Entity5	_	NOUN	NNS	_	7	nsubj	_	_
+7	call	_	VERB	VB	_	1	ccomp	_	_
+8	her	_	PRON	PRP	_	9	nsubj	_	_
+9	wrong	_	ADJ	JJ	_	7	xcomp	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	and	_	CONJ	CC	_	7	cc	_	_
+12	why	_	ADV	WRB	_	13	advmod	_	_
+13	is	_	VERB	VBZ	_	7	conj	_	_
+14	@placeholder	_	NOUN	NN	_	15	compound	_	_
+15	equivocating	_	NOUN	NN	_	13	nsubj	_	_
+16	?	_	PUNCT	.	_	0	erased	_	_
+

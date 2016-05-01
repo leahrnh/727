@@ -1,0 +1,16 @@
+1	three	_	NUM	CD	_	0	root	_	_
+2	-	_	PUNCT	:	_	0	erased	_	_
+3	week	_	NOUN	NN	_	8	nsubjpass	_	_
+4	-	_	PUNCT	:	_	0	erased	_	_
+5	old	_	ADJ	JJ	_	6	amod	_	_
+6	@placeholder	_	NOUN	NN	_	3	dep	_	_
+7	was	_	AUX	VBD	_	8	auxpass	_	_
+8	taken	_	VERB	VBN	_	1	parataxis	_	_
+9	from	_	ADP	IN	_	11	case	_	_
+10	a	_	DET	DT	_	11	det	_	_
+11	home	_	NOUN	NN	_	8	nmod	_	_
+12	in	_	ADP	IN	_	13	case	_	_
+13	Entity14	_	NOUN	NNS	_	11	nmod	_	_
+14	on	_	ADP	IN	_	15	case	_	_
+15	saturday	_	PROPN	NNP	_	13	nmod	_	_
+

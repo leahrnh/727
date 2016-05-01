@@ -1,0 +1,13 @@
+1	@placeholder	_	NOUN	NN	_	6	nsubj	_	_
+2	's	_	VERB	VBZ	_	6	cop	_	_
+3	government	_	NOUN	NN	_	6	compound	_	_
+4	orders	_	NOUN	NNS	_	6	compound	_	_
+5	army	_	NOUN	NN	_	6	compound	_	_
+6	chief	_	NOUN	NN	_	0	root	_	_
+7	of	_	ADP	IN	_	8	case	_	_
+8	staff	_	NOUN	NN	_	6	nmod	_	_
+9	fired	_	VERB	VBN	_	8	acl	_	_
+10	after	_	ADP	IN	_	12	case	_	_
+11	recruitment	_	NOUN	NN	_	12	compound	_	_
+12	issue	_	NOUN	NN	_	9	nmod	_	_
+

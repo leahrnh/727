@@ -1,0 +1,25 @@
+1	one	_	PRON	PRP	_	2	nsubj	_	_
+2	defiant	_	VERB	VB	_	12	dep	_	_
+3	elderly	_	ADJ	JJ	_	4	amod	_	_
+4	resident	_	NOUN	NN	_	2	dobj	_	_
+5	told	_	VERB	VBD	_	4	acl:relcl	_	_
+6	Entity4	_	NOUN	NNS	_	5	dobj	_	_
+7	:	_	PUNCT	:	_	0	erased	_	_
+8	''	_	PUNCT	''	_	0	erased	_	_
+9	i	_	X	FW	_	12	nsubj	_	_
+10	will	_	AUX	MD	_	12	aux	_	_
+11	not	_	PART	RB	_	12	neg	_	_
+12	leave	_	VERB	VB	_	0	root	_	_
+13	the	_	DET	DT	_	14	det	_	_
+14	@placeholder	_	NOUN	NN	_	12	dobj	_	_
+15	even	_	ADV	RB	_	23	advmod	_	_
+16	if	_	SCONJ	IN	_	23	mark	_	_
+17	i	_	X	FW	_	23	nsubj	_	_
+18	am	_	VERB	VBP	_	23	cop	_	_
+19	75	_	NUM	CD	_	22	nummod	_	_
+20	or	_	CONJ	CC	_	19	cc	_	_
+21	76	_	NUM	CD	_	19	conj	_	_
+22	years	_	NOUN	NNS	_	23	nmod:npmod	_	_
+23	old	_	ADJ	JJ	_	12	advcl	_	_
+24	''	_	PUNCT	''	_	0	erased	_	_
+

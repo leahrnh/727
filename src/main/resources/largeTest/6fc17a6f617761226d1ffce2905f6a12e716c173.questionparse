@@ -1,0 +1,12 @@
+1	Entity2	_	VERB	VBZ	_	0	root	_	_
+2	photographed	_	ADJ	JJ	_	3	amod	_	_
+3	fathers	_	NOUN	NNS	_	1	nsubj	_	_
+4	in	_	ADP	IN	_	5	case	_	_
+5	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	which	_	DET	WDT	_	8	nsubj	_	_
+8	has	_	VERB	VBZ	_	3	acl:relcl	_	_
+9	generous	_	ADJ	JJ	_	11	amod	_	_
+10	parental	_	ADJ	JJ	_	11	amod	_	_
+11	leave	_	NOUN	NN	_	8	dobj	_	_
+

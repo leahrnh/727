@@ -1,0 +1,17 @@
+1	''	_	PUNCT	''	_	0	erased	_	_
+2	today	_	NOUN	NN	_	8	nsubj	_	_
+3	will	_	AUX	MD	_	8	aux	_	_
+4	always	_	ADV	RB	_	8	advmod	_	_
+5	be	_	VERB	VB	_	8	cop	_	_
+6	a	_	DET	DT	_	7	det	_	_
+7	little	_	ADV	RB	_	8	nmod:npmod	_	_
+8	emotional	_	ADJ	JJ	_	15	ccomp	_	_
+9	for	_	ADP	IN	_	10	case	_	_
+10	me	_	PRON	PRP	_	8	nmod	_	_
+11	,	_	PUNCT	,	_	0	erased	_	_
+12	''	_	PUNCT	''	_	0	erased	_	_
+13	one	_	PRON	PRP	_	15	nsubj	_	_
+14	@placeholder	_	ADV	RB	_	15	advmod	_	_
+15	tells	_	VERB	VBZ	_	0	root	_	_
+16	Entity1	_	NOUN	NNS	_	15	dobj	_	_
+

@@ -1,0 +1,7 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	series	_	NOUN	NN	_	3	nsubj	_	_
+3	stars	_	VERB	VBZ	_	0	root	_	_
+4	Entity10	_	NOUN	NNS	_	3	dobj	_	_
+5	and	_	CONJ	CC	_	4	cc	_	_
+6	@placeholder	_	NOUN	NN	_	4	conj	_	_
+

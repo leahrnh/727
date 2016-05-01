@@ -1,0 +1,19 @@
+1	''	_	PUNCT	''	_	0	erased	_	_
+2	i	_	SCONJ	IN	_	5	mark	_	_
+3	'm	_	AUX	VBP	_	5	aux	_	_
+4	just	_	ADV	RB	_	5	advmod	_	_
+5	trying	_	VERB	VBG	_	12	advcl	_	_
+6	to	_	PART	TO	_	7	mark	_	_
+7	live	_	VERB	VB	_	5	xcomp	_	_
+8	the	_	PROPN	NNP	_	9	nsubj	_	_
+9	Entity48	_	VERB	VBZ	_	12	parataxis	_	_
+10	dream	_	NOUN	NN	_	12	nsubj	_	_
+11	and	_	CONJ	CC	_	12	advmod	_	_
+12	finish	_	VERB	VBP	_	0	root	_	_
+13	my	_	PRON	PRP$	_	14	nmod:poss	_	_
+14	education	_	NOUN	NN	_	12	dobj	_	_
+15	,	_	PUNCT	,	_	0	erased	_	_
+16	''	_	PUNCT	''	_	0	erased	_	_
+17	says	_	VERB	VBZ	_	14	acl:relcl	_	_
+18	@placeholder	_	NOUN	NN	_	17	dobj	_	_
+

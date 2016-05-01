@@ -1,0 +1,15 @@
+1	photographer	_	PROPN	NNP	_	2	compound	_	_
+2	Entity8	_	PROPN	NNP	_	3	nsubj	_	_
+3	spent	_	VERB	VBN	_	0	root	_	_
+4	10	_	NUM	CD	_	5	nummod	_	_
+5	days	_	NOUN	NNS	_	3	nmod:tmod	_	_
+6	at	_	ADP	IN	_	8	case	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	market	_	NOUN	NN	_	3	nmod	_	_
+9	photographing	_	VERB	VBG	_	8	acl	_	_
+10	his	_	PRON	PRP$	_	13	nmod:poss	_	_
+11	project	_	NOUN	NN	_	13	compound	_	_
+12	''	_	PUNCT	''	_	0	erased	_	_
+13	@placeholder	_	NOUN	NN	_	9	dobj	_	_
+14	''	_	PUNCT	''	_	0	erased	_	_
+

@@ -1,0 +1,17 @@
+1	more	_	ADJ	JJR	_	3	advmod	_	_
+2	than	_	ADP	IN	_	1	mwe	_	_
+3	2,000	_	NUM	CD	_	4	nummod	_	_
+4	people	_	NOUN	NNS	_	6	nsubjpass	_	_
+5	are	_	AUX	VBP	_	6	auxpass	_	_
+6	invited	_	VERB	VBN	_	0	root	_	_
+7	to	_	ADP	TO	_	9	case	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	funeral	_	NOUN	NN	_	6	nmod	_	_
+10	of	_	ADP	IN	_	16	case	_	_
+11	@placeholder	_	NOUN	NN	_	16	nmod:poss	_	_
+12	's	_	PART	POS	_	11	case	_	_
+13	first	_	ADJ	JJ	_	16	amod	_	_
+14	female	_	ADJ	JJ	_	16	amod	_	_
+15	prime	_	ADJ	JJ	_	16	amod	_	_
+16	minister	_	NOUN	NN	_	9	nmod	_	_
+

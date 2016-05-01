@@ -1,0 +1,17 @@
+1	@placeholder	_	VERB	VB	_	0	root	_	_
+2	posts	_	NOUN	NNS	_	3	compound	_	_
+3	photos	_	NOUN	NNS	_	1	dobj	_	_
+4	of	_	ADP	IN	_	5	case	_	_
+5	kidnapped	_	VERB	VBN	_	3	acl	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	stolen	_	VERB	VBN	_	5	conj	_	_
+8	or	_	CONJ	CC	_	5	cc	_	_
+9	sold	_	VERB	VBN	_	5	conj	_	_
+10	60	_	NUM	CD	_	11	nummod	_	_
+11	children	_	NOUN	NNS	_	1	nsubj	_	_
+12	who	_	PRON	WP	_	14	nsubjpass	_	_
+13	were	_	AUX	VBD	_	14	auxpass	_	_
+14	rescued	_	VERB	VBN	_	11	acl:relcl	_	_
+15	by	_	ADP	IN	_	16	case	_	_
+16	authorities	_	NOUN	NNS	_	14	nmod	_	_
+

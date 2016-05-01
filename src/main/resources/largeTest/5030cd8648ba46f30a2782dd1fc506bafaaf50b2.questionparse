@@ -1,0 +1,16 @@
+1	Entity191	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	Entity3	_	NOUN	NNS	_	5	nsubj	_	_
+4	has	_	AUX	VBZ	_	5	aux	_	_
+5	thrived	_	VERB	VBN	_	1	parataxis	_	_
+6	because	_	ADV	RB	_	11	case	_	_
+7	of	_	ADP	IN	_	6	mwe	_	_
+8	a	_	DET	DT	_	11	det	_	_
+9	local	_	ADJ	JJ	_	11	amod	_	_
+10	@placeholder	_	NOUN	NN	_	11	compound	_	_
+11	cause	_	NOUN	NN	_	5	nmod	_	_
+12	in	_	ADP	IN	_	13	case	_	_
+13	Entity70	_	NOUN	NNS	_	11	nmod	_	_
+14	and	_	CONJ	CC	_	13	cc	_	_
+15	Entity69	_	NOUN	NNS	_	13	conj	_	_
+

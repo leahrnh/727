@@ -1,0 +1,14 @@
+1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+2	life	_	NOUN	NN	_	5	nsubj	_	_
+3	is	_	VERB	VBZ	_	5	cop	_	_
+4	key	_	ADJ	JJ	_	5	amod	_	_
+5	inspiration	_	NOUN	NN	_	0	root	_	_
+6	for	_	ADP	IN	_	13	case	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	brand	_	NOUN	NN	_	13	nmod:poss	_	_
+9	's	_	PART	POS	_	8	case	_	_
+10	bright	_	ADJ	JJ	_	13	amod	_	_
+11	and	_	CONJ	CC	_	10	cc	_	_
+12	stylish	_	ADJ	JJ	_	10	conj	_	_
+13	designs	_	NOUN	NNS	_	5	nmod	_	_
+

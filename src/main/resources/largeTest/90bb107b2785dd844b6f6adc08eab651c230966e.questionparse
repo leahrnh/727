@@ -1,0 +1,14 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	developed	_	VERB	VBD	_	0	root	_	_
+3	a	_	DET	DT	_	5	det	_	_
+4	close	_	ADJ	JJ	_	5	amod	_	_
+5	relationship	_	NOUN	NN	_	2	dobj	_	_
+6	with	_	ADP	IN	_	9	case	_	_
+7	the	_	DET	DT	_	9	det	_	_
+8	financial	_	ADJ	JJ	_	9	amod	_	_
+9	world	_	NOUN	NN	_	2	nmod	_	_
+10	as	_	ADP	IN	_	13	case	_	_
+11	a	_	DET	DT	_	13	det	_	_
+12	Entity2	_	ADJ	JJ	_	13	amod	_	_
+13	senator	_	NOUN	NN	_	2	nmod	_	_
+

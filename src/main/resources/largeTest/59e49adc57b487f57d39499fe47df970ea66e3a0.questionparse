@@ -1,0 +1,15 @@
+1	new	_	ADJ	JJ	_	2	amod	_	_
+2	framework	_	NOUN	NN	_	3	nsubj	_	_
+3	keeps	_	VERB	VBZ	_	0	root	_	_
+4	@placeholder	_	NOUN	NN	_	7	nmod:poss	_	_
+5	's	_	PART	POS	_	4	case	_	_
+6	nuclear	_	ADJ	JJ	_	7	amod	_	_
+7	door	_	NOUN	NN	_	3	dobj	_	_
+8	well	_	ADV	RB	_	3	advmod	_	_
+9	and	_	CONJ	CC	_	3	cc	_	_
+10	truly	_	ADV	RB	_	11	advmod	_	_
+11	open	_	ADJ	JJ	_	14	ccomp	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	he	_	PRON	PRP	_	14	nsubj	_	_
+14	says	_	VERB	VBZ	_	3	conj	_	_
+

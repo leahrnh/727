@@ -1,0 +1,18 @@
+1	move	_	NOUN	NN	_	0	root	_	_
+2	delivers	_	VERB	VBZ	_	1	dep	_	_
+3	victory	_	NOUN	NN	_	2	dobj	_	_
+4	to	_	ADP	TO	_	8	case	_	_
+5	rival	_	ADJ	JJ	_	6	amod	_	_
+6	@placeholder	_	NOUN	NN	_	8	nmod:poss	_	_
+7	's	_	PART	POS	_	6	case	_	_
+8	blu	_	NOUN	NN	_	2	nmod	_	_
+9	-	_	PUNCT	:	_	0	erased	_	_
+10	ray	_	NOUN	NN	_	12	compound	_	_
+11	disc	_	NOUN	NN	_	12	compound	_	_
+12	technology	_	NOUN	NN	_	1	dep	_	_
+13	for	_	ADP	IN	_	14	case	_	_
+14	next	_	ADJ	JJ	_	12	nmod	_	_
+15	-	_	PUNCT	:	_	0	erased	_	_
+16	generation	_	NOUN	NN	_	17	compound	_	_
+17	video	_	NOUN	NN	_	14	dep	_	_
+

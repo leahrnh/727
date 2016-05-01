@@ -1,0 +1,14 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	company	_	NOUN	NN	_	0	root	_	_
+3	plans	_	VERB	VBZ	_	2	dep	_	_
+4	to	_	PART	TO	_	5	mark	_	_
+5	launch	_	VERB	VB	_	3	xcomp	_	_
+6	a	_	DET	DT	_	7	det	_	_
+7	two	_	NUM	CD	_	5	dobj	_	_
+8	-	_	PUNCT	:	_	0	erased	_	_
+9	stage	_	NOUN	NN	_	10	compound	_	_
+10	rocket	_	NOUN	NN	_	2	dep	_	_
+11	to	_	ADP	TO	_	13	case	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+

@@ -1,0 +1,18 @@
+1	@placeholder	_	VERB	VB	_	0	root	_	_
+2	director	_	NOUN	NN	_	1	dobj	_	_
+3	:	_	PUNCT	:	_	0	erased	_	_
+4	even	_	ADV	RB	_	5	advmod	_	_
+5	a	_	DET	DT	_	1	dobj	_	_
+6	''	_	PUNCT	''	_	0	erased	_	_
+7	single	_	ADJ	JJ	_	11	amod	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	innocent	_	ADJ	JJ	_	11	amod	_	_
+10	''	_	PUNCT	''	_	0	erased	_	_
+11	slip	_	NOUN	NN	_	15	nsubj	_	_
+12	in	_	ADP	IN	_	13	case	_	_
+13	protocol	_	NOUN	NN	_	11	nmod	_	_
+14	can	_	AUX	MD	_	15	aux	_	_
+15	result	_	VERB	VB	_	5	acl:relcl	_	_
+16	in	_	ADP	IN	_	17	case	_	_
+17	contamination	_	NOUN	NN	_	15	nmod	_	_
+

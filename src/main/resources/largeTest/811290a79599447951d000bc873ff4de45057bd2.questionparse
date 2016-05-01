@@ -1,0 +1,13 @@
+1	patient	_	NOUN	NN	_	2	compound	_	_
+2	satisfaction	_	NOUN	NN	_	4	nsubjpass	_	_
+3	is	_	AUX	VBZ	_	4	auxpass	_	_
+4	linked	_	VERB	VBN	_	0	root	_	_
+5	to	_	ADP	TO	_	7	case	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	size	_	NOUN	NN	_	4	nmod	_	_
+8	of	_	ADP	IN	_	10	case	_	_
+9	@placeholder	_	NOUN	NN	_	10	compound	_	_
+10	payments	_	NOUN	NNS	_	7	nmod	_	_
+11	hospitals	_	NOUN	NNS	_	12	nsubj	_	_
+12	get	_	VERB	VBP	_	10	acl:relcl	_	_
+

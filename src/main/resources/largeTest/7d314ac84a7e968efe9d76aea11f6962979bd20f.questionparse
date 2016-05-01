@@ -1,0 +1,13 @@
+1	reserve	_	VERB	VB	_	0	root	_	_
+2	deputy	_	ADJ	JJ	_	4	amod	_	_
+3	@placeholder	_	NOUN	NN	_	4	compound	_	_
+4	surrenders	_	NOUN	NNS	_	1	dobj	_	_
+5	to	_	ADP	TO	_	6	case	_	_
+6	authorities	_	NOUN	NNS	_	1	nmod	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	posts	_	NOUN	NNS	_	9	compound	_	_
+9	bail	_	NOUN	NN	_	6	appos	_	_
+10	of	_	ADP	IN	_	12	case	_	_
+11	$	_	SYM	$	_	12	dep	_	_
+12	25,000	_	NUM	CD	_	9	nmod	_	_
+

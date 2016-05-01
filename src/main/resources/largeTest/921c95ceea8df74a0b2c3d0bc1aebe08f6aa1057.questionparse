@@ -1,0 +1,15 @@
+1	@placeholder	_	NOUN	NN	_	4	compound	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	Entity24	_	NOUN	NN	_	1	conj	_	_
+4	governments	_	NOUN	NNS	_	11	nsubjpass	_	_
+5	given	_	VERB	VBN	_	4	acl	_	_
+6	notice	_	NOUN	NN	_	5	iobj	_	_
+7	their	_	PRON	PRP$	_	8	nmod:poss	_	_
+8	nationals	_	NOUN	NNS	_	5	dobj	_	_
+9	will	_	AUX	MD	_	11	aux	_	_
+10	be	_	AUX	VB	_	11	auxpass	_	_
+11	executed	_	VERB	VBN	_	0	root	_	_
+12	in	_	ADP	IN	_	14	case	_	_
+13	72	_	NUM	CD	_	14	nummod	_	_
+14	hours	_	NOUN	NNS	_	11	nmod	_	_
+

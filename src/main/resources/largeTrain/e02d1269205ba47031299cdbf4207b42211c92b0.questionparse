@@ -1,0 +1,12 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	Entity7	_	NOUN	NNS	_	3	nsubj	_	_
+3	declares	_	VERB	VBZ	_	0	root	_	_
+4	Entity10	_	ADJ	JJ	_	5	amod	_	_
+5	leader	_	NOUN	NN	_	6	nsubj	_	_
+6	@placeholder	_	VERB	VBP	_	3	ccomp	_	_
+7	''	_	PUNCT	''	_	0	erased	_	_
+8	sexiest	_	ADJ	JJ	_	10	amod	_	_
+9	man	_	NOUN	NN	_	10	compound	_	_
+10	alive	_	NOUN	NNS	_	6	dobj	_	_
+11	''	_	PUNCT	''	_	0	erased	_	_
+

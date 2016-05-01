@@ -1,0 +1,19 @@
+1	Entity214	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	president	_	NOUN	NN	_	4	compound	_	_
+4	Entity0	_	NOUN	NNS	_	6	nsubj	_	_
+5	is	_	VERB	VBZ	_	6	cop	_	_
+6	right	_	ADJ	JJ	_	1	parataxis	_	_
+7	to	_	PART	TO	_	8	mark	_	_
+8	want	_	VERB	VB	_	6	xcomp	_	_
+9	a	_	DET	DT	_	10	det	_	_
+10	deal	_	NOUN	NN	_	8	dobj	_	_
+11	,	_	PUNCT	,	_	0	erased	_	_
+12	but	_	CONJ	CC	_	6	cc	_	_
+13	this	_	DET	DT	_	14	det	_	_
+14	one	_	NOUN	NN	_	15	nsubj	_	_
+15	gives	_	VERB	VBZ	_	6	conj	_	_
+16	@placeholder	_	NOUN	NN	_	15	dobj	_	_
+17	too	_	ADV	RB	_	18	advmod	_	_
+18	much	_	ADV	RB	_	15	advmod	_	_
+

@@ -1,0 +1,13 @@
+1	they	_	PRON	PRP	_	2	nsubj	_	_
+2	met	_	VERB	VBD	_	0	root	_	_
+3	the	_	DET	DT	_	5	det	_	_
+4	local	_	ADJ	JJ	_	5	amod	_	_
+5	people	_	NOUN	NNS	_	2	dobj	_	_
+6	in	_	ADP	IN	_	10	case	_	_
+7	the	_	DET	DT	_	10	det	_	_
+8	indigenous	_	ADJ	JJ	_	10	amod	_	_
+9	Entity195	_	ADJ	JJ	_	10	amod	_	_
+10	village	_	NOUN	NN	_	2	nmod	_	_
+11	of	_	ADP	IN	_	12	case	_	_
+12	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+

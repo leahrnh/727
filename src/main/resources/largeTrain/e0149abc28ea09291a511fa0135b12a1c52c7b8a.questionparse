@@ -1,0 +1,14 @@
+1	Entity191	_	PROPN	NNP	_	2	nsubj	_	_
+2	depicts	_	VERB	VBZ	_	0	root	_	_
+3	phoenix	_	NOUN	NN	_	4	compound	_	_
+4	wing	_	NOUN	NN	_	2	dobj	_	_
+5	rising	_	VERB	VBG	_	4	acl	_	_
+6	from	_	ADP	IN	_	7	case	_	_
+7	ashes	_	NOUN	NNS	_	5	nmod	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	framing	_	VERB	VBG	_	5	advcl	_	_
+10	piece	_	NOUN	NN	_	9	dobj	_	_
+11	of	_	ADP	IN	_	13	case	_	_
+12	@placeholder	_	NOUN	NN	_	13	compound	_	_
+13	steel	_	NOUN	NN	_	10	nmod	_	_
+

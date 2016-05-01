@@ -1,0 +1,14 @@
+1	his	_	PRON	PRP$	_	3	nmod:poss	_	_
+2	resignation	_	NOUN	NN	_	3	compound	_	_
+3	letter	_	NOUN	NN	_	6	nsubjpass	_	_
+4	will	_	AUX	MD	_	6	aux	_	_
+5	be	_	AUX	VB	_	6	auxpass	_	_
+6	delivered	_	VERB	VBN	_	0	root	_	_
+7	to	_	ADP	TO	_	10	case	_	_
+8	Entity3	_	PROPN	NNP	_	10	nmod:poss	_	_
+9	's	_	PART	POS	_	8	case	_	_
+10	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+11	on	_	ADP	IN	_	12	case	_	_
+12	december	_	PROPN	NNP	_	6	nmod	_	_
+13	23	_	NUM	CD	_	12	nummod	_	_
+

@@ -1,0 +1,10 @@
+1	@placeholder	_	NOUN	NN	_	3	nsubjpass	_	_
+2	is	_	AUX	VBZ	_	3	auxpass	_	_
+3	accused	_	VERB	VBN	_	0	root	_	_
+4	of	_	SCONJ	IN	_	5	mark	_	_
+5	killing	_	VERB	VBG	_	3	advcl	_	_
+6	an	_	DET	DT	_	7	det	_	_
+7	employee	_	NOUN	NN	_	5	dobj	_	_
+8	at	_	ADP	IN	_	9	case	_	_
+9	Entity8	_	NOUN	NNS	_	5	nmod	_	_
+

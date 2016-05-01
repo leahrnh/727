@@ -1,0 +1,11 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	Entity1	_	NOUN	NNS	_	5	nsubj	_	_
+3	does	_	AUX	VBZ	_	5	aux	_	_
+4	not	_	PART	RB	_	5	neg	_	_
+5	believe	_	VERB	VB	_	0	root	_	_
+6	Entity2	_	ADJ	JJ	_	7	amod	_	_
+7	warplanes	_	NOUN	NNS	_	5	dobj	_	_
+8	entered	_	VERB	VBN	_	7	acl	_	_
+9	@placeholder	_	NOUN	NN	_	10	compound	_	_
+10	airspace	_	NOUN	NN	_	8	dobj	_	_
+

@@ -1,0 +1,19 @@
+1	Entity218	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	spirit	_	NOUN	NN	_	9	nsubj	_	_
+5	of	_	ADP	IN	_	7	case	_	_
+6	that	_	DET	DT	_	7	det	_	_
+7	event	_	NOUN	NN	_	4	nmod	_	_
+8	is	_	VERB	VBZ	_	9	cop	_	_
+9	something	_	NOUN	NN	_	1	parataxis	_	_
+10	to	_	PART	TO	_	11	mark	_	_
+11	keep	_	VERB	VB	_	9	acl	_	_
+12	in	_	ADP	IN	_	13	case	_	_
+13	mind	_	NOUN	NN	_	11	nmod	_	_
+14	for	_	ADP	IN	_	18	case	_	_
+15	today	_	NOUN	NN	_	18	nmod:poss	_	_
+16	's	_	PART	POS	_	15	case	_	_
+17	divided	_	VERB	VBN	_	18	amod	_	_
+18	@placeholder	_	NOUN	NN	_	13	nmod	_	_
+

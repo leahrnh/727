@@ -1,0 +1,17 @@
+1	@placeholder	_	NOUN	NN	_	3	nmod:poss	_	_
+2	's	_	PART	POS	_	1	case	_	_
+3	cybercensors	_	NOUN	NNS	_	5	nsubj	_	_
+4	have	_	AUX	VBP	_	5	aux	_	_
+5	developed	_	VERB	VBN	_	0	root	_	_
+6	a	_	DET	DT	_	9	det	_	_
+7	new	_	ADJ	JJ	_	9	amod	_	_
+8	it	_	PRON	PRP	_	9	compound	_	_
+9	weapon	_	NOUN	NN	_	5	dobj	_	_
+10	and	_	CONJ	CC	_	5	cc	_	_
+11	have	_	AUX	VBP	_	12	aux	_	_
+12	attacked	_	VERB	VBN	_	5	conj	_	_
+13	servers	_	NOUN	NNS	_	12	dobj	_	_
+14	outside	_	ADP	IN	_	16	case	_	_
+15	their	_	PRON	PRP$	_	16	nmod:poss	_	_
+16	borders	_	NOUN	NNS	_	13	nmod	_	_
+

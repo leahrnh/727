@@ -1,0 +1,9 @@
+1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+2	graffiti	_	NOUN	NNS	_	4	nsubjpass	_	_
+3	is	_	AUX	VBZ	_	4	auxpass	_	_
+4	discovered	_	VERB	VBN	_	0	root	_	_
+5	in	_	ADP	IN	_	8	case	_	_
+6	an	_	DET	DT	_	8	det	_	_
+7	underground	_	ADJ	JJ	_	8	amod	_	_
+8	quarry	_	NOUN	NN	_	4	nmod	_	_
+

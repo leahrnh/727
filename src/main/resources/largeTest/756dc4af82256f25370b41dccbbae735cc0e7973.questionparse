@@ -1,0 +1,13 @@
+1	after	_	SCONJ	IN	_	2	mark	_	_
+2	calling	_	VERB	VBG	_	9	advcl	_	_
+3	off	_	ADP	RP	_	2	compound:prt	_	_
+4	its	_	PRON	PRP$	_	6	nmod:poss	_	_
+5	air	_	NOUN	NN	_	6	compound	_	_
+6	campaign	_	NOUN	NN	_	2	dobj	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	Entity1	_	NOUN	NNS	_	9	nsubj	_	_
+9	resumes	_	VERB	VBZ	_	0	root	_	_
+10	airstrikes	_	NOUN	NNS	_	9	dobj	_	_
+11	in	_	ADP	IN	_	12	case	_	_
+12	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+

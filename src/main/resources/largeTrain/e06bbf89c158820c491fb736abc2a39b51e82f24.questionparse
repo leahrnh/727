@@ -1,0 +1,12 @@
+1	@placeholder	_	NOUN	NN	_	11	nsubj	_	_
+2	was	_	VERB	VBD	_	11	cop	_	_
+3	in	_	ADP	IN	_	4	case	_	_
+4	charge	_	NOUN	NN	_	11	nmod	_	_
+5	at	_	ADP	IN	_	6	case	_	_
+6	Entity96	_	NOUN	NNS	_	11	nmod	_	_
+7	for	_	ADP	IN	_	10	case	_	_
+8	less	_	ADJ	JJR	_	10	advmod	_	_
+9	than	_	ADP	IN	_	8	mwe	_	_
+10	a	_	DET	DT	_	6	nmod	_	_
+11	year	_	NOUN	NN	_	0	root	_	_
+

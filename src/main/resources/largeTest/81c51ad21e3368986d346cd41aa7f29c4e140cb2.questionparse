@@ -1,0 +1,18 @@
+1	video	_	NOUN	NN	_	2	nsubj	_	_
+2	shows	_	VERB	VBZ	_	0	root	_	_
+3	the	_	DET	DT	_	5	det	_	_
+4	officer	_	NOUN	NN	_	5	compound	_	_
+5	firing	_	NOUN	NN	_	2	iobj	_	_
+6	eight	_	NUM	CD	_	7	nummod	_	_
+7	times	_	NOUN	NNS	_	2	dobj	_	_
+8	as	_	SCONJ	IN	_	10	mark	_	_
+9	@placeholder	_	NOUN	NN	_	10	nsubj	_	_
+10	runs	_	VERB	VBZ	_	2	advcl	_	_
+11	away	_	ADP	RP	_	10	compound:prt	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	with	_	ADP	IN	_	15	case	_	_
+14	his	_	PRON	PRP$	_	15	nmod:poss	_	_
+15	back	_	NOUN	NN	_	10	nmod	_	_
+16	to	_	PART	TO	_	17	mark	_	_
+17	police	_	VERB	VB	_	15	acl	_	_
+

@@ -1,0 +1,15 @@
+1	Entity67	_	PROPN	NNP	_	2	compound	_	_
+2	monarch	_	PROPN	NNP	_	4	nsubj	_	_
+3	is	_	VERB	VBZ	_	4	cop	_	_
+4	one	_	NUM	CD	_	0	root	_	_
+5	of	_	ADP	IN	_	9	case	_	_
+6	@placeholder	_	NOUN	NN	_	9	nmod:poss	_	_
+7	's	_	PART	POS	_	6	case	_	_
+8	leading	_	VERB	VBG	_	9	amod	_	_
+9	breeders	_	NOUN	NNS	_	4	nmod	_	_
+10	winning	_	VERB	VBG	_	4	acl	_	_
+11	more	_	ADJ	JJR	_	13	advmod	_	_
+12	than	_	ADP	IN	_	11	mwe	_	_
+13	1,600	_	NUM	CD	_	14	nummod	_	_
+14	races	_	NOUN	NNS	_	10	dobj	_	_
+

@@ -1,0 +1,15 @@
+1	@placeholder	_	NOUN	NN	_	11	nsubj	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	once	_	SCONJ	IN	_	4	mark	_	_
+4	overrun	_	NOUN	NN	_	1	dep	_	_
+5	by	_	ADP	IN	_	6	case	_	_
+6	militants	_	NOUN	NNS	_	4	nmod	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	is	_	VERB	VBZ	_	11	cop	_	_
+9	now	_	ADV	RB	_	11	advmod	_	_
+10	under	_	ADP	IN	_	11	case	_	_
+11	control	_	NOUN	NN	_	0	root	_	_
+12	of	_	ADP	IN	_	14	case	_	_
+13	Entity3	_	ADJ	JJ	_	14	amod	_	_
+14	forces	_	NOUN	NNS	_	11	nmod	_	_
+

@@ -1,0 +1,15 @@
+1	@placeholder	_	NOUN	NN	_	3	nsubj	_	_
+2	also	_	ADV	RB	_	3	advmod	_	_
+3	tried	_	VERB	VBD	_	0	root	_	_
+4	to	_	PART	TO	_	5	mark	_	_
+5	escape	_	VERB	VB	_	3	xcomp	_	_
+6	a	_	DET	DT	_	7	det	_	_
+7	courtroom	_	NOUN	NN	_	5	dobj	_	_
+8	after	_	SCONJ	IN	_	10	mark	_	_
+9	being	_	AUX	VBG	_	10	auxpass	_	_
+10	convicted	_	VERB	VBN	_	5	advcl	_	_
+11	of	_	ADP	IN	_	12	case	_	_
+12	murder	_	NOUN	NN	_	10	nmod	_	_
+13	in	_	ADP	IN	_	14	case	_	_
+14	february	_	PROPN	NNP	_	12	nmod	_	_
+

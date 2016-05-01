@@ -1,0 +1,18 @@
+1	but	_	CONJ	CC	_	4	cc	_	_
+2	commanding	_	ADJ	JJ	_	3	amod	_	_
+3	officer	_	NOUN	NN	_	4	nsubj	_	_
+4	says	_	VERB	VBZ	_	0	root	_	_
+5	@placeholder	_	NOUN	NN	_	7	nmod:poss	_	_
+6	's	_	PART	POS	_	5	case	_	_
+7	behavior	_	NOUN	NN	_	11	nsubj	_	_
+8	is	_	VERB	VBZ	_	11	cop	_	_
+9	an	_	DET	DT	_	11	det	_	_
+10	added	_	ADJ	JJ	_	11	amod	_	_
+11	motivation	_	NOUN	NN	_	4	ccomp	_	_
+12	to	_	PART	TO	_	13	mark	_	_
+13	do	_	VERB	VB	_	11	acl	_	_
+14	well	_	ADV	RB	_	13	advmod	_	_
+15	in	_	ADP	IN	_	17	case	_	_
+16	these	_	DET	DT	_	17	det	_	_
+17	exercises	_	NOUN	NNS	_	13	nmod	_	_
+

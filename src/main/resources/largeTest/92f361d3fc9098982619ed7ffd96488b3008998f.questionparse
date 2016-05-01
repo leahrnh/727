@@ -1,0 +1,16 @@
+1	photographer	_	PROPN	NNP	_	2	compound	_	_
+2	@placeholder	_	NOUN	NN	_	3	nsubj	_	_
+3	captured	_	VERB	VBD	_	0	root	_	_
+4	a	_	DET	DT	_	6	det	_	_
+5	violent	_	ADJ	JJ	_	6	amod	_	_
+6	attack	_	NOUN	NN	_	3	dobj	_	_
+7	that	_	DET	WDT	_	8	nsubj	_	_
+8	resulted	_	VERB	VBD	_	6	acl:relcl	_	_
+9	in	_	ADP	IN	_	10	case	_	_
+10	death	_	NOUN	NN	_	8	nmod	_	_
+11	of	_	ADP	IN	_	13	case	_	_
+12	a	_	DET	DT	_	13	det	_	_
+13	Entity15	_	NOUN	NNS	_	10	nmod	_	_
+14	in	_	ADP	IN	_	15	case	_	_
+15	Entity17	_	NOUN	NNS	_	8	nmod	_	_
+

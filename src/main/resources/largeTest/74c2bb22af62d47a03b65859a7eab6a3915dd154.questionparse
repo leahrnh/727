@@ -1,0 +1,15 @@
+1	Entity0	_	ADJ	JJ	_	3	amod	_	_
+2	foreign	_	ADJ	JJ	_	3	amod	_	_
+3	minister	_	NOUN	NN	_	4	nsubj	_	_
+4	says	_	VERB	VBZ	_	0	root	_	_
+5	deal	_	NOUN	NN	_	6	nsubj	_	_
+6	is	_	VERB	VBZ	_	4	ccomp	_	_
+7	to	_	PART	TO	_	8	mark	_	_
+8	focus	_	VERB	VB	_	6	xcomp	_	_
+9	on	_	SCONJ	IN	_	10	mark	_	_
+10	tracking	_	VERB	VBG	_	8	advcl	_	_
+11	citizens	_	NOUN	NNS	_	10	dobj	_	_
+12	who	_	PRON	WP	_	13	nsubj	_	_
+13	join	_	VERB	VBP	_	11	acl:relcl	_	_
+14	@placeholder	_	NOUN	NN	_	13	dobj	_	_
+

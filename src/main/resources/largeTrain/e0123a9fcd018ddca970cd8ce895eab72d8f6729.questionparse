@@ -1,0 +1,7 @@
+1	police	_	VERB	VB	_	0	root	_	_
+2	identify	_	VERB	VB	_	1	xcomp	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	boy	_	NOUN	NN	_	2	dobj	_	_
+5	as	_	ADP	IN	_	6	case	_	_
+6	@placeholder	_	NOUN	NN	_	2	nmod	_	_
+

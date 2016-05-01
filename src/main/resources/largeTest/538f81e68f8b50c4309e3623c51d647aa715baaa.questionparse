@@ -1,0 +1,14 @@
+1	prosecutor	_	NOUN	NN	_	2	nsubj	_	_
+2	shows	_	VERB	VBZ	_	0	root	_	_
+3	pictures	_	NOUN	NNS	_	2	dobj	_	_
+4	of	_	ADP	IN	_	7	case	_	_
+5	the	_	DET	DT	_	7	det	_	_
+6	four	_	NUM	CD	_	7	nummod	_	_
+7	victims	_	NOUN	NNS	_	3	nmod	_	_
+8	and	_	CONJ	CC	_	3	cc	_	_
+9	@placeholder	_	NOUN	NN	_	3	conj	_	_
+10	flipping	_	VERB	VBG	_	9	acl	_	_
+11	his	_	PRON	PRP$	_	13	nmod:poss	_	_
+12	middle	_	ADJ	JJ	_	13	amod	_	_
+13	finger	_	NOUN	NN	_	10	dobj	_	_
+

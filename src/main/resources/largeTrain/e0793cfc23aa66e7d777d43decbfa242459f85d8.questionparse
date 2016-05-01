@@ -1,0 +1,16 @@
+1	the	_	DET	DT	_	3	det	_	_
+2	same	_	ADJ	JJ	_	3	amod	_	_
+3	judge	_	NOUN	NN	_	0	root	_	_
+4	struck	_	VERB	VBD	_	3	acl	_	_
+5	down	_	ADP	RP	_	4	compound:prt	_	_
+6	@placeholder	_	NOUN	NN	_	8	nmod:poss	_	_
+7	's	_	PART	POS	_	6	case	_	_
+8	ban	_	NOUN	NN	_	4	dobj	_	_
+9	on	_	ADP	IN	_	10	case	_	_
+10	same	_	ADJ	JJ	_	8	nmod	_	_
+11	-	_	PUNCT	:	_	0	erased	_	_
+12	sex	_	NOUN	NN	_	13	compound	_	_
+13	marriage	_	NOUN	NN	_	3	dep	_	_
+14	last	_	ADJ	JJ	_	15	amod	_	_
+15	week	_	NOUN	NN	_	13	dep	_	_
+

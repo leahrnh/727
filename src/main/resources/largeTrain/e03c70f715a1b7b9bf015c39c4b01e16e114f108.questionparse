@@ -1,0 +1,19 @@
+1	Entity195	_	VERB	VBG	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	actually	_	ADV	RB	_	7	advmod	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	@placeholder	_	NOUN	NN	_	7	nsubj	_	_
+6	's	_	VERB	VBZ	_	7	cop	_	_
+7	policy	_	NOUN	NN	_	1	parataxis	_	_
+8	--	_	PUNCT	:	_	0	erased	_	_
+9	the	_	ADJ	JJ	_	11	amod	_	_
+10	''	_	PUNCT	''	_	0	erased	_	_
+11	Entity13	_	NOUN	NNS	_	7	dep	_	_
+12	''	_	PUNCT	''	_	0	erased	_	_
+13	--	_	PUNCT	:	_	0	erased	_	_
+14	reflects	_	VERB	VBZ	_	1	parataxis	_	_
+15	complexity	_	NOUN	NN	_	14	dobj	_	_
+16	of	_	ADP	IN	_	18	case	_	_
+17	our	_	PRON	PRP$	_	18	nmod:poss	_	_
+18	time	_	NOUN	NN	_	15	nmod	_	_
+

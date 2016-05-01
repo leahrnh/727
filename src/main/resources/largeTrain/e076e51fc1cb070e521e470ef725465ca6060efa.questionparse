@@ -1,0 +1,15 @@
+1	with	_	ADP	IN	_	3	case	_	_
+2	a	_	DET	DT	_	3	det	_	_
+3	glance	_	NOUN	NN	_	9	nmod	_	_
+4	at	_	ADP	IN	_	6	case	_	_
+5	his	_	PRON	PRP$	_	6	nmod:poss	_	_
+6	watch	_	NOUN	NN	_	3	nmod	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	Entity142	_	NOUN	NNS	_	9	nsubj	_	_
+9	underscored	_	VERB	VBD	_	0	root	_	_
+10	@placeholder	_	NOUN	NN	_	12	nmod:poss	_	_
+11	's	_	PART	POS	_	10	case	_	_
+12	ability	_	NOUN	NN	_	9	dobj	_	_
+13	to	_	PART	TO	_	14	mark	_	_
+14	connect	_	VERB	VB	_	12	acl	_	_
+

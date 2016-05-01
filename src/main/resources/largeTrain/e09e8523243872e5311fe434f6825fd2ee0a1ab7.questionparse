@@ -1,0 +1,19 @@
+1	Entity3	_	PROPN	NNP	_	6	nsubj	_	_
+2	is	_	VERB	VBZ	_	6	cop	_	_
+3	a	_	DET	DT	_	6	det	_	_
+4	crime	_	NOUN	NN	_	6	compound	_	_
+5	fiction	_	NOUN	NN	_	6	compound	_	_
+6	veteran	_	NOUN	NN	_	0	root	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	while	_	SCONJ	IN	_	14	mark	_	_
+9	@placeholder	_	NOUN	NN	_	14	nsubj	_	_
+10	may	_	AUX	MD	_	14	aux	_	_
+11	be	_	VERB	VB	_	14	cop	_	_
+12	the	_	NOUN	NN	_	14	compound	_	_
+13	''	_	PUNCT	''	_	0	erased	_	_
+14	future	_	NOUN	NN	_	6	advcl	_	_
+15	''	_	PUNCT	''	_	0	erased	_	_
+16	of	_	ADP	IN	_	18	case	_	_
+17	the	_	DET	DT	_	18	det	_	_
+18	genre	_	NOUN	NN	_	14	nmod	_	_
+

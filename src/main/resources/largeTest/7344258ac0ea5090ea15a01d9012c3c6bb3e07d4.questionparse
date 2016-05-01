@@ -1,0 +1,16 @@
+1	prosecutor	_	NOUN	NN	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	@placeholder	_	NOUN	NN	_	9	nsubjpass	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	32	_	NUM	CD	_	3	amod	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	will	_	AUX	MD	_	9	aux	_	_
+8	be	_	AUX	VB	_	9	auxpass	_	_
+9	arraigned	_	VERB	VBN	_	1	appos	_	_
+10	on	_	ADP	IN	_	13	case	_	_
+11	the	_	DET	DT	_	13	det	_	_
+12	murder	_	NOUN	NN	_	13	compound	_	_
+13	charge	_	NOUN	NN	_	9	nmod	_	_
+14	next	_	ADJ	JJ	_	15	amod	_	_
+15	week	_	NOUN	NN	_	9	nmod:tmod	_	_
+

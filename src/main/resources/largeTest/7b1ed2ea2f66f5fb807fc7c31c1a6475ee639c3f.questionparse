@@ -1,0 +1,18 @@
+1	Entity120	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	people	_	NOUN	NNS	_	11	nsubj	_	_
+5	who	_	PRON	WP	_	6	nsubj	_	_
+6	deserve	_	VERB	VBP	_	4	acl:relcl	_	_
+7	to	_	PART	TO	_	9	mark	_	_
+8	be	_	AUX	VB	_	9	auxpass	_	_
+9	remembered	_	VERB	VBN	_	6	xcomp	_	_
+10	are	_	VERB	VBP	_	11	cop	_	_
+11	victims	_	NOUN	NNS	_	1	parataxis	_	_
+12	and	_	CONJ	CC	_	11	cc	_	_
+13	@placeholder	_	NOUN	NN	_	14	compound	_	_
+14	officer	_	NOUN	NN	_	11	conj	_	_
+15	who	_	PRON	WP	_	17	nsubjpass	_	_
+16	was	_	AUX	VBD	_	17	auxpass	_	_
+17	killed	_	VERB	VBN	_	11	acl:relcl	_	_
+

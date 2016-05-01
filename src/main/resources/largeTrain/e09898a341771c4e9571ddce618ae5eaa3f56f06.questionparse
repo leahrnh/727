@@ -1,0 +1,17 @@
+1	agricultural	_	ADJ	JJ	_	3	amod	_	_
+2	giant	_	ADJ	JJ	_	3	amod	_	_
+3	@placeholder	_	NOUN	NN	_	4	nsubj	_	_
+4	says	_	VERB	VBZ	_	0	root	_	_
+5	it	_	PRON	PRP	_	7	nsubj	_	_
+6	has	_	AUX	VBZ	_	7	aux	_	_
+7	spent	_	VERB	VBN	_	4	ccomp	_	_
+8	$	_	SYM	$	_	7	dobj	_	_
+9	100	_	NUM	CD	_	10	compound	_	_
+10	million	_	NUM	CD	_	8	nummod	_	_
+11	to	_	PART	TO	_	12	mark	_	_
+12	make	_	VERB	VB	_	7	advcl	_	_
+13	sure	_	ADJ	JJ	_	12	xcomp	_	_
+14	they	_	PRON	PRP	_	16	nsubj	_	_
+15	're	_	VERB	VBP	_	16	cop	_	_
+16	safe	_	ADJ	JJ	_	13	ccomp	_	_
+

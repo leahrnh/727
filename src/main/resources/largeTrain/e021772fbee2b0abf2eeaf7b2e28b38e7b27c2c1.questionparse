@@ -1,0 +1,9 @@
+1	explosions	_	NOUN	NNS	_	2	nsubj	_	_
+2	hit	_	VERB	VBD	_	0	root	_	_
+3	Entity8	_	NOUN	NNS	_	2	dobj	_	_
+4	and	_	CONJ	CC	_	3	cc	_	_
+5	@placeholder	_	NOUN	NN	_	6	compound	_	_
+6	hotels	_	NOUN	NNS	_	3	conj	_	_
+7	in	_	ADP	IN	_	8	case	_	_
+8	Entity0	_	NOUN	NNS	_	2	nmod	_	_
+

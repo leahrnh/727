@@ -1,0 +1,22 @@
+1	Entity37	_	VERB	VBZ	_	18	ccomp	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	''	_	PUNCT	''	_	0	erased	_	_
+4	in	_	ADV	RB	_	6	advmod	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	horror	_	NOUN	NN	_	1	dep	_	_
+7	that	_	SCONJ	IN	_	9	mark	_	_
+8	is	_	VERB	VBZ	_	9	cop	_	_
+9	Entity14	_	NOUN	NNS	_	1	ccomp	_	_
+10	,	_	PUNCT	,	_	0	erased	_	_
+11	the	_	DET	DT	_	14	det	_	_
+12	@placeholder	_	NOUN	NN	_	14	compound	_	_
+13	refugee	_	NOUN	NN	_	14	compound	_	_
+14	camp	_	NOUN	NN	_	18	nsubj	_	_
+15	is	_	VERB	VBZ	_	18	cop	_	_
+16	the	_	DET	DT	_	18	det	_	_
+17	deepest	_	ADJ	JJS	_	18	amod	_	_
+18	circle	_	NOUN	NN	_	0	root	_	_
+19	of	_	ADP	IN	_	20	case	_	_
+20	hell	_	NOUN	NN	_	18	nmod	_	_
+21	''	_	PUNCT	''	_	0	erased	_	_
+

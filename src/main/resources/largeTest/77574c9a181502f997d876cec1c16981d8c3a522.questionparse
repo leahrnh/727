@@ -1,0 +1,17 @@
+1	@placeholder	_	NOUN	NN	_	5	nsubj	_	_
+2	is	_	VERB	VBZ	_	5	cop	_	_
+3	at	_	ADP	IN	_	5	case	_	_
+4	judicial	_	ADJ	JJ	_	5	amod	_	_
+5	crossroads	_	NOUN	NNS	_	0	root	_	_
+6	as	_	ADP	IN	_	8	case	_	_
+7	high	_	ADJ	JJ	_	8	amod	_	_
+8	court	_	NOUN	NN	_	5	nmod	_	_
+9	to	_	PART	TO	_	10	mark	_	_
+10	hear	_	VERB	VB	_	5	xcomp	_	_
+11	key	_	ADJ	JJ	_	16	amod	_	_
+12	same	_	ADJ	JJ	_	16	amod	_	_
+13	-	_	NUM	CD	_	16	nummod	_	_
+14	sex	_	NOUN	NN	_	16	compound	_	_
+15	marriage	_	NOUN	NN	_	16	compound	_	_
+16	case	_	NOUN	NN	_	10	dobj	_	_
+

@@ -1,0 +1,23 @@
+1	but	_	CONJ	CC	_	3	cc	_	_
+2	the	_	DET	DT	_	3	det	_	_
+3	situation	_	NOUN	NN	_	0	root	_	_
+4	in	_	ADP	IN	_	5	case	_	_
+5	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+6	is	_	AUX	VBZ	_	7	aux	_	_
+7	developing	_	VERB	VBG	_	5	acl:relcl	_	_
+8	like	_	ADP	IN	_	9	case	_	_
+9	a	_	PROPN	NNP	_	7	nmod	_	_
+10	''	_	PUNCT	''	_	0	erased	_	_
+11	perfect	_	ADJ	JJ	_	12	amod	_	_
+12	storm	_	NOUN	NN	_	7	dobj	_	_
+13	,	_	PUNCT	,	_	0	erased	_	_
+14	''	_	PUNCT	''	_	0	erased	_	_
+15	with	_	ADP	IN	_	16	case	_	_
+16	money	_	NOUN	NN	_	5	nmod	_	_
+17	being	_	AUX	VBG	_	18	auxpass	_	_
+18	pulled	_	VERB	VBN	_	16	acl	_	_
+19	out	_	ADP	RP	_	18	compound:prt	_	_
+20	of	_	ADP	IN	_	22	case	_	_
+21	the	_	DET	DT	_	22	det	_	_
+22	country	_	NOUN	NN	_	18	nmod	_	_
+

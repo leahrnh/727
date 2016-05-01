@@ -1,0 +1,18 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	threatened	_	VERB	VBD	_	0	root	_	_
+3	its	_	PRON	PRP$	_	5	nmod:poss	_	_
+4	captured	_	ADJ	JJ	_	5	amod	_	_
+5	girls	_	NOUN	NNS	_	2	dobj	_	_
+6	with	_	ADP	IN	_	7	case	_	_
+7	death	_	NOUN	NN	_	2	nmod	_	_
+8	if	_	SCONJ	IN	_	12	mark	_	_
+9	they	_	PRON	PRP	_	12	nsubj	_	_
+10	did	_	AUX	VBD	_	12	aux	_	_
+11	n't	_	PART	RB	_	12	neg	_	_
+12	convert	_	VERB	VB	_	17	advcl	_	_
+13	to	_	ADP	TO	_	14	case	_	_
+14	Entity11	_	NOUN	NNS	_	12	nmod	_	_
+15	,	_	PUNCT	,	_	0	erased	_	_
+16	he	_	PRON	PRP	_	17	nsubj	_	_
+17	says	_	VERB	VBZ	_	7	acl:relcl	_	_
+

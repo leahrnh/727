@@ -1,0 +1,13 @@
+1	Entity149	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	@placeholder	_	NOUN	NN	_	5	nsubj	_	_
+4	was	_	VERB	VBD	_	5	cop	_	_
+5	right	_	ADJ	JJ	_	1	parataxis	_	_
+6	to	_	PART	TO	_	7	mark	_	_
+7	ban	_	VERB	VB	_	5	xcomp	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	use	_	NOUN	NN	_	7	dobj	_	_
+10	of	_	ADP	IN	_	11	case	_	_
+11	e-cigarettes	_	NOUN	NNS	_	9	nmod	_	_
+12	indoors	_	ADV	RB	_	7	advmod	_	_
+

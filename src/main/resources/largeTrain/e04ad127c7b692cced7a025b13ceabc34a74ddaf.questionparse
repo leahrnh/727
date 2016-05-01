@@ -1,0 +1,7 @@
+1	Entity85	_	PROPN	NNP	_	0	root	_	_
+2	-	_	PUNCT	:	_	0	erased	_	_
+3	trained	_	VERB	VBN	_	4	amod	_	_
+4	Entity0	_	NOUN	NNS	_	5	nsubj	_	_
+5	wins	_	VERB	VBZ	_	1	parataxis	_	_
+6	@placeholder	_	NOUN	NN	_	5	dobj	_	_
+

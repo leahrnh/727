@@ -1,0 +1,18 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	bulk	_	NOUN	NN	_	8	nsubjpass	_	_
+3	of	_	ADP	IN	_	5	case	_	_
+4	recent	_	ADJ	JJ	_	5	amod	_	_
+5	fighting	_	NOUN	NN	_	2	nmod	_	_
+6	has	_	AUX	VBZ	_	8	aux	_	_
+7	been	_	AUX	VBN	_	8	auxpass	_	_
+8	done	_	VERB	VBN	_	0	root	_	_
+9	by	_	ADP	IN	_	14	case	_	_
+10	Entity33	_	NOUN	NNS	_	14	compound	_	_
+11	,	_	PUNCT	,	_	0	erased	_	_
+12	Entity10	_	NOUN	NNS	_	14	dep	_	_
+13	,	_	PUNCT	,	_	0	erased	_	_
+14	Entity34	_	NOUN	NNS	_	8	nmod	_	_
+15	and	_	CONJ	CC	_	14	cc	_	_
+16	@placeholder	_	NOUN	NN	_	17	compound	_	_
+17	troops	_	NOUN	NNS	_	14	conj	_	_
+

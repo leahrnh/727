@@ -1,0 +1,16 @@
+1	@placeholder	_	NOUN	NN	_	2	compound	_	_
+2	law	_	NOUN	NN	_	3	nsubj	_	_
+3	says	_	VERB	VBZ	_	0	root	_	_
+4	the	_	DET	DT	_	6	det	_	_
+5	prime	_	ADJ	JJ	_	6	amod	_	_
+6	minister	_	NOUN	NN	_	8	nsubj	_	_
+7	must	_	AUX	MD	_	8	aux	_	_
+8	form	_	VERB	VB	_	3	ccomp	_	_
+9	his	_	PRON	PRP$	_	10	nmod:poss	_	_
+10	government	_	NOUN	NN	_	8	dobj	_	_
+11	in	_	ADP	IN	_	15	case	_	_
+12	less	_	ADJ	JJR	_	14	advmod	_	_
+13	than	_	ADP	IN	_	12	mwe	_	_
+14	42	_	NUM	CD	_	15	nummod	_	_
+15	days	_	NOUN	NNS	_	8	nmod	_	_
+

@@ -1,0 +1,19 @@
+1	they	_	PRON	PRP	_	2	nsubj	_	_
+2	include	_	VERB	VBP	_	0	root	_	_
+3	a	_	DET	DT	_	4	det	_	_
+4	new	_	ADJ	JJ	_	2	dobj	_	_
+5	''	_	PUNCT	''	_	0	erased	_	_
+6	@placeholder	_	NOUN	NN	_	8	compound	_	_
+7	''	_	PUNCT	''	_	0	erased	_	_
+8	trailer	_	NOUN	NN	_	18	nsubj	_	_
+9	and	_	CONJ	CC	_	8	cc	_	_
+10	an	_	DET	DT	_	17	det	_	_
+11	ill	_	ADJ	JJ	_	17	amod	_	_
+12	-	_	PUNCT	:	_	0	erased	_	_
+13	advised	_	VERB	VBN	_	17	dep	_	_
+14	,	_	PUNCT	,	_	0	erased	_	_
+15	on	_	ADP	IN	_	13	nmod	_	_
+16	-	_	PUNCT	:	_	0	erased	_	_
+17	camera	_	NOUN	NN	_	8	conj	_	_
+18	rant	_	VERB	VBZ	_	4	acl:relcl	_	_
+

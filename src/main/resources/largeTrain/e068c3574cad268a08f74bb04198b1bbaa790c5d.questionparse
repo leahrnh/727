@@ -1,0 +1,19 @@
+1	new	_	ADJ	JJ	_	11	nsubj	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	@placeholder	_	NOUN	NN	_	4	compound	_	_
+4	authorities	_	NOUN	NNS	_	1	dep	_	_
+5	say	_	VERB	VBP	_	4	acl:relcl	_	_
+6	they	_	PRON	PRP	_	8	nsubj	_	_
+7	are	_	VERB	VBP	_	8	cop	_	_
+8	angry	_	ADJ	JJ	_	5	ccomp	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	may	_	AUX	MD	_	11	aux	_	_
+11	sue	_	VERB	VB	_	0	root	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	man	_	NOUN	NN	_	11	dobj	_	_
+14	for	_	ADP	RP	_	11	compound:prt	_	_
+15	''	_	PUNCT	''	_	0	erased	_	_
+16	social	_	ADJ	JJ	_	17	amod	_	_
+17	fraud	_	NOUN	NN	_	11	dobj	_	_
+18	''	_	PUNCT	''	_	0	erased	_	_
+

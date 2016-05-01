@@ -1,0 +1,14 @@
+1	Entity187	_	NOUN	NNS	_	4	nsubj	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	Entity190	_	NOUN	NNS	_	1	conj	_	_
+4	say	_	VERB	VBP	_	0	root	_	_
+5	Entity2	_	NOUN	NNS	_	8	nsubj	_	_
+6	and	_	CONJ	CC	_	5	cc	_	_
+7	@placeholder	_	NOUN	NN	_	5	conj	_	_
+8	reflect	_	VERB	VBP	_	4	ccomp	_	_
+9	a	_	DET	DT	_	11	det	_	_
+10	hubristic	_	ADJ	JJ	_	11	amod	_	_
+11	version	_	NOUN	NN	_	8	dobj	_	_
+12	of	_	ADP	IN	_	13	case	_	_
+13	reality	_	NOUN	NN	_	11	nmod	_	_
+

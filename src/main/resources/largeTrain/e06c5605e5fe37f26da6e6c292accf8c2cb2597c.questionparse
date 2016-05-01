@@ -1,0 +1,16 @@
+1	Entity234	_	PROPN	NNP	_	2	nsubj	_	_
+2	says	_	VERB	VBZ	_	0	root	_	_
+3	it	_	PRON	PRP	_	9	nsubj	_	_
+4	is	_	VERB	VBZ	_	9	cop	_	_
+5	not	_	PART	RB	_	9	neg	_	_
+6	a	_	DET	DT	_	9	det	_	_
+7	serious	_	ADJ	JJ	_	9	amod	_	_
+8	military	_	ADJ	JJ	_	9	amod	_	_
+9	threat	_	NOUN	NN	_	2	ccomp	_	_
+10	to	_	ADP	TO	_	12	case	_	_
+11	the	_	DET	DT	_	12	det	_	_
+12	@placeholder	_	NOUN	NN	_	9	nmod	_	_
+13	or	_	CONJ	CC	_	12	cc	_	_
+14	other	_	ADJ	JJ	_	15	amod	_	_
+15	nations	_	NOUN	NNS	_	12	conj	_	_
+

@@ -1,0 +1,18 @@
+1	he	_	PRON	PRP	_	2	nsubj	_	_
+2	says	_	VERB	VBZ	_	0	root	_	_
+3	it	_	PRON	PRP	_	6	nsubj	_	_
+4	will	_	AUX	MD	_	6	aux	_	_
+5	be	_	VERB	VB	_	6	cop	_	_
+6	crucial	_	ADJ	JJ	_	2	ccomp	_	_
+7	for	_	ADP	IN	_	8	case	_	_
+8	@placeholder	_	NOUN	NN	_	6	nmod	_	_
+9	to	_	PART	TO	_	10	mark	_	_
+10	show	_	VERB	VB	_	6	xcomp	_	_
+11	that	_	SCONJ	IN	_	17	mark	_	_
+12	rights	_	NOUN	NNS	_	17	nsubjpass	_	_
+13	of	_	ADP	IN	_	14	case	_	_
+14	minorities	_	NOUN	NNS	_	12	nmod	_	_
+15	will	_	AUX	MD	_	17	aux	_	_
+16	be	_	AUX	VB	_	17	auxpass	_	_
+17	protected	_	VERB	VBN	_	10	ccomp	_	_
+

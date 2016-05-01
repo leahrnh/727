@@ -1,0 +1,19 @@
+1	aid	_	NOUN	NN	_	2	compound	_	_
+2	organizations	_	NOUN	NNS	_	5	nsubj	_	_
+3	are	_	AUX	VBP	_	5	aux	_	_
+4	still	_	ADV	RB	_	5	advmod	_	_
+5	working	_	VERB	VBG	_	0	root	_	_
+6	to	_	PART	TO	_	7	mark	_	_
+7	help	_	VERB	VB	_	5	xcomp	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	people	_	NOUN	NNS	_	7	dobj	_	_
+10	of	_	ADP	IN	_	11	case	_	_
+11	@placeholder	_	NOUN	NN	_	9	nmod	_	_
+12	in	_	ADP	IN	_	14	case	_	_
+13	the	_	DET	DT	_	14	det	_	_
+14	wake	_	NOUN	NN	_	7	nmod	_	_
+15	of	_	ADP	IN	_	18	case	_	_
+16	two	_	NUM	CD	_	18	nummod	_	_
+17	major	_	ADJ	JJ	_	18	amod	_	_
+18	earthquakes	_	NOUN	NNS	_	14	nmod	_	_
+

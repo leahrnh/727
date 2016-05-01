@@ -1,0 +1,11 @@
+1	nurse	_	NOUN	NN	_	0	root	_	_
+2	also	_	ADV	RB	_	4	advmod	_	_
+3	among	_	ADP	IN	_	4	case	_	_
+4	those	_	PRON	DT	_	1	nmod	_	_
+5	killed	_	VERB	VBN	_	4	acl	_	_
+6	at	_	ADP	IN	_	8	case	_	_
+7	nursing	_	NOUN	NN	_	8	compound	_	_
+8	home	_	NOUN	NN	_	5	nmod	_	_
+9	in	_	ADP	IN	_	10	case	_	_
+10	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+

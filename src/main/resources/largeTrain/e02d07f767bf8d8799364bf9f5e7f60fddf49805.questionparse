@@ -1,0 +1,18 @@
+1	the	_	DET	DT	_	8	det	_	_
+2	new	_	ADJ	JJ	_	8	amod	_	_
+3	@placeholder	_	NOUN	NN	_	8	compound	_	_
+4	e-reader	_	ADJ	JJ	_	8	amod	_	_
+5	features	_	PROPN	NNP	_	8	compound	_	_
+6	a	_	PROPN	NNP	_	8	compound	_	_
+7	''	_	PUNCT	''	_	0	erased	_	_
+8	front	_	NOUN	NN	_	0	root	_	_
+9	-	_	PUNCT	:	_	0	erased	_	_
+10	lit	_	NOUN	NN	_	12	compound	_	_
+11	''	_	PUNCT	''	_	0	erased	_	_
+12	light	_	NOUN	NN	_	8	dep	_	_
+13	that	_	DET	WDT	_	15	nsubj	_	_
+14	is	_	VERB	VBZ	_	15	cop	_	_
+15	subtle	_	ADJ	JJ	_	12	acl:relcl	_	_
+16	and	_	CONJ	CC	_	15	cc	_	_
+17	stunning	_	ADJ	JJ	_	15	conj	_	_
+

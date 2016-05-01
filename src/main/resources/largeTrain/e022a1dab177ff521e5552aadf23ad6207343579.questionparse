@@ -1,0 +1,11 @@
+1	federal	_	ADJ	JJ	_	2	amod	_	_
+2	official	_	NOUN	NN	_	3	nsubj	_	_
+3	says	_	VERB	VBZ	_	0	root	_	_
+4	@placeholder	_	NOUN	NN	_	3	dobj	_	_
+5	asked	_	VERB	VBN	_	4	acl	_	_
+6	for	_	ADP	IN	_	7	case	_	_
+7	Entity7	_	NOUN	NNS	_	5	nmod	_	_
+8	to	_	PART	TO	_	10	mark	_	_
+9	be	_	AUX	VB	_	10	auxpass	_	_
+10	reassigned	_	VERB	VBN	_	5	xcomp	_	_
+

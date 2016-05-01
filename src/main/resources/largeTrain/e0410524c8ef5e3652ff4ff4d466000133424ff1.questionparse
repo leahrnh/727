@@ -1,0 +1,12 @@
+1	Entity198	_	PROPN	NNP	_	0	root	_	_
+2	:	_	PUNCT	:	_	0	erased	_	_
+3	president	_	NOUN	NN	_	4	compound	_	_
+4	@placeholder	_	NOUN	NN	_	7	nsubj	_	_
+5	should	_	AUX	MD	_	7	aux	_	_
+6	now	_	ADV	RB	_	7	advmod	_	_
+7	nominate	_	VERB	VB	_	1	parataxis	_	_
+8	Entity66	_	NOUN	NNS	_	7	dobj	_	_
+9	for	_	ADP	IN	_	11	case	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	post	_	NOUN	NN	_	8	nmod	_	_
+

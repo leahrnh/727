@@ -1,0 +1,27 @@
+1	''	_	PUNCT	''	_	0	erased	_	_
+2	she	_	PRON	PRP	_	7	nsubj	_	_
+3	's	_	VERB	VBZ	_	7	cop	_	_
+4	a	_	DET	DT	_	7	det	_	_
+5	true	_	ADJ	JJ	_	7	amod	_	_
+6	miracle	_	NOUN	NN	_	7	compound	_	_
+7	dog	_	NOUN	NN	_	26	ccomp	_	_
+8	and	_	CONJ	CC	_	7	cc	_	_
+9	she	_	PRON	PRP	_	10	nsubj	_	_
+10	deserves	_	VERB	VBZ	_	7	conj	_	_
+11	a	_	DET	DT	_	13	det	_	_
+12	good	_	ADJ	JJ	_	13	amod	_	_
+13	life	_	NOUN	NN	_	10	dobj	_	_
+14	,	_	PUNCT	,	_	0	erased	_	_
+15	''	_	PUNCT	''	_	0	erased	_	_
+16	says	_	VERB	VBZ	_	26	parataxis	_	_
+17	@placeholder	_	NOUN	NN	_	16	dobj	_	_
+18	,	_	PUNCT	,	_	0	erased	_	_
+19	who	_	PRON	WP	_	26	nsubj	_	_
+20	is	_	AUX	VBZ	_	21	aux	_	_
+21	looking	_	VERB	VBG	_	19	dep	_	_
+22	for	_	ADP	IN	_	24	case	_	_
+23	a	_	DET	DT	_	24	det	_	_
+24	home	_	NOUN	NN	_	21	nmod	_	_
+25	for	_	ADP	IN	_	19	acl	_	_
+26	Entity15	_	VERB	VBZ	_	0	root	_	_
+

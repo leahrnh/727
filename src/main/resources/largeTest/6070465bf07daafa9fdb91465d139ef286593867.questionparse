@@ -1,0 +1,9 @@
+1	@placeholder	_	VERB	VB	_	0	root	_	_
+2	threatens	_	VERB	VBG	_	1	xcomp	_	_
+3	''	_	PUNCT	''	_	0	erased	_	_
+4	another	_	DET	DT	_	5	det	_	_
+5	bloodbath	_	NOUN	NN	_	2	dobj	_	_
+6	''	_	PUNCT	''	_	0	erased	_	_
+7	in	_	ADP	IN	_	8	case	_	_
+8	Entity1	_	NOUN	NNS	_	2	nmod	_	_
+

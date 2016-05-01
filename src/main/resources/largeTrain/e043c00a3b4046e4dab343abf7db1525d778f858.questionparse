@@ -1,0 +1,11 @@
+1	federal	_	ADJ	JJ	_	3	amod	_	_
+2	civil	_	ADJ	JJ	_	3	amod	_	_
+3	rights	_	NOUN	NNS	_	0	root	_	_
+4	lawyers	_	NOUN	NNS	_	3	dep	_	_
+5	sue	_	PUNCT	:	_	0	erased	_	_
+6	Entity4	_	NOUN	NNS	_	3	dep	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	@placeholder	_	NOUN	NN	_	6	appos	_	_
+9	,	_	PUNCT	,	_	0	erased	_	_
+10	agencies	_	NOUN	NNS	_	6	appos	_	_
+

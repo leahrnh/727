@@ -1,0 +1,11 @@
+1	@placeholder	_	NOUN	NN	_	3	nsubj	_	_
+2	is	_	VERB	VBZ	_	3	cop	_	_
+3	one	_	NUM	CD	_	0	root	_	_
+4	of	_	ADP	IN	_	10	case	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	Entity211	_	NOUN	NNS	_	10	nmod:poss	_	_
+7	's	_	PART	POS	_	6	case	_	_
+8	most	_	ADV	RBS	_	9	advmod	_	_
+9	complicated	_	VERB	VBN	_	10	amod	_	_
+10	characters	_	NOUN	NNS	_	3	nmod	_	_
+

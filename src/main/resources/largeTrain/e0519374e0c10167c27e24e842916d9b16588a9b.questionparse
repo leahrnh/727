@@ -1,0 +1,17 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	met	_	VERB	VBD	_	0	root	_	_
+3	families	_	NOUN	NNS	_	2	dobj	_	_
+4	of	_	ADP	IN	_	5	case	_	_
+5	those	_	PRON	DT	_	3	nmod	_	_
+6	killed	_	VERB	VBN	_	5	acl	_	_
+7	in	_	ADP	IN	_	10	case	_	_
+8	''	_	PUNCT	''	_	0	erased	_	_
+9	terrorist	_	ADJ	JJ	_	10	amod	_	_
+10	attacks	_	NOUN	NNS	_	6	nmod	_	_
+11	''	_	PUNCT	''	_	0	erased	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	state	_	NOUN	NN	_	16	compound	_	_
+14	news	_	NOUN	NN	_	16	compound	_	_
+15	agency	_	NOUN	NN	_	16	compound	_	_
+16	reports	_	NOUN	NNS	_	10	appos	_	_
+

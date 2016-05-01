@@ -1,0 +1,10 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	leads	_	VERB	VBZ	_	0	root	_	_
+3	charge	_	NOUN	NN	_	2	dobj	_	_
+4	with	_	ADP	IN	_	9	case	_	_
+5	Entity236	_	ADJ	JJ	_	9	amod	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	Entity15	_	ADJ	JJ	_	9	amod	_	_
+8	photo	_	NOUN	NN	_	9	compound	_	_
+9	bombs	_	NOUN	NNS	_	2	nmod	_	_
+

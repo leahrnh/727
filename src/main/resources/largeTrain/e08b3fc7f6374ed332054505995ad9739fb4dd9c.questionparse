@@ -1,0 +1,13 @@
+1	armed	_	ADJ	JJ	_	2	amod	_	_
+2	civilians	_	NOUN	NNS	_	3	nsubj	_	_
+3	take	_	VERB	VBP	_	0	root	_	_
+4	defensive	_	ADJ	JJ	_	5	amod	_	_
+5	positions	_	NOUN	NNS	_	3	dobj	_	_
+6	in	_	ADP	IN	_	8	case	_	_
+7	a	_	DET	DT	_	8	det	_	_
+8	town	_	NOUN	NN	_	3	nmod	_	_
+9	they	_	PRON	PRP	_	10	nsubj	_	_
+10	control	_	VERB	VBP	_	8	acl:relcl	_	_
+11	near	_	ADP	IN	_	12	case	_	_
+12	@placeholder	_	NOUN	NN	_	10	nmod	_	_
+

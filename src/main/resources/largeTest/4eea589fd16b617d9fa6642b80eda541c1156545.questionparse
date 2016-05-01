@@ -1,0 +1,22 @@
+1	the	_	DET	DT	_	3	det	_	_
+2	first	_	ADJ	JJ	_	3	amod	_	_
+3	patient	_	NOUN	NN	_	7	nsubj	_	_
+4	will	_	AUX	MD	_	7	aux	_	_
+5	be	_	VERB	VB	_	7	cop	_	_
+6	a	_	DET	DT	_	7	det	_	_
+7	30	_	NUM	CD	_	0	root	_	_
+8	-	_	PUNCT	:	_	0	erased	_	_
+9	year	_	NOUN	NN	_	7	dep	_	_
+10	-	_	PUNCT	:	_	0	erased	_	_
+11	old	_	ADJ	JJ	_	13	amod	_	_
+12	@placeholder	_	NOUN	NN	_	13	compound	_	_
+13	man	_	NOUN	NN	_	7	dep	_	_
+14	with	_	ADP	IN	_	21	case	_	_
+15	a	_	DET	DT	_	21	det	_	_
+16	rare	_	ADJ	JJ	_	21	amod	_	_
+17	,	_	PUNCT	,	_	0	erased	_	_
+18	genetic	_	ADJ	JJ	_	21	amod	_	_
+19	muscle	_	NOUN	NN	_	21	compound	_	_
+20	wasting	_	NOUN	NN	_	21	compound	_	_
+21	disease	_	NOUN	NN	_	13	nmod	_	_
+

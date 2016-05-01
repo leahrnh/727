@@ -1,0 +1,16 @@
+1	Entity42	_	PROPN	NNP	_	4	nmod:poss	_	_
+2	's	_	PART	POS	_	1	case	_	_
+3	economic	_	ADJ	JJ	_	4	amod	_	_
+4	crisis	_	NOUN	NN	_	10	nsubjpass	_	_
+5	,	_	PUNCT	,	_	0	erased	_	_
+6	Entity80	_	NOUN	NNS	_	4	conj	_	_
+7	and	_	CONJ	CC	_	4	cc	_	_
+8	Entity82	_	NOUN	NNS	_	4	conj	_	_
+9	are	_	AUX	VBP	_	10	auxpass	_	_
+10	expected	_	VERB	VBN	_	0	root	_	_
+11	to	_	PART	TO	_	12	mark	_	_
+12	top	_	VERB	VB	_	10	xcomp	_	_
+13	the	_	DET	DT	_	15	det	_	_
+14	@placeholder	_	NOUN	NN	_	15	compound	_	_
+15	agenda	_	NOUN	NN	_	12	dobj	_	_
+

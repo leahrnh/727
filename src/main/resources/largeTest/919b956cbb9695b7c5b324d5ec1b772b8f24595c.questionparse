@@ -1,0 +1,17 @@
+1	some	_	DET	DT	_	3	det	_	_
+2	276	_	NUM	CD	_	3	nummod	_	_
+3	girls	_	NOUN	NNS	_	5	nsubjpass	_	_
+4	were	_	AUX	VBD	_	5	auxpass	_	_
+5	kidnapped	_	VERB	VBN	_	0	root	_	_
+6	from	_	ADP	IN	_	8	case	_	_
+7	their	_	PRON	PRP$	_	8	nmod:poss	_	_
+8	school	_	NOUN	NN	_	5	nmod	_	_
+9	in	_	ADP	IN	_	11	case	_	_
+10	northeastern	_	ADJ	JJ	_	11	amod	_	_
+11	@placeholder	_	NOUN	NN	_	8	nmod	_	_
+12	by	_	ADP	IN	_	13	case	_	_
+13	Entity131	_	NOUN	NNS	_	5	nmod	_	_
+14	a	_	DET	DT	_	15	det	_	_
+15	year	_	NOUN	NN	_	13	nmod:tmod	_	_
+16	ago	_	ADP	IN	_	15	amod	_	_
+

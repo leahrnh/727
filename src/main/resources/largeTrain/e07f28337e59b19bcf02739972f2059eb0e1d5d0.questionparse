@@ -1,0 +1,22 @@
+1	''	_	PUNCT	''	_	0	erased	_	_
+2	at	_	ADP	IN	_	4	case	_	_
+3	the	_	DET	DT	_	4	det	_	_
+4	end	_	NOUN	NN	_	12	nmod	_	_
+5	of	_	ADP	IN	_	7	case	_	_
+6	the	_	DET	DT	_	7	det	_	_
+7	day	_	NOUN	NN	_	4	nmod	_	_
+8	,	_	PUNCT	,	_	0	erased	_	_
+9	this	_	PRON	DT	_	12	nsubj	_	_
+10	is	_	VERB	VBZ	_	12	cop	_	_
+11	all	_	DET	DT	_	12	det	_	_
+12	practice	_	NOUN	NN	_	0	root	_	_
+13	for	_	ADP	IN	_	16	case	_	_
+14	the	_	DET	DT	_	16	det	_	_
+15	next	_	ADJ	JJ	_	16	amod	_	_
+16	time	_	NOUN	NN	_	12	nmod	_	_
+17	,	_	PUNCT	,	_	0	erased	_	_
+18	''	_	PUNCT	''	_	0	erased	_	_
+19	@placeholder	_	NOUN	NN	_	20	compound	_	_
+20	director	_	NOUN	NN	_	12	dep	_	_
+21	says	_	VERB	VBZ	_	20	dep	_	_
+

@@ -1,0 +1,8 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	connects	_	VERB	VBZ	_	0	root	_	_
+3	gardeners	_	NOUN	NNS	_	2	dobj	_	_
+4	nationwide	_	ADJ	JJ	_	2	advmod	_	_
+5	with	_	ADP	IN	_	7	case	_	_
+6	food	_	NOUN	NN	_	7	compound	_	_
+7	pantries	_	NOUN	NNS	_	4	nmod	_	_
+

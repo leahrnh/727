@@ -1,0 +1,13 @@
+1	@placeholder	_	NOUN	NN	_	2	nsubj	_	_
+2	refuses	_	VERB	VBZ	_	0	root	_	_
+3	to	_	PART	TO	_	4	mark	_	_
+4	blame	_	VERB	VB	_	2	xcomp	_	_
+5	the	_	DET	DT	_	6	det	_	_
+6	tires	_	NOUN	NNS	_	4	dobj	_	_
+7	for	_	ADP	IN	_	10	case	_	_
+8	Entity7	_	PROPN	NNP	_	10	nmod:poss	_	_
+9	's	_	PART	POS	_	8	case	_	_
+10	struggles	_	NOUN	NN	_	4	nmod	_	_
+11	in	_	ADP	IN	_	12	case	_	_
+12	2013	_	NUM	CD	_	10	nmod	_	_
+

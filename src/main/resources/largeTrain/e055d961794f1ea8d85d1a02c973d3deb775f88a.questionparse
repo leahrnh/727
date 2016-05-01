@@ -1,0 +1,11 @@
+1	@placeholder	_	NOUN	NN	_	4	nsubj	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	wife	_	NOUN	NN	_	1	conj	_	_
+4	slept	_	VERB	VBD	_	0	root	_	_
+5	in	_	ADP	IN	_	6	case	_	_
+6	car	_	NOUN	NN	_	4	nmod	_	_
+7	after	_	SCONJ	IN	_	9	mark	_	_
+8	quake	_	NOUN	NN	_	9	nsubj	_	_
+9	destroyed	_	VERB	VBD	_	4	advcl	_	_
+10	hotel	_	NOUN	NN	_	9	dobj	_	_
+

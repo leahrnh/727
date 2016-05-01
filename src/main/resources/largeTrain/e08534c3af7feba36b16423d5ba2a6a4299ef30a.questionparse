@@ -1,0 +1,14 @@
+1	Entity6	_	VERB	VB	_	0	root	_	_
+2	and	_	CONJ	CC	_	1	cc	_	_
+3	@placeholder	_	VERB	VB	_	1	conj	_	_
+4	two	_	NUM	CD	_	5	nummod	_	_
+5	points	_	NOUN	NNS	_	1	nmod	_	_
+6	behind	_	ADP	IN	_	5	case	_	_
+7	Entity9	_	ADJ	JJ	_	9	amod	_	_
+8	leader	_	NOUN	NN	_	9	compound	_	_
+9	Entity34	_	NOUN	NNS	_	5	dep	_	_
+10	after	_	ADP	IN	_	11	case	_	_
+11	victories	_	NOUN	NNS	_	1	nmod	_	_
+12	on	_	ADP	IN	_	13	case	_	_
+13	sunday	_	PROPN	NNP	_	11	nmod	_	_
+

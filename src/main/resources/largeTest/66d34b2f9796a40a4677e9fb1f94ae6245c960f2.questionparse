@@ -1,0 +1,14 @@
+1	it	_	PRON	PRP	_	2	nsubj	_	_
+2	got	_	VERB	VBD	_	0	root	_	_
+3	caught	_	VERB	VBN	_	2	dep	_	_
+4	in	_	ADP	IN	_	6	case	_	_
+5	bad	_	ADJ	JJ	_	6	amod	_	_
+6	weather	_	NOUN	NN	_	3	nmod	_	_
+7	on	_	ADP	IN	_	9	case	_	_
+8	its	_	PRON	PRP$	_	9	nmod:poss	_	_
+9	way	_	NOUN	NN	_	3	nmod	_	_
+10	to	_	ADP	TO	_	11	case	_	_
+11	@placeholder	_	NOUN	NN	_	3	nmod	_	_
+12	and	_	CONJ	CC	_	11	cc	_	_
+13	Entity17	_	NOUN	NNS	_	11	conj	_	_
+

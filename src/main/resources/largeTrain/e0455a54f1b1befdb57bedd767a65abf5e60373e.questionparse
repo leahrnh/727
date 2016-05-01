@@ -1,0 +1,12 @@
+1	house	_	NOUN	NN	_	3	compound	_	_
+2	speaker	_	NOUN	NN	_	3	compound	_	_
+3	@placeholder	_	NOUN	NN	_	4	nsubj	_	_
+4	concedes	_	VERB	VBZ	_	0	root	_	_
+5	the	_	DET	DT	_	8	det	_	_
+6	payroll	_	NOUN	NN	_	8	compound	_	_
+7	tax	_	NOUN	NN	_	8	compound	_	_
+8	cut	_	NOUN	NN	_	9	nsubj	_	_
+9	helps	_	VERB	VBZ	_	4	ccomp	_	_
+10	the	_	DET	DT	_	11	det	_	_
+11	economy	_	NOUN	NN	_	9	dobj	_	_
+

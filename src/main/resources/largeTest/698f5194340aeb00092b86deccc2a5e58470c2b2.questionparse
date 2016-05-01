@@ -1,0 +1,20 @@
+1	police	_	NOUN	NNS	_	2	nsubj	_	_
+2	say	_	VERB	VBP	_	0	root	_	_
+3	they	_	PRON	PRP	_	6	nsubj	_	_
+4	ca	_	AUX	MD	_	6	aux	_	_
+5	n't	_	PART	RB	_	6	neg	_	_
+6	confirm	_	VERB	VB	_	2	ccomp	_	_
+7	whether	_	SCONJ	IN	_	10	mark	_	_
+8	@placeholder	_	NOUN	NN	_	10	nsubjpass	_	_
+9	was	_	AUX	VBD	_	10	auxpass	_	_
+10	involved	_	VERB	VBN	_	6	ccomp	_	_
+11	in	_	ADP	IN	_	13	case	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	crash	_	NOUN	NN	_	10	nmod	_	_
+14	,	_	PUNCT	,	_	0	erased	_	_
+15	which	_	DET	WDT	_	16	nsubj	_	_
+16	injured	_	VERB	VBD	_	13	acl:relcl	_	_
+17	a	_	DET	DT	_	19	det	_	_
+18	pregnant	_	ADJ	JJ	_	19	amod	_	_
+19	woman	_	NOUN	NN	_	16	dobj	_	_
+

@@ -1,0 +1,16 @@
+1	the	_	DET	DT	_	2	det	_	_
+2	exception	_	NOUN	NN	_	5	nsubj	_	_
+3	might	_	AUX	MD	_	5	aux	_	_
+4	be	_	VERB	VB	_	5	cop	_	_
+5	@placeholder	_	ADJ	JJ	_	0	root	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	where	_	ADV	WRB	_	10	advmod	_	_
+8	the	_	DET	DT	_	9	det	_	_
+9	odds	_	NOUN	NNS	_	10	nsubj	_	_
+10	seem	_	VERB	VBP	_	5	advcl	_	_
+11	to	_	PART	TO	_	13	mark	_	_
+12	be	_	AUX	VB	_	13	auxpass	_	_
+13	stacked	_	VERB	VBN	_	10	xcomp	_	_
+14	against	_	ADP	IN	_	15	case	_	_
+15	protesters	_	NOUN	NNS	_	13	nmod	_	_
+

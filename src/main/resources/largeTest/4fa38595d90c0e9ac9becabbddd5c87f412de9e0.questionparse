@@ -1,0 +1,15 @@
+1	about	_	ADV	RB	_	3	advmod	_	_
+2	a	_	DET	DT	_	3	advmod	_	_
+3	dozen	_	NOUN	NN	_	5	nummod	_	_
+4	@placeholder	_	NOUN	NN	_	5	compound	_	_
+5	actors	_	NOUN	NNS	_	6	nsubj	_	_
+6	walk	_	VERB	VBP	_	0	root	_	_
+7	off	_	ADP	RP	_	6	compound:prt	_	_
+8	set	_	NOUN	NN	_	6	dobj	_	_
+9	of	_	ADP	IN	_	11	case	_	_
+10	Entity5	_	ADJ	JJ	_	11	amod	_	_
+11	comedy	_	NOUN	NN	_	8	nmod	_	_
+12	,	_	PUNCT	,	_	0	erased	_	_
+13	says	_	VERB	VBZ	_	6	dep	_	_
+14	report	_	NOUN	NN	_	13	dobj	_	_
+

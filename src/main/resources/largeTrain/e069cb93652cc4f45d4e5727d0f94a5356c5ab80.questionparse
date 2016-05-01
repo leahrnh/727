@@ -1,0 +1,16 @@
+1	Entity6	_	PROPN	NNP	_	3	nsubjpass	_	_
+2	is	_	AUX	VBZ	_	3	auxpass	_	_
+3	dubbed	_	VERB	VBN	_	0	root	_	_
+4	the	_	PROPN	NNP	_	8	nmod:poss	_	_
+5	'	_	PART	POS	_	4	case	_	_
+6	original	_	ADJ	JJ	_	8	amod	_	_
+7	rogue	_	NOUN	NN	_	8	compound	_	_
+8	trader	_	NOUN	NN	_	3	dobj	_	_
+9	'	_	PUNCT	''	_	0	erased	_	_
+10	for	_	ADP	IN	_	12	case	_	_
+11	bad	_	ADJ	JJ	_	12	amod	_	_
+12	trades	_	NOUN	NNS	_	8	nmod	_	_
+13	which	_	DET	WDT	_	14	nsubj	_	_
+14	collapsed	_	VERB	VBD	_	12	acl:relcl	_	_
+15	@placeholder	_	NOUN	NN	_	14	dobj	_	_
+

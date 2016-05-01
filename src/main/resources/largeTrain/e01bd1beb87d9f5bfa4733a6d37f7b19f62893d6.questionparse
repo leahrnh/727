@@ -1,0 +1,8 @@
+1	catch	_	VERB	VB	_	0	root	_	_
+2	a	_	DET	DT	_	5	det	_	_
+3	charango	_	ADJ	JJ	_	5	amod	_	_
+4	jam	_	NOUN	NN	_	5	compound	_	_
+5	session	_	NOUN	NN	_	1	dobj	_	_
+6	at	_	ADP	IN	_	7	case	_	_
+7	@placeholder	_	NOUN	NN	_	1	nmod	_	_
+

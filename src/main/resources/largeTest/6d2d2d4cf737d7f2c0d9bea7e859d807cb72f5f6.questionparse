@@ -1,0 +1,15 @@
+1	critics	_	NOUN	NNS	_	7	nsubj	_	_
+2	say	_	VERB	VBP	_	1	acl:relcl	_	_
+3	''	_	PUNCT	''	_	0	erased	_	_
+4	@placeholder	_	NOUN	NN	_	2	dobj	_	_
+5	''	_	PUNCT	''	_	0	erased	_	_
+6	is	_	VERB	VBZ	_	7	cop	_	_
+7	bittersweet	_	ADJ	JJ	_	0	root	_	_
+8	and	_	CONJ	CC	_	7	cc	_	_
+9	''	_	PUNCT	''	_	0	erased	_	_
+10	plenty	_	ADV	RB	_	7	conj	_	_
+11	of	_	ADP	IN	_	13	case	_	_
+12	crazy	_	NOUN	NN	_	13	compound	_	_
+13	fun	_	NOUN	NN	_	7	nmod	_	_
+14	''	_	PUNCT	''	_	0	erased	_	_
+

@@ -1,0 +1,12 @@
+1	the	_	DET	DT	_	3	det	_	_
+2	@placeholder	_	NOUN	NN	_	3	compound	_	_
+3	spacecraft	_	NOUN	NN	_	4	nsubj	_	_
+4	captures	_	VERB	VBZ	_	0	root	_	_
+5	image	_	NOUN	NN	_	4	dobj	_	_
+6	of	_	ADP	IN	_	7	case	_	_
+7	Entity6	_	NOUN	NNS	_	5	nmod	_	_
+8	and	_	CONJ	CC	_	7	cc	_	_
+9	its	_	PRON	PRP$	_	11	nmod:poss	_	_
+10	largest	_	ADJ	JJS	_	11	amod	_	_
+11	moon	_	NOUN	NN	_	7	conj	_	_
+

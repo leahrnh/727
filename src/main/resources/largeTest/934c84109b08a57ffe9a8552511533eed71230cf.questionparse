@@ -1,0 +1,19 @@
+1	a	_	DET	DT	_	2	det	_	_
+2	mom	_	NOUN	NN	_	6	nsubj	_	_
+3	of	_	ADP	IN	_	4	case	_	_
+4	two	_	NUM	CD	_	2	nmod	_	_
+5	got	_	AUX	VBD	_	6	aux	_	_
+6	upset	_	VERB	VB	_	0	root	_	_
+7	when	_	ADV	WRB	_	6	discourse	_	_
+8	''	_	PUNCT	''	_	0	erased	_	_
+9	@placeholder	_	NOUN	NN	_	6	dobj	_	_
+10	''	_	PUNCT	''	_	0	erased	_	_
+11	fabric	_	NOUN	NN	_	14	nsubj	_	_
+12	did	_	AUX	VBD	_	14	aux	_	_
+13	n't	_	PART	RB	_	14	neg	_	_
+14	include	_	VERB	VB	_	9	acl:relcl	_	_
+15	the	_	DET	DT	_	18	det	_	_
+16	two	_	NUM	CD	_	18	nummod	_	_
+17	female	_	ADJ	JJ	_	18	amod	_	_
+18	characters	_	NOUN	NNS	_	14	dobj	_	_
+

@@ -1,0 +1,18 @@
+1	Entity3	_	PROPN	NNP	_	3	nmod:poss	_	_
+2	's	_	PART	POS	_	1	case	_	_
+3	visit	_	NOUN	NN	_	14	nsubj	_	_
+4	to	_	PART	TO	_	5	mark	_	_
+5	@placeholder	_	VERB	VB	_	3	acl	_	_
+6	highlights	_	ADJ	JJ	_	8	amod	_	_
+7	shocking	_	ADJ	JJ	_	8	amod	_	_
+8	state	_	NOUN	NN	_	5	dobj	_	_
+9	of	_	ADP	IN	_	10	case	_	_
+10	affairs	_	NOUN	NNS	_	8	nmod	_	_
+11	in	_	ADP	IN	_	12	case	_	_
+12	Entity0	_	NOUN	NNS	_	10	nmod	_	_
+13	,	_	PUNCT	,	_	0	erased	_	_
+14	says	_	VERB	VBZ	_	0	root	_	_
+15	local	_	ADJ	JJ	_	17	amod	_	_
+16	publisher	_	NOUN	NN	_	17	compound	_	_
+17	Entity144	_	NOUN	NNS	_	14	dobj	_	_
+

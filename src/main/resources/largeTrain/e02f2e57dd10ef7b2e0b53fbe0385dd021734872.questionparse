@@ -1,0 +1,14 @@
+1	Entity20	_	PROPN	NNP	_	2	nsubj	_	_
+2	clarifies	_	VERB	VBZ	_	0	root	_	_
+3	@placeholder	_	NOUN	NN	_	5	nmod:poss	_	_
+4	's	_	PART	POS	_	3	case	_	_
+5	remarks	_	NOUN	NNS	_	2	dobj	_	_
+6	about	_	ADP	IN	_	7	case	_	_
+7	likelihood	_	NOUN	NN	_	2	nmod	_	_
+8	of	_	ADP	IN	_	9	case	_	_
+9	Entity107	_	NOUN	NNS	_	7	nmod	_	_
+10	ending	_	VERB	VBG	_	9	acl	_	_
+11	up	_	ADP	RP	_	10	compound:prt	_	_
+12	at	_	ADP	IN	_	13	case	_	_
+13	Entity114	_	NOUN	NNS	_	10	nmod	_	_
+

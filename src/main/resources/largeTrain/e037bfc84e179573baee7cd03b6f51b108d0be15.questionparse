@@ -1,0 +1,19 @@
+1	the	_	DET	DT	_	3	det	_	_
+2	strongest	_	ADJ	JJS	_	3	amod	_	_
+3	tornadoes	_	NOUN	NNS	_	5	nsubjpass	_	_
+4	are	_	AUX	VBP	_	5	auxpass	_	_
+5	ranked	_	VERB	VBN	_	15	ccomp	_	_
+6	@placeholder	_	NOUN	NN	_	5	dobj	_	_
+7	,	_	PUNCT	,	_	0	erased	_	_
+8	with	_	ADP	IN	_	9	case	_	_
+9	gusts	_	NOUN	NNS	_	5	nmod	_	_
+10	over	_	ADP	IN	_	12	case	_	_
+11	200	_	NUM	CD	_	12	nummod	_	_
+12	mph	_	NOUN	NN	_	9	nmod	_	_
+13	,	_	PUNCT	,	_	0	erased	_	_
+14	winds	_	NOUN	NNS	_	15	nsubj	_	_
+15	called	_	VERB	VBD	_	0	root	_	_
+16	''	_	PUNCT	''	_	0	erased	_	_
+17	incredible	_	ADV	RB	_	15	advmod	_	_
+18	''	_	PUNCT	''	_	0	erased	_	_
+

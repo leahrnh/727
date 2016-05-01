@@ -1,0 +1,17 @@
+1	Entity11	_	PROPN	NNP	_	16	nsubj	_	_
+2	,	_	PUNCT	,	_	0	erased	_	_
+3	Entity12	_	NOUN	NNS	_	1	conj	_	_
+4	,	_	PUNCT	,	_	0	erased	_	_
+5	@placeholder	_	NOUN	NN	_	1	conj	_	_
+6	,	_	PUNCT	,	_	0	erased	_	_
+7	the	_	DET	DT	_	8	det	_	_
+8	Entity14	_	NOUN	NNS	_	1	conj	_	_
+9	and	_	CONJ	CC	_	1	cc	_	_
+10	Entity15	_	NOUN	NNS	_	1	conj	_	_
+11	are	_	VERB	VBP	_	16	cop	_	_
+12	the	_	DET	DT	_	13	det	_	_
+13	world	_	NOUN	NN	_	16	nmod:poss	_	_
+14	's	_	PART	POS	_	13	case	_	_
+15	happiest	_	NOUN	NN	_	16	compound	_	_
+16	countries	_	NOUN	NNS	_	0	root	_	_
+

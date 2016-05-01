@@ -1,0 +1,23 @@
+1	attacks	_	NOUN	NNS	_	22	nsubj	_	_
+2	by	_	ADP	IN	_	5	case	_	_
+3	the	_	NOUN	NN	_	5	compound	_	_
+4	''	_	PUNCT	''	_	0	erased	_	_
+5	@placeholder	_	NOUN	NN	_	1	nmod	_	_
+6	''	_	PUNCT	''	_	0	erased	_	_
+7	are	_	VERB	VBP	_	10	cop	_	_
+8	in	_	ADP	IN	_	10	case	_	_
+9	the	_	DET	DT	_	10	det	_	_
+10	open	_	NOUN	NN	_	5	acl:relcl	_	_
+11	and	_	CONJ	CC	_	10	cc	_	_
+12	could	_	AUX	MD	_	13	aux	_	_
+13	draw	_	VERB	VB	_	10	conj	_	_
+14	international	_	ADJ	JJ	_	15	amod	_	_
+15	ire	_	NOUN	NN	_	13	dobj	_	_
+16	,	_	PUNCT	,	_	0	erased	_	_
+17	the	_	DET	DT	_	18	det	_	_
+18	authors	_	NOUN	NNS	_	15	appos	_	_
+19	of	_	ADP	IN	_	21	case	_	_
+20	the	_	DET	DT	_	21	det	_	_
+21	study	_	NOUN	NN	_	18	nmod	_	_
+22	say	_	VERB	VBP	_	0	root	_	_
+
