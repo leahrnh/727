@@ -58,7 +58,9 @@ public class ScoreCalculator {
         //scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyWordVectorScorer(wordToVec), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new wordCountandVector(wordToVec), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new SentenceToVector(TrainDocumentList), 0.3));
-        //scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyChildScorer(), 1.0));
+        scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyChildScorer(), 1.0));
+        scorersList.add(new ScoreWeight<Scorer, Double>(new BigramScorer(), 1.0));
+        scorersList.add(new ScoreWeight<Scorer, Double>(new TrigramScorer(), 1.0));
     }
 
     private Word2Vec initalizeWord2Vec() {

@@ -31,28 +31,31 @@ public class DependecyScorer extends Scorer {
         for (Sentence sentence : doc.getPassage().getSentences()) {
             edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence dependencyParse = sentence.getDependencyParse();
 
-            //identify entity in sentence matching target
-            List<Token> tokens = dependencyParse.getTokens();
-            Integer entityHead = 0;
+            if (dependencyParse != null) {
 
-            findTargetEntity:
-            for (Token token : tokens) {
-                if (token.getForm().equals(entityParseCode)) {
-                    //found our entity!
-                    entityHead = token.getHead();
-                    break findTargetEntity;
+                //identify entity in sentence matching target
+                List<Token> tokens = dependencyParse.getTokens();
+                Integer entityHead = 0;
+
+                findTargetEntity:
+                for (Token token : tokens) {
+                    if (token.getForm().equals(entityParseCode)) {
+                        //found our entity!
+                        entityHead = token.getHead();
+                        break findTargetEntity;
+                    }
                 }
-            }
 
-            //compare entity head to placeholder head, and give a point if they match
-            if (entityHead != 0) {
-                Token entityHeadToken = tokens.get(entityHead - 1);
-                String entityHeadForm = entityHeadToken.getForm();
-                //System.out.println("Entity " + entityCode + " has head " + entityHeadForm);
-                //return semanticComparison(entityHeadForm, this.placeholderHead);
-                if (entityHeadForm.equals(this.placeholderHead)) {
-                    //TODO compare heads semantically
-                    return 1.0;
+                //compare entity head to placeholder head, and give a point if they match
+                if (entityHead != 0) {
+                    Token entityHeadToken = tokens.get(entityHead - 1);
+                    String entityHeadForm = entityHeadToken.getForm();
+                    //System.out.println("Entity " + entityCode + " has head " + entityHeadForm);
+                    //return semanticComparison(entityHeadForm, this.placeholderHead);
+                    if (entityHeadForm.equals(this.placeholderHead)) {
+                        //TODO compare heads semantically
+                        return 1.0;
+                    }
                 }
             }
 
