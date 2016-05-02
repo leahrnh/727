@@ -27,25 +27,27 @@ public class DependecyChildScorer extends Scorer {
         //looks for occurences of the entity sharing a child with the placeholder
         for (Sentence sentence : doc.getPassage().getSentences()) {
             edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence dependencyParse = sentence.getDependencyParse();
+            if (dependencyParse != null) {
 
-            //identify entity in sentence matching target
-            List<Token> tokens = dependencyParse.getTokens();
-            Integer entityIndex = -1;
+                //identify entity in sentence matching target
+                List<Token> tokens = dependencyParse.getTokens();
+                Integer entityIndex = -1;
 
-            findTargetEntity:
-            for (Token token : tokens) {
-                if (token.getForm().equals(entityParseCode)) {
-                    //found our entity!
-                    entityIndex = token.getId();
-                    break findTargetEntity;
-                }
-            }
-
-            if (entityIndex >= 0) {
-                //look for children that match those of the placeholder
+                findTargetEntity:
                 for (Token token : tokens) {
-                    if (token.getHead().equals(entityIndex) && placeholderChildren.contains(token.getForm().toLowerCase())) {
-                        score += 1;
+                    if (token.getForm().equals(entityParseCode)) {
+                        //found our entity!
+                        entityIndex = token.getId();
+                        break findTargetEntity;
+                    }
+                }
+
+                if (entityIndex >= 0) {
+                    //look for children that match those of the placeholder
+                    for (Token token : tokens) {
+                        if (token.getHead().equals(entityIndex) && placeholderChildren.contains(token.getForm().toLowerCase())) {
+                            score += 1;
+                        }
                     }
                 }
             }
