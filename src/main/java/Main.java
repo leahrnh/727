@@ -28,7 +28,7 @@ public class Main {
         lp = initializeLP(); //Stanford parser
         gsf = initializeGSF(lp); //Stanford Grammatical Structure Factory
         semafor = initializeSemafor(); //Semafor
-        boolean useSemafor = false;
+        boolean useSemafor = true;
 
         //convert input documents to data structures
         List<Document> trainDocs = getData(trainDir, useSemafor);

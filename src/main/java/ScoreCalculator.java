@@ -49,15 +49,15 @@ public class ScoreCalculator {
 
         //initialize parsing models. This is done here so it can be used by different scorers without initializing multiple times.
         //comment this section out if not using relevant scorers
-        //Word2Vec wordToVec = initalizeWord2Vec();
+        Word2Vec wordToVec = initalizeWord2Vec();
 
         //set up scorers
         scorersList.add(new ScoreWeight<Scorer, Double>(new WordcountScorer(), 1.0));
-        //scorersList.add(new ScoreWeight<Scorer, Double>(new SemaforScorer(), 1.0));
+        scorersList.add(new ScoreWeight<Scorer, Double>(new SemaforScorer(), 1.0));
         scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyScorer(), 1.0));
         //scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyWordVectorScorer(wordToVec), 1.0));
-        //scorersList.add(new ScoreWeight<Scorer, Double>(new wordCountandVector(wordToVec), 1.0));
-        //scorersList.add(new ScoreWeight<Scorer, Double>(new SentenceToVector(TrainDocumentList), 0.3));
+        scorersList.add(new ScoreWeight<Scorer, Double>(new wordCountandVector(wordToVec), 1.0));
+        scorersList.add(new ScoreWeight<Scorer, Double>(new SentenceToVector(TrainDocumentList), 0.3));
         scorersList.add(new ScoreWeight<Scorer, Double>(new DependecyChildScorer(), 1.0));
         scorersList.add(new ScoreWeight<Scorer, Double>(new BigramScorer(), 1.0));
         scorersList.add(new ScoreWeight<Scorer, Double>(new TrigramScorer(), 1.0));
@@ -165,7 +165,7 @@ public class ScoreCalculator {
         }
     }
 
-    private static Classifier loadModel() throws Exception {
+    public static Classifier loadModel() throws Exception {
 
         Classifier classifier;
 

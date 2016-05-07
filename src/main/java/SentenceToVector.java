@@ -68,7 +68,7 @@ public class SentenceToVector extends Scorer{
     public void initializeScorer(Document document){
         String filepath = document.getId();
         File file = new File(filepath);
-        String path_to_scores = new File(file.getParent()).getParent() + "/skipVector/skip-thoughts/data/semanticData/" + FilenameUtils.removeExtension(file.getName()) + ".score";
+        String path_to_scores = new File(file.getParent()).getParent() + "/semanticData/" + FilenameUtils.removeExtension(file.getName()) + ".score";
         String line;
         all_score = new ArrayList<ScorePair<Double, String>>();
         List<Sentence> candidateSentences = document.getPassage().getSentences();
